@@ -1,0 +1,2968 @@
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v16/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v16\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN8rsOUuhs.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\mem5YaGs126MiZpBA-UN8rsOUuhs.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUuhs.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOUuhs.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/mem6YaGs126MiZpBA-UFUK0Zdcg.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\mem6YaGs126MiZpBA-UFUK0Zdcg.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0e.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\mem8YaGs126MiZpBA-UFVZ0e.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKW-U9hrIqY.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\memnYaGs126MiZpBA-UFUKW-U9hrIqY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKWiUNhrIqY.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\memnYaGs126MiZpBA-UFUKWiUNhrIqY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKWyV9hrIqY.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\memnYaGs126MiZpBA-UFUKWyV9hrIqY.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v17/memnYaGs126MiZpBA-UFUKXGUdhrIqY.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v17\memnYaGs126MiZpBA-UFUKXGUdhrIqY.ttf
+Content Type: font/ttf
+
+Uri: https://apps.myclearwater.com/activecalls/
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\activecalls\index.htm
+Content Type: text/html
+
+Uri: https://apps.myclearwater.com/activecalls/CPD_Badge.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\activecalls\CPD_Badge.png
+Content Type: image/png
+
+Uri: https://apps.myclearwater.com/activecalls/favicon.ico
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\activecalls\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\1.10.16\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/1.10.16/images/sort_asc.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\1.10.16\images\sort_asc.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/1.10.16/images/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\1.10.16\images\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/1.10.16/images/sort_both.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\1.10.16\images\sort_both.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/1.10.16/images/sort_desc.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\1.10.16\images\sort_desc.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/1.10.16/images/sort_desc_disabled.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\1.10.16\images\sort_desc_disabled.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/DataTables-1.10.16/images/sort_asc.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DataTables-1.10.16\images\sort_asc.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/DataTables-1.10.16/images/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DataTables-1.10.16\images\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/DataTables-1.10.16/images/sort_both.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DataTables-1.10.16\images\sort_both.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/DataTables-1.10.16/images/sort_desc.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DataTables-1.10.16\images\sort_desc.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/DataTables-1.10.16/images/sort_desc_disabled.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DataTables-1.10.16\images\sort_desc_disabled.png
+Content Type: image/png
+
+Uri: https://cdn.datatables.net/plug-ins/1.10.16/dataRender/ellipsis.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\plug-ins\1.10.16\dataRender\ellipsis.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/plug-ins/1.10.16/sorting/datetime-moment.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\plug-ins\1.10.16\sorting\datetime-moment.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/responsive/2.2.1/css/responsive.dataTables.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\responsive\2.2.1\css\responsive.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/responsive/2.2.1/js/dataTables.responsive.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\responsive\2.2.1\js\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.datatables.net/v/dt/dt-1.10.16/b-1.5.1/b-colvis-1.5.1/b-html5-1.5.1/datatables.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\v\dt\dt-1.10.16\b-1.5.1\b-colvis-1.5.1\b-html5-1.5.1\datatables.min.css
+Content Type: text/css
+
+Uri: https://cdn.datatables.net/v/dt/dt-1.10.16/b-1.5.1/b-html5-1.5.1/datatables.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\v\dt\dt-1.10.16\b-1.5.1\b-html5-1.5.1\datatables.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.userway.org/widget.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\widget.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ajax\libs\jszip\2.5.0\jszip.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ajax\libs\moment.js\2.8.4\moment.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.12.3.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\jquery-1.12.3.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.0/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.12.0\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-icons_222222_256x240.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-icons_454545_256x240.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-icons_888888_256x240.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.9.1/themes/smoothness/jquery-ui.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\ui\1.9.1\themes\smoothness\jquery-ui.css
+Content Type: text/css
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Bold-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Bold-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Bold-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Bold-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Bold-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-BoldItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-BoldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-BoldItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-BoldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-BoldItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-BoldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-BoldItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-BoldItalic-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-BoldItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-BoldItalic-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBold-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBold-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBold-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBold-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBold-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBold-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBold-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBoldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBoldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBoldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBoldItalic-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-ExtraBoldItalic-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Italic-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Italic-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Italic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Italic-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Italic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Italic-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Italic-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Italic-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Italic-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Light-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Light-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Light-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Light-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Light-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Light-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Light-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-LightItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-LightItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-LightItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-LightItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-LightItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-LightItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-LightItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-LightItalic-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-LightItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-LightItalic-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Regular-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Regular-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Regular-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Regular-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Regular-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Semibold-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Semibold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Semibold-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Semibold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Semibold-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Semibold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Semibold-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Semibold-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-Semibold-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-Semibold-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-SemiboldItalic-webfont.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-SemiboldItalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-SemiboldItalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-SemiboldItalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-SemiboldItalic-webfont.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-SemiboldItalic-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-SemiboldItalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-SemiboldItalic-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/assets/OpenSans/OpenSans-SemiboldItalic-webfont.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\assets\OpenSans\OpenSans-SemiboldItalic-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/bootstrap.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\bootstrap.css
+Content Type: text/css
+
+Uri: https://edocuments.myclearwater.com/WebLink/browse.aspx?cr=0
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\browse.aspx-1.html
+Content Type: text/html
+
+Uri: https://edocuments.myclearwater.com/WebLink/Browse.aspx?id=701&dbid=0&repo=Clearwater&cr=1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\Browse.aspx.html
+Content Type: text/html
+
+Uri: https://edocuments.myclearwater.com/WebLink/bundles/app.bundle.js?v=10.1.1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\bundles\app.bundle.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/bundles/dependencies.bundle.js?v=10.1.1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\bundles\dependencies.bundle.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/favicon.ico
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/arrow-bottom.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\arrow-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/arrow-right.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/arrow-top.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\arrow-top.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/arrowAsc.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\arrowAsc.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/arrowDec.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\arrowDec.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/attach.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\attach.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/attachment.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\attachment.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/callout.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\callout.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/docTBbg.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\docTBbg.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/download.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\download.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/dropdown-arrow.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\dropdown-arrow.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/email.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\email.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/freehand.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\freehand.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/full-screen.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\full-screen.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/hamburger.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\hamburger.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/highlight.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\highlight.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/icon-spinner.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\icon-spinner.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/iFolderClosed.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\iFolderClosed.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/iFolderOpen.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\iFolderOpen.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/image.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\image.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/iTBViewPDF.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\iTBViewPDF.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/iTBViewPDFG.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\iTBViewPDFG.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/line.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\line.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/media.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\media.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/mouse-arrow.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\mouse-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/new_sprite/left-chevron.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\new_sprite\left-chevron.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/new_sprite/right-chevron.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\new_sprite\right-chevron.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/new_sprite/wl_icon_sprite_16px.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\new_sprite\wl_icon_sprite_16px.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/normal-screen.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\normal-screen.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/panning.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\panning.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/pdfviewer/grab.cur
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\pdfviewer\grab.cur.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/pdfviewer/grabbing.cur
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\pdfviewer\grabbing.cur.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/placed-attachment.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\placed-attachment.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/polygon.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/print.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\print.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/recordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\recordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/recordFolderOpen.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\recordFolderOpen.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/recordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\recordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/recordSeriesOpen.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\recordSeriesOpen.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/rectangle.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\rectangle.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/redact.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\redact.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/return-folder.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\return-folder.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/rotate.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\rotate.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadowAlpha.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadowAlpha.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadowAlpha_c.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadowAlpha_c.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadowAlpha_h.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadowAlpha_h.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadowAlpha_v.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadowAlpha_v.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadow_c.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadow_c.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadow_h.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadow_h.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/shadow_v.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\shadow_v.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/stamp.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\stamp.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/sticky-note.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\sticky-note.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/strikethrough.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\strikethrough.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/tag.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\tag.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/1/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\1\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/1/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\1\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/1/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\1\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/1/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\1\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/10/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\10\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/10/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\10\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/10/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\10\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/10/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\10\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/11/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\11\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/11/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\11\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/11/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\11\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/11/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\11\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/12/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\12\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/12/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\12\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/12/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\12\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/12/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\12\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/13/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\13\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/13/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\13\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/13/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\13\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/13/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\13\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/14/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\14\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/14/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\14\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/14/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\14\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/14/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\14\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/15/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\15\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/15/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\15\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/15/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\15\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/15/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\15\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/16/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\16\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/16/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\16\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/16/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\16\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/16/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\16\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/17/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\17\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/17/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\17\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/17/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\17\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/17/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\17\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/18/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\18\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/18/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\18\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/18/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\18\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/18/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\18\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/19/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\19\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/19/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\19\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/19/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\19\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/19/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\19\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/2/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\2\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/2/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\2\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/2/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\2\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/2/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\2\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/20/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\20\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/20/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\20\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/20/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\20\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/20/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\20\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/21/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\21\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/21/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\21\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/21/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\21\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/21/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\21\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/22/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\22\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/22/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\22\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/22/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\22\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/22/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\22\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/23/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\23\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/23/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\23\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/23/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\23\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/23/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\23\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/24/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\24\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/24/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\24\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/24/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\24\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/24/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\24\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/25/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\25\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/25/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\25\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/25/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\25\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/25/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\25\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/3/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\3\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/3/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\3\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/3/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\3\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/3/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\3\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/4/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\4\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/4/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\4\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/4/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\4\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/4/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\4\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/5/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\5\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/5/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\5\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/5/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\5\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/5/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\5\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/6/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\6\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/6/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\6\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/6/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\6\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/6/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\6\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/7/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\7\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/7/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\7\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/7/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\7\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/7/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\7\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/8/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\8\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/8/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\8\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/8/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\8\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/8/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\8\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/9/batch-icon.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\9\batch-icon.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/9/Folder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\9\Folder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/9/RecordFolder.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\9\RecordFolder.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/template_colors/9/RecordSeries.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\template_colors\9\RecordSeries.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/text.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\text.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/TreeClose.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\TreeClose.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/TreeOpen.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\TreeOpen.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/underline.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\underline.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/WatermarkLogin.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\WatermarkLogin.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/WatermarkSideNav.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\WatermarkSideNav.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/WelcomeSideBanner.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\WelcomeSideBanner.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/x.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\x.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/zoom-in.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\zoom-in.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/zoom-out.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\zoom-out.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/images/zoom.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\images\zoom.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/javascript/resources/jquery.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\javascript\resources\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/javascript/resources/jquery.plugins.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\javascript\resources\jquery.plugins.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/javascript/resources/MediaDisplay.res.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\javascript\resources\MediaDisplay.res.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/core-js/client/shim.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\core-js\client\shim.min.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/es6-shim/es6-shim.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\es6-shim\es6-shim.min.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\fonts\fontawesome-webfont.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/primeng/resources/images/loading.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\primeng\resources\images\loading.gif
+Content Type: image/gif
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/primeng/resources/primeng.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\primeng\resources\primeng.min.css
+Content Type: text/css
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/systemjs/dist/system-polyfills.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\systemjs\dist\system-polyfills.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/systemjs/dist/system.src.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\systemjs\dist\system.src.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/node_modules/zone.js/dist/zone.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\node_modules\zone.js\dist\zone.min.js
+Content Type: application/javascript
+
+Uri: https://edocuments.myclearwater.com/WebLink/portal/images/entryIcons/entrytypes_sprite.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\portal\images\entryIcons\entrytypes_sprite.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/portal/images/entryIcons/newdoc_sprite.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\portal\images\entryIcons\newdoc_sprite.png
+Content Type: image/png
+
+Uri: https://edocuments.myclearwater.com/WebLink/styles.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\styles.css
+Content Type: text/css
+
+Uri: https://edocuments.myclearwater.com/WebLink/systemjs.config.js?v=10.1.1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\WebLink\systemjs.config.js
+Content Type: application/javascript
+
+Uri: https://epermit.myclearwater.com/citizenaccess/Account/ForgotPassword.aspx
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\Account\ForgotPassword.aspx.html
+Content Type: text/html
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Account/RegisterDisclaimer.aspx
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Account\RegisterDisclaimer.aspx.html
+Content Type: text/html
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/active.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\active.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/arrow-left.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\arrow-left.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/arrow-right.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\arrow-right.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-collapsed-disable-end.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-collapsed-disable-end.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-collapsed-disable.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-collapsed-disable.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-collapsed-end.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-collapsed-end.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-collapsed.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-collapsed.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-disable-end.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-disable-end.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-disable.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-disable.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-end.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-end.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-selected-end.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-selected-end.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump-selected.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump-selected.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/breadcrump.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\breadcrump.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_lg256_highlight.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_lg256_highlight.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_lg480.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_lg480.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_lgcenter.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_lgcenter.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_lgleft.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_lgleft.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_lgright.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_lgright.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_sm256.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_sm256.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_sm48_highlight.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_sm48_highlight.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/button_split.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\button_split.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/caret_arrow.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\caret_arrow.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/caret_arrow_right.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\caret_arrow_right.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/caret_collapsed.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\caret_collapsed.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/Caret_down_sml.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\Caret_down_sml.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/caret_expanded.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\caret_expanded.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/closepopup.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\closepopup.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/collapse_Open.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\collapse_Open.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/complete.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\complete.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/error_16.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\error_16.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/loading.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\loading.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/save-off.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\save-off.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/app_themes/Default/assets/spacer.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\app_themes\Default\assets\spacer.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_left_off.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_left_off.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_left_on.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_left_on.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_right_off.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_right_off.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_right_on.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_right_on.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_tiling_base.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_tiling_base.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_tiling_off.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_tiling_off.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/assets/tab_tiling_on.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\assets\tab_tiling_on.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/form.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\form.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/Default/style.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\Default\style.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/citizenaccess/App_Themes/en-US/style.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\App_Themes\en-US\style.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/bundles/accela-common?v=TFlonB3ADkPC_9td6WhuixMABUzLnRtwQvzZnTp3pRc1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\bundles\accela-common
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/bundles/common?v=3frcyczFCCAemuR09W71PpqoQkdwvQy6MShBSNrJdrc1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\bundles\common
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/acaresponsive.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\acaresponsive.min.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-100.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-100.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-100Italic.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-100Italic.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-300.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-300.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-300Italic.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-300Italic.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-500.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-500.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-500_Italic.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-500_Italic.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-700.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-700.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-700Italic.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-700Italic.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-900.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-900.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/fonts/MuseoSans-900Italic.otf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\fonts\MuseoSans-900Italic.otf
+Content Type: font/opentype
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/alert-icon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\alert-icon.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/caret_arrow.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\caret_arrow.gif
+Content Type: image/gif
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/cart-icon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\cart-icon.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/dropdown-arrow.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\dropdown-arrow.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/error.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\error.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/help-white.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\help-white.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/help.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\help.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/info.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\info.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/images/logo.jpeg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\images\logo.jpeg
+Content Type: image/jpeg
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/renew-icon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\renew-icon.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/success.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\success.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/css/images/view-icon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\css\images\view-icon.png
+Content Type: image/png
+
+Uri: https://epermit.myclearwater.com/citizenaccess/css/main.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\css\main.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Customization/CLEARWATER/adaptive.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Customization\CLEARWATER\adaptive.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Customization/CLEARWATER/globalcustomscriptbefore.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Customization\CLEARWATER\globalcustomscriptbefore.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Customization/CLEARWATER/globalcustomscriptbefore.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Customization\CLEARWATER\globalcustomscriptbefore.js
+Content Type: application/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Customization/CLEARWATER/no_wrapper.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Customization\CLEARWATER\no_wrapper.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Customization/CLEARWATER/theme1.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Customization\CLEARWATER\theme1.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/citizenaccess/default.aspx
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\default.aspx.html
+Content Type: text/html
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Handlers/CustomizedCssStyle.ashx?agencyCode=CLEARWATER
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Handlers\CustomizedCssStyle.ashx.css
+Content Type: text/css
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Login.aspx
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Login.aspx.html
+Content Type: text/html
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=jfF3SRu2SYWJFqKBDJC05I7t6NlKE8-BfRU2VFeUbQl8_Ka7AHkdTqLkC1bP6Gn4FMVcHznqbTSG2MFCFfK0me8WVzezhjOK37nsc5cX9vIpg94X-EPSJu7TWGyD6f5SMzPh_-b6yGUQzbO_8B13uVZx2qiBy2MptezrtKBiCNcWPHDpOW2QwEKGBRYzQlX26VQBBn9bIA3UjMcpbQnS4Q2&t=17e7e51
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-7.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=Kuz4PK1r8tYEDPdkTVOfWraxsln3y6295qA7yJUev-z7YrUFJeODgwtnepi1F3CnGixLKXF9ET4XRBAGMMEKW9u103wKdYqb4sDXsucp1MhJpvHsaOCyqJczxT7CBxoWV364kIDI5bGRla67IhUcdoODvqb1KpGwb1BWIgRLZjY1&t=ffffffffe525b3b7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-2.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=L8SLeHPKzODCMmBCRyr5k_8lq9JXPj1I-pMfDGo1GUkvtS2hPU7UeyyiMEjb8Pf_NxBA8-Yi4ihFg8IMnf4gGJSyJCoYoMQdthAeuzuVrJtOJOg42dYZTj-BJ8bd97FxXCdwdviot2LefZzAizRY88fagCTz0pf_btPRWvxUfBE1&t=ffffffffe525b3b7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-5.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=PDD33R2EeAk6jJp4gLE0DG_s51M8kdXh6xDiGFnqMPiSl0sCY0-10un3c5ZhiZMnRh5y7kJKx9S87-9adNPzYQv7vbHRyxlmA6toFeS-X9wafVIOjMWznZfsmZjtGXi5jHUVyZIgmNCgMm-WDukOIwTU66L2dopbtBz7vH5D73s1&t=ffffffffe525b3b7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-3.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=pdLHMs6iIUz8ldt1BNRTrGek-z_NpW2Kgc7U8FO3GvapImHxLdyZYt5fJQuTy2ye3tADhrLeYXIiSXSgKCLKVWTcq0V_C_dEvKjvx6eFL9T0l3XKj1gu1ERrwCHG8miGZSDn29D4aFNt5kOtKQ5hE2zkeRoQ5cFR0g4PN1aoz1U1&t=ffffffffe525b3b7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-6.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=UlWKDI4_cktxhivxNLfc8ImHq3msyA43JQRSG8KwoDcvoSUAIeHHZFBJUp4FCrtk48ysvXxMA7x9fEauoxF0VK8SsXXtd_Qn2wwQ8VByDNeGRJXnKIPtxFCBck-C_51ZeJLhM1qcanZr_0xhceDhL3u6pZmoOK_lAP1q8jh7SHw1&t=ffffffffe525b3b7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-4.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=Wjn8YoXXxuNnhIPGaeHkmSKF1c99zBaE3KjoYt2rABDUlRHnfR3aniI0Nh5TLP19RNOX1csKq2_NqGxaF8O_SSIPkw1271fnkXX7r3S7uh1DGmjjjfPDp_aHeYTdN340ckdUGF0OOJ-nrFpT5KXbUrTJ3PKjMuEiw3LJtT7WDSg1&t=ffffffffe525b3b7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource-1.axd
+Content Type: text/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/ScriptResource.axd?d=Yh6lB4okcFzytmJeEp4JJwtZZGRG3l4bFr_YfY8j7zww3wXwV9xRvQBe6s7_aQU4QL3IvROBOhKJj4tzjMVYcEQTasmgAvthoOqO-OoHl7U3AgY_4kyWl1af4tjR-c6eOG3OFRRXsGfDsPrqg59FiJTVEK5KDR-DQTXbOEmHt_w1&t=ffffffffd202a464
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\ScriptResource.axd
+Content Type: application/x-javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Scripts/Announcement.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Scripts\Announcement.js
+Content Type: application/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Scripts/GlobalConst.aspx
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Scripts\GlobalConst.aspx.html
+Content Type: text/html
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Scripts/SessionTimeout.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Scripts\SessionTimeout.js
+Content Type: application/javascript
+
+Uri: https://epermit.myclearwater.com/CitizenAccess/Scripts/Validation.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\CitizenAccess\Scripts\Validation.js
+Content Type: application/javascript
+
+Uri: https://epermit.myclearwater.com/citizenaccess/WebService/AnnouncementService.asmx/js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\citizenaccess\WebService\AnnouncementService.asmx\js
+Content Type: application/x-javascript
+
+Uri: https://epermit.myclearwater.com/documents/How_to_add_your_license_or_OUTTOBID_license_to_ACA_account.pdf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\documents\How_to_add_your_license_or_OUTTOBID_license_to_ACA_account.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\css-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);@import url(https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);html{font-size:inherit}*,*:after,*:before{box-sizing:content-box}.config_widget_template *,.config_widget_template *:after,.config_widget_template *:before{box-sizing:border-box}.sitewrapper,.sitewrapper *,.sitewrapper *:after,.sitewrapper *:before{box-sizing:border-box}.progress{box-shadow:0 0 0;height:auto;margin-bottom:0}body.front_end_body{background:
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\css-4.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,300,700
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Questrial
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\lato\v22\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/questrial/v17/QdVUSTchPBm7nuUeVf70viFg.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\s\questrial\v17\QdVUSTchPBm7nuUeVf70viFg.ttf
+Content Type: font/ttf
+
+Uri: https://gis.myclearwater.com/Eng_Atlas_App.htm
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Eng_Atlas_App.htm
+Content Type: text/html
+
+Uri: https://js.arcgis.com/4.8/dgrid/css/images/ui-icons_222222_256x240.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\dgrid\css\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/dojo/dojo.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\dojo\dojo.js
+Content Type: application/javascript
+
+Uri: https://js.arcgis.com/4.8/esri/css/main.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\css\main.css
+Content Type: text/css
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_400.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_400.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_400.svg
+Content Type: image/svg+xml
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_400.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_400.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_400.woff
+Content Type: application/font-woff
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_400.woff2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_400.woff2
+Content Type: binary/octet-stream
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_600.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_600.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_600.svg
+Content Type: image/svg+xml
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_600.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_600.ttf
+Content Type: application/font-sfnt
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_600.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_600.woff
+Content Type: application/font-woff
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_600.woff2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_600.woff2
+Content Type: binary/octet-stream
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_400.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_400.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_400.svg
+Content Type: image/svg+xml
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_400.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_400.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_400.woff
+Content Type: application/font-woff
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_400.woff2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_400.woff2
+Content Type: binary/octet-stream
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_600.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_600.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_600.svg
+Content Type: image/svg+xml
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_600.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_600.ttf
+Content Type: application/font-sfnt
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_600.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_600.woff
+Content Type: application/font-woff
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/fonts/avenir-next/Avenir_Next_W00_Italic_600.woff2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\fonts\avenir-next\Avenir_Next_W00_Italic_600.woff2
+Content Type: binary/octet-stream
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/icons/fonts/CalciteWebCoreIcons.svg?im9r4h
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\icons\fonts\CalciteWebCoreIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/icons/fonts/CalciteWebCoreIcons.ttf?im9r4h
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\icons\fonts\CalciteWebCoreIcons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/icons/fonts/CalciteWebCoreIcons.woff?im9r4h
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\icons\fonts\CalciteWebCoreIcons.woff
+Content Type: application/font-woff
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/ago_sprite.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\ago_sprite.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/handles.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\handles.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/helpIcon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\helpIcon.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/loading-throb.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\loading-throb.gif
+Content Type: image/gif
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/Loading_Indicator_double_32.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\Loading_Indicator_double_32.svg
+Content Type: image/svg+xml
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-band-combination-bathymetric.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-band-combination-bathymetric.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-band-combination-color-infrared.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-band-combination-color-infrared.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-band-combination-land-water.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-band-combination-land-water.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-band-combination-landuse.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-band-combination-landuse.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-band-combination-natural-color.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-band-combination-natural-color.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-band-combination-vegetation.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-band-combination-vegetation.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-stretch-type-min-max.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-stretch-type-min-max.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-stretch-type-none.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-stretch-type-none.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-stretch-type-percent-clip.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-stretch-type-percent-clip.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-stretch-type-standard-deviation.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-stretch-type-standard-deviation.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-symbology-type-discrete.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-symbology-type-discrete.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-symbology-type-rgb.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-symbology-type-rgb.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-symbology-type-stretch.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-symbology-type-stretch.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/raster-symbology-editor-symbology-type-unique-value.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\raster-symbology-editor-symbology-type-unique-value.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/select.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\select.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/slider-handle.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\slider-handle.png
+Content Type: image/png
+
+Uri: https://js.arcgis.com/4.8/esri/themes/base/images/transparent-bg.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\4.8\esri\themes\base\images\transparent-bg.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://onlinepubs.trb.org/onlinepubs/tcrp/docs/TCRPJ-11Task7-FR.pdf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\onlinepubs\tcrp\docs\TCRPJ-11Task7-FR.pdf
+Content Type: application/pdf
+
+Uri: https://script.crazyegg.com/pages/scripts/0073/5248.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\pages\scripts\0073\5248.js
+Content Type: text/javascript
+
+Uri: https://siteimproveanalytics.com/js/siteanalyze_9566.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\js\siteanalyze_9566.js
+Content Type: application/javascript
+
+Uri: https://www.duke-energy.com/_/media/pdfs/our-company/climate-report-2020.pdf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\_\media\pdfs\our-company\climate-report-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwater.com/
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\index.htm
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Admin/Account/ForgotPassword
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Admin\Account\ForgotPassword.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Admin/Account/ForgotUserName
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Admin\Account\ForgotUserName.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Admin/Components/Content/StyleBundle.cssbnd?v=-rtHVrMqYDoXKusqZDjJY6IDDRbWP5QCo9Hzn0gc5cg1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Admin\Components\Content\StyleBundle.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Admin/LogOn
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Admin\LogOn-9.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Admin/LogOn?ReturnUrl=%2fAdmin%2fComponents%2fPage%2fclearwaterpolice.org%2fcommunity%2fbarrier-island-re-entry-pass
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Admin\LogOn-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Admin/LogOn?ReturnUrl=%2fAdmin%2fComponents%2fPage%2fEditDesign%3fnavid%3d228&navid=228
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Admin\LogOn.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/apple-touch-icon-57x57-precomposed.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\apple-touch-icon-57x57-precomposed.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/Areas/Admin/Content/StyleBundleBackendAdmin.cssbnd?v=htPyI9V2kRKwlWuasvyXsdRZLkJt321gF9UOfbv_oxE1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Areas\Admin\Content\StyleBundleBackendAdmin.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=acwZKNE3RPD1pekbX4Wz3QDE28KLfvHqhg0VPeQSJxg1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Areas\Admin\Content\StyleBundleFrontendExtra.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/asset.axd?id=JAEAAB-LCAAAAAAABABd0EEKwyAQBdC7zDqYxDQpeI0uSxaiNpgmGkZrCsG7V0Kx1N3w32dg5gAJ7H7ABgxuAvXmXe3VolA_oYLHaSbZNyPCrqs1ZHZJLbAmVv8ukU_cSIl2y6W2LO3aSLtnp6W7RUuF2bvSJ9Qy66VUj0oFrX77-zjGsQLhz9Lb1zMP3J3HpkJIKW1aSigZmmsKRPpIN_RpAObxpeIHBvo__iQBAAA%3d
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\asset.axd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/business
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/bid-information
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\bid-information.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-3
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-3.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-4
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-4.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-5
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-5.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-6
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-6.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-7.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-8
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-8.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/closed-bid-tabulations/-npage-9
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\closed-bid-tabulations\-npage-9.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/engineering-construction-bids
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\engineering-construction-bids.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/report-an-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\report-an-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/business/rfp
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\business\rfp.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/bootstrap.v3.4.1.min.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\bootstrap.v3.4.1.min.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/flexslider/flex-arrow-left.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\flexslider\flex-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/flexslider/flex-arrow-right.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\flexslider\flex-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/flexslider/flex-icon-pause.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\flexslider\flex-icon-pause.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/flexslider/flex-icon-play.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\flexslider\flex-icon-play.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/kendo/StyleBundleKendo.cssbnd?v=5Bk-AASYodhzSamHbcvvqR_KP1-w7vLYGBIWEVC1eg01
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\kendo\StyleBundleKendo.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/Print.cssbnd?v=-3T1oJ_z89pR7QkdJGfMpghXZyPybqptlohcPz3eK0w1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\StyleBundleAngularLib.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=93Y0-vAeKyRPbf5bfIV19LAW2HdLLc6u-S0BGhfTA4U1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/external_url.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\external_url.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/loading-failed.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\loading-failed.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/loading.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\loading.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/loading16_16.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\loading16_16.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/no-image.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\no-image.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/resize_icon.png
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\resize_icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwater.com/DefaultContent/Default/_gfx/spacer.gif
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\Default\_gfx\spacer.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwater.com/DefaultContent/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.myclearwater.com/DefaultContent/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.myclearwater.com/DefaultContent/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.myclearwater.com/DefaultContent/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\fonts\glyphicons-halflings-regular.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://www.myclearwater.com/DefaultContent/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.myclearwater.com/DefaultContent/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\DefaultContent\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.myclearwater.com/favicon.ico
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.myclearwater.com/government
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-attorney
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-attorney.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/affordable-housing
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\affordable-housing.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/beach-marina
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\beach-marina.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/city-auditor
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\city-auditor.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/city-council-and-mayor
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\city-council-and-mayor.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/city-manager
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\city-manager.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/community-redevelopment-agency-cra
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\community-redevelopment-agency-cra.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/contact-us
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\contact-us.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/economic-development-housing
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\economic-development-housing.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/emergency-management
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\emergency-management.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/engineering
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\engineering.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/finance-budget
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\finance-budget.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/fire-rescue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\fire-rescue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/greenprint-clearwater-s-sustainability-plan
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\greenprint-clearwater-s-sustainability-plan.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/human-resources
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\human-resources.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/marine-aviation
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\marine-aviation.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/official-records-legislative-services
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\official-records-legislative-services.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/planning-development
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\planning-development.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/public-communications
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\public-communications.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/public-utilities-department
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\public-utilities-department.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/risk-management
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\risk-management.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/seminole-boat-ramp-parking
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\seminole-boat-ramp-parking.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/solid-waste-general-services-department
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\solid-waste-general-services-department.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/sustainability-resiliency
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\sustainability-resiliency.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/city-departments/utility-customer-service
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\city-departments\utility-customer-service.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/council-meeting-streaming-videos
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\council-meeting-streaming-videos.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/neighborhood-services
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\neighborhood-services.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/neighborhood-services/association-registration
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\neighborhood-services\association-registration.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/neighborhood-services/block-parties
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\neighborhood-services\block-parties.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/neighborhood-services/clearwater-celebrates-neighborhoods-day
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\neighborhood-services\clearwater-celebrates-neighborhoods-day.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/neighborhood-services/clearwater-neighborhood-map
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\neighborhood-services\clearwater-neighborhood-map.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/government/report-an-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\government\report-an-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/home
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\home.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/home/showdocument?id=10617&t=637762874258301125
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\home\showdocument-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwater.com/Home/ShowDocument?id=7773
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Home\ShowDocument.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwater.com/home/showpublisheddocument/10931
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\home\showpublisheddocument\10931.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwater.com/home/showpublishedimage/16771
+File Name: C:\Downloaded Web Sites\round 333\www.myclearwater.com\home\showpublishedimage\16771.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwater.com/how-do-i-
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\how-do-i-.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/how-do-i-/view-road-closures/watering-schedule
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\how-do-i-\view-road-closures\watering-schedule.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/how-do-i/contact-the-city
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\how-do-i\contact-the-city.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/how-do-i/report-a-website-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\how-do-i\report-a-website-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/how-do-i/report-an-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\how-do-i\report-an-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-10
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-10.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-11
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-11.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-12
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-12.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-13
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-13.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-14
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-14.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-15
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-15.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-16
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-16.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-17
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-arch-1\-npage-17.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-18
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-arch-1\-npage-18.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-19
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-arch-1\-npage-19.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-20
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-20.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-21
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-21.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-22
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-22.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-23
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-23.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-24
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-24.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-25
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-25.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-26
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-26.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-27
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-27.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-28
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-28.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-3
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-3.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-4
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-4.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-5
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-5.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-6
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-6.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-7.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-8
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-8.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-arch-1/-npage-9
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-arch-1\-npage-9.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-10
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-10.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-10/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-10\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-11
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-11.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-11/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-11\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-12
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-12.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-12/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-12\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-13
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-13.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-13/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-13\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-14
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-14.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-14/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-14\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-15
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-15.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-15/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-15\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-16
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-16.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-16/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-16\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-17
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-17.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-17/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-17\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-18
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-18.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-18/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-18\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-19
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-19.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-19/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-19\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-2/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-2\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-20
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-20.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-20/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-20\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-21
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-21.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-21/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-21\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-22
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-22.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-22/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-22\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-23
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-23.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-23/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-23\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-24
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-24.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-24/-arch-1
+File Name: C:\Downloaded Web Sites\round 6\www.myclearwater.com\news-info\-npage-24\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-25
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-25.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-25/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-25\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-26
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-26.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-26/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-26\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-27
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-27.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-27/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-27\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-28
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-28.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-28/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-28\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-3
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-3.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-3/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-3\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-4
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-4.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-4/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-4\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-5
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-5.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-5/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-5\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-6
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-6.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-6/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-6\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-7.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-7/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-7\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-8
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-8.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-8/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-8\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-9
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-9.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/-npage-9/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\-npage-9\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/about-us
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\about-us.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/about-us/citywide-organizational-chart
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\about-us\citywide-organizational-chart.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/about-us/demographics-census-info
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\about-us\demographics-census-info.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/about-us/maps-gis
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\about-us\maps-gis.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/accessibility-statement
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\accessibility-statement.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/area-amenities-resources-273
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\area-amenities-resources-273.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/beach-cameras
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\beach-cameras.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-council-meeting-and-work-session-schedule
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-council-meeting-and-work-session-schedule.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-3
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-3.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-4
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-4.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-5
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-5.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-6
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-6.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-7.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-8
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-8.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-facilities/-npage-9
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-facilities\-npage-9.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/city-holiday-s
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\city-holiday-s.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/citywide-calendar-widget
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\citywide-calendar-widget.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/citywide-calendar/city-meetings
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\citywide-calendar\city-meetings.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-3
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-3.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-4
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-4.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-5
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-5.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-6
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-6.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-7
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-7.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-8
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-8.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/contact-info-social-media/-npage-9
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\contact-info-social-media\-npage-9.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/covid-19-information-city-updates
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\covid-19-information-city-updates.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/imagine-clearwater/imagine-clearwater-streaming-videos
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\imagine-clearwater\imagine-clearwater-streaming-videos.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/news-feed-widget
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\news-feed-widget.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/news-feed-widget/-arch-1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\news-feed-widget\-arch-1.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/news-feed-widget/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\news-feed-widget\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/report-an-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\report-an-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/news-info/transparency
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\news-info\transparency.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Project/Contents/EmergencyManagement/Print.cssbnd?v=xbTdXIk7BbNi_6l-obJB27s8RA4Qh43jCzZeiht5vb81
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\EmergencyManagement\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/EmergencyManagement/StyleBundleDesignTheme.cssbnd?v=pv-PjbeIahjBB46URCU_-qdhkxN05lAPype8MeFo_8o1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\EmergencyManagement\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/EmergencyManagement/StyleBundleMegaMenuDropDown.cssbnd?v=Bs3wI-oxmcd0UAQP-6dn2WmDilNsf5yrX0l1iRWMoxM1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\EmergencyManagement\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Fire/Print.cssbnd?v=
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Fire\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Fire/StyleBundleDesignTheme.cssbnd?v=gzkbf7_UUMtajGkJsYNYxC5FlIjvDmuMtGcXwHQsKZs1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Fire\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Fire/StyleBundleMegaMenuDropDown.cssbnd?v=vao1b-TtblsmgCi2OTkwQOjOUytLrPCtwadWJKlFRWE1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Fire\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Main/homelayout_scripts.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Main\homelayout_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Project/Contents/Main/mobile_nav_scripts.js
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Main\mobile_nav_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Project/Contents/Main/Print.cssbnd?v=xbTdXIk7BbNi_6l-obJB27s8RA4Qh43jCzZeiht5vb81
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Main\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Main/StyleBundleDesignTheme.cssbnd?v=-VTvFbmmjOqPinEFOJnRCX5fpPFe-JRW5j0sCFoozmw1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Main\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Main/StyleBundleMegaMenuDropDown.cssbnd?v=4RblBMz4KVDWhUC0nxmwsDZtty0MpU3jfaLbTKr4B0Q1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Main\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/Project/Contents/Main/x-small.css
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Project\Contents\Main\x-small.css
+Content Type: text/css
+
+Uri: https://www.myclearwater.com/residents
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/imagine-clearwater-new
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\imagine-clearwater-new.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/neighborhood-services/contact-neighborhood-services
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\neighborhood-services\contact-neighborhood-services.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/neighborhood-services/homeless-initiative
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\neighborhood-services\homeless-initiative.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/neighborhood-services/neighborhoods-day-helpful-tips
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\neighborhood-services\neighborhoods-day-helpful-tips.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/neighborhood-services/sidewalk-rain-art
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\neighborhood-services\sidewalk-rain-art.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/neighborhoods-division/block-party-frequently-asked-questions
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\neighborhoods-division\block-party-frequently-asked-questions.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/placemaking-playbook
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\placemaking-playbook.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/placemaking-programs/paint-the-pavement
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\placemaking-programs\paint-the-pavement.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/report-an-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\report-an-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/residents/volunteer
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\residents\volunteer.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/Scripts/Components/ScriptsFEBundle.jsbnd?v=11DNMu57cpNeO00Ituy-UgfEpH9di4HKlISLnm7Ke7M1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\Components\ScriptsFEBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/frontendCoreBundle.jsbnd?v=x0jQNm9xdgMNdkaTt0VP6jVGDM5LKGH6gwsKrSw842E1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\frontendCoreBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/ScriptBundleAngularLib.jsbnd?v=c_Kv4SjPZLO9_kl4zHzqVhs-TecgIsS2ZLJpIRSVruw1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\ScriptBundleAngularLib.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/ScriptBundleFAllInOne.jsbnd?v=gIOpmVj-uUN4Dir5fJWoGsM7aib_-aoTsxTM5nlSJr41
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\ScriptBundleFAllInOne.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/ScriptBundleKendo.jsbnd?v=fIGvVFiLqA3ocwItI05mz1UEHRU_7HNN9ZnQ9BqozSo1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\ScriptBundleKendo.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/ScriptBundleVisionBackend.jsbnd?v=c-taoJIudR3knl2YJFsycOQuyiKXTfV4rbuK3smJpmY1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\ScriptBundleVisionBackend.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/ScriptBundleVisionFrontend.jsbnd?v=eLOsWFtm2QZkYCRs-p9HrRK_Hg5fzDwPC7FfZuoHecA1
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\Scripts\ScriptBundleVisionFrontend.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/Scripts/Vision/vision.esri.map.js?__t=637831790989342848
+File Name: C:\Downloaded Web Sites\round 5\www.myclearwater.com\Scripts\Vision\vision.esri.map-1.js
+Content Type: text/javascript
+
+Uri: https://www.myclearwater.com/visitors
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/beach-wheelchairs
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\beach-wheelchairs.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/calendar-of-events-987
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\calendar-of-events-987.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/calendar-of-events-987/-npage-2
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\calendar-of-events-987\-npage-2.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/calendar-of-events-987/-npage-3
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\calendar-of-events-987\-npage-3.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/calendar-of-events-987/-npage-4
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\calendar-of-events-987\-npage-4.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/calendar-of-events-987/-npage-5
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\calendar-of-events-987\-npage-5.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/clearwater-beach
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\clearwater-beach.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/report-an-issue
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\report-an-issue.html
+Content Type: text/html
+
+Uri: https://www.myclearwater.com/visitors/spring-break-on-clearwater-beach
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\visitors\spring-break-on-clearwater-beach.html
+Content Type: text/html
+
+Uri: https://www.osha.gov/sites/default/files/publications/OSHA3990.pdf
+File Name: C:\Downloaded Web Sites\round 3\www.myclearwater.com\sites\default\files\publications\OSHA3990.pdf
+Content Type: application/pdf
+
