@@ -1,0 +1,23 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "\/favicon_whiteBg_32x32.png",
+   "sizes": "32x32",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\/favicon_whiteBg_72x72.png",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "\/favicon_whiteBg_144x144.png",
+   "sizes": "144x144",
+   "type": "image\/png",
+   "density": "3.0"
+  }
+ ]
+}
