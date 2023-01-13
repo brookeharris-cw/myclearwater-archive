@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220318T223435
+DTSTART:20220408T100000
+DTEND:20220424T210000
+SUMMARY:Pier 60 Sugar Sand Festival
+DESCRIPTION:The Sugar Sand Festival is a beach wide celebration of Clearwater Beach’s two most notable natural assets: our sugar sand and sunsets. More than 14 sand sculptors use 1,000 tons of Clearwater Beach sand to create a walk-through art exhibit housed in a 21,000-square-foot structure.
+X-ALT-DESC;FMTTYPE=text/html:The Sugar Sand Festival is a beach wide celebration of Clearwater Beach’s two most notable natural assets: our sugar sand and sunsets. More than 14 sand sculptors use 1,000 tons of Clearwater Beach sand to create a walk-through art exhibit housed in a 21,000-square-foot structure.
+LOCATION:Clearwater Beach\, 160 Gulfview Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
