@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T163147
+DTSTART:20190601T000000
+DTEND:20190601T235900
+SUMMARY:Downtown Clearwater Craft Beer & Music Festival
+DESCRIPTION:<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>The 3rd annual Clearwater Craft Beer &amp; Music Festival will be held June 1! There will be lots of delicious craft beer flowing, live music all day (artists &amp; schedule TBA), as well as local food vendors.<br><br>The location of the event is the 500 &amp; 600 Blocks of Cleveland Street (East of Ft Harrison) in Downtown Clearwater.</strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>The 3rd annual Clearwater Craft Beer &amp; Music Festival will be held June 1! There will be lots of delicious craft beer flowing, live music all day (artists &amp; schedule TBA), as well as local food vendors.<br><br>The location of the event is the 500 &amp; 600 Blocks of Cleveland Street (East of Ft Harrison) in Downtown Clearwater.</strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

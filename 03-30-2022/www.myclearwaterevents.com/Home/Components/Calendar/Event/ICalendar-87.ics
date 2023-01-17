@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210712T142931
+DTSTART:20210731T090000
+DTEND:20210731T153000
+SUMMARY:Mole Patrol Free Skin, Head, Neck and Oral Cancer Screenings
+DESCRIPTION:<div cxmmr5t8="" oygrvhab="" hcukyx3x="" c1et5uql"="">The event is open to the public. Any and all beachgoers, passersby, etc. are welcome, regardless of whether or not you have insurance coverage. Free sunscreen and education materials will be provided. Early detection is key to the successful treatment of skin, head, neck and oral cancers.</div><div></div>
+X-ALT-DESC;FMTTYPE=text/html:<div cxmmr5t8="" oygrvhab="" hcukyx3x="" c1et5uql"="">The event is open to the public. Any and all beachgoers, passersby, etc. are welcome, regardless of whether or not you have insurance coverage. Free sunscreen and education materials will be provided. Early detection is key to the successful treatment of skin, head, neck and oral cancers.</div><div></div>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

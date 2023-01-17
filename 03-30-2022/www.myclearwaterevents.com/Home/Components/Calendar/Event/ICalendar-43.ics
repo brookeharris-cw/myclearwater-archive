@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T111429
+DTSTART:20220226T000000
+DTEND:20220226T235900
+SUMMARY:East End Volleyball Sunshine Series
+DESCRIPTION:Beach Volleyball Tournament
+X-ALT-DESC;FMTTYPE=text/html:Beach Volleyball Tournament
+LOCATION:Clearwater Beach\, 160 Gulfview Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

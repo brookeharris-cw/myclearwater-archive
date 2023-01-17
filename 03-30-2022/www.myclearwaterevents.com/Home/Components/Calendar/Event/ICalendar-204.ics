@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171108T191045
+DTSTART:20171111T103000
+DTEND:20171111T170000
+SUMMARY:Veterans Day at Crest Lake Park
+DESCRIPTION:<p>This Veterans Day, citizens around Pinellas County are invited to honor those who served to protect the country’s freedoms at a Veterans Day Ceremony. The event will honor a Navy SEAL who died in combat and includes the dedication of State Road 60 as a Purple Heart Trail. The ceremony hosted by Tampa Bay Veterans Alliance will begin at 10:30 a.m. on Saturday, Nov. 11, at Crest Lake Park in Clearwater (201 S. Glenwood Ave.).</p><p>&nbsp;</p><p></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>This Veterans Day, citizens around Pinellas County are invited to honor those who served to protect the country’s freedoms at a Veterans Day Ceremony. The event will honor a Navy SEAL who died in combat and includes the dedication of State Road 60 as a Purple Heart Trail. The ceremony hosted by Tampa Bay Veterans Alliance will begin at 10:30 a.m. on Saturday, Nov. 11, at Crest Lake Park in Clearwater (201 S. Glenwood Ave.).</p><p>&nbsp;</p><p></p>
+LOCATION:Crest Lake Park\, 201 Glenwood Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

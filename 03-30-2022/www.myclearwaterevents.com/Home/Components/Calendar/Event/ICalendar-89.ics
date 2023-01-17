@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20201028T131206
+DTSTART:20201028T180000
+DTEND:20201028T235900
+SUMMARY:Clearwater Beach Recreation Center Truck-Or-Treat
+DESCRIPTION:<ul>    <li>69 Bay Esplanade</li>    <li>Come trick or treat in a safe&nbsp;environment. Staff members and volunteers from the&nbsp;Clearwater Beach Library,&nbsp;recreation center, and pool&nbsp;will be giving out candy in the&nbsp;parking lot of the recreation center.</li>    <li>Those passing out&nbsp;candy will be spaced out to&nbsp;allow for physical distancing&nbsp;and will be wearing face&nbsp;coverings and gloves.</li></ul><p><a href="https://www.myclearwater.com/news-info/halloween-2020">https://www.myclearwater.com/news-info/halloween-2020</a></p>
+X-ALT-DESC;FMTTYPE=text/html:<ul>    <li>69 Bay Esplanade</li>    <li>Come trick or treat in a safe&nbsp;environment. Staff members and volunteers from the&nbsp;Clearwater Beach Library,&nbsp;recreation center, and pool&nbsp;will be giving out candy in the&nbsp;parking lot of the recreation center.</li>    <li>Those passing out&nbsp;candy will be spaced out to&nbsp;allow for physical distancing&nbsp;and will be wearing face&nbsp;coverings and gloves.</li></ul><p><a href="https://www.myclearwater.com/news-info/halloween-2020">https://www.myclearwater.com/news-info/halloween-2020</a></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

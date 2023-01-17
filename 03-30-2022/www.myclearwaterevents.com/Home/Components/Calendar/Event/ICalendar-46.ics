@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T100359
+DTSTART:20220610T170000
+DTEND:20220610T190000
+SUMMARY:Clearwater Beach Pool Party
+DESCRIPTION:<p>Cool off and hang out by the pool for the first aquatic event of the season.<u1:p>&nbsp;</u1:p></p><u1:p></u1:p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Cool off and hang out by the pool for the first aquatic event of the season.<u1:p>&nbsp;</u1:p></p><u1:p></u1:p>
+LOCATION:Clearwater Beach Recreation Complex\, 69 Bay Esplanade\, 51 Bay Esplanade Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

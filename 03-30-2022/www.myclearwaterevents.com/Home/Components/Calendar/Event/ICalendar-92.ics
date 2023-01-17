@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20200316T131202
+DTSTART:20200328T090000
+DTEND:20200328T140000
+SUMMARY:CANCELLED: Neighborhoods Day
+DESCRIPTION:The Clearwater Celebrate Neighborhoods Day Event held at multiple block parties in Clearwater was scheduled for March 28 but has been cancelled.&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:The Clearwater Celebrate Neighborhoods Day Event held at multiple block parties in Clearwater was scheduled for March 28 but has been cancelled.&nbsp;
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

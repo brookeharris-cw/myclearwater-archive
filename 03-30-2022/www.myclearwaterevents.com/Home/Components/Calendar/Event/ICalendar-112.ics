@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181218T113320
+DTSTART:20181223T180000
+DTEND:20181223T220000
+SUMMARY:Movie Night “Polar Express”
+DESCRIPTION:<p style="text-align: center;"></p><p style="text-align: center;">It’s the first night of Winter break for students, so why not bring them out to a FREE movie night in Station Square Park. Slip into your favorite Pajamas and come on down to watch the Polar Express! A special someone in a red suit will be on site watching the movie and talking to all the boys and girls! I hope you are on the nice list, and if you’ve been naughty, bringing your family out to movie night will surely add you to the nice list! There will be movie themed sweets and treats provided and some for purchase, like popcorn, pizza, and a special treat for parents will a bell on the side!</p><p style="text-align: center;"></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"></p><p style="text-align: center;">It’s the first night of Winter break for students, so why not bring them out to a FREE movie night in Station Square Park. Slip into your favorite Pajamas and come on down to watch the Polar Express! A special someone in a red suit will be on site watching the movie and talking to all the boys and girls! I hope you are on the nice list, and if you’ve been naughty, bringing your family out to movie night will surely add you to the nice list! There will be movie themed sweets and treats provided and some for purchase, like popcorn, pizza, and a special treat for parents will a bell on the side!</p><p style="text-align: center;"></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T122131
+DTSTART:20220130T000000
+DTEND:20220205T235900
+SUMMARY:US Open Sailing Series
+DESCRIPTION:<p>More than 160 Olympic-class sailors will descend on Clearwater for three days of high-caliber racing.<br aria-hidden="true"></p><div><br aria-hidden="true"></div>
+X-ALT-DESC;FMTTYPE=text/html:<p>More than 160 Olympic-class sailors will descend on Clearwater for three days of high-caliber racing.<br aria-hidden="true"></p><div><br aria-hidden="true"></div>
+LOCATION:Clearwater Community Sailing Center\, 1001 Gulf Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

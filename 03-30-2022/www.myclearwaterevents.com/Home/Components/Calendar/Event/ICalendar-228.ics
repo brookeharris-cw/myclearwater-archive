@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171025T142112
+DTSTART:20171028T083000
+DTEND:20171028T123000
+SUMMARY:Make a Difference Day
+DESCRIPTION:<p></p><p>&nbsp;</p><p>Visit: <a href="http://" target="_blank">https://www.hispanicoutreachcenter.org/event/free-family-event-make-difference-day/ </a>for more info!&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p></p><p>&nbsp;</p><p>Visit: <a href="http://" target="_blank">https://www.hispanicoutreachcenter.org/event/free-family-event-make-difference-day/ </a>for more info!&nbsp;</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

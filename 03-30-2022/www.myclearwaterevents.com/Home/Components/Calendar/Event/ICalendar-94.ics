@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T162629
+DTSTART:20191128T000000
+DTEND:20191128T235900
+SUMMARY:Tampa Bay Times Turkey Trot 2019
+DESCRIPTION:<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">This is the largest running event in the Tampa Bay area with more than 17,000 runners participating annually! There's a race for every skill level, including one for competitive runners, one for recreational runners, and one for walkers.Top finisher for the competitive races will receive a trophy. Proceeds benefit local charities and canned goods and non-perishable food will be collected in the stadium on race day to be donated. More detailed information will be given once due date is close.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">This is the largest running event in the Tampa Bay area with more than 17,000 runners participating annually! There's a race for every skill level, including one for competitive runners, one for recreational runners, and one for walkers.Top finisher for the competitive races will receive a trophy. Proceeds benefit local charities and canned goods and non-perishable food will be collected in the stadium on race day to be donated. More detailed information will be given once due date is close.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

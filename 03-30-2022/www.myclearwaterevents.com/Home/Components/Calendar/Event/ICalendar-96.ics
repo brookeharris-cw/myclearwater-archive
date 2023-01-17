@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190919T144652
+DTSTART:20191031T000000
+DTEND:20191031T235900
+SUMMARY:Threshers Boo Bash
+DESCRIPTION:<p>Free, family-friendly event includes free candy, a costume parade, hayrides, inflatables, and more! Boo Bash lasts from 5:30 p.m. - 8:30 p.m.</p><p>We promise a safe and family-friendly environment to wear your favorite costumes and enjoy the season! Dozens of local businesses will be on the concourse passing out free candy.&nbsp;</p><p><br /></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Free, family-friendly event includes free candy, a costume parade, hayrides, inflatables, and more! Boo Bash lasts from 5:30 p.m. - 8:30 p.m.</p><p>We promise a safe and family-friendly environment to wear your favorite costumes and enjoy the season! Dozens of local businesses will be on the concourse passing out free candy.&nbsp;</p><p><br /></p>
+LOCATION:BayCare Ballpark\, 601 Old Coachman Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20201028T131421
+DTSTART:20201030T180000
+DTEND:20201030T235900
+SUMMARY:Ross Norton's 6 Feet Trick-or-Treat
+DESCRIPTION:<h2>Ross Norton's 6 Feet Trick-or-Treat</h2><div>Friday, Oct. 30, 6-7:30 p.m.</div><ul>    <li>1426 S Martin Luther King Jr. Ave.</li>    <li>Staff will be hosting a walkthrough trick-or-treat event with tables and games 6 feet apart for your safety. Enjoy a walk through candy give-a-way, candy bags, Halloween games and meet Clearwater Police officers.</li>    <li>Please wear a face covering and call (727) 562-4380&nbsp;to reserve a time.</li></ul><p>&nbsp;<a href="https://www.myclearwater.com/news-info/halloween-2020">https://www.myclearwater.com/news-info/halloween-2020</a></p><p>&nbsp;</p><p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<h2>Ross Norton's 6 Feet Trick-or-Treat</h2><div>Friday, Oct. 30, 6-7:30 p.m.</div><ul>    <li>1426 S Martin Luther King Jr. Ave.</li>    <li>Staff will be hosting a walkthrough trick-or-treat event with tables and games 6 feet apart for your safety. Enjoy a walk through candy give-a-way, candy bags, Halloween games and meet Clearwater Police officers.</li>    <li>Please wear a face covering and call (727) 562-4380&nbsp;to reserve a time.</li></ul><p>&nbsp;<a href="https://www.myclearwater.com/news-info/halloween-2020">https://www.myclearwater.com/news-info/halloween-2020</a></p><p>&nbsp;</p><p>&nbsp;</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

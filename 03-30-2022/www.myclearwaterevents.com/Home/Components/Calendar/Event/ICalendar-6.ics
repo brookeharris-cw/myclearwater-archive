@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220202T120937
+DTSTART:20220416T000000
+DTEND:20220416T235900
+SUMMARY:Eggquatic Egg Hunt
+DESCRIPTION:Children can hop in the pool to hunt for eggs! This free event at Morningside Recreation Complex will have games, music, inflatables and lots of Easter eggs!
+X-ALT-DESC;FMTTYPE=text/html:Children can hop in the pool to hunt for eggs! This free event at Morningside Recreation Complex will have games, music, inflatables and lots of Easter eggs!
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T112711
+DTSTART:20220305T100000
+DTEND:20220305T140000
+SUMMARY:The Market Marie
+DESCRIPTION:Come shop with 75 + local, small business owners while enjoying LIVE music, FREE yoga, henna, fresh flowers, food trucks, and so much more!<br>Everyone is welcome here!<br><br>710 Court St. Clearwater, FL 33756<br>FREE Admission | FREE Parking
+X-ALT-DESC;FMTTYPE=text/html:Come shop with 75 + local, small business owners while enjoying LIVE music, FREE yoga, henna, fresh flowers, food trucks, and so much more!<br>Everyone is welcome here!<br><br>710 Court St. Clearwater, FL 33756<br>FREE Admission | FREE Parking
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

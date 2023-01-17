@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171024T144711
+DTSTART:20171117T163000
+DTEND:20171117T183000
+SUMMARY:Suncoast Jazz Mardi Gras Happy Hour
+DESCRIPTION:<p>Enjoy live jazz music from Professor Cunningham and His Old School at Station Square Park in Downtown Clearwater.&nbsp;</p><p>Swing dancers will be on hand and the Clearwater Arts Alliance will have an interactive art activity where folks will be able to decorate their own hat or Mardi Gras mask.</p><p>Visit&nbsp;<a href="http://www.suncoastjazzclassic.com/" target="_blank">SuncoastJazzClassic.com</a>&nbsp;for information about the weekend activities.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Enjoy live jazz music from Professor Cunningham and His Old School at Station Square Park in Downtown Clearwater.&nbsp;</p><p>Swing dancers will be on hand and the Clearwater Arts Alliance will have an interactive art activity where folks will be able to decorate their own hat or Mardi Gras mask.</p><p>Visit&nbsp;<a href="http://www.suncoastjazzclassic.com/" target="_blank">SuncoastJazzClassic.com</a>&nbsp;for information about the weekend activities.</p>
+LOCATION:Station Square Park\, 612 Cleveland St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

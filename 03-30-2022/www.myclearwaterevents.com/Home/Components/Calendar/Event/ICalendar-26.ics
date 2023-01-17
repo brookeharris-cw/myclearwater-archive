@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T095706
+DTSTART:20220530T170000
+DTEND:20220530T220000
+SUMMARY:Memorial Day Celebration
+DESCRIPTION:<p>Honor American veterans at this Memorial Day Ceremony hosted at Crest Lake Park by the Tampa Bay Veterans Alliance.<u1:p>&nbsp;</u1:p></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Honor American veterans at this Memorial Day Ceremony hosted at Crest Lake Park by the Tampa Bay Veterans Alliance.<u1:p>&nbsp;</u1:p></p>
+LOCATION:Crest Lake Park\, 201 Glenwood Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

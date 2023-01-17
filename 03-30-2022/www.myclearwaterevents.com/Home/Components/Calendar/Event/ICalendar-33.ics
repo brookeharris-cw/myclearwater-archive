@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220128T090315
+DTSTART:20220217T000000
+DTEND:20220220T235900
+SUMMARY:St. Pete Clearwater Elite Invitational by Wilson
+DESCRIPTION:16 college softball teams to compete in Clearwater. For the tournament schedule and tickets info. visit StPeteClearwaterEliteInvite.com
+X-ALT-DESC;FMTTYPE=text/html:16 college softball teams to compete in Clearwater. For the tournament schedule and tickets info. visit StPeteClearwaterEliteInvite.com
+LOCATION:Eddie C. Moore Complex\, 3050 Drew Street Clearwater\, Florida 33759
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

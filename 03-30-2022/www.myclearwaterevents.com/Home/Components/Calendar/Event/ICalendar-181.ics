@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180215T115539
+DTSTART:20180102T113000
+DTEND:20180102T121500
+SUMMARY:Zumba at Station Square Park
+DESCRIPTION:<p>Get your groove on and enjoy some FREE Zumba at the park!</p><p>Sponsored by Anytime Fitness.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Get your groove on and enjoy some FREE Zumba at the park!</p><p>Sponsored by Anytime Fitness.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

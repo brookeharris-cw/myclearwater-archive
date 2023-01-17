@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171024T145000
+DTSTART:20171202T170000
+DTEND:20171202T220000
+SUMMARY:Miracle on Cleveland Street
+DESCRIPTION:<p>This free holiday festival returns for the&nbsp;tenth year when the 400-600 blocks of downtown Clearwater's Cleveland Street District will be transformed into a holiday wonderland complete with falling snow, a skating rink, horse and carriage rides, pictures with Santa, carolers from the Clearwater Chorus, a giant gingerbread house, face painting and a balloon artist, inflatables and more. Children will also be able to phone Santa's Elves in the North Pole to share their Christmas wish list.</p><p>The festival will feature vendors with arts and crafts and a variety of vendors throughout Cleveland Street providing holiday-themed food and refreshments available for purchase.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>This free holiday festival returns for the&nbsp;tenth year when the 400-600 blocks of downtown Clearwater's Cleveland Street District will be transformed into a holiday wonderland complete with falling snow, a skating rink, horse and carriage rides, pictures with Santa, carolers from the Clearwater Chorus, a giant gingerbread house, face painting and a balloon artist, inflatables and more. Children will also be able to phone Santa's Elves in the North Pole to share their Christmas wish list.</p><p>The festival will feature vendors with arts and crafts and a variety of vendors throughout Cleveland Street providing holiday-themed food and refreshments available for purchase.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

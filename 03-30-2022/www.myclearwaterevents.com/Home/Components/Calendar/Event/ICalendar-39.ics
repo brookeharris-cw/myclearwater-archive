@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T102103
+DTSTART:20220219T000000
+DTEND:20220219T235900
+SUMMARY:2022 Gulf Coast Charity Open
+DESCRIPTION:2022 Gulf Coast Charity Open Professional disc-golf tournament
+X-ALT-DESC;FMTTYPE=text/html:2022 Gulf Coast Charity Open Professional disc-golf tournament
+LOCATION:Cliff Stephens Park\, 901 Fairwood Ave Clearwater\, Florida 33759
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

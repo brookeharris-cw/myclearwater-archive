@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181024T105042
+DTSTART:20181123T110000
+DTEND:20181125T190000
+SUMMARY:Holiday Pop -Up Market
+DESCRIPTION:<div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>Holiday Pop -Up Market in Second Century Studios</b></div><div style="text-align: center;"><b>Dates:&nbsp;</b>Nov 16 - December 23, 2018</div><div style="text-align: center;"><b>Location:&nbsp;</b>Second Century Studios, 331 Cleveland St.</div><div style="text-align: center;"><b>Hours:&nbsp;</b>11-7pm Tuesday - Sunday</div><div style="text-align: center;"><b>Info: &nbsp;</b></div><div style="text-align: center;">Do some holiday shopping in Downtown Clearwater this year! From Nov 16 – Dec 23<sup>rd</sup>&nbsp;there will be a variety of handmade businesses rotating on a weekly basis to provide the ultimate shopping experience in Downtown! The Pop-Up will be open from 11am-7pm, Tuesday – Sunday.&nbsp;</div><p style="text-align: center;"><strong>Closed</strong>: Mondays, Thanksgiving, and Christmas Day</p>
+X-ALT-DESC;FMTTYPE=text/html:<div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>&nbsp;</b></div><div style="text-align: center;"><b>Holiday Pop -Up Market in Second Century Studios</b></div><div style="text-align: center;"><b>Dates:&nbsp;</b>Nov 16 - December 23, 2018</div><div style="text-align: center;"><b>Location:&nbsp;</b>Second Century Studios, 331 Cleveland St.</div><div style="text-align: center;"><b>Hours:&nbsp;</b>11-7pm Tuesday - Sunday</div><div style="text-align: center;"><b>Info: &nbsp;</b></div><div style="text-align: center;">Do some holiday shopping in Downtown Clearwater this year! From Nov 16 – Dec 23<sup>rd</sup>&nbsp;there will be a variety of handmade businesses rotating on a weekly basis to provide the ultimate shopping experience in Downtown! The Pop-Up will be open from 11am-7pm, Tuesday – Sunday.&nbsp;</div><p style="text-align: center;"><strong>Closed</strong>: Mondays, Thanksgiving, and Christmas Day</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

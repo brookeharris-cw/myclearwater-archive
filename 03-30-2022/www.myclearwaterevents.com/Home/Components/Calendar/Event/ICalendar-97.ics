@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190619T104905
+DTSTART:20190704T000000
+DTEND:20190704T235900
+SUMMARY:Clearwater Celebrates America
+DESCRIPTION:<p>CLEARWATER, Fla. – Bring your family and friends to Coachman Park in Clearwater on July 4 to Clearwater Celebrates America. This family-friendly event kicks off at 6 p.m. and will conclude with one of the largest fireworks display in Tampa Bay at 9:30 p.m. (schedule subject to change). Best of all, it’s free.</p><p>There will be lots of entertainment and activities throughout the evening leading up to the fireworks. Entertainment will include family-friendly activities and a patriotic performance by the Coachman Park Pops Orchestra. Visitors can also expect to find vendors, food and drink concessions, a children’s play area and more.</p><p>Those planning to attend will be allowed to bring a low profile chair and drinking water. There will be no alcohol served or permitted at the park. &nbsp;A large crowd is also expected so please arrive early.</p><p>Drivers are reminded to expect traffic delays since the Memorial Causeway Bridge will be closed shortly before, during and shortly after fireworks.</p><p>For more information, visit MyClearwaterEvents.com.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>CLEARWATER, Fla. – Bring your family and friends to Coachman Park in Clearwater on July 4 to Clearwater Celebrates America. This family-friendly event kicks off at 6 p.m. and will conclude with one of the largest fireworks display in Tampa Bay at 9:30 p.m. (schedule subject to change). Best of all, it’s free.</p><p>There will be lots of entertainment and activities throughout the evening leading up to the fireworks. Entertainment will include family-friendly activities and a patriotic performance by the Coachman Park Pops Orchestra. Visitors can also expect to find vendors, food and drink concessions, a children’s play area and more.</p><p>Those planning to attend will be allowed to bring a low profile chair and drinking water. There will be no alcohol served or permitted at the park. &nbsp;A large crowd is also expected so please arrive early.</p><p>Drivers are reminded to expect traffic delays since the Memorial Causeway Bridge will be closed shortly before, during and shortly after fireworks.</p><p>For more information, visit MyClearwaterEvents.com.</p>
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

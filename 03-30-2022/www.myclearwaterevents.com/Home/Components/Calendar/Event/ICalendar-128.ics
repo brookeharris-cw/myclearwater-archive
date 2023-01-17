@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180926T094809
+DTSTART:20181031T173000
+DTEND:20181031T203000
+SUMMARY:Boo Bash
+DESCRIPTION:<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Boo Bash returns to Spectrum Field on Wednesday, October 31. This free, family-friendly event includes free candy, a costume parade, hayrides, inflatables, and more! Boo Bash lasts from 5:30 p.m. - 8:30 p.m.</strong></p><p style="text-align: center;"><strong>We promise a safe and family-friendly environment to wear your favorite costumes and enjoy the season! Dozens of local businesses will be on the concourse passing out free candy.&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong></strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Boo Bash returns to Spectrum Field on Wednesday, October 31. This free, family-friendly event includes free candy, a costume parade, hayrides, inflatables, and more! Boo Bash lasts from 5:30 p.m. - 8:30 p.m.</strong></p><p style="text-align: center;"><strong>We promise a safe and family-friendly environment to wear your favorite costumes and enjoy the season! Dozens of local businesses will be on the concourse passing out free candy.&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong></strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

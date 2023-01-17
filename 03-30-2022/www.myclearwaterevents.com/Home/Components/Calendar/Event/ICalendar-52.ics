@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T121933
+DTSTART:20220128T130000
+DTEND:20220128T170000
+SUMMARY:Party Pirates on the Rocks
+DESCRIPTION:Pirates will invade the city of Clearwater via boat by the Clearwater Marina. The Flotilla will arrive at 1 p.m. and the Pirates will continue to the 400 block of Cleveland Street in Downtown Clearwater.<div>Festivities will include live music, food and drink vendors, silent auction, raffle and more. For more information, visit&nbsp;<a href="https://urldefense.com/v3/__https:/www.facebook.com/partypiratesontherocks/__;!!F8-Dj6fVkZI!c0Z6iNNO3bATV9TmG-ud-74pSx-qe0VhKqivz4_7SKjyTzxWpIiV_ieAU9kwwgwcQcQKi2Kms-oieMMk$" target="_blank" rel="nofollow noopener noreferrer" data-auth="NotApplicable" id="LPNoLPOWALinkPreview_1" data-linkindex="2">https://www.facebook.com/partypiratesontherocks/</a></div>
+X-ALT-DESC;FMTTYPE=text/html:Pirates will invade the city of Clearwater via boat by the Clearwater Marina. The Flotilla will arrive at 1 p.m. and the Pirates will continue to the 400 block of Cleveland Street in Downtown Clearwater.<div>Festivities will include live music, food and drink vendors, silent auction, raffle and more. For more information, visit&nbsp;<a href="https://urldefense.com/v3/__https:/www.facebook.com/partypiratesontherocks/__;!!F8-Dj6fVkZI!c0Z6iNNO3bATV9TmG-ud-74pSx-qe0VhKqivz4_7SKjyTzxWpIiV_ieAU9kwwgwcQcQKi2Kms-oieMMk$" target="_blank" rel="nofollow noopener noreferrer" data-auth="NotApplicable" id="LPNoLPOWALinkPreview_1" data-linkindex="2">https://www.facebook.com/partypiratesontherocks/</a></div>
+LOCATION:Station Square Park\, 612 Cleveland St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

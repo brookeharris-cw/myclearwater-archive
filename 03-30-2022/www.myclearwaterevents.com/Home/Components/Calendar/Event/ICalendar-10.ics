@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220114T114753
+DTSTART:20220304T180000
+DTEND:20220304T210000
+SUMMARY:Friday Night Friendzy
+DESCRIPTION:No matter what your idea of Friday night fun is, your children are covered at the Morningside Recreation Complex. Plan for a night of hands-on activities, exciting games and delicious pizza. Students must be registered by the Thursday before the event.
+X-ALT-DESC;FMTTYPE=text/html:No matter what your idea of Friday night fun is, your children are covered at the Morningside Recreation Complex. Plan for a night of hands-on activities, exciting games and delicious pizza. Students must be registered by the Thursday before the event.
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

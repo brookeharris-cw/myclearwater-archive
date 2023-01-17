@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171013T140830
+DTSTART:20171015T120000
+DTEND:20171015T235900
+SUMMARY:Maxima Hispanic Heritage Concert
+DESCRIPTION:<p>The most anticipated concert of the year returns! &nbsp;Maxima 92.5 Hispanic Heritage Concert will be here in Clearwater, FL at Coachman Park on October 15, 2017!</p><p>To purchase&nbsp;tickets, visit <a href="https://www.etix.com/ticket/p/4443787/maxima-concierto-herencia-hispana-2017-clearwater-coachman-park" target="_blank">here</a>&nbsp;before they're gone!</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>The most anticipated concert of the year returns! &nbsp;Maxima 92.5 Hispanic Heritage Concert will be here in Clearwater, FL at Coachman Park on October 15, 2017!</p><p>To purchase&nbsp;tickets, visit <a href="https://www.etix.com/ticket/p/4443787/maxima-concierto-herencia-hispana-2017-clearwater-coachman-park" target="_blank">here</a>&nbsp;before they're gone!</p>
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

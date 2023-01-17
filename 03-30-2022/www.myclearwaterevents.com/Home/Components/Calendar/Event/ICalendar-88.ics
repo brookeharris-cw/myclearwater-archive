@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210409T091618
+DTSTART:20210426T090000
+DTEND:20210426T110000
+SUMMARY:Crest Lake Park Ribbon Cutting Ceremony
+DESCRIPTION:<p>Come celebrate the grand opening of the newly renovated Crest Lake Park!&nbsp;</p><p>Address: 201 Glenwood Ave.&nbsp;</p><p>Ceremony will be held at 9 a.m.&nbsp;</p><p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Come celebrate the grand opening of the newly renovated Crest Lake Park!&nbsp;</p><p>Address: 201 Glenwood Ave.&nbsp;</p><p>Ceremony will be held at 9 a.m.&nbsp;</p><p>&nbsp;</p>
+LOCATION:Crest Lake Park\, 201 Glenwood Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

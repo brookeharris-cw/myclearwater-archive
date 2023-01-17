@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170829T133138
+DTSTART:20171118T000000
+DTEND:20171121T235900
+SUMMARY:Turkey Trot Registration
+DESCRIPTION:<p><b><a href="http://www.tampabay.com/marketing/turkey-trot.page" target="_blank">Turkey Trot</a></b></p><p><strong>Saturday, November 18 | 10:00 am - 1:00 pm</strong></p><li>Clearwater High School Gym<br>540 S. Hercules Ave., Clearwater</li><br><strong>Sunday, November 19 | 10:00 am - 1:00 pm</strong><li>Abe's Place Tap &amp; Grill<br>1250 South Missouri Ave., Clearwater, Fl.</li><br><strong>Monday, November 20 | 3:00 pm - 7:00 pm</strong><li>Spectrum<br>Westfield Mall, 27001 U.S. 19 N., Clearwater, Fl.<br>(2nd floor entrance near J C Penny)</li><br><strong>Tuesday, November, 21 | 5:00 pm - 7:30 pm</strong><li>LOGO HQ<br>1551 102nd Ave. N., St. Petersburg, Fl</li>
+X-ALT-DESC;FMTTYPE=text/html:<p><b><a href="http://www.tampabay.com/marketing/turkey-trot.page" target="_blank">Turkey Trot</a></b></p><p><strong>Saturday, November 18 | 10:00 am - 1:00 pm</strong></p><li>Clearwater High School Gym<br>540 S. Hercules Ave., Clearwater</li><br><strong>Sunday, November 19 | 10:00 am - 1:00 pm</strong><li>Abe's Place Tap &amp; Grill<br>1250 South Missouri Ave., Clearwater, Fl.</li><br><strong>Monday, November 20 | 3:00 pm - 7:00 pm</strong><li>Spectrum<br>Westfield Mall, 27001 U.S. 19 N., Clearwater, Fl.<br>(2nd floor entrance near J C Penny)</li><br><strong>Tuesday, November, 21 | 5:00 pm - 7:30 pm</strong><li>LOGO HQ<br>1551 102nd Ave. N., St. Petersburg, Fl</li>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

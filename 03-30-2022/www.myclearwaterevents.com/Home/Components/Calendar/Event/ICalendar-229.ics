@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170829T130525
+DTSTART:20171031T000000
+DTEND:20171031T235900
+SUMMARY:Boo Bash
+DESCRIPTION:This event will begin in the afternoon, so stay tuned for exact times.
+X-ALT-DESC;FMTTYPE=text/html:This event will begin in the afternoon, so stay tuned for exact times.
+LOCATION:BayCare Ballpark\, 601 Old Coachman Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

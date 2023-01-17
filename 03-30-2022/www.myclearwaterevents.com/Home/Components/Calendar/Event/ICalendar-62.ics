@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20211027T121640
+DTSTART:20211119T000000
+DTEND:20211121T235900
+SUMMARY:Festival of Trees
+DESCRIPTION:Spread holiday cheer, see beautifully decorated trees and wreaths, and visit Santa. For more information, visit&nbsp;bit.ly/FestivalOfTreesClearwater.
+X-ALT-DESC;FMTTYPE=text/html:Spread holiday cheer, see beautifully decorated trees and wreaths, and visit Santa. For more information, visit&nbsp;bit.ly/FestivalOfTreesClearwater.
+LOCATION:Long Center\, 1501 N Belcher Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

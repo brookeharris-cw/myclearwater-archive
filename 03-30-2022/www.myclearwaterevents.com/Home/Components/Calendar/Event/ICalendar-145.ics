@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180215T115519
+DTSTART:20180413T120000
+DTEND:20180413T140000
+SUMMARY:Lunchtime Music at Station Square Park
+DESCRIPTION:Enjoy live, free music during lunchtime every Friday at Station Square Park.
+X-ALT-DESC;FMTTYPE=text/html:Enjoy live, free music during lunchtime every Friday at Station Square Park.
+LOCATION:Station Square Park\, 612 Cleveland St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

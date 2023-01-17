@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170817T163423
+DTSTART:20171018T173000
+DTEND:20171018T190000
+SUMMARY:Pinellas Technical College Open House
+DESCRIPTION:<p>Open House Location:&nbsp;</p><p style="margin-left: 40px;"><strong><span style="text-decoration: underline;">Clearwater Campus</span></strong> – Wednesday October 18, 2017 5:30 p.m. to 7:00 p.m.<br>6100 154th Avenue N. Clearwater, FL 33760 (727) 538-7167</p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 40px;">Pinellas Technical College offers more than 50 different technical training programs in a <br>variety of professions currently in high demand. For more information visit our campus <br>anytime Monday-Friday 7:00 a.m. to 2:00 p.m. Registration starts NOW for our term <br>beginning October 17, 2017. Opportunity Starts Here! <a href="http://www.myptc.edu">www.myptc.edu</a></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Open House Location:&nbsp;</p><p style="margin-left: 40px;"><strong><span style="text-decoration: underline;">Clearwater Campus</span></strong> – Wednesday October 18, 2017 5:30 p.m. to 7:00 p.m.<br>6100 154th Avenue N. Clearwater, FL 33760 (727) 538-7167</p><p style="margin-left: 40px;">&nbsp;</p><p style="margin-left: 40px;">Pinellas Technical College offers more than 50 different technical training programs in a <br>variety of professions currently in high demand. For more information visit our campus <br>anytime Monday-Friday 7:00 a.m. to 2:00 p.m. Registration starts NOW for our term <br>beginning October 17, 2017. Opportunity Starts Here! <a href="http://www.myptc.edu">www.myptc.edu</a></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220209T112341
+DTSTART:20220212T000000
+DTEND:20220212T235900
+SUMMARY:Buffalo Wild Wings 5K
+DESCRIPTION:Buffalo Wild Wings 5K . This 5K is open to all ages and levels of ability, so don't hesitate to bring the entire family. The Course will be on Ream Wilson Trail and Coachman Road.
+X-ALT-DESC;FMTTYPE=text/html:Buffalo Wild Wings 5K . This 5K is open to all ages and levels of ability, so don't hesitate to bring the entire family. The Course will be on Ream Wilson Trail and Coachman Road.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

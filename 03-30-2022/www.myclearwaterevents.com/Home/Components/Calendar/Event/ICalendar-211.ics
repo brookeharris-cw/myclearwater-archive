@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171102T142929
+DTSTART:20171125T090000
+DTEND:20171125T140000
+SUMMARY:Grand Opening of Downtown Clearwater Farmers Market
+DESCRIPTION:<p><p style="text-align: center;"></p></p><h1 style="text-align: center;">Join us for the Grand Opening of our </h1><h1 style="text-align: center;">New WEEKLY Farmer's Market </h1><h1 style="text-align: center;"> in Downtown Clearwater!</h1><h2 style="text-align: center;"><span style="color: rgb(192, 80, 77);">Every Saturday from 9am till 2pm.&nbsp;</span></h2><p style="text-align: center;">&nbsp;</p><h3 style="text-align: center;">Shop over 100+ vendors, fresh local produce, live music and much more! </h3><h3 style="text-align: center;">We are also pet and family friendly!</h3><h3 style="text-align: center;">Stay tuned for more details!&nbsp;</h3>
+X-ALT-DESC;FMTTYPE=text/html:<p><p style="text-align: center;"></p></p><h1 style="text-align: center;">Join us for the Grand Opening of our </h1><h1 style="text-align: center;">New WEEKLY Farmer's Market </h1><h1 style="text-align: center;"> in Downtown Clearwater!</h1><h2 style="text-align: center;"><span style="color: rgb(192, 80, 77);">Every Saturday from 9am till 2pm.&nbsp;</span></h2><p style="text-align: center;">&nbsp;</p><h3 style="text-align: center;">Shop over 100+ vendors, fresh local produce, live music and much more! </h3><h3 style="text-align: center;">We are also pet and family friendly!</h3><h3 style="text-align: center;">Stay tuned for more details!&nbsp;</h3>
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

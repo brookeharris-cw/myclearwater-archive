@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220209T112609
+DTSTART:20220218T000000
+DTEND:20220218T235900
+SUMMARY:SPC Titan Trot
+DESCRIPTION:The SPC Titan trot 5K is a running&nbsp; race that begins at the Clearwater SPC campus and goes throughout Clearwater. The event's purpose is to raise scholarship money for our students.
+X-ALT-DESC;FMTTYPE=text/html:The SPC Titan trot 5K is a running&nbsp; race that begins at the Clearwater SPC campus and goes throughout Clearwater. The event's purpose is to raise scholarship money for our students.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170829T132746
+DTSTART:20171122T170000
+DTEND:20171122T235900
+SUMMARY:Turkey Trot Kick-Off Party
+DESCRIPTION:<strong>Wednesday, November 22 | 5:00-7:30 pm</strong><li>Turkey Trot Kick-Off Party<br>Jack White Stadium, Clearwater High School,&nbsp;<br>504 S. Hercules Ave, Clearwater, Fl<br>Come out and enjoy a FREE evening of snacks, music, fun. Purchase Official Times Trot merchandise.</li>
+X-ALT-DESC;FMTTYPE=text/html:<strong>Wednesday, November 22 | 5:00-7:30 pm</strong><li>Turkey Trot Kick-Off Party<br>Jack White Stadium, Clearwater High School,&nbsp;<br>504 S. Hercules Ave, Clearwater, Fl<br>Come out and enjoy a FREE evening of snacks, music, fun. Purchase Official Times Trot merchandise.</li>
+LOCATION:Clearwater High School\, 540 S Hercules  Ave Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

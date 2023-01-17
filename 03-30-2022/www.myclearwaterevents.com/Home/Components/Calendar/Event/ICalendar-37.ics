@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T092231
+DTSTART:20220219T000000
+DTEND:20220219T235900
+SUMMARY:Clearwater Lawn Bowling Club Women's Triple
+DESCRIPTION:Women's Lawn Boling Triples
+X-ALT-DESC;FMTTYPE=text/html:Women's Lawn Boling Triples
+LOCATION:Clearwater Lawn Bowling Club\, 1040 Calumet Street Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

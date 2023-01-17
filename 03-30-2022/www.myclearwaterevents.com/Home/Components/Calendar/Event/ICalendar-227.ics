@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171024T144438
+DTSTART:20171027T180000
+DTEND:20171027T213000
+SUMMARY:Downtown Funk Masquerade Party
+DESCRIPTION:<p>The Downtown Clearwater Merchants Association invites you to the 3rd Annual Downtown Funk Block Party and Bar Crawl.&nbsp;<br><br>Join the FREE, Family-Friendly Street Fest to Celebrate Halloween. Events include:</p><p >* Street DJ<br>* Costume Contest<br>* Photo Booth<br>* Live Games<br>* Trick or Treating<br>* Pumpkin Carving<br>* Awesome Vendors<br>* Sweets &amp; More!<br><br>And starting at 8 PM, Adults will crawl from bar to bar for 7 FREE BEERS with the purchase of $15 wristband.&nbsp;This event is sponsored by the Downtown Development Board and the Community Redevelopment Agency.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>The Downtown Clearwater Merchants Association invites you to the 3rd Annual Downtown Funk Block Party and Bar Crawl.&nbsp;<br><br>Join the FREE, Family-Friendly Street Fest to Celebrate Halloween. Events include:</p><p >* Street DJ<br>* Costume Contest<br>* Photo Booth<br>* Live Games<br>* Trick or Treating<br>* Pumpkin Carving<br>* Awesome Vendors<br>* Sweets &amp; More!<br><br>And starting at 8 PM, Adults will crawl from bar to bar for 7 FREE BEERS with the purchase of $15 wristband.&nbsp;This event is sponsored by the Downtown Development Board and the Community Redevelopment Agency.</p>
+LOCATION:Cleveland Street District\, 33756
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

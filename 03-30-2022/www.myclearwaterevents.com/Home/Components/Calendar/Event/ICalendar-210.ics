@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170829T133243
+DTSTART:20171123T070000
+DTEND:20171123T235900
+SUMMARY:Turkey Trot
+DESCRIPTION:<h2>TAMPA BAY TIMES TURKEY TROT</h2><p>Online <a href="http://www.tampabay.com/marketing/turkey-trot.page" target="_blank">Registration</a> begins September 1, 2017</p><h3>Thanksgiving Day<br>November 23, 2017</h3><h3>5K Wingding</h3><p>Begins at 7:00 a.m.<br>$20 ($25 Race Day)</p><h3>5K Fun Run</h3><p>Begins at 8:40 a.m.<br>$20 ($25 Race Day)</p><h3>1 Mile Gobbler</h3><p>Begins at 8:20 a.m.<br>$15 ($20 Race Day)</p><h3>10K Turkey Trot</h3><p>Begins at 9:00 a.m.<br>$20 ($25 Race Day)</p><h3>Clearwater Challenge</h3><p>5K Begins at 7:00 a.m.<br>1 Mile Begins at 8:20 a.m.<br>10K Begins at 9:00 a.m.<br>$40 ($50 Race Day)</p>
+X-ALT-DESC;FMTTYPE=text/html:<h2>TAMPA BAY TIMES TURKEY TROT</h2><p>Online <a href="http://www.tampabay.com/marketing/turkey-trot.page" target="_blank">Registration</a> begins September 1, 2017</p><h3>Thanksgiving Day<br>November 23, 2017</h3><h3>5K Wingding</h3><p>Begins at 7:00 a.m.<br>$20 ($25 Race Day)</p><h3>5K Fun Run</h3><p>Begins at 8:40 a.m.<br>$20 ($25 Race Day)</p><h3>1 Mile Gobbler</h3><p>Begins at 8:20 a.m.<br>$15 ($20 Race Day)</p><h3>10K Turkey Trot</h3><p>Begins at 9:00 a.m.<br>$20 ($25 Race Day)</p><h3>Clearwater Challenge</h3><p>5K Begins at 7:00 a.m.<br>1 Mile Begins at 8:20 a.m.<br>10K Begins at 9:00 a.m.<br>$40 ($50 Race Day)</p>
+LOCATION:Clearwater High School\, 540 S Hercules  Ave Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

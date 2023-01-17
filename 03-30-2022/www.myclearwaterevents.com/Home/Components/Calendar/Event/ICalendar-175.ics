@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180222T155750
+DTSTART:20180223T170000
+DTEND:20180223T220000
+SUMMARY:Blues Walk
+DESCRIPTION:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Blues Walk&nbsp;</strong></p><p style="text-align: center;"><strong></strong></p><p style="text-align: center;">Come join us at out Clearwater Blues Walk in Downtown Clearwater,&nbsp;where you can jam out to some Blues tunes!</p><p style="text-align: center;">RJ Howson, Easy Street Band, Ellie Lee and Blues Fury will be performing for us for a spectacular evening!</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><a href="https://www.rutheckerdhall.com/reh-road/locations/blast-friday-clearwater" target="_blank">Blast Friday</a>&nbsp;<span style="text-align: left;">will be held in the same area, making this evening even more exciting!</span></p><p style="text-align: center;">The Romantics will be joining us, as well as Brand Zadan, and Mamas Batch.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Blues Walk&nbsp;</strong></p><p style="text-align: center;"><strong></strong></p><p style="text-align: center;">Come join us at out Clearwater Blues Walk in Downtown Clearwater,&nbsp;where you can jam out to some Blues tunes!</p><p style="text-align: center;">RJ Howson, Easy Street Band, Ellie Lee and Blues Fury will be performing for us for a spectacular evening!</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><a href="https://www.rutheckerdhall.com/reh-road/locations/blast-friday-clearwater" target="_blank">Blast Friday</a>&nbsp;<span style="text-align: left;">will be held in the same area, making this evening even more exciting!</span></p><p style="text-align: center;">The Romantics will be joining us, as well as Brand Zadan, and Mamas Batch.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220114T113857
+DTSTART:20220115T110000
+DTEND:20220115T130000
+SUMMARY:Kapok Park Cleanup
+DESCRIPTION:This event is organized by community member Connor Houlahan who will be onsite to lead this project.<br><br>Let's help keep Kapok Park beautiful and free of human caused pollution! The waterways in particular have begun to collect large amounts of plastics and non biodegradable refuse that we can remove and dispose of. Meeting at the park entrance located at 2950 Glen Oak Ave N, Clearwater, FL 33759 this Saturday at 11:00AM. Email Connor Houlahan at johnchoula@gmail.com for questions.
+X-ALT-DESC;FMTTYPE=text/html:This event is organized by community member Connor Houlahan who will be onsite to lead this project.<br><br>Let's help keep Kapok Park beautiful and free of human caused pollution! The waterways in particular have begun to collect large amounts of plastics and non biodegradable refuse that we can remove and dispose of. Meeting at the park entrance located at 2950 Glen Oak Ave N, Clearwater, FL 33759 this Saturday at 11:00AM. Email Connor Houlahan at johnchoula@gmail.com for questions.
+LOCATION:Kapok Park\, 2950 Glen Oak Ave N Clearwater\, Florida 33759
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

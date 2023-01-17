@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170919T112405
+DTSTART:20171019T000000
+DTEND:20171022T235900
+SUMMARY:Cooters 24th Annual Stone Crab Fest
+DESCRIPTION:<p>Dig into one of Florida's favorite seafood delicacies at Cooters Restaurant &amp; Bar as the Stone Crab season begins! Cooters 24th Annual Crab Fest returns Thursday - Sunday, Oct. 19-22. The event features fresh off the boat Florida Stone Crab plus other crab varieties including King, Snow and Dungeness Crab, all at wholesale prices. In addition, the festival will have live music on stage!</p><p>During Crab Fest, Cooters will serve fresh (never frozen) Florida Stone Crab. The claws can be ordered hot with drawn butter, or cold with Cooters signature house-made sauce. The claws are are semi-cracked in the kitchen just prior to serving, and diners are provided with mallets and crab forks.</p><p>Although Stone Crab are the headliners, Cooters will also dish up pounds of Snow, Kind, and Dungeness Crab legs, which are served piping hot with melted butter. For the ultimate culinary delight, try Cooters' Crab Feast Platter, which is loaded with an array of all of the varieties of crab.</p><p>Cooters Crab Fest is a family friendly event and there is not cover charge.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Dig into one of Florida's favorite seafood delicacies at Cooters Restaurant &amp; Bar as the Stone Crab season begins! Cooters 24th Annual Crab Fest returns Thursday - Sunday, Oct. 19-22. The event features fresh off the boat Florida Stone Crab plus other crab varieties including King, Snow and Dungeness Crab, all at wholesale prices. In addition, the festival will have live music on stage!</p><p>During Crab Fest, Cooters will serve fresh (never frozen) Florida Stone Crab. The claws can be ordered hot with drawn butter, or cold with Cooters signature house-made sauce. The claws are are semi-cracked in the kitchen just prior to serving, and diners are provided with mallets and crab forks.</p><p>Although Stone Crab are the headliners, Cooters will also dish up pounds of Snow, Kind, and Dungeness Crab legs, which are served piping hot with melted butter. For the ultimate culinary delight, try Cooters' Crab Feast Platter, which is loaded with an array of all of the varieties of crab.</p><p>Cooters Crab Fest is a family friendly event and there is not cover charge.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

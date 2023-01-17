@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170726T114237
+DTSTART:20171112T090000
+DTEND:20171112T160000
+SUMMARY:Christmas Under the Oaks Arts & Crafts Show
+DESCRIPTION:<p>Arts &amp; Crafts show with food truck rally and non-alcoholic beverages. </p><p>Gates open 9:00 a.m. to 4:00 p.m.<br>$3 donation; kids under 12 free<br>Certified Service Animals only.&nbsp;</p><p>Proceeds from the show benefit the scholarships, grants, and community service projects of the GFWC Pinellas Woman's Club.</p><p>For more info visit:&nbsp;<a href="http://www.gfwcnpwc.org/christmas-under-the-oaks.html" target="_blank">http://www.gfwcnpwc.org/christmas-under-the-oaks.html</a></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Arts &amp; Crafts show with food truck rally and non-alcoholic beverages. </p><p>Gates open 9:00 a.m. to 4:00 p.m.<br>$3 donation; kids under 12 free<br>Certified Service Animals only.&nbsp;</p><p>Proceeds from the show benefit the scholarships, grants, and community service projects of the GFWC Pinellas Woman's Club.</p><p>For more info visit:&nbsp;<a href="http://www.gfwcnpwc.org/christmas-under-the-oaks.html" target="_blank">http://www.gfwcnpwc.org/christmas-under-the-oaks.html</a></p>
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

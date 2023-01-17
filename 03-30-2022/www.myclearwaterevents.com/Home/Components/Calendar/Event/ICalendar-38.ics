@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T112430
+DTSTART:20220219T000000
+DTEND:20220219T235900
+SUMMARY:Stroll And Strum Downtown
+DESCRIPTION:Stroll And Strum Downtown Clearwater on 400 Block of Cleveland ST., you can find a ukelele sip and strum contest.
+X-ALT-DESC;FMTTYPE=text/html:Stroll And Strum Downtown Clearwater on 400 Block of Cleveland ST., you can find a ukelele sip and strum contest.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171229T091744
+DTSTART:20180106T120000
+DTEND:20180106T200000
+SUMMARY:Fiesta De Reyes
+DESCRIPTION:<p><p style="text-align: center;">&nbsp;</p></p><h2 style="text-align: center;">Saturday Jan. 6th 2018</h2><h2 style="text-align: center;">12:00 - 8:00 PM&nbsp;</h2><h2 style="text-align: center;">500 Block in Downtown Clearwater</h2><h3 style="text-align: center;"><em>in front of Fondita De Leo</em></h3><h2 style="text-align: center;">&nbsp;</h2><h2 style="text-align: center;">FREE for EVERYONE&nbsp;</h2><h2 style="text-align: center;">Latin Music, Food, Activities for Kids, Family Friendly</h2><p><br /></p>
+X-ALT-DESC;FMTTYPE=text/html:<p><p style="text-align: center;">&nbsp;</p></p><h2 style="text-align: center;">Saturday Jan. 6th 2018</h2><h2 style="text-align: center;">12:00 - 8:00 PM&nbsp;</h2><h2 style="text-align: center;">500 Block in Downtown Clearwater</h2><h3 style="text-align: center;"><em>in front of Fondita De Leo</em></h3><h2 style="text-align: center;">&nbsp;</h2><h2 style="text-align: center;">FREE for EVERYONE&nbsp;</h2><h2 style="text-align: center;">Latin Music, Food, Activities for Kids, Family Friendly</h2><p><br /></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

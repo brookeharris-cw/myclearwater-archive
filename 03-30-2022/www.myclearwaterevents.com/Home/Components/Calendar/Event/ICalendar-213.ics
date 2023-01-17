@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170921T152507
+DTSTART:20171002T130000
+DTEND:20171002T140000
+SUMMARY:Yoga at Station Square Park
+DESCRIPTION:<p>Yoga instructor Christine Knox will lead a drop-in, donations-only yoga class in Station Square Park.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Yoga instructor Christine Knox will lead a drop-in, donations-only yoga class in Station Square Park.</p>
+LOCATION:Station Square Park\, 612 Cleveland St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

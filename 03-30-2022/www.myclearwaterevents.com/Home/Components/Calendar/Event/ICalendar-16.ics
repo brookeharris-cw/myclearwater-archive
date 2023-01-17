@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T123438
+DTSTART:20220318T190000
+DTEND:20220318T210000
+SUMMARY:Dive-In Movie: Shark Tale
+DESCRIPTION:<p>Bring your float and friends to enjoy a movie in the pool.&nbsp;</p><div></div>
+X-ALT-DESC;FMTTYPE=text/html:<p>Bring your float and friends to enjoy a movie in the pool.&nbsp;</p><div></div>
+LOCATION:Long Center\, 1501 N Belcher Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

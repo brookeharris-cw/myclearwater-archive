@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T094422
+DTSTART:20220521T150000
+DTEND:20220521T200000
+SUMMARY:Shopping with a Vibe
+DESCRIPTION:Enjoy live entertainment, games, foodie competitions, arts and crafts, line dancing, bounce houses and some of the best food in town at Walter C. Campbell Park.<u1:p>&nbsp;</u1:p>
+X-ALT-DESC;FMTTYPE=text/html:Enjoy live entertainment, games, foodie competitions, arts and crafts, line dancing, bounce houses and some of the best food in town at Walter C. Campbell Park.<u1:p>&nbsp;</u1:p>
+LOCATION:Walter C Campbell Park\, 801 N Martin Luther King Jr Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210908T183359
+DTSTART:20211016T000000
+DTEND:20211017T235900
+SUMMARY:Hispanic Farmers Market
+DESCRIPTION:<p>The Clearwater Hispanic Farmers Market welcomes the community to honor and celebrate the local hispanic heritage in Clearwater. The farmers market will create a cultural experience enriched by our local farmers, vendors, artisans, craft-makers, and folklore performances in Downtown Clearwater.<br><br>We believe in supporting small businesses to build a stronger community of intercultural heritages and establish the market as a landmark attraction in the heart of downtown Clearwater.&nbsp;</p><p>Hours: 9 a.m.-3 p.m.</p><p>For more information, visit&nbsp;<a href="https://protect-us.mimecast.com/s/tziJCrk6kOh8O6JXt4Dl1Z?domain=clwhispanicfarmersmarket.com" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">clwhispanicfarmersmarket.com</a>&nbsp;.</p><p><div></div></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>The Clearwater Hispanic Farmers Market welcomes the community to honor and celebrate the local hispanic heritage in Clearwater. The farmers market will create a cultural experience enriched by our local farmers, vendors, artisans, craft-makers, and folklore performances in Downtown Clearwater.<br><br>We believe in supporting small businesses to build a stronger community of intercultural heritages and establish the market as a landmark attraction in the heart of downtown Clearwater.&nbsp;</p><p>Hours: 9 a.m.-3 p.m.</p><p>For more information, visit&nbsp;<a href="https://protect-us.mimecast.com/s/tziJCrk6kOh8O6JXt4Dl1Z?domain=clwhispanicfarmersmarket.com" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">clwhispanicfarmersmarket.com</a>&nbsp;.</p><p><div></div></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

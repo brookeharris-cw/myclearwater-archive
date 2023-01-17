@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171013T143307
+DTSTART:20171023T190000
+DTEND:20171023T235900
+SUMMARY:Pops in the Park in Clearwater
+DESCRIPTION:<p><strong>POPS IN THE PARK IN&nbsp;CLEARWATER<br></strong>Monday, October 23, 7:00 p.m.<br>Coachman Park, Clearwater<br><em>Please note, no outside food or drinks are permitted at Coachman Park.</em>&nbsp;</p><p>You bring the date – or the whole family! – and we’ll provide the lively symphonic music, for free. Gates open at 5:30 p.m. &nbsp;We’ll also collect canned goods for Tampa Bay Harvest.</p><p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>POPS IN THE PARK IN&nbsp;CLEARWATER<br></strong>Monday, October 23, 7:00 p.m.<br>Coachman Park, Clearwater<br><em>Please note, no outside food or drinks are permitted at Coachman Park.</em>&nbsp;</p><p>You bring the date – or the whole family! – and we’ll provide the lively symphonic music, for free. Gates open at 5:30 p.m. &nbsp;We’ll also collect canned goods for Tampa Bay Harvest.</p><p>&nbsp;</p>
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

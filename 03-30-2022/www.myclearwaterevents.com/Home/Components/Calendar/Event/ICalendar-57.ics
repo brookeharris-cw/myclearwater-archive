@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20211129T171332
+DTSTART:20211211T090000
+DTEND:20211211T140000
+SUMMARY:The Market Marie
+DESCRIPTION:<p data-uw-rm-mod="">An outdoor farmer’s market is coming to downtown Clearwater every second Saturday! Join more than 40 vendors to discover and buy fresh produce, flowers, jewelry, accessories, food trucks, candles, skin care, art, thrifted clothes, pet goodies, vegan and baked goods, and more!</p><div></div>
+X-ALT-DESC;FMTTYPE=text/html:<p data-uw-rm-mod="">An outdoor farmer’s market is coming to downtown Clearwater every second Saturday! Join more than 40 vendors to discover and buy fresh produce, flowers, jewelry, accessories, food trucks, candles, skin care, art, thrifted clothes, pet goodies, vegan and baked goods, and more!</p><div></div>
+LOCATION:701 Court Street 
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

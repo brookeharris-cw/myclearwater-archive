@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220202T115308
+DTSTART:20220201T120000
+DTEND:20220206T120000
+SUMMARY:U.S. Open Sailing Series
+DESCRIPTION:US Sailing is thrilled to launch a new domestic racing and training series of Olympic-class regattas in 2021. The West Marine U.S. Open Sailing Series offers high-quality Olympic-class racing.<br><br>US Sailing and the U.S. racing community has identified a need for a racing and training platform based in the United States that serves to provide a runway to the Olympic Games for prospective athletes.<br><br>This collaborate initiative provides world-class coaching support to promising American youth sailors competing in high-performance classes.
+X-ALT-DESC;FMTTYPE=text/html:US Sailing is thrilled to launch a new domestic racing and training series of Olympic-class regattas in 2021. The West Marine U.S. Open Sailing Series offers high-quality Olympic-class racing.<br><br>US Sailing and the U.S. racing community has identified a need for a racing and training platform based in the United States that serves to provide a runway to the Olympic Games for prospective athletes.<br><br>This collaborate initiative provides world-class coaching support to promising American youth sailors competing in high-performance classes.
+LOCATION:Clearwater Community Sailing Center\, 1001 Gulf Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

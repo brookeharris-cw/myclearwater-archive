@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170829T133628
+DTSTART:20171202T000000
+DTEND:20171203T235900
+SUMMARY:Uncorked
+DESCRIPTION:Stay tuned for more exciting details for this years' schedule of events!
+X-ALT-DESC;FMTTYPE=text/html:Stay tuned for more exciting details for this years' schedule of events!
+LOCATION:Pier 60\, 1 Causeway Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

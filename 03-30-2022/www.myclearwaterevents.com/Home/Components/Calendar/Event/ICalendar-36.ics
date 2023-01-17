@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T091054
+DTSTART:20220219T000000
+DTEND:20220219T235900
+SUMMARY:Clearwater Lawn Bowling Triples Tournament
+DESCRIPTION:Lawn Bowling Triple Tournament
+X-ALT-DESC;FMTTYPE=text/html:Lawn Bowling Triple Tournament
+LOCATION:Clearwater Lawn Bowling Club\, 1040 Calumet Street Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

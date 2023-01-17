@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180129T074107
+DTSTART:20180224T000000
+DTEND:20180225T235900
+SUMMARY:2018 Clearwater Sea-Blues Festival
+DESCRIPTION:<p>These are the official dates for the 2018 Clearwater Sea-Blues Festival!! </p><p></p><p>&nbsp;</p><p>Sponsored in part by:</p><p></p><p>&nbsp;</p><p><a href="http://www.homeadvisor.com/c.Clearwater.FL.html?showAll=true">http://www.homeadvisor.com/c.Clearwater.FL.html?showAll=true</a></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>These are the official dates for the 2018 Clearwater Sea-Blues Festival!! </p><p></p><p>&nbsp;</p><p>Sponsored in part by:</p><p></p><p>&nbsp;</p><p><a href="http://www.homeadvisor.com/c.Clearwater.FL.html?showAll=true">http://www.homeadvisor.com/c.Clearwater.FL.html?showAll=true</a></p>
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

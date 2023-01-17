@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180228T135651
+DTSTART:20180222T070000
+DTEND:20180222T080000
+SUMMARY:Self Defense in the Park
+DESCRIPTION:<p>Come train for the unexpected for FREE at Station Square Park!</p><p>Sponsored by Anytime Fitness and the CRA.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Come train for the unexpected for FREE at Station Square Park!</p><p>Sponsored by Anytime Fitness and the CRA.</p>
+LOCATION:Station Square Park\, 612 Cleveland St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

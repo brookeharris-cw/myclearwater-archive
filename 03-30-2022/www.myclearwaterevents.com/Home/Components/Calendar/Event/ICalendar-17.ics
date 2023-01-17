@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T094116
+DTSTART:20220326T150000
+DTEND:20220326T200000
+SUMMARY:Shopping With a Vibe Presents Reggae and Seafood Fest
+DESCRIPTION:<p>The second installment of this exciting new market. There will be vendors, live entertainment, food trucks, raffles, spoken word/poetry, arts &amp; crafts, bounce houses and some of the best food in town.<u1:p>&nbsp;</u1:p></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>The second installment of this exciting new market. There will be vendors, live entertainment, food trucks, raffles, spoken word/poetry, arts &amp; crafts, bounce houses and some of the best food in town.<u1:p>&nbsp;</u1:p></p>
+LOCATION:Walter C Campbell Park\, 801 N Martin Luther King Jr Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

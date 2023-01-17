@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170817T162634
+DTSTART:20171005T173000
+DTEND:20171005T190000
+SUMMARY:Pinellas Technical College Open House
+DESCRIPTION:<p>Open House Location:</p><p style="margin-left: 40px;"> <br><strong><span style="text-decoration: underline;">St. Petersburg Campus</span></strong> – Thursday October 5, 2017 5:30 p.m. to 7:00 p.m.<br>901 34th Street St. Petersburg, FL 33711 (727) 893-2500<br><br>Pinellas Technical College offers more than 50 different technical training programs in a <br>variety of professions currently in high demand. For more information visit our campus <br>anytime Monday-Friday 7:00 a.m. to 2:00 p.m. Registration starts NOW for our term <br>beginning October 17, 2017. Opportunity Starts Here! <a href="http://www.myptc.edu">www.myptc.edu</a></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Open House Location:</p><p style="margin-left: 40px;"> <br><strong><span style="text-decoration: underline;">St. Petersburg Campus</span></strong> – Thursday October 5, 2017 5:30 p.m. to 7:00 p.m.<br>901 34th Street St. Petersburg, FL 33711 (727) 893-2500<br><br>Pinellas Technical College offers more than 50 different technical training programs in a <br>variety of professions currently in high demand. For more information visit our campus <br>anytime Monday-Friday 7:00 a.m. to 2:00 p.m. Registration starts NOW for our term <br>beginning October 17, 2017. Opportunity Starts Here! <a href="http://www.myptc.edu">www.myptc.edu</a></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

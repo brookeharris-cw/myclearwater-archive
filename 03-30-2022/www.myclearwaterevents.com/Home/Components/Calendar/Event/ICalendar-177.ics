@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180215T152311
+DTSTART:20180224T100000
+DTEND:20180224T160000
+SUMMARY:Farmer's Market Grand Opening
+DESCRIPTION:<p style="text-align: center;"><strong>Farmers Market Grand Opening!</strong></p><p style="text-align: center;">10:00 AM to 4:00 PM</p><p style="text-align: center;">Located in Coachman Park</p><p style="text-align: center;">&nbsp;301 Drew St, Clearwater, FL 33755</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">After event, Farmers Market will be opened weekly on Saturdays from 10:00 AM to 2:00 PM</p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"><strong>Farmers Market Grand Opening!</strong></p><p style="text-align: center;">10:00 AM to 4:00 PM</p><p style="text-align: center;">Located in Coachman Park</p><p style="text-align: center;">&nbsp;301 Drew St, Clearwater, FL 33755</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">After event, Farmers Market will be opened weekly on Saturdays from 10:00 AM to 2:00 PM</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

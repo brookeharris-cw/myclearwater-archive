@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220316T093928
+DTSTART:20220330T190000
+DTEND:20220330T203000
+SUMMARY:Free Lecture: America’s Everglades: Through the Lens of Clyde Butcher
+DESCRIPTION:<div><p>Come see world-renowned Florida Artists Hall of Fame photographer Clyde Butcher hold a lecture on Wednesday, March 30 at 7 p.m. at the historic Bilheimer Capitol Theatre to discuss his legendary career and artwork captured from his beloved Everglades.&nbsp;&nbsp;</p><p>This free lecture takes place steps away from his exhibit&nbsp;<i>America’s Everglades: Through the Lens of Clyde Butcher</i>&nbsp;currently on display at the Clearwater Main Library, 100 N. Osceola Ave., in Downtown Clearwater. Hours to view the free exhibit at the library will be extended to 9 p.m. on March 30. For more information on the exhibit and lecture, visit&nbsp;<a href="http://www.downtownclearwater.com/clydebutcher" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">downtownclearwater.com/clydebutcher</a>.&nbsp;</p></div><div></div>
+X-ALT-DESC;FMTTYPE=text/html:<div><p>Come see world-renowned Florida Artists Hall of Fame photographer Clyde Butcher hold a lecture on Wednesday, March 30 at 7 p.m. at the historic Bilheimer Capitol Theatre to discuss his legendary career and artwork captured from his beloved Everglades.&nbsp;&nbsp;</p><p>This free lecture takes place steps away from his exhibit&nbsp;<i>America’s Everglades: Through the Lens of Clyde Butcher</i>&nbsp;currently on display at the Clearwater Main Library, 100 N. Osceola Ave., in Downtown Clearwater. Hours to view the free exhibit at the library will be extended to 9 p.m. on March 30. For more information on the exhibit and lecture, visit&nbsp;<a href="http://www.downtownclearwater.com/clydebutcher" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">downtownclearwater.com/clydebutcher</a>.&nbsp;</p></div><div></div>
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

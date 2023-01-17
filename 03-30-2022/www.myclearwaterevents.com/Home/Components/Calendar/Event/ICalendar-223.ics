@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170829T122930
+DTSTART:20171020T160000
+DTEND:20171020T235900
+SUMMARY:Experience the Celebration!
+DESCRIPTION:For lineup and tickets, visit <a href="https://www.clearwaterjazz.com/" target="_blank">here</a>.
+X-ALT-DESC;FMTTYPE=text/html:For lineup and tickets, visit <a href="https://www.clearwaterjazz.com/" target="_blank">here</a>.
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

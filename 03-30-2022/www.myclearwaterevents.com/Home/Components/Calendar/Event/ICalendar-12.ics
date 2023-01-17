@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T111924
+DTSTART:20220305T000000
+DTEND:20220305T235900
+SUMMARY:Market Marie Downtown
+DESCRIPTION:Market Marie visit this outdoor market every second Saturday of the month in Downtown Clearwater
+X-ALT-DESC;FMTTYPE=text/html:Market Marie visit this outdoor market every second Saturday of the month in Downtown Clearwater
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

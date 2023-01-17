@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180125T185240
+DTSTART:20180127T040000
+DTEND:20180127T185900
+SUMMARY:NHL All Star Beach Bash
+DESCRIPTION:<p style="text-align: center;"></p><h2 style="text-align: center;">SATURDAY Jan. 27, 2018</h2><h2 style="text-align: center;">Pier 60 on Clearwater Beach</h2><h2 style="text-align: center;">9:00AM - 4:00PM</h2><h2 style="text-align: center;">&nbsp;</h2><h3 style="text-align: center;">Come watch the Tampa Bay Lighting Youth League play some hockey on the #1 Beach in America!</h3><h3 style="text-align: center;">We are honored to have the Stanley Cup available to take pictures with from 9am-10am! </h3><h3 style="text-align: center;">VIP party starts at 11:00AM&nbsp;</h3>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"></p><h2 style="text-align: center;">SATURDAY Jan. 27, 2018</h2><h2 style="text-align: center;">Pier 60 on Clearwater Beach</h2><h2 style="text-align: center;">9:00AM - 4:00PM</h2><h2 style="text-align: center;">&nbsp;</h2><h3 style="text-align: center;">Come watch the Tampa Bay Lighting Youth League play some hockey on the #1 Beach in America!</h3><h3 style="text-align: center;">We are honored to have the Stanley Cup available to take pictures with from 9am-10am! </h3><h3 style="text-align: center;">VIP party starts at 11:00AM&nbsp;</h3>
+LOCATION:Clearwater Beach\, 160 Gulfview Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

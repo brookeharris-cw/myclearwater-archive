@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T112416
+DTSTART:20221231T000000
+DTEND:20221231T001500
+SUMMARY:Light It Up Clearwater
+DESCRIPTION:Hosted by Amplify Clearwater, this event allows residents and visitors to relax with their toes in the sand, watch one of Clearwater's world-famous sunsets, grab a bite to eat and then ring in the New Year with fireworks at midnight!&nbsp;&nbsp;Fireworks are launched from Sand Key Park, but the viewing location is the southern part of Clearwater Beach.
+X-ALT-DESC;FMTTYPE=text/html:Hosted by Amplify Clearwater, this event allows residents and visitors to relax with their toes in the sand, watch one of Clearwater's world-famous sunsets, grab a bite to eat and then ring in the New Year with fireworks at midnight!&nbsp;&nbsp;Fireworks are launched from Sand Key Park, but the viewing location is the southern part of Clearwater Beach.
+LOCATION:Clearwater Beach\, 160 Gulfview Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T121445
+DTSTART:20190527T103000
+DTEND:20190527T143000
+SUMMARY:Memorial Day Clearwater
+DESCRIPTION:<p><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Memorial Day with the Tampa Bay Vet. @ Crest Lake Park (201 S Glenwood Ave, Clearwater, FL 33755)</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong></strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Memorial Day with the Tampa Bay Vet. @ Crest Lake Park (201 S Glenwood Ave, Clearwater, FL 33755)</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong></strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

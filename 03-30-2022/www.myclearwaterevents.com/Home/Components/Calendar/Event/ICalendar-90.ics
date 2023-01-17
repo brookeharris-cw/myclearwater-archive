@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20201028T131251
+DTSTART:20201030T180000
+DTEND:20201030T235900
+SUMMARY:Halloween JuBOOlee
+DESCRIPTION:<div><h2>Halloween JuBOOlee</h2></div><div>Friday, Oct. 30, 6-8:30 p.m.</div><ul>    <li>2400 Harn Blvd.&nbsp;</li>    <li>Celebrate Halloween at the Morningside Recreation Complex. Take part in a fun Halloween trail and play fun games along the way, get candy and create crafts. Free!</li>    <li>Please wear a face covering and call (727) 562-4280 to reserve a time.&nbsp;</li></ul><p>&nbsp;<a href="https://www.myclearwater.com/news-info/halloween-2020">https://www.myclearwater.com/news-info/halloween-2020</a></p><p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<div><h2>Halloween JuBOOlee</h2></div><div>Friday, Oct. 30, 6-8:30 p.m.</div><ul>    <li>2400 Harn Blvd.&nbsp;</li>    <li>Celebrate Halloween at the Morningside Recreation Complex. Take part in a fun Halloween trail and play fun games along the way, get candy and create crafts. Free!</li>    <li>Please wear a face covering and call (727) 562-4280 to reserve a time.&nbsp;</li></ul><p>&nbsp;<a href="https://www.myclearwater.com/news-info/halloween-2020">https://www.myclearwater.com/news-info/halloween-2020</a></p><p>&nbsp;</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

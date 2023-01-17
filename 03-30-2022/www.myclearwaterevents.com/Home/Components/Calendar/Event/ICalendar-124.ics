@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180809T103303
+DTSTART:20181013T000000
+DTEND:20181014T235900
+SUMMARY:St. Leo Tournament
+DESCRIPTION:<p style="text-align: center;">Located at Eddie C. Moore Softball Complex&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;">Located at Eddie C. Moore Softball Complex&nbsp;</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

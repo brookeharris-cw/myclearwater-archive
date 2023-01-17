@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220114T113929
+DTSTART:20220129T070000
+DTEND:20220130T064500
+SUMMARY:Clearwater Running Festival
+DESCRIPTION:The Clearwater Running Festival is home to America’s #1 beach and is just 22 miles from Tampa on Florida’s stunning west coast.  All of our courses in the Clearwater Running Festival take you past some of the most beautiful scenery with spectacular views of the Gulf, Inner Coastal and city. Finisher medals, post-race refreshments, overall and age group awards are just some of the take aways from this popular event.
+X-ALT-DESC;FMTTYPE=text/html:The Clearwater Running Festival is home to America’s #1 beach and is just 22 miles from Tampa on Florida’s stunning west coast.  All of our courses in the Clearwater Running Festival take you past some of the most beautiful scenery with spectacular views of the Gulf, Inner Coastal and city. Finisher medals, post-race refreshments, overall and age group awards are just some of the take aways from this popular event.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

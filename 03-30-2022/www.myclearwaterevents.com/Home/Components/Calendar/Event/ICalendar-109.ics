@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181108T152217
+DTSTART:20181215T160000
+DTEND:20181215T180000
+SUMMARY:Florida Brass Alumni Drum and Bugle Corps Holiday Concert
+DESCRIPTION:<p>&nbsp;</p><p style="text-align: center;">Enjoy a FREE concert in the park this season by the Florida Brass Alumni Drum and Bugle Corps. They will be performing your holiday favorites and more as the sun sets along the glowing waterfront. Stop in Downtown for dinner afterward and enjoy a savory dish from our restaurants. &nbsp;</p><p style="text-align: center;">Location: Coachman Park&nbsp;</p><p style="text-align: center;">Hours: 4-6pm&nbsp;</p><p style="text-align: center;"></p><p style="text-align: center;"></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp;</p><p style="text-align: center;">Enjoy a FREE concert in the park this season by the Florida Brass Alumni Drum and Bugle Corps. They will be performing your holiday favorites and more as the sun sets along the glowing waterfront. Stop in Downtown for dinner afterward and enjoy a savory dish from our restaurants. &nbsp;</p><p style="text-align: center;">Location: Coachman Park&nbsp;</p><p style="text-align: center;">Hours: 4-6pm&nbsp;</p><p style="text-align: center;"></p><p style="text-align: center;"></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20211027T121516
+DTSTART:20211113T123000
+DTEND:20211113T230000
+SUMMARY:Clearwater Sangria Festival
+DESCRIPTION:Enjoy local sangrias, wine and brews and experience music and art in Downtown Clearwater.
+X-ALT-DESC;FMTTYPE=text/html:Enjoy local sangrias, wine and brews and experience music and art in Downtown Clearwater.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

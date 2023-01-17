@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210907T194223
+DTSTART:20211021T000000
+DTEND:20211024T235900
+SUMMARY:Chalktober Art Festival
+DESCRIPTION:<p>Watch artists turn sidewalks and streets into chalkart at Chalktober Art Festival.&nbsp;</p><p>For more information, visit <a href="https://web.clearwaterflorida.org/events/AMPLIFYClearwaters%20Chalktober%20Art%20Festival%20Presented%20by%20Morton%20Plant%20Hospital%20-3652/details" target="_blank">Amplify Clearwater</a>.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Watch artists turn sidewalks and streets into chalkart at Chalktober Art Festival.&nbsp;</p><p>For more information, visit <a href="https://web.clearwaterflorida.org/events/AMPLIFYClearwaters%20Chalktober%20Art%20Festival%20Presented%20by%20Morton%20Plant%20Hospital%20-3652/details" target="_blank">Amplify Clearwater</a>.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

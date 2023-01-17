@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T104535
+DTSTART:20221117T000000
+DTEND:20221120T235900
+SUMMARY:Festival of Trees
+DESCRIPTION:It’s almost the most wonderful time of the year! Spread some holiday cheer, view beautifully decorated trees and wreaths, and visit Santa at The Long Center. All tree and wreath sales benefit those with intellectual and developmental disabilities served by The Arc Tampa Bay Foundation.
+X-ALT-DESC;FMTTYPE=text/html:It’s almost the most wonderful time of the year! Spread some holiday cheer, view beautifully decorated trees and wreaths, and visit Santa at The Long Center. All tree and wreath sales benefit those with intellectual and developmental disabilities served by The Arc Tampa Bay Foundation.
+LOCATION:Long Center\, 1501 N Belcher Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

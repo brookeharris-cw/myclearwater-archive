@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T093728
+DTSTART:20221209T183000
+DTEND:20221209T203000
+SUMMARY:Dive-In Movie: The Grinch
+DESCRIPTION:<p>Hang out and float around with your family and friends at Morningside Recreation Complex. Tickets are $2 with a recreation card and $3 without a recreation card. Visit myclearwater.com/morningside for movie details.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Hang out and float around with your family and friends at Morningside Recreation Complex. Tickets are $2 with a recreation card and $3 without a recreation card. Visit myclearwater.com/morningside for movie details.</p>
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

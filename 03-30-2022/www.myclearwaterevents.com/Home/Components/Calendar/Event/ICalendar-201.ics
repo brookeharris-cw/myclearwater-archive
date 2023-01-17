@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20171205T180106
+DTSTART:20171209T180000
+DTEND:20171209T220000
+SUMMARY:IEYC Holiday Boat Parade
+DESCRIPTION:Decorated vessels gather in Mandalay Channel and then proceed through navigable waters in Island Estates East to Clearwater Intracoastal Water Ways, then  South passing in front of Coachman Park &amp; Clearwater Harbor Marina for spectator viewing and the judging of the parade proceeding under the bridge then turning West along the causeway for further spectator viewing, then into the Clearwater Beach Marina circling in the basin, then South along navigable waters ending at Clearwater Point.&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:Decorated vessels gather in Mandalay Channel and then proceed through navigable waters in Island Estates East to Clearwater Intracoastal Water Ways, then  South passing in front of Coachman Park &amp; Clearwater Harbor Marina for spectator viewing and the judging of the parade proceeding under the bridge then turning West along the causeway for further spectator viewing, then into the Clearwater Beach Marina circling in the basin, then South along navigable waters ending at Clearwater Point.&nbsp;
+LOCATION:Coachman Park\, 301 Drew St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

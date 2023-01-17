@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220207T110834
+DTSTART:20220224T000000
+DTEND:20220225T235900
+SUMMARY:Pop Up Biergarten
+DESCRIPTION:<p>A traveling, traditional&nbsp; German-style Biergarten featuring beer from Munhen, the&nbsp; entire family is welcome . Bratwurst, hotdogs are available for purchase. the Biergartenis a dog-friend&nbsp;</p><p>&nbsp;(leashed). Participate in the nightly stein-hoisting competition.<div><br aria-hidden="true"></div></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>A traveling, traditional&nbsp; German-style Biergarten featuring beer from Munhen, the&nbsp; entire family is welcome . Bratwurst, hotdogs are available for purchase. the Biergartenis a dog-friend&nbsp;</p><p>&nbsp;(leashed). Participate in the nightly stein-hoisting competition.<div><br aria-hidden="true"></div></p>
+LOCATION:Station Square Park\, 612 Cleveland St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

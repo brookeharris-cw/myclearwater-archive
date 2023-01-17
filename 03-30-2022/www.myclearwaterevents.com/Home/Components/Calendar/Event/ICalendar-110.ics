@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181105T165010
+DTSTART:20181216T180000
+DTEND:20181216T210000
+SUMMARY:Movie Night “National Lampoon’s Christmas Vacation”
+DESCRIPTION:<p style="text-align: center;"></p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">It’s not all about the kids this Holiday season, grownups need a vacation too! Take a load off from your hectic work week and enjoy a FREE movie in Station Square Park. There will be sweets and treats provided and some for purchase, like green jell-o (don’t worry we’ll leave out the cat food), and eggnog in moose mugs! Come dressed in vacation clothes or your favorite ugly sweater and cozy up with your friends or loved one!&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"></p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">It’s not all about the kids this Holiday season, grownups need a vacation too! Take a load off from your hectic work week and enjoy a FREE movie in Station Square Park. There will be sweets and treats provided and some for purchase, like green jell-o (don’t worry we’ll leave out the cat food), and eggnog in moose mugs! Come dressed in vacation clothes or your favorite ugly sweater and cozy up with your friends or loved one!&nbsp;</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
