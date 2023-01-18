@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220718T172701
+DTSTART:20220722T180000
+DTEND:20220722T220000
+SUMMARY:Starry Night Presents: Summer Nights on Cleveland
+DESCRIPTION:<ul>    <li><u><b>Starry Night Presents: Summer Nights on Cleveland</b></u><br aria-hidden="true">    <ul>        <li>Friday, July 22<sup>nd</sup>&nbsp;</li>        <li>7:00pm - 10:00pm</li>        <li>Live music, market &amp; food vendors</li>        <li>Located on the 500/600 blocks of Cleveland Street</li>        <li></li>    </ul>    </li></ul>
+X-ALT-DESC;FMTTYPE=text/html:<ul>    <li><u><b>Starry Night Presents: Summer Nights on Cleveland</b></u><br aria-hidden="true">    <ul>        <li>Friday, July 22<sup>nd</sup>&nbsp;</li>        <li>7:00pm - 10:00pm</li>        <li>Live music, market &amp; food vendors</li>        <li>Located on the 500/600 blocks of Cleveland Street</li>        <li></li>    </ul>    </li></ul>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
