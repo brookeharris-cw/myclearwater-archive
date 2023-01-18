@@ -1,0 +1,1892 @@
+Uri: http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2015/07/taylor-lautner-photography-wireless-festival-social.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\wp-content\uploads\headlines\2015\07\taylor-lautner-photography-wireless-festival-social.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.userway.org/widget.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\widget.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);@import url(//fonts.googleapis.com/css?family=Oswald:400,300,700);@import url(//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);@media screen and (min-width:48em){.main_menu_widget{margin-top:-58px;display:block;margin-bottom:85px}.mainSpan_wrapper .main_menu_widget{margin-bottom:123px}.mainnav{width:100%25;margin:0 auto;max-width:730px;box-shadow:0 0 0 transparent;display:block}.dropdownmenu{padding:5px 46px 5px 5px;width:73%25;display:table;float:right;background-color:rgba(255,255,255,.5);border-radius:10px}.dropdownmenu ul{left:0;font-size:12px;background:
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\css-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,300,700
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://s.yimg.com/zz/combo?/a/i/us/we/52/30.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\zz\combo.gif
+Content Type: image/gif
+
+Uri: https://siteimproveanalytics.com/js/siteanalyze_9566.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\js\siteanalyze_9566.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-787310303
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.myclearwaterevents.com/
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\index.htm
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_diagonals-thick_18_b81900_40x40.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_diagonals-thick_20_666666_40x40.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_diagonals-thick_20_666666_40x40.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_glass_100_f6f6f6_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_glass_100_f6f6f6_1x400.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_glass_100_fdf5ce_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_glass_100_fdf5ce_1x400.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_gloss-wave_35_f6a828_500x100.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_highlight-soft_100_eeeeee_1x100.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-bg_highlight-soft_75_ffe45c_1x100.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-icons_222222_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-icons_228ef1_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-icons_228ef1_256x240.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-icons_ef8c08_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-icons_ef8c08_256x240.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-icons_ffd27a_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-icons_ffd27a_256x240.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=acwZKNE3RPD1pekbX4Wz3QDE28KLfvHqhg0VPeQSJxg1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\StyleBundleFrontendExtra.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/Areas/Admin/Content/_gfx/poshytip/tip-twitter_arrows.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Areas\Admin\Content\_gfx\poshytip\tip-twitter_arrows.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/bootstrap.v3.4.1.min.css
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\bootstrap.v3.4.1.min.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/flexslider/flex-arrow-left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\flexslider\flex-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/flexslider/flex-arrow-right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\flexslider\flex-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/flexslider/flex-icon-pause.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\flexslider\flex-icon-pause.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/flexslider/flex-icon-play.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\flexslider\flex-icon-play.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/Print.cssbnd?v=-3T1oJ_z89pR7QkdJGfMpghXZyPybqptlohcPz3eK0w1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\StyleBundleAngularLib.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=1OIPUkY19nfHJxZ_jiUazp43KI3S6DuUP90KxmkJlwA1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/alert_border.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\alert_border.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/alert_controls.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\alert_controls.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/alert_strip.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\alert_strip.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/attach.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\attach.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/comment.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\comment.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/comment_self.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\comment_self.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/database.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\database.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/datepicker.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\datepicker.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/disk.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\disk.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/email_table.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\email_table.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/error.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\error.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/exported_group.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\exported_group.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/lock.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\lock.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/map.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\map.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/messagebox_strip.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\messagebox_strip.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/mobile/down_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\mobile\down_arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/mobile/mob_visionlink_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\mobile\mob_visionlink_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/mobile/mob_visionlink_strip.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\mobile\mob_visionlink_strip.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/mobile/right_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\mobile\right_arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/news-tile-default.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\news-tile-default.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/phone.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\phone.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/pin.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\pin.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/slideshow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\slideshow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/sort-arrows.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\sort-arrows.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/spot_off.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\spot_off.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/spot_on.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\spot_on.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/star.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\star.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/cmn/tool_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\cmn\tool_icons.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/dashboard/full-link.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\dashboard\full-link.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/dialog_icons/page_sprite.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\dialog_icons\page_sprite.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/businessdirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\businessdirectory.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/customcontent.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\customcontent.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/document.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\document.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/event.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\event.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/facilitydirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\facilitydirectory.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/FAQ.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\FAQ.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/form_survey.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\form_survey.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/image.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\image.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/job.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\job.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/meetingagenda.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\meetingagenda.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/meetingitem.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\meetingitem.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/meetingminutes.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\meetingminutes.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/news.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\news.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/online_poll.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\online_poll.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/page.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\page.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/pdf.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\pdf.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/photoalbum.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\photoalbum.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/rfp.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\rfp.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/servicedirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\servicedirectory.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons/staffdirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons\staffdirectory.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/document_icons_light/document.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\document_icons_light\document.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/downloadmessage/acrobat.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\downloadmessage\acrobat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/downloadmessage/excel.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\downloadmessage\excel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/downloadmessage/powerpoint.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\downloadmessage\powerpoint.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/downloadmessage/wmp.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\downloadmessage\wmp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/downloadmessage/word.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\downloadmessage\word.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/enotification/email.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\enotification\email.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/enotification/email_checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\enotification\email_checked.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/enotification/sms.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\enotification\sms.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/enotification/sms_checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\enotification\sms_checked.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/external_url.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\external_url.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/forms/sensitive-question.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\forms\sensitive-question.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/forms/spot_file.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\forms\spot_file.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/forms/spot_off.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\forms\spot_off.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/forms/spot_on.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\forms\spot_on.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/gmap/pin.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\gmap\pin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/add_delete_attendees.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\add_delete_attendees.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/arrow_left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\arrow_left.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/arrow_right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\arrow_right.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/calendar_add.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\calendar_add.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/calendar_more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\calendar_more.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/contentUsage_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\contentUsage_arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/end-quote.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\end-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/google.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\google.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/ical.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\ical.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/icon-checkbox-checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\icon-checkbox-checked.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/icon-delete.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\icon-delete.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/mini_calendar_controls.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\mini_calendar_controls.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/mini_calendar_header.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\mini_calendar_header.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/mini_calendar_today.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\mini_calendar_today.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/print.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\print.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/quote.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/reCAPTCHA/help_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\reCAPTCHA\help_icon.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/reCAPTCHA/reload_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\reCAPTCHA\reload_icon.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/reCAPTCHA/sound_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\reCAPTCHA\sound_icon.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/rss.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\rss.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/share/share_icons.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\share\share_icons.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/small_box_outer.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\small_box_outer.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/title_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\title_icons.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/video.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\video.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/int/yahoo.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\int\yahoo.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/loading-failed.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\loading-failed.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/loading.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\loading.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/loading16_16.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\loading16_16.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/no-image.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\no-image.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/resize_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\resize_icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/social_icons/facebook.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\social_icons\facebook.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/social_icons/google.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\social_icons\google.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/social_icons/user.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\social_icons\user.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/spacer.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\spacer.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/calendar/calendar_event_had_registered.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\calendar\calendar_event_had_registered.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/calendar/calendar_event_in_pending_waitinglist.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\calendar\calendar_event_in_pending_waitinglist.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/meetings_manager/arrow_hide.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\meetings_manager\arrow_hide.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/meetings_manager/arrow_show.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\meetings_manager\arrow_show.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/meetings_manager/html_tag_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\meetings_manager\html_tag_icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/meetings_manager/package_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\meetings_manager\package_icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/meetings_manager/pdf_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\meetings_manager\pdf_icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/meetings_manager/video_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\meetings_manager\video_icon.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/shared_content.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\shared_content.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/status/shared_content12_12.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\status\shared_content12_12.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/business_submission.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\business_submission.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/enotification.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\enotification.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/event_registration.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\event_registration.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/event_submission.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\event_submission.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/event_waiting_list.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\event_waiting_list.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/facility-reservation.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\facility-reservation.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/form-builder.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\form-builder.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/job_applications.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\job_applications.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/member-content.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\member-content.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\more.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/my-dashboard.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\my-dashboard.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/online-payment.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\online-payment.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/profilephoto_placeholder.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\profilephoto_placeholder.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/service-request-processor.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\service-request-processor.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/topbar/service-request-reporter.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\topbar\service-request-reporter.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/TreeView/sprite.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\TreeView\sprite.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/TreeView/treeview-line.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\TreeView\treeview-line.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/TreeView/treeview-nodes.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\TreeView\treeview-nodes.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/_SiteMap/file.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\_SiteMap\file.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/Default/_gfx/_SiteMap/menu.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\Default\_gfx\_SiteMap\menu.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\fonts\glyphicons-halflings-regular.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.myclearwaterevents.com/DefaultContent/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\DefaultContent\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.myclearwaterevents.com/event-calendar
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-1/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-1\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-1/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-1\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-1/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-1\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-1/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-1\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-1/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-1\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-1/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-1\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-10/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-10\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-10/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-10\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-10/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-10\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-10/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-10\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-10/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-10\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-10/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-10\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-11/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-11\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-11/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-11\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-11/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-11\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-11/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-11\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-11/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-11\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-11/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-11\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2016
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2016.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-12/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-12\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-2/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-2\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-2/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-2\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-2/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-2\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-2/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-2\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-2/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-2\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-2/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-2\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-3/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-3\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-3/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-3\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-3/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-3\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-3/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-3\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-3/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-3\-cury-2021
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-3/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-3\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-4/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-4\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-4/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-4\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-4/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-4\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-4/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-4\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-4/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-4\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-4/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-4\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-5/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-5\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-5/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-5\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-5/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-5\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-5/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-5\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-5/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-5\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-5/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-5\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-6/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-6\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-6/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-6\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-6/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-6\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-6/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-6\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-6/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-6\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-6/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-6\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-7/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-7\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-7/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-7\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-7/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-7\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-7/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-7\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-7/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-7\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-7/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-7\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-8/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-8\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-8/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-8\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-8/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-8\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-8/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-8\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-8/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-8\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-8/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-8\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-9/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-9\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-9/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-9\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-9/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-9\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-9/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-9\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-9/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-9\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/-curm-9/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\-curm-9\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-1/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-1\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-1/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-1\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-1/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-1\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-1/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-1\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-1/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-1\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-1/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-1\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-10/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-10\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-10/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-10\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-10/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-10\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-10/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-10\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-10/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-10\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-10/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-10\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-11/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-11\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-11/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-11\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-11/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-11\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-11/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-11\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-11/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-11\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-11/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-11\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2016
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2016.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-12/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-12\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-2/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-2\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-2/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-2\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-2/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-2\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-2/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-2\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-2/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-2\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-2/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-2\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-3/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-3\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-3/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-3\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-3/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-3\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-3/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-3\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-3/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-3\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-3/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-3\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-4/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-4\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-4/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-4\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-4/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-4\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-4/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-4\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-4/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-4\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-4/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-4\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-5/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-5\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-5/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-5\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-5/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-5\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-5/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-5\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-5/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-5\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-5/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-5\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-6/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-6\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-6/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-6\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-6/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-6\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-6/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-6\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-6/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-6\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-6/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-6\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-7/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-7\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-7/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-7\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-7/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-7\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-7/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-7\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-7/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-7\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-7/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-7\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-8/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-8\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-8/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-8\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-8/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-8\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-8/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-8\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-8/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-8\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-8/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-8\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-9/-cury-2017
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-9\-cury-2017.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-9/-cury-2018
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-9\-cury-2018.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-9/-cury-2019
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-9\-cury-2019.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-9/-cury-2020
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-9\-cury-2020.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-9/-cury-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-9\-cury-2021.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/event-calendar/calendar/-curm-9/-cury-2022
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\event-calendar\calendar\-curm-9\-cury-2022.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/favicon.ico
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\favicon.ico
+Content Type: 
+
+Uri: https://www.myclearwaterevents.com/featured-events
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\featured-events.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/featured-events/clearwater-celebrates-america-4th-of-july-fireworks
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\featured-events\clearwater-celebrates-america-4th-of-july-fireworks.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/featured-events/coachman-park-concert-series
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\featured-events\coachman-park-concert-series.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/featured-events/santa-s-holly-jolly-trolley-tour
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\featured-events\santa-s-holly-jolly-trolley-tour.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/featured-events/sea-blues-festival
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\featured-events\sea-blues-festival.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/home
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/Home/Components/Calendar/Event/8068/735
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\Components\Calendar\Event\8068\735.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/Home/Components/Calendar/Event/8070/735
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\Components\Calendar\Event\8070\735.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/Home/Components/Calendar/Event/8104/735
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\Components\Calendar\Event\8104\735.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/Home/Components/Calendar/Event/ICalendar?ID=8068&IsPublished=True
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\Components\Calendar\Event\ICalendar-1.ics
+Content Type: text/calendar
+
+Uri: https://www.myclearwaterevents.com/Home/Components/Calendar/Event/ICalendar?ID=8070&IsPublished=True
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\Components\Calendar\Event\ICalendar-2.ics
+Content Type: text/calendar
+
+Uri: https://www.myclearwaterevents.com/Home/Components/Calendar/Event/ICalendar?ID=8104&IsPublished=True
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\Components\Calendar\Event\ICalendar.ics
+Content Type: text/calendar
+
+Uri: https://www.myclearwaterevents.com/Home/ShowImage?id=14287&t=637538208427577222
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\ShowImage.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Home/ShowImage?id=14289&t=637535759792630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\ShowImage-1.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Home/ShowImage?id=14291&t=637535759799030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\ShowImage-2.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Home/ShowImage?id=14293&t=637535759806700000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Home\ShowImage-3.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/10637/637769037094630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\10637\637769037094630000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/10663/637775074018500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\10663\637775074018500000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/10693/637782760272370000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\10693\637782760272370000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/10695/637782760275630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\10695\637782760275630000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/10697/637782760278900000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\10697\637782760278900000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/10863/637814682175030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\10863\637814682175030000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/5756/636697692026300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\5756\636697692026300000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/6898/637133802192930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\6898\637133802192930000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/6900/637133802693400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\6900\637133802693400000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/6902/637133803167970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\6902\637133803167970000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/6904/637133803601400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\6904\637133803601400000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/6906/637133803975970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\6906\637133803975970000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/6908/637138963846800000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\6908\637138963846800000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublisheddocument/8201/637641146968500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublisheddocument\8201\637641146968500000.pdf
+Content Type: application/pdf
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/10517/637002472813900000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\10517\637002472813900000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/10989/637033587585830000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\10989\637033587585830000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/11152/637057159469430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\11152\637057159469430000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/11154/637057161576500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\11154\637057161576500000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/11856/637163331650430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\11856\637163331650430000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/13134/637553862767300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\13134\637553862767300000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14287/637538208427570000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14287\637538208427570000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14289/637535759792630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14289\637535759792630000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14291/637535759799030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14291\637535759799030000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14293/637535759806700000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14293\637535759806700000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14299/637538204287670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14299\637538204287670000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14301/637538343498530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14301\637538343498530000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/14797/637584265026270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\14797\637584265026270000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/1488/636203496288230000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\1488\636203496288230000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/1494/636111983945400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\1494\636111983945400000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/1512/636111987025770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\1512\636111987025770000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/1516/636111987028100000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\1516\636111987028100000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/1518/636111987029370000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\1518\636111987029370000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/1520/636111987030600000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\1520\636111987030600000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16069/637746471763930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16069\637746471763930000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16071/637746471770330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16071\637746471770330000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16073/637746471775170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16073\637746471775170000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16127/637755970190030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16127\637755970190030000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16241/637774348679530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16241\637774348679530000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16245/637775002416270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16245\637775002416270000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16511/637793284273630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16511\637793284273630000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/16841/637871697581200000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\16841\637871697581200000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/17102/637904755865930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\17102\637904755865930000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/17232/637988401027270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\17232\637988401027270000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/17234/637988401032900000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\17234\637988401032900000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/17238/637988401045730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\17238\637988401045730000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/252/635933287729100000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\252\635933287729100000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/256/635933287733330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\256\635933287733330000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6479/637538255321130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6479\637538255321130000.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6565/636512754054500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6565\636512754054500000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6569/636512754543130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6569\636512754543130000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6571/636512754752200000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6571\636512754752200000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6573/636512754988300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6573\636512754988300000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6575/636512755198930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6575\636512755198930000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6577/636512755410030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6577\636512755410030000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6579/636512755660500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6579\636512755660500000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/home/showpublishedimage/6581/636512766895970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\home\showpublishedimage\6581\636512766895970000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/how-do-i-
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i-.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/become-a-vendor
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\become-a-vendor.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/coi-requirements
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\coi-requirements.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/dep-permit-beach-events
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\dep-permit-beach-events.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/find-out-about-the-rules
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\find-out-about-the-rules.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/get-a-press-pass
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\get-a-press-pass.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/obtain-an-event-permit
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\obtain-an-event-permit.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/obtain-an-event-permit/station-square-park-permit-application
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\obtain-an-event-permit\station-square-park-permit-application.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/sponsor-an-event
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\sponsor-an-event.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/how-do-i/vendor-food-truck-requirements
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\how-do-i\vendor-food-truck-requirements.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/customer-guide-to-special-events
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\customer-guide-to-special-events.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/facilities
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\facilities.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/obtain-an-event-permit/park-usage-application
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\obtain-an-event-permit\park-usage-application.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/obtain-an-event-permit/pier-60-rental-application
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\obtain-an-event-permit\pier-60-rental-application.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/obtain-an-event-permit/site-maps
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\obtain-an-event-permit\site-maps.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/obtain-an-event-permit/special-events-application
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\obtain-an-event-permit\special-events-application.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/info/obtain-an-event-permit/wedding-application
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\info\obtain-an-event-permit\wedding-application.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/parks-rec
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\parks-rec.html
+Content Type: text/html
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/Main/bootstrap.min.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\Main\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/Main/specialevents_homelayout_scripts.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\Main\specialevents_homelayout_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/Main/specialevents_mobile_nav_scripts.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\Main\specialevents_mobile_nav_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/Main/x-small.css
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\Main\x-small.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/Print.cssbnd?v=LGyVHqg1LMwk6WgjH6ba7MJ7OZA_M0zAYWiL1qrVgrM1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/StyleBundleDesignTheme.cssbnd?v=tUw2nWu_P9WFkoBxE2VGO1Z2kRqfwVrxcv8Doi903dY1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/StyleBundleMegaMenuDropDown.cssbnd?v=QW8HbV6fXK4mUe5GmPwq61cDY9w5jp_kKoyDQdj6uSo1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/alert_controls.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\alert_controls.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/email_table.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\email_table.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/footer_logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\footer_logo.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/google.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\google.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/header_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\header_bg.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\logo.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/fullsite_arrow_left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\fullsite_arrow_left.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/fullsite_arrow_right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\fullsite_arrow_right.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/fullsite_bg.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\fullsite_bg.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/header_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\header_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/menu.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\menu.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/mobile_more_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\mobile_more_arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/mobile/mob_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\mobile\mob_arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/cmn/pin.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\cmn\pin.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/button_arrows.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\button_arrows.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/home_button_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\home_button_bg.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/home_nav1.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\home_nav1.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/home_nav2.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\home_nav2.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/home_nav3.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\home_nav3.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/home_nav4.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\home_nav4.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/home/more_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\home\more_arrow.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/+.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\ .png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/-.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\-.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/calendar_more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\calendar_more.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/interior_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\interior_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/share_icons.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\share_icons.gif
+Content Type: image/gif
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/smallbox_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\smallbox_bg.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Project/Contents/SpecialEvents/_gfx/int/title_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Project\Contents\SpecialEvents\_gfx\int\title_icons.png
+Content Type: image/png
+
+Uri: https://www.myclearwaterevents.com/Scripts/Components/ScriptsFEBundle.jsbnd?v=11DNMu57cpNeO00Ituy-UgfEpH9di4HKlISLnm7Ke7M1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Scripts\Components\ScriptsFEBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Scripts/frontendCoreBundle.jsbnd?v=4yqPerm0JXDUhOP9jEYKAN33faolM1ZWtnNkVTWrkwc1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Scripts\frontendCoreBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Scripts/ScriptBundleAngularLib.jsbnd?v=d0k8VVR-Vzt3HGjIM4_u9Az6XqziflJuqqciQs8pxzs1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Scripts\ScriptBundleAngularLib.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Scripts/ScriptBundleFAllInOne.jsbnd?v=gIOpmVj-uUN4Dir5fJWoGsM7aib_-aoTsxTM5nlSJr41
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Scripts\ScriptBundleFAllInOne.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.myclearwaterevents.com/Scripts/ScriptBundleVisionFrontend.jsbnd?v=isJXlzuQnoTkqPK8xn1HW1uIxTV7t6Jjjd0d6Wo9QWk1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\12-05-2022\www.myclearwaterevents.com\Scripts\ScriptBundleVisionFrontend.jsbnd
+Content Type: text/javascript
+
