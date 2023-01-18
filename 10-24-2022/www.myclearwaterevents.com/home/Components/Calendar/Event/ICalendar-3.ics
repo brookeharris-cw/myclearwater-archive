@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T122338
+DTSTART:20221022T000000
+DTEND:20221022T235900
+SUMMARY:Salsa at the District
+DESCRIPTION:SALSA is a celebration dance culture catering to the dancer and attracting dancers from all over the state of Florida but also appeals to the greater Latin Community. This is not not your typical Latin festival and attracts a great demo graph of dancers and Latinos.
+X-ALT-DESC;FMTTYPE=text/html:SALSA is a celebration dance culture catering to the dancer and attracting dancers from all over the state of Florida but also appeals to the greater Latin Community. This is not not your typical Latin festival and attracts a great demo graph of dancers and Latinos.
+LOCATION:State Street Park\, 1971 N Betty Ln\, 1971 State St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
