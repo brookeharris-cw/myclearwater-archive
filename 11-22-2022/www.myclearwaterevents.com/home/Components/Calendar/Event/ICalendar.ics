@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T113035
+DTSTART:20221105T000000
+DTEND:20221105T235900
+SUMMARY:Clearwater Sangria Festival
+DESCRIPTION:Enjoy local sangrias, street food, wine and brews in Downtown Clearwater. For more information, visit clearwatersangriafestival.com
+X-ALT-DESC;FMTTYPE=text/html:Enjoy local sangrias, street food, wine and brews in Downtown Clearwater. For more information, visit clearwatersangriafestival.com
+LOCATION:State Street Park\, 1971 N Betty Ln\, 1971 State St Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
