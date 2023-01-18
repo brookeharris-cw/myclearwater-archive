@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220803T151819
+DTSTART:20220806T000000
+DTEND:20220806T235900
+SUMMARY:Back to School Bash (SOLD OUT)
+DESCRIPTION:<p>Get pumped for going back to school by playing pool games, eating some delicious barbecue and listening to live music.<br><br></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Get pumped for going back to school by playing pool games, eating some delicious barbecue and listening to live music.<br><br></p>
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
