@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220202T121915
+DTSTART:20220416T090000
+DTEND:20220416T150000
+SUMMARY:Clearwater Hispanic Farmers Market
+DESCRIPTION:The Clearwater Hispanic Farmers Market welcomes the community to honor and celebrate the local Hispanic heritage in Clearwater, FL. We aim to create a cultural experience enriched by our local farmers, artisans, craft-makers, and folklore performers.
+X-ALT-DESC;FMTTYPE=text/html:The Clearwater Hispanic Farmers Market welcomes the community to honor and celebrate the local Hispanic heritage in Clearwater, FL. We aim to create a cultural experience enriched by our local farmers, artisans, craft-makers, and folklore performers.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

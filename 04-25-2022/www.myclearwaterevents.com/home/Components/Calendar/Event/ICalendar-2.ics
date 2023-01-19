@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220202T121143
+DTSTART:20220409T000000
+DTEND:20220409T235900
+SUMMARY:Aqua Easter at the Long Center
+DESCRIPTION:Enjoy games, music, inflatables, lots of Easter eggs!
+X-ALT-DESC;FMTTYPE=text/html:Enjoy games, music, inflatables, lots of Easter eggs!
+LOCATION:Long Center\, 1501 N Belcher Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
