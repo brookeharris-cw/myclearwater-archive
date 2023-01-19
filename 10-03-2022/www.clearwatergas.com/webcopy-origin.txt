@@ -1,0 +1,1192 @@
+Uri: https://cdn.userway.org/widget.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\widget.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);@import url(//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);@import url(//fonts.googleapis.com/css?family=Oswald:400,300,700);@font-face{font-family:'Oswald
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\css-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,300,700
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://siteimproveanalytics.com/js/siteanalyze_9566.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\js\siteanalyze_9566.js
+Content Type: application/javascript
+
+Uri: https://www.clearwatergas.com/
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\index.htm
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_diagonals-thick_18_b81900_40x40.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_diagonals-thick_20_666666_40x40.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_diagonals-thick_20_666666_40x40.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_glass_100_f6f6f6_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_glass_100_f6f6f6_1x400.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_glass_100_fdf5ce_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_glass_100_fdf5ce_1x400.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_gloss-wave_35_f6a828_500x100.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_highlight-soft_100_eeeeee_1x100.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-bg_highlight-soft_75_ffe45c_1x100.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-icons_222222_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-icons_228ef1_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-icons_228ef1_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-icons_ef8c08_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-icons_ef8c08_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-icons_ffd27a_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-icons_ffd27a_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=acwZKNE3RPD1pekbX4Wz3QDE28KLfvHqhg0VPeQSJxg1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\StyleBundleFrontendExtra.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/Areas/Admin/Content/_gfx/poshytip/tip-twitter_arrows.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Areas\Admin\Content\_gfx\poshytip\tip-twitter_arrows.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/billing-info
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\billing-info.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/billing-info/gas-rate-increase-2021
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\billing-info\gas-rate-increase-2021.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/billing-info/how-to-read-my-bill-ng
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\billing-info\how-to-read-my-bill-ng.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/billing-info/how-to-read-my-bill-propane
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\billing-info\how-to-read-my-bill-propane.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/contact-us
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/builder-sales-program
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\builder-sales-program.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/commercial
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\commercial.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/find-availability-service
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\find-availability-service.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/frequently-asked-questions
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\frequently-asked-questions.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/how-to-start-stop-gas-services
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\how-to-start-stop-gas-services.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/residential
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\residential.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/residential/automated-meter-reading-info
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\residential\automated-meter-reading-info.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/customers/residential/natural-gas-service
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\customers\residential\natural-gas-service.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/bootstrap.v3.4.1.min.css
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\bootstrap.v3.4.1.min.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/flexslider/flex-arrow-left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\flexslider\flex-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/flexslider/flex-arrow-right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\flexslider\flex-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/flexslider/flex-icon-pause.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\flexslider\flex-icon-pause.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/flexslider/flex-icon-play.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\flexslider\flex-icon-play.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/Print.cssbnd?v=-3T1oJ_z89pR7QkdJGfMpghXZyPybqptlohcPz3eK0w1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\StyleBundleAngularLib.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=zMwbW2Yj-MInmASW26EC52urdNyFbQF-MrAfanNEBgA1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/alert_border.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\alert_border.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/alert_controls.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\alert_controls.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/alert_strip.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\alert_strip.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/attach.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\attach.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/comment.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\comment.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/comment_self.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\comment_self.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/database.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\database.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/datepicker.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\datepicker.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/disk.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\disk.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/email_table.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\email_table.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/error.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\error.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/exported_group.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\exported_group.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/lock.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\lock.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/map.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\map.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/messagebox_strip.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\messagebox_strip.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/mobile/down_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\mobile\down_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/mobile/mob_visionlink_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\mobile\mob_visionlink_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/mobile/mob_visionlink_strip.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\mobile\mob_visionlink_strip.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/mobile/right_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\mobile\right_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/news-tile-default.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\news-tile-default.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/phone.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\phone.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/pin.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\pin.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/slideshow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\slideshow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/sort-arrows.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\sort-arrows.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/spot_off.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\spot_off.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/spot_on.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\spot_on.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/star.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\star.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/cmn/tool_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\cmn\tool_icons.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/dashboard/full-link.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\dashboard\full-link.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/dialog_icons/page_sprite.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\dialog_icons\page_sprite.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/businessdirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\businessdirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/customcontent.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\customcontent.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/document.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\document.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/event.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\event.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/facilitydirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\facilitydirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/FAQ.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\FAQ.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/form_survey.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\form_survey.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/image.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\image.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/job.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\job.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/meetingagenda.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\meetingagenda.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/meetingitem.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\meetingitem.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/meetingminutes.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\meetingminutes.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/news.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\news.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/online_poll.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\online_poll.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/page.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\page.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/pdf.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\pdf.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/photoalbum.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\photoalbum.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/rfp.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\rfp.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/servicedirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\servicedirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons/staffdirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons\staffdirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/document_icons_light/document.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\document_icons_light\document.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/downloadmessage/acrobat.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\downloadmessage\acrobat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/downloadmessage/excel.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\downloadmessage\excel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/downloadmessage/powerpoint.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\downloadmessage\powerpoint.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/downloadmessage/wmp.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\downloadmessage\wmp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/downloadmessage/word.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\downloadmessage\word.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/enotification/email.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\enotification\email.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/enotification/email_checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\enotification\email_checked.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/enotification/sms.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\enotification\sms.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/enotification/sms_checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\enotification\sms_checked.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/external_url.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\external_url.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/forms/sensitive-question.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\forms\sensitive-question.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/forms/spot_file.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\forms\spot_file.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/forms/spot_off.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\forms\spot_off.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/forms/spot_on.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\forms\spot_on.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/gmap/pin.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\gmap\pin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/add_delete_attendees.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\add_delete_attendees.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/arrow_left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\arrow_left.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/arrow_right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\arrow_right.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/calendar_add.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\calendar_add.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/calendar_more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\calendar_more.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/contentUsage_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\contentUsage_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/google.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\google.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/ical.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\ical.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/icon-checkbox-checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\icon-checkbox-checked.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/icon-delete.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\icon-delete.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/mini_calendar_controls.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\mini_calendar_controls.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/mini_calendar_header.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\mini_calendar_header.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/mini_calendar_today.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\mini_calendar_today.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/print.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\print.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/reCAPTCHA/help_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\reCAPTCHA\help_icon.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/reCAPTCHA/reload_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\reCAPTCHA\reload_icon.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/reCAPTCHA/sound_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\reCAPTCHA\sound_icon.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/rss.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\rss.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/share/share_icons.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\share\share_icons.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/small_box_outer.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\small_box_outer.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/title_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\title_icons.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/video.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\video.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/int/yahoo.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\int\yahoo.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/loading-failed.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\loading-failed.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/loading.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\loading.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/loading16_16.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\loading16_16.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/no-image.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\no-image.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/resize_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\resize_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/social_icons/facebook.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\social_icons\facebook.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/social_icons/google.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\social_icons\google.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/social_icons/user.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\social_icons\user.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/spacer.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\spacer.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/calendar/calendar_event_had_registered.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\calendar\calendar_event_had_registered.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/calendar/calendar_event_in_pending_waitinglist.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\calendar\calendar_event_in_pending_waitinglist.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/meetings_manager/arrow_hide.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\meetings_manager\arrow_hide.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/meetings_manager/arrow_show.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\meetings_manager\arrow_show.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/meetings_manager/html_tag_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\meetings_manager\html_tag_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/meetings_manager/package_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\meetings_manager\package_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/meetings_manager/pdf_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\meetings_manager\pdf_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/meetings_manager/video_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\meetings_manager\video_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/shared_content.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\shared_content.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/status/shared_content12_12.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\status\shared_content12_12.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/business_submission.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\business_submission.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/enotification.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\enotification.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/event_registration.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\event_registration.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/event_submission.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\event_submission.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/event_waiting_list.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\event_waiting_list.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/facility-reservation.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\facility-reservation.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/form-builder.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\form-builder.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/job_applications.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\job_applications.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/member-content.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\member-content.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\more.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/my-dashboard.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\my-dashboard.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/online-payment.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\online-payment.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/profilephoto_placeholder.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\profilephoto_placeholder.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/service-request-processor.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\service-request-processor.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/topbar/service-request-reporter.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\topbar\service-request-reporter.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/TreeView/sprite.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\TreeView\sprite.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/TreeView/treeview-line.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\TreeView\treeview-line.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/TreeView/treeview-nodes.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\TreeView\treeview-nodes.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/_SiteMap/file.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\_SiteMap\file.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/Default/_gfx/_SiteMap/menu.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\Default\_gfx\_SiteMap\menu.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/DefaultContent/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwatergas.com/DefaultContent/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwatergas.com/DefaultContent/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.clearwatergas.com/DefaultContent/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\fonts\glyphicons-halflings-regular.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://www.clearwatergas.com/DefaultContent/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.clearwatergas.com/DefaultContent/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\DefaultContent\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.clearwatergas.com/favicon.ico
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\favicon.ico
+Content Type: 
+
+Uri: https://www.clearwatergas.com/home
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10579/637014654564730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10579\637014654564730000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10587/637576175902300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10587\637576175902300000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10609/637014805023670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10609\637014805023670000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10611/637014807543930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10611\637014807543930000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10613/637014809654270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10613\637014809654270000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10615/637014812143030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10615\637014812143030000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/10617/637014818162070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\10617\637014818162070000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/11854/637160795988870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\11854\637160795988870000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/12184/637203813870070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\12184\637203813870070000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/14137/637503026903170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\14137\637503026903170000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/14139/637503026909430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\14139\637503026909430000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/14141/637503026916930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\14141\637503026916930000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/14143/637503026922400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\14143\637503026922400000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/14145/637503026928800000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\14145\637503026928800000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/15739/637689549429430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\15739\637689549429430000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/16445/637788807348400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\16445\637788807348400000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1658/636983686615170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1658\636983686615170000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1660/636983686616430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1660\636983686616430000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1662/636983686618470000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1662\636983686618470000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1664/636983686621430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1664\636983686621430000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1666/636983686623770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1666\636983686623770000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1668/636983686625800000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1668\636983686625800000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/1670/636983686776900000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\1670\636983686776900000.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/2481/636204264470670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\2481\636204264470670000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/2485/636204265505370000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\2485\636204265505370000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/354/636090340642870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\354\636090340642870000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/370/636090344400570000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\370\636090344400570000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/372/636090344401670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\372\636090344401670000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/374/636090344402930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\374\636090344402930000.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/378/636090370978970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\378\636090370978970000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/380/636090370980530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\380\636090370980530000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/382/636090370982230000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\382\636090370982230000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/home/showpublishedimage/384/636090370983970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\home\showpublishedimage\384\636090370983970000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/fonts/Oswald-Regular.eot?
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\fonts\Oswald-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/fonts/Oswald-Regular.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\fonts\Oswald-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/fonts/Oswald-Regular.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\fonts\Oswald-Regular.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/fonts/Oswald-Regular.woff
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\fonts\Oswald-Regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/Print.cssbnd?v=LGyVHqg1LMwk6WgjH6ba7MJ7OZA_M0zAYWiL1qrVgrM1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/StyleBundleDesignTheme.cssbnd?v=gvCs5mt_MfkQuymcxDFFNVv05JFQRwj5zxy6F48YQRs1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/StyleBundleMegaMenuDropDown.cssbnd?v=1py2erq05-lKdRq8o3rKcnx9LyakQ4MJXhYdLrWdg9E1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/alert_controls.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\alert_controls.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/email_table.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\email_table.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/footer_logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\footer_logo.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/google.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\google.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/header_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\header_bg.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\logo.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/fullsite_arrow_left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\fullsite_arrow_left.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/fullsite_arrow_right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\fullsite_arrow_right.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/fullsite_bg.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\fullsite_bg.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/header_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\header_bg.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\logo.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/menu.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\menu.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/mobile_more_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\mobile_more_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/mob_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\mob_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/nav_arrow_down.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\nav_arrow_down.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/mobile/nav_arrow_up.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\mobile\nav_arrow_up.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/cmn/pin.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\cmn\pin.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/bullet_active.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\bullet_active.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/button_arrows.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\button_arrows.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/commercial_nav.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\commercial_nav.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/energy_nav.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\energy_nav.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/home_button_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\home_button_bg.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/howdoi_nav.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\howdoi_nav.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/home/residential_nav.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\home\residential_nav.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/+.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\ .png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/-.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\-.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/calendar_more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\calendar_more.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/interior_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\interior_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/int_bg_strip.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\int_bg_strip.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/share_icons.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\share_icons.gif
+Content Type: image/gif
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/smallbox_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\smallbox_bg.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Gas/_gfx/int/title_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Gas\_gfx\int\title_icons.png
+Content Type: image/png
+
+Uri: https://www.clearwatergas.com/Project/Contents/Main/bootstrap.min.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Main\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Project/Contents/Main/gas_homelayout_scripts.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Main\gas_homelayout_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Project/Contents/Main/gas_mobile_nav_scripts.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Main\gas_mobile_nav_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Project/Contents/Main/x-small.css
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Project\Contents\Main\x-small.css
+Content Type: text/css
+
+Uri: https://www.clearwatergas.com/safety
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\safety.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/safety/customer-owned-gas-piping-things-to-know
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\safety\customer-owned-gas-piping-things-to-know.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/safety/excess-flow-valves
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\safety\excess-flow-valves.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/safety/gas-storm-safety
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\safety\gas-storm-safety.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/safety/report-a-leak
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\safety\report-a-leak.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/save-money
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\save-money.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/save-money/compare-the-cost-of-fuel-use
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\save-money\compare-the-cost-of-fuel-use.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/save-money/ngv-rebates
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\save-money\ngv-rebates.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/Scripts/Components/ScriptsFEBundle.jsbnd?v=11DNMu57cpNeO00Ituy-UgfEpH9di4HKlISLnm7Ke7M1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Scripts\Components\ScriptsFEBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Scripts/frontendCoreBundle.jsbnd?v=s5q3Yg3pyVpJMnpkxE-fwGqecNxxftXYhaE0iKIRcmw1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Scripts\frontendCoreBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Scripts/ScriptBundleAngularLib.jsbnd?v=xgK94504-l6gtQhax8VGI_eWijE99UKJeNc4V3Nm4uQ1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Scripts\ScriptBundleAngularLib.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Scripts/ScriptBundleFAllInOne.jsbnd?v=gIOpmVj-uUN4Dir5fJWoGsM7aib_-aoTsxTM5nlSJr41
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Scripts\ScriptBundleFAllInOne.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/Scripts/ScriptBundleVisionFrontend.jsbnd?v=isJXlzuQnoTkqPK8xn1HW1uIxTV7t6Jjjd0d6Wo9QWk1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\Scripts\ScriptBundleVisionFrontend.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwatergas.com/services/appliances
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\services\appliances.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/services/generators
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\services\generators.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/services/service-repair
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\services\service-repair.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/services/services/natural-gas-vehicles-cng
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\services\services\natural-gas-vehicles-cng.html
+Content Type: text/html
+
+Uri: https://www.clearwatergas.com/services/services/propane
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\10-03-2022\www.clearwatergas.com\services\services\propane.html
+Content Type: text/html
+
