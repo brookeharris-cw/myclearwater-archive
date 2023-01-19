@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T090152
+DTSTART:20220506T180000
+DTEND:20220506T210000
+SUMMARY:Friday Night Fiesta Friendzy (Youth) and Casino Night (Adults)
+DESCRIPTION:<p>Drop off your children at the for an exciting evening of games, food and fun while you enjoy a night out at the “Morningside Casino.” Friday Night Friendzy is $5 with recreation card and $6 without card. For Casino Night, parents can play at the casino by purchasing tickets in exchange for fake money. </p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Drop off your children at the for an exciting evening of games, food and fun while you enjoy a night out at the “Morningside Casino.” Friday Night Friendzy is $5 with recreation card and $6 without card. For Casino Night, parents can play at the casino by purchasing tickets in exchange for fake money. </p>
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

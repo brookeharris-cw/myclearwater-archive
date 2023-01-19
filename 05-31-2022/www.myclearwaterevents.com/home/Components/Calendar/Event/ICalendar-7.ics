@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220525T144741
+DTSTART:20220530T183000
+DTEND:20220530T193000
+SUMMARY:Memorial Day Celebration
+DESCRIPTION:<p>A sober salute to American veterans at Crest Lake Park by the Tampa Bay Veterans Alliance.<u1:p>&nbsp;</u1:p></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>A sober salute to American veterans at Crest Lake Park by the Tampa Bay Veterans Alliance.<u1:p>&nbsp;</u1:p></p>
+LOCATION:Crest Lake Park\, 201 Glenwood Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

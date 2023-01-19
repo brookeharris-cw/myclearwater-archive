@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20211228T165140
+DTSTART:20220507T000000
+DTEND:20220507T235900
+SUMMARY:Clearwater Community Band Concert
+DESCRIPTION:Concerts are free of charge and open to the public.<br>Concerts are held at Countryside High School Auditorium.<br>Concerts start at 2:00 PM with the jazz band. The concert band performs from 3:00 PM until 4:00 PM
+X-ALT-DESC;FMTTYPE=text/html:Concerts are free of charge and open to the public.<br>Concerts are held at Countryside High School Auditorium.<br>Concerts start at 2:00 PM with the jazz band. The concert band performs from 3:00 PM until 4:00 PM
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

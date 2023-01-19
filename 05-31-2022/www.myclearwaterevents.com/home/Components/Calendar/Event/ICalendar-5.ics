@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T095326
+DTSTART:20220528T130000
+DTEND:20220528T160000
+SUMMARY:Memorial Day Weekend Pool Party
+DESCRIPTION:<p>Kick-off Memorial Day weekend with poolside games and a barbecue at Morningside Recreation Complex.<u1:p>&nbsp;</u1:p></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Kick-off Memorial Day weekend with poolside games and a barbecue at Morningside Recreation Complex.<u1:p>&nbsp;</u1:p></p>
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
