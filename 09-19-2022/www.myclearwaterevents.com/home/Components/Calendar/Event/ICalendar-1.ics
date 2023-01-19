@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T105422
+DTSTART:20220910T070000
+DTEND:20220910T130000
+SUMMARY:Make A Difference Fishing Tournaments for Adults
+DESCRIPTION:Give back to your community and enjoy a beautiful day of fishing on Pier 60. The Make a Difference Fishing Tournament relies on caring volunteers who want to help special-needs adults have a fun-filled day on the water and learn how to fish.
+X-ALT-DESC;FMTTYPE=text/html:Give back to your community and enjoy a beautiful day of fishing on Pier 60. The Make a Difference Fishing Tournament relies on caring volunteers who want to help special-needs adults have a fun-filled day on the water and learn how to fish.
+LOCATION:Pier 60\, 1 Causeway Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

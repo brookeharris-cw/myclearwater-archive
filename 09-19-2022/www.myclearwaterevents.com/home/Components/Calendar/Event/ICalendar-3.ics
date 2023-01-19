@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Special Events Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T105928
+DTSTART:20220924T000000
+DTEND:20220924T235900
+SUMMARY:PB&J Run
+DESCRIPTION:Hosted by Directions for Living, this annual fundraiser and 5 and 10K features certified closed courses, chip-timing, coveted tech shirts and custom finisher medals, cash prizes, an interactive PB&amp;J Post Party with dozens of vendors and live music, and (of course) unlimited PB&amp;Js for all participants. The event is tailored to engage competitive runners and beginners alike.&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:Hosted by Directions for Living, this annual fundraiser and 5 and 10K features certified closed courses, chip-timing, coveted tech shirts and custom finisher medals, cash prizes, an interactive PB&amp;J Post Party with dozens of vendors and live music, and (of course) unlimited PB&amp;Js for all participants. The event is tailored to engage competitive runners and beginners alike.&nbsp;
+LOCATION:Memorial Causeway\, Memorial Causeway Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
