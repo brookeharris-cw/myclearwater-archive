@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T121631
+DTSTART:20220128T070000
+DTEND:20220128T113000
+SUMMARY:Clearwater Running Festival
+DESCRIPTION:The Clearwater Running Festival is 22 miles from Tampa on Florida’s stunning west coast. &nbsp;All of our courses in the Clearwater Running Festival take you past some of the most beautiful scenery with spectacular views of the Gulf, Inner Coastal and city. Finisher medals, post-race refreshments, overall and age group awards are just some of the takeaways from this popular event. For more information, visit&nbsp;<a href="http://www.millenniumrunning.com/clearwater#1520951677222-736747c2-bd1a" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" id="LPlnk217830" data-linkindex="1">http://www.millenniumrunning.com/clearwater#1520951677222-736747c2-bd1a</a>&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:The Clearwater Running Festival is 22 miles from Tampa on Florida’s stunning west coast. &nbsp;All of our courses in the Clearwater Running Festival take you past some of the most beautiful scenery with spectacular views of the Gulf, Inner Coastal and city. Finisher medals, post-race refreshments, overall and age group awards are just some of the takeaways from this popular event. For more information, visit&nbsp;<a href="http://www.millenniumrunning.com/clearwater#1520951677222-736747c2-bd1a" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" id="LPlnk217830" data-linkindex="1">http://www.millenniumrunning.com/clearwater#1520951677222-736747c2-bd1a</a>&nbsp;
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

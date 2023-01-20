@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T152706
+DTSTART:20190504T000000
+DTEND:20190504T235900
+SUMMARY:Clearwater Little League Baseball Game
+DESCRIPTION:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Clearwater Little League Baseball Game @ Sid Lickton Park&nbsp;</strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Clearwater Little League Baseball Game @ Sid Lickton Park&nbsp;</strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

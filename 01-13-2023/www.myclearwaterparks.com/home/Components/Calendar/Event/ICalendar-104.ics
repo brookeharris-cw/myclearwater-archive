@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190104T105513
+DTSTART:20190111T083000
+DTEND:20190111T103000
+SUMMARY:Trail Ride
+DESCRIPTION:<p><b>Trail Ride</b></p><p>Friday, January 11, 8:30 a.m. – 10:30 a.m.</p><p>Meet at Long Center (west side of practice field), Clearwater, FL&nbsp; <br>Focus on enjoying yourself during this ride led by a cycling expert. Riders of all skill levels welcome.<br>chainwheeldrive.com, cycling@chainwheeldrive.com or call 441-2444 Free! </p>
+X-ALT-DESC;FMTTYPE=text/html:<p><b>Trail Ride</b></p><p>Friday, January 11, 8:30 a.m. – 10:30 a.m.</p><p>Meet at Long Center (west side of practice field), Clearwater, FL&nbsp; <br>Focus on enjoying yourself during this ride led by a cycling expert. Riders of all skill levels welcome.<br>chainwheeldrive.com, cycling@chainwheeldrive.com or call 441-2444 Free! </p>
+LOCATION:Moccasin Lake Nature Park\, 2750 Park Trail Lane Clearwater\, Florida 33759
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

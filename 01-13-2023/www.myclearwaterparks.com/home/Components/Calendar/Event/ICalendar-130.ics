@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170216T133351
+DTSTART:20170225T000000
+DTEND:20170225T235900
+SUMMARY:Rowdies Suncoast invitational
+DESCRIPTION:<p>The Union will show off their skills against other MLS teams in the Rowdies Suncoast Invitational tournament on Feb. 18, 22 and 25. Teams participating will include the Tampa Bay Rowdies of the United Soccer League as well as the Union, Toronto FC, Chicago Fire, D.C. United and Montreal Impact from Major League Soccer. Matches will take place at Al Lang Stadium in St. Petersburg and the Joe DiMaggio Sports Complex in Clearwater.</p><p><b><u>Saturday, Feb. 25 at Al Lang Stadium</u></b></p><ul>    <li>Toronto FC vs. Chicago Fire @ 3 p.m.</li>    <li>Philadelphia Union vs. D.C. United @ 5 p.m.</li>    <li>Tampa Bay Rowdies vs. Montreal Impact @ 7:30 p.m.</li></ul>
+X-ALT-DESC;FMTTYPE=text/html:<p>The Union will show off their skills against other MLS teams in the Rowdies Suncoast Invitational tournament on Feb. 18, 22 and 25. Teams participating will include the Tampa Bay Rowdies of the United Soccer League as well as the Union, Toronto FC, Chicago Fire, D.C. United and Montreal Impact from Major League Soccer. Matches will take place at Al Lang Stadium in St. Petersburg and the Joe DiMaggio Sports Complex in Clearwater.</p><p><b><u>Saturday, Feb. 25 at Al Lang Stadium</u></b></p><ul>    <li>Toronto FC vs. Chicago Fire @ 3 p.m.</li>    <li>Philadelphia Union vs. D.C. United @ 5 p.m.</li>    <li>Tampa Bay Rowdies vs. Montreal Impact @ 7:30 p.m.</li></ul>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T143635
+DTSTART:20190503T000000
+DTEND:20190503T235900
+SUMMARY:Three Score Club/ Adult Softball Game
+DESCRIPTION:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Three Score Club/ Adult Softball Game @ Eddie C. Moore, fields 1 - 4</strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Three Score Club/ Adult Softball Game @ Eddie C. Moore, fields 1 - 4</strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

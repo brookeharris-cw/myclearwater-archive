@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T120745
+DTSTART:20190417T000000
+DTEND:20190417T235900
+SUMMARY:Ross Norton Teen Program
+DESCRIPTION:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Ross Norton Teen Program/ Youth Baseball @ Ross Norton Fields&nbsp;</strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>Ross Norton Teen Program/ Youth Baseball @ Ross Norton Fields&nbsp;</strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

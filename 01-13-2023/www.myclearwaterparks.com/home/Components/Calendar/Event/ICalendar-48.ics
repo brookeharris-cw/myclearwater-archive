@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190501T134606
+DTSTART:20190503T100000
+DTEND:20190503T230000
+SUMMARY:Druid Road Trail Ribbon Cutting
+DESCRIPTION:Please join us for the Druid Road Trail ribbon cutting. It will be held Friday, May 3 at 10 a.m. at the intersection of Druid Road Trail and Duke Energy Trail (near Druid Road and Bypass Drive). The completion of this trail creates one continuous network of trails that connect Clearwater Beach to the city of Tampa.
+X-ALT-DESC;FMTTYPE=text/html:Please join us for the Druid Road Trail ribbon cutting. It will be held Friday, May 3 at 10 a.m. at the intersection of Druid Road Trail and Duke Energy Trail (near Druid Road and Bypass Drive). The completion of this trail creates one continuous network of trails that connect Clearwater Beach to the city of Tampa.
+LOCATION:Near Druid Road & Bypass Drive Intersection\, Near Druid Road & Bypass Drive Intersection Clearwater\, Florida 33758
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

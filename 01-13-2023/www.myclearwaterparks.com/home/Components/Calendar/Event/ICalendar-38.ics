@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220307T163622
+DTSTART:20220312T000000
+DTEND:20220313T235900
+SUMMARY:Henry L. McMullen Century Tennis Tournament
+DESCRIPTION:<p>For the first time, the Henry L. McMullen Tennis Complex will host a century tennis tournament with men’s doubles, women’s doubles and mixed doubles play. Text (540) 226-4939 for more information.</p><p>Three Divisions: Mixed, Women’s and Men’s Doubles</p><p>Rec Card Holder: $30.00</p><p>Non Rec Card Holder: $35.00 per player per division</p><p>Limited to 16 teams per division</p><p>If you choose to play multiple divisions, be advised it’s highly possible that you will only get a short break between matches.</p><p>Additionally, we can not accommodate scheduling matches around outside commitments.</p><p>Match times will be posted at McMullen tennis by February 18, 2022.</p><p>Tournament format: Teams ages have to equal 100 or more. All players will have a minimum of 2 matches per event.</p><p>Matches are best 2 out of 3 sets, full scoring &amp; third set ten-point tiebreak with consolation round. 10 minute warm up. Must be at least 15 years old to play.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>For the first time, the Henry L. McMullen Tennis Complex will host a century tennis tournament with men’s doubles, women’s doubles and mixed doubles play. Text (540) 226-4939 for more information.</p><p>Three Divisions: Mixed, Women’s and Men’s Doubles</p><p>Rec Card Holder: $30.00</p><p>Non Rec Card Holder: $35.00 per player per division</p><p>Limited to 16 teams per division</p><p>If you choose to play multiple divisions, be advised it’s highly possible that you will only get a short break between matches.</p><p>Additionally, we can not accommodate scheduling matches around outside commitments.</p><p>Match times will be posted at McMullen tennis by February 18, 2022.</p><p>Tournament format: Teams ages have to equal 100 or more. All players will have a minimum of 2 matches per event.</p><p>Matches are best 2 out of 3 sets, full scoring &amp; third set ten-point tiebreak with consolation round. 10 minute warm up. Must be at least 15 years old to play.</p>
+LOCATION:Henry L. McMullen Tennis Complex\, 1000 Edenville Ave Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

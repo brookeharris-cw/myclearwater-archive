@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180809T094634
+DTSTART:20180811T000000
+DTEND:20180812T235900
+SUMMARY:NSA Bomber
+DESCRIPTION:<p style="text-align: center;">Located at Eddie C. Moore</p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;">Located at Eddie C. Moore</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

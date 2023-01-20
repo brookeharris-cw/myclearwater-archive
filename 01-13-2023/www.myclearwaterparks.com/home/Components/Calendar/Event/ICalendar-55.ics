@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190410T145014
+DTSTART:20190505T000000
+DTEND:20190505T235900
+SUMMARY:City of Clearwater Adult Baseball League
+DESCRIPTION:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>City of Clearwater Adult Baseball League Game @ Frank Tack Park</strong></p>
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>&nbsp;</strong></p><p style="text-align: center;"><strong>City of Clearwater Adult Baseball League Game @ Frank Tack Park</strong></p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
