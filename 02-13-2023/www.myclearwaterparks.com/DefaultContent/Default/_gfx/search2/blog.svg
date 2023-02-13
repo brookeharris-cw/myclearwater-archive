@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 24.209">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5c656a;
+      }
+    </style>
+  </defs>
+  <g id="blog" transform="translate(0 -34.651)">
+    <g id="Group_507" data-name="Group 507" transform="translate(0 34.651)">
+      <g id="Group_506" data-name="Group 506" transform="translate(0 0)">
+        <path id="Path_3299" data-name="Path 3299" class="cls-1" d="M16.934,34.651,0,51.733V55.6H3.838L20.772,38.523ZM3.163,53.962H1.628V52.413L16.934,36.974l1.535,1.549Z" transform="translate(0 -34.651)"/>
+      </g>
+    </g>
+    <g id="Group_509" data-name="Group 509" transform="translate(0 57.233)">
+      <g id="Group_508" data-name="Group 508" transform="translate(0 0)">
+        <rect id="Rectangle_776" data-name="Rectangle 776" class="cls-1" width="28" height="1.628"/>
+      </g>
+    </g>
+    <g id="Group_511" data-name="Group 511" transform="translate(8.352 53.976)">
+      <g id="Group_510" data-name="Group 510">
+        <rect id="Rectangle_777" data-name="Rectangle 777" class="cls-1" width="19.648" height="1.628"/>
+      </g>
+    </g>
+  </g>
+</svg>

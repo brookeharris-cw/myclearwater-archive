@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 25.364">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5c656a;
+      }
+    </style>
+  </defs>
+  <g id="calendar" transform="translate(0 -20)">
+    <path id="Path_3340" data-name="Path 3340" class="cls-1" d="M19.325,21.647V20H17.844v1.647H10.1V20H8.675v1.647H0V45.365H28V21.647ZM8.675,22.864v2.406H10.1V22.864h7.748v2.077h1.482V22.864H26.77v4.648H1.2V22.864ZM1.2,44.122V28.894H26.77V44.122Z"/>
+  </g>
+</svg>
