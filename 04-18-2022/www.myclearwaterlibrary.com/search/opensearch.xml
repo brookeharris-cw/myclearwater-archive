@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription 
+    xmlns="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:locsearch="http://www.loc.gov/search/">
+    <ShortName>Library of Congress Search</ShortName>
+    <Description>Search content from the Library of Congress</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16" type="image/x-icon">https://www.loc.gov/static/images/fav.ico</Image>
+    <Url type="text/html" 
+	   template='https://www.loc.gov/search/?q={searchTerms}&amp;sp={startPage?}&amp;new=true' />
+    <Url type="application/json" 
+	   template='https://www.loc.gov/search/?q={searchTerms}&amp;sp={startPage?}&amp;new=true&amp;fo=json' />
+	<Url type="application/x-suggestions+json"
+      rel="suggestions"
+      template='https://www.loc.gov/search/suggest/?q={searchTerms}' />
+</OpenSearchDescription>
