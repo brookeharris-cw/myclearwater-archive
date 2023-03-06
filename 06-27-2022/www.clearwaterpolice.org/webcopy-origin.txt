@@ -1,0 +1,1728 @@
+Uri: https://cdn.userway.org/widget.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\widget.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);@import url(//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);@import url(//fonts.googleapis.com/css?family=Oswald:400,300,700);@font-face{font-family:'Lucida Sans
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\css-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,300,700
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\css-2.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v48/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\oswald\v48\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v48/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\oswald\v48\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v48/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\s\oswald\v48\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://pbs.twimg.com/profile_images/1079117635781120000/njfvFSvX_normal.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\profile_images\1079117635781120000\njfvFSvX_normal.jpg
+Content Type: image/jpeg
+
+Uri: https://siteimproveanalytics.com/js/siteanalyze_9566.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\js\siteanalyze_9566.js
+Content Type: application/javascript
+
+Uri: https://www.clearwaterpolice.org/
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\index.htm
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/commend-an-officer
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\commend-an-officer.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/criminal-investigations-division
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\criminal-investigations-division.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/criminal-investigations-division/burglary-project-rid
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\criminal-investigations-division\burglary-project-rid.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/criminal-investigations-division/keep-your-identity-safe
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\criminal-investigations-division\keep-your-identity-safe.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/fair-impartial-policing-817
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\fair-impartial-policing-817.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/faq
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\faq.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/patrol
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\patrol.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/quality-of-service-concern
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\quality-of-service-concern.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/strategic-plan-2272
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\strategic-plan-2272.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/support-services
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\support-services.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/unsolved-homicides
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\unsolved-homicides.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/about-cpd/victim-advocacy
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\about-cpd\victim-advocacy.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/apple-touch-icon-57x57-precomposed.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\apple-touch-icon-57x57-precomposed.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/apple-touch-icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_diagonals-thick_18_b81900_40x40.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_diagonals-thick_20_666666_40x40.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_diagonals-thick_20_666666_40x40.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_glass_100_f6f6f6_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_glass_100_f6f6f6_1x400.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_glass_100_fdf5ce_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_glass_100_fdf5ce_1x400.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_gloss-wave_35_f6a828_500x100.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_highlight-soft_100_eeeeee_1x100.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-bg_highlight-soft_75_ffe45c_1x100.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-icons_222222_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-icons_228ef1_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-icons_228ef1_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-icons_ef8c08_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-icons_ef8c08_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-icons_ffd27a_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-icons_ffd27a_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=acwZKNE3RPD1pekbX4Wz3QDE28KLfvHqhg0VPeQSJxg1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\StyleBundleFrontendExtra.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/Areas/Admin/Content/_gfx/poshytip/tip-twitter_arrows.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Areas\Admin\Content\_gfx\poshytip\tip-twitter_arrows.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/chief-s-office
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/call-us
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\call-us.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/email-us
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\email-us.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/file-an-online-report
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\file-an-online-report.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/missing-persons
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\missing-persons.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/accreditation/2022-cfa-accreditation
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\accreditation\2022-cfa-accreditation.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/annual-report
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\annual-report.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/closed-internal-affairs-cases
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\closed-internal-affairs-cases.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/commend-an-employee
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\commend-an-employee.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/making-a-complaint
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\making-a-complaint.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/staff-inspections
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\staff-inspections.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-professional-standards/use-of-force-complaint-policies
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-professional-standards\use-of-force-complaint-policies.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/chief-s-office/office-of-the-chief
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\chief-s-office\office-of-the-chief.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community/barrier-island-re-entry-pass
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community\barrier-island-re-entry-pass.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community/history
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community\history.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community/in-memoriam
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community\in-memoriam.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community/in-the-news
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community\in-the-news.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community/liaison-officers
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community\liaison-officers.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/community/patrol-districts
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\community\patrol-districts.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/bootstrap.v3.4.1.min.css
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\bootstrap.v3.4.1.min.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/flexslider/flex-arrow-left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\flexslider\flex-arrow-left.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/flexslider/flex-arrow-right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\flexslider\flex-arrow-right.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/flexslider/flex-icon-pause.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\flexslider\flex-icon-pause.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/flexslider/flex-icon-play.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\flexslider\flex-icon-play.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/Print.cssbnd?v=-3T1oJ_z89pR7QkdJGfMpghXZyPybqptlohcPz3eK0w1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\StyleBundleAngularLib.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=es30EGXbqFZEH4GQDRU8uHbKx8aRvWTvexYg69ke4041
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/alert_border.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\alert_border.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/alert_controls.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\alert_controls.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/alert_strip.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\alert_strip.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/attach.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\attach.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/comment.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\comment.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/comment_self.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\comment_self.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/database.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\database.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/datepicker.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\datepicker.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/disk.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\disk.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/email_table.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\email_table.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/error.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\error.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/exported_group.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\exported_group.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/lock.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\lock.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/map.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\map.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/messagebox_strip.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\messagebox_strip.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/mobile/down_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\mobile\down_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/mobile/mob_visionlink_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\mobile\mob_visionlink_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/mobile/mob_visionlink_strip.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\mobile\mob_visionlink_strip.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/mobile/right_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\mobile\right_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/news-tile-default.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\news-tile-default.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/phone.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\phone.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/pin.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\pin.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/slideshow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\slideshow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/sort-arrows.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\sort-arrows.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/spot_off.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\spot_off.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/spot_on.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\spot_on.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/star.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\star.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/cmn/tool_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\cmn\tool_icons.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/dashboard/full-link.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\dashboard\full-link.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/dialog_icons/page_sprite.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\dialog_icons\page_sprite.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/businessdirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\businessdirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/customcontent.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\customcontent.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/document.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\document.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/event.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\event.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/facilitydirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\facilitydirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/FAQ.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\FAQ.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/form_survey.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\form_survey.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/image.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\image.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/job.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\job.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/meetingagenda.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\meetingagenda.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/meetingitem.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\meetingitem.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/meetingminutes.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\meetingminutes.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/news.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\news.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/online_poll.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\online_poll.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/page.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\page.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/pdf.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\pdf.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/photoalbum.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\photoalbum.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/rfp.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\rfp.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/servicedirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\servicedirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons/staffdirectory.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons\staffdirectory.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/document_icons_light/document.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\document_icons_light\document.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/enotification/email.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\enotification\email.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/enotification/email_checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\enotification\email_checked.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/enotification/sms.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\enotification\sms.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/enotification/sms_checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\enotification\sms_checked.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/external_url.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\external_url.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/forms/sensitive-question.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\forms\sensitive-question.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/forms/spot_file.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\forms\spot_file.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/forms/spot_off.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\forms\spot_off.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/forms/spot_on.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\forms\spot_on.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/gmap/pin.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\gmap\pin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/add_delete_attendees.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\add_delete_attendees.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/arrow_left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\arrow_left.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/arrow_right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\arrow_right.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/calendar_add.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\calendar_add.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/calendar_more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\calendar_more.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/contentUsage_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\contentUsage_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/end-quote.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\end-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/google.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\google.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/ical.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\ical.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/icon-checkbox-checked.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\icon-checkbox-checked.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/icon-delete.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\icon-delete.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/mini_calendar_controls.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\mini_calendar_controls.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/mini_calendar_header.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\mini_calendar_header.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/mini_calendar_today.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\mini_calendar_today.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/print.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\print.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/quote.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/reCAPTCHA/help_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\reCAPTCHA\help_icon.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/reCAPTCHA/reload_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\reCAPTCHA\reload_icon.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/reCAPTCHA/sound_icon.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\reCAPTCHA\sound_icon.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/rss.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\rss.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/share/share_icons.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\share\share_icons.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/small_box_outer.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\small_box_outer.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/title_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\title_icons.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/video.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\video.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/int/yahoo.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\int\yahoo.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/loading-failed.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\loading-failed.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/loading.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\loading.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/loading16_16.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\loading16_16.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/no-image.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\no-image.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/resize_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\resize_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/social_icons/facebook.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\social_icons\facebook.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/social_icons/google.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\social_icons\google.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/social_icons/user.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\social_icons\user.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/spacer.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\spacer.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/calendar/calendar_event_had_registered.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\calendar\calendar_event_had_registered.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/calendar/calendar_event_in_pending_waitinglist.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\calendar\calendar_event_in_pending_waitinglist.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/meetings_manager/arrow_hide.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\meetings_manager\arrow_hide.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/meetings_manager/arrow_show.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\meetings_manager\arrow_show.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/meetings_manager/html_tag_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\meetings_manager\html_tag_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/meetings_manager/package_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\meetings_manager\package_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/meetings_manager/pdf_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\meetings_manager\pdf_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/meetings_manager/video_icon.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\meetings_manager\video_icon.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/shared_content.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\shared_content.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/status/shared_content12_12.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\status\shared_content12_12.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/business_submission.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\business_submission.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/enotification.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\enotification.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/event_registration.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\event_registration.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/event_submission.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\event_submission.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/event_waiting_list.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\event_waiting_list.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/facility-reservation.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\facility-reservation.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/form-builder.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\form-builder.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/job_applications.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\job_applications.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/member-content.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\member-content.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\more.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/my-dashboard.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\my-dashboard.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/online-payment.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\online-payment.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/profilephoto_placeholder.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\profilephoto_placeholder.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/service-request-processor.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\service-request-processor.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/topbar/service-request-reporter.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\topbar\service-request-reporter.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/TreeView/sprite.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\TreeView\sprite.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/TreeView/treeview-line.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\TreeView\treeview-line.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/TreeView/treeview-nodes.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\TreeView\treeview-nodes.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/_SiteMap/file.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\_SiteMap\file.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/Default/_gfx/_SiteMap/menu.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\Default\_gfx\_SiteMap\menu.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\fonts\glyphicons-halflings-regular.ttf.bin
+Content Type: application/octet-stream
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.clearwaterpolice.org/DefaultContent/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\DefaultContent\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.clearwaterpolice.org/employment
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\employment.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/employment/accreditation
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\employment\accreditation.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/employment/become-an-officer
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\employment\become-an-officer.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/employment/join-our-communications-team
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\employment\join-our-communications-team.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/favicon.ico
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\favicon.ico
+Content Type: 
+
+Uri: https://www.clearwaterpolice.org/home
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/home/showpublisheddocument/1694/637013923374070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublisheddocument\1694\637013923374070000.pdf
+Content Type: application/pdf
+
+Uri: https://www.clearwaterpolice.org/home/showpublisheddocument/1696/636861908891730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublisheddocument\1696\636861908891730000.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://www.clearwaterpolice.org/home/showpublisheddocument/1698/637013919373070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublisheddocument\1698\637013919373070000.pdf
+Content Type: application/pdf
+
+Uri: https://www.clearwaterpolice.org/home/showpublisheddocument/1702/637013913748800000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublisheddocument\1702\637013913748800000.pdf
+Content Type: application/pdf
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10001/636942292511970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10001\636942292511970000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10003/636942293311270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10003\636942293311270000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10005/636942294145700000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10005\636942294145700000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10007/636942295216600000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10007\636942295216600000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10013/636942915323900000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10013\636942915323900000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10015/636942916711400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10015\636942916711400000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10017/636943079562870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10017\636943079562870000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10019/636943080136230000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10019\636943080136230000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10021/636943080815400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10021\636943080815400000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10023/636943081564730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10023\636943081564730000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10025/636943082684570000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10025\636943082684570000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10027/636943083330570000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10027\636943083330570000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10029/636943090812530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10029\636943090812530000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10031/636943092276700000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10031\636943092276700000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10621/637014866831030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10621\637014866831030000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10623/637014868366530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10623\637014868366530000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10625/637014870278770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10625\637014870278770000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10627/637014870789730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10627\637014870789730000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10629/637014872766170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10629\637014872766170000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10631/637015517403330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10631\637015517403330000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10633/637015520077570000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10633\637015520077570000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10689/637019950133800000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10689\637019950133800000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10691/637019988228930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10691\637019988228930000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10743/637024977078430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10743\637024977078430000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10745/637024985376170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10745\637024985376170000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10747/637024987365070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10747\637024987365070000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10749/637024989159470000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10749\637024989159470000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10751/637024994562770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10751\637024994562770000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10753/637024995132530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10753\637024995132530000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10755/637025000130600000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10755\637025000130600000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10759/637025006148870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10759\637025006148870000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10761/637025015871000000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10761\637025015871000000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10767/637025029775470000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10767\637025029775470000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10769/637025031410770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10769\637025031410770000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10773/637025035901670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10773\637025035901670000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10775/637025038306070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10775\637025038306070000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10777/637025042003330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10777\637025042003330000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10779/637025048488530000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10779\637025048488530000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/10781/637025052983300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\10781\637025052983300000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/11087/637048502998300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\11087\637048502998300000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/11090/637048510107600000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\11090\637048510107600000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/11669/637153749504430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\11669\637153749504430000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/11673/637153755396200000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\11673\637153755396200000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/12508/637268819982800000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\12508\637268819982800000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/12510/637268819987200000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\12510\637268819987200000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/12512/637268819990630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\12512\637268819990630000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/12514/637268825295000000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\12514\637268825295000000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/12516/637268859362200000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\12516\637268859362200000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/12592/637275122079930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\12592\637275122079930000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/13326/637394915906100000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\13326\637394915906100000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/14007/637487220476500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\14007\637487220476500000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/14263/637533873895730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\14263\637533873895730000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/14701/637574692974270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\14701\637574692974270000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/14923/637600335696930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\14923\637600335696930000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/15603/637674634831670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\15603\637674634831670000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/15651/637679035136000000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\15651\637679035136000000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1624/636124960454330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1624\636124960454330000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1626/636124960456670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1626\636124960456670000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1628/636124960459170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1628\636124960459170000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1632/636124960464330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1632\636124960464330000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1636/636125049284130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1636\636125049284130000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1640/636125049286770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1640\636125049286770000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1642/636125049288030000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1642\636125049288030000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/16673/637823236939700000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\16673\637823236939700000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1690/636132969044300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1690\636132969044300000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1696/636132990559630000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1696\636132990559630000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1698/636132990560900000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1698\636132990560900000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1700/636132990562300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1700\636132990562300000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1702/636132990563870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1702\636132990563870000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/17037/637892444789300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\17037\637892444789300000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/17039/637892444802130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\17039\637892444802130000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1704/636132990565100000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1704\636132990565100000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/17154/637915668343885846
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\17154\637915668343885846.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/17156/637915668354198421
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\17156\637915668354198421.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1800/636133054383270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1800\636133054383270000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1804/636133073160730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1804\636133073160730000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1806/636133073162000000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1806\636133073162000000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1808/636133073163070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1808\636133073163070000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1810/636133073164500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1810\636133073164500000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/1812/636133073165730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\1812\636133073165730000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/2387/636204167721500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\2387\636204167721500000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/2389/636204167722730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\2389\636204167722730000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/2391/636204167724170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\2391\636204167724170000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/2393/636204167725400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\2393\636204167725400000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/2413/636204184295170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\2413\636204184295170000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/2461/636204185479400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\2461\636204185479400000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/6955/636560382055970000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\6955\636560382055970000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/6957/636560382075330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\6957\636560382075330000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/6961/636560382096130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\6961\636560382096130000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/6965/636560382117670000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\6965\636560382117670000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7041/636570769147130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7041\636570769147130000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7109/636578479874170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7109\636578479874170000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7183/636590398787400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7183\636590398787400000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7185/636590398797870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7185\636590398797870000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7187/636590398806930000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7187\636590398806930000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7189/636590398815830000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7189\636590398815830000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7191/636590398826300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7191\636590398826300000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7193/636590398835070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7193\636590398835070000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7195/636590398844430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7195\636590398844430000.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7197/636590398854730000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7197\636590398854730000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7201/636590398877400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7201\636590398877400000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/7203/636590398892870000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\7203\636590398892870000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9829/636917951136300000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9829\636917951136300000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9831/636918786618370000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9831\636918786618370000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9833/636918792964430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9833\636918792964430000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9839/636918801337400000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9839\636918801337400000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9979/636942146193330000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9979\636942146193330000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9981/636942151826130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9981\636942151826130000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9983/636942228673070000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9983\636942228673070000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9985/636942229967270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9985\636942229967270000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9987/636942231466500000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9987\636942231466500000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9989/636942260373830000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9989\636942260373830000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9991/636942262015270000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9991\636942262015270000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9993/636942262974430000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9993\636942262974430000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9995/636942275753770000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9995\636942275753770000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9997/636942290892130000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9997\636942290892130000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/home/showpublishedimage/9999/636942291803170000
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\home\showpublishedimage\9999\636942291803170000.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/how-do-i-
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i-.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i-/contact-us/phone-listing
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i-\contact-us\phone-listing.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/become-a-volunteer
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\become-a-volunteer.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/become-an-officer
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\become-an-officer.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/commend-or-complain-about-an-officer
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\commend-or-complain-about-an-officer.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/contact-us
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\contact-us.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/hire-an-extra-duty-officer
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\hire-an-extra-duty-officer.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/make-an-appointment
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\make-an-appointment.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/public-finger-printing
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\public-finger-printing.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/report-a-website-issue
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\report-a-website-issue.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/solicit-on-public-streets
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\solicit-on-public-streets.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/how-do-i/trespass-signage
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\how-do-i\trespass-signage.html
+Content Type: text/html
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Main/bootstrap.min.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Main\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Main/police_homelayout_scripts.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Main\police_homelayout_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Main/police_mobile_nav_scripts.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Main\police_mobile_nav_scripts.js
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Main/Scripts/jquery.ba-throttle-debounce.js
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Main\Scripts\jquery.ba-throttle-debounce.js
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Main/x-small.css
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Main\x-small.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/fonts/Lucida Sans Regular.eot
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\fonts\Lucida Sans Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/fonts/Lucida Sans Regular.eot?
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\fonts\Lucida Sans Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/fonts/Lucida Sans Regular.svg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\fonts\Lucida Sans Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/fonts/Lucida Sans Regular.woff
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\fonts\Lucida Sans Regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/fonts/Lucida Sans Regular.woff2
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\fonts\Lucida Sans Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/Print.cssbnd?v=TOidz400LrsqWm9X0h1j2yHFdK8TX3A8RyiCqXZ-yCg1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\Print.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/StyleBundleDesignTheme.cssbnd?v=L25Ca_-LbZmuAPMoufRtC4n9UQzZ-DmKhg4g9eQQDDI1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\StyleBundleDesignTheme.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/StyleBundleMegaMenuDropDown.cssbnd?v=BBUkFEqHa24c3Mtz5S1HTMnPj6kIxkZ0OYU4188ToRM1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\StyleBundleMegaMenuDropDown.cssbnd.css
+Content Type: text/css
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/alert_controls.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\alert_controls.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/body_bg.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\body_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/email_table.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\email_table.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/footer_logo.jpg
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\footer_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/google.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\google.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/gradient_line.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\gradient_line.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/header_graphics.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\header_graphics.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/header_tagline.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\header_tagline.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\logo.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mag_glass.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mag_glass.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mag_glass_big.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mag_glass_big.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/fullsite_arrow_left.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\fullsite_arrow_left.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/fullsite_arrow_right.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\fullsite_arrow_right.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/fullsite_bg.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\fullsite_bg.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/menu.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\menu.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/mob_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\mob_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/mob_header_bg.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\mob_header_bg.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/mobile/small_logo.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\mobile\small_logo.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/pin.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\pin.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/smallbox_graphics.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\smallbox_graphics.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab1.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab1.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab1_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab1_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab1_hover.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab1_hover.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab1_img.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab1_img.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab2.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab2.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab2_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab2_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab2_hover.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab2_hover.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab2_img.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab2_img.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab3.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab3.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab3_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab3_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab3_hover.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab3_hover.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab3_img.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab3_img.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab4.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab4.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab4_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab4_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab4_hover.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab4_hover.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab4_img.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab4_img.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab5.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab5.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab5_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab5_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab5_hover.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab5_hover.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab5_img.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab5_img.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab6.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab6.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab6_arrow.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab6_arrow.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab6_hover.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab6_hover.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/cmn/tab6_img.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\cmn\tab6_img.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/home/button_arrows.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\home\button_arrows.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/int/+.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\int\ .png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/int/-.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\int\-.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/int/calendar_more.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\int\calendar_more.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/int/share_icons.gif
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\int\share_icons.gif
+Content Type: image/gif
+
+Uri: https://www.clearwaterpolice.org/Project/Contents/Police/_gfx/int/title_icons.png
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Project\Contents\Police\_gfx\int\title_icons.png
+Content Type: image/png
+
+Uri: https://www.clearwaterpolice.org/Scripts/Components/ScriptsFEBundle.jsbnd?v=11DNMu57cpNeO00Ituy-UgfEpH9di4HKlISLnm7Ke7M1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Scripts\Components\ScriptsFEBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Scripts/frontendCoreBundle.jsbnd?v=s5q3Yg3pyVpJMnpkxE-fwGqecNxxftXYhaE0iKIRcmw1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Scripts\frontendCoreBundle.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Scripts/ScriptBundleAngularLib.jsbnd?v=xgK94504-l6gtQhax8VGI_eWijE99UKJeNc4V3Nm4uQ1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Scripts\ScriptBundleAngularLib.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Scripts/ScriptBundleFAllInOne.jsbnd?v=gIOpmVj-uUN4Dir5fJWoGsM7aib_-aoTsxTM5nlSJr41
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Scripts\ScriptBundleFAllInOne.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.clearwaterpolice.org/Scripts/ScriptBundleVisionFrontend.jsbnd?v=1OS1vlU19pyTCkkUYpInCO4LL45iEPzr1lCrEid5Nsg1
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\Scripts\ScriptBundleVisionFrontend.jsbnd
+Content Type: text/javascript
+
+Uri: https://www.secretservice.gov/sites/default/files/reports/2020-12/KnowYourMoney.pdf
+File Name: C:\Users\brooke.harris\OneDrive - City of Clearwater\Desktop\Clearwater Website Archives\06-27-2022\www.clearwaterpolice.org\sites\default\files\reports\2020-12\KnowYourMoney.pdf
+Content Type: application/pdf
+
