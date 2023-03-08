@@ -1,0 +1,1072 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+	<symbol id="empty" viewBox="0 0 24 24">
+	</symbol>
+
+	<symbol id="account" viewBox="0 0 24 24">
+		<path d="M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14Z" />
+	</symbol>
+	<symbol id="database" viewBox="0 0 24 24">
+		/*materialdesignicons*/
+		<path d="M18,1H6A2,2 0 0,0 4,3V5A2,2 0 0,0 6,7H18A2,2 0 0,0 20,5V3A2,2 0 0,0 18,1M8,5H6V3H8V5M18,9H6A2,2 0 0,0 4,11V13A2,2 0 0,0 6,15H18A2,2 0 0,0 20,13V11A2,2 0 0,0 18,9M8,13H6V11H8V13M18,17H6A2,2 0 0,0 4,19V21A2,2 0 0,0 6,23H18A2,2 0 0,0 20,21V19A2,2 0 0,0 18,17M8,21H6V19H8V21Z" />
+	</symbol>
+
+	<symbol id="chart" viewBox="0 0 24 24">
+		/*materialdesignicons*/
+		<path d="M22,21H2V3H4V19H6V10H10V19H12V6H16V19H18V14H22V21Z" />
+	</symbol>
+
+	<symbol id="add" viewBox="0 0 24 24">
+		<path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
+	</symbol>
+
+	<symbol id="add-circle" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M17,13h-4v4h-2v-4H7v-2h4V7h2v4h4V13z"></path>
+	</symbol>
+
+	<symbol id="address" viewBox="0 0 24 24">
+		<path d="M12,2C8.1,2,5,5.1,5,9c0,5.2,7,13,7,13s7-7.8,7-13C19,5.1,15.9,2,12,2z M12,11.5c-1.4,0-2.5-1.1-2.5-2.5s1.1-2.5,2.5-2.5c1.4,0,2.5,1.1,2.5,2.5S13.4,11.5,12,11.5z" />
+	</symbol>
+
+	<symbol id="analyze" viewBox="0 0 24 24">
+		<path d="M6,20v-8h2v8h-2z M10,20V7h2V20h-2z M14,20v-7h2V20h-2z M18,20V5h2V20h-2z"></path>
+	</symbol>
+
+	<symbol id="apps" viewBox="0 0 24 24">
+		<path d="M4 8h4v-4h-4v4zm6 12h4v-4h-4v4zm-6 0h4v-4h-4v4zm0-6h4v-4h-4v4zm6 0h4v-4h-4v4zm6-10v4h4v-4h-4zm-6 4h4v-4h-4v4zm6 6h4v-4h-4v4zm0 6h4v-4h-4v4z"></path>
+	</symbol>
+
+	<symbol id="arrow-back" viewBox="0 0 24 24">
+		<path d="M20,11H7.8l5.6-5.6L12,4l-8,8l8,8l1.4-1.4L7.8,13H20V11z" />
+	</symbol>
+
+	<symbol id="arrow-forward" viewBox="0 0 24 24">
+		<polygon points="12,4 10.6,5.4 16.2,11 4,11 4,13 16.2,13 10.6,18.6 12,20 20,12 "></polygon>
+	</symbol>
+
+	<symbol id="arrow-up" viewBox="0 0 24 24">
+		<!--// rotated from arrow-back-->
+		<path d="M11,20V7.8l-5.6,5.6L4,12l8-8l8,8l-1.4,1.4L13,7.8V20H11z"></path>
+	</symbol>
+	<symbol id="edit-circle" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10s10-4.5,10-10S17.5,2,12,2z M9.6,16.5l-3,0.8l0.8-3L12.7,9l2.2,2.2L9.6,16.5z M17.2,9
+	L16,10.2L13.8,8L15,6.8c0.2-0.2,0.5-0.2,0.7,0l1.5,1.5C17.4,8.5,17.4,8.8,17.2,9z" />
+	</symbol>
+	<!--<symbol id="arrow-up" viewBox="0 0 24 24">
+	  <path d="M6 10h4v11h4V10h4l-6-7L6 10z"></path>
+	</symbol>-->
+	<symbol id="arrow-down" viewBox="0 0 24 24">
+		rotated from arrow-forward
+		<polygon points="4,12 5.4,10.6 11,16.2 11,4 13,4 13,16.2 18.6,10.6 20,12 12,20"></polygon>
+	</symbol>
+
+	<!--<symbol id="arrow-down" viewBox="0 0 24 24">
+	  <path d="M18 14h-4V3h-4v11H6l6 7L18 14z"></path>
+	</symbol>-->
+
+	<symbol id="arrow-up-circle" viewBox="0 0 24 24">
+		<path d="M12 2C6.5 2 2 6.5 2 12c0 5.5 4.5 10 10 10 5.5 0 10-4.5 10-10C22 6.5 17.5 2 12 2zM14 12v4h-4v-4H7l5-5 5 5H14z" />
+	</symbol>
+
+	<symbol id="arrow-down-circle" viewBox="0 0 24 24">
+		<path transform="rotate(180 12,12)" d="M12 2C6.5 2 2 6.5 2 12c0 5.5 4.5 10 10 10 5.5 0 10-4.5 10-10C22 6.5 17.5 2 12 2zM14 12v4h-4v-4H7l5-5 5 5H14z" />
+	</symbol>
+
+	<symbol id="aspect-ratio" viewBox="0 0 24 24">
+		<path d="M19,12h-2v3h-3v2h5V12z M7,9h3V7H5v5h2V9z M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z M21,19H3V5h18V19z"></path>
+	</symbol>
+
+	<symbol id="perm-media" viewBox="0 0 24 24">
+		<path d="M2 6H0v5h.01L0 20c0 1.1.9 2 2 2h18v-2H2V6zm20-2h-8l-2-2H6c-1.1 0-1.99.9-1.99 2L4 16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7 15l4.5-6 3.5 4.51 2.5-3.01L21 15H7z" />
+	</symbol>
+
+	<symbol id="camera-enhance" viewBox="0 0 24 24">
+		<path d="M9 3L7.17 5H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2h-3.17L15 3H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zM12 17l1.25-2.75L16 13l-2.75-1.25L12 9l-1.25 2.75L8 13l2.75 1.25z" />
+	</symbol>
+
+	<symbol id="zoom-fit" viewBox="0 0 24 24">
+		<path d="M20,4v16L4,20L4,4L20,4 M20,2L4,2C2.9,2,2,2.9,2,4l0,16c0,1.1,0.9,2,2,2l16,0c1.1,0,2-0.9,2-2V4C22,2.9,21.1,2,20,2L20,2z" />
+		<polygon points="12,5 9,8 15,8 " />
+		<polygon points="12,19 15,16 9,16 " />
+		<polygon points="5.1,12 8.1,15 8.1,9 " />
+		<polygon points="19,12 16,9 16,15 " />
+	</symbol>
+	<!--section for bpmn icons-->
+	<!--when adding new icons here, please follow this id format: "bpmn-(data-shape value)"; -->
+	<!--Please follow data-shape in _Routing.cshtml starting line 58, case sensitive-->
+	<symbol id="bpmn-startEvent" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#779516" stroke-width="1" fill="#d8e8a6" />
+	</symbol>
+	<symbol id="bpmn-startEvent-message" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#779516" stroke-width="1" fill="#d8e8a6" />
+		<path d="M17,16h-10v-7l5,3.5l5,-3.5zM7,8l5,3.5l5-3.5z" fill="#779516" />
+	</symbol>
+	<symbol id="bpmn-startEvent-timer" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#779516" stroke-width="1" fill="#d8e8a6" />
+		<circle cx="12" cy="12" r="5.8" stroke="#779516" stroke-width=".8" fill="#d8e8a6" />
+		<polygon points="12.5,8 11.5,8 11.5,13 16,13 16,12.3 12.5,12 " fill="#779516" />
+	</symbol>
+	<symbol id="bpmn-catchEvent-timer" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="5.8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<polygon points="12.5,8 11.5,8 11.5,13 16,13 16,12.3 12.5,12 " fill="#cc9933" />
+	</symbol>
+	<symbol id="bpmn-throwEvent-signal" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<path d="M12 7 L17 15 L7 15z" fill="#cc9933" stroke="#cc9933"></path>
+	</symbol>
+	<symbol id="bpmn-catchEvent-signal" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<path d="M12 7 L17 15 L7 15z" fill="#fff9bf" stroke="#cc9933"></path>
+	</symbol>
+	<symbol id="bpmn-catchEvent-error" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#779516" stroke-width="1" fill="#d8e8a6" />
+		<path stroke="#779516" fill="#d8e8a6" d="m9.204455,3.413438l-2.09212,8.128834l-3.529345,-6.244612l-2.546,3.507434l2.247689,-8.020324l3.602794,5.63412l2.316987,-3.005452l-0.000005,0z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="translate(7 6.25)" />
+	</symbol>
+	<symbol id="bpmn-throwEvent-escalation" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="9" stroke="#cc9933" stroke-width="2" fill="#fff9bf" />
+		<path d="M12 7 L16 16 l-4-3L8 16z" fill="#cc9933" stroke="#cc9933"></path>
+	</symbol>
+	<symbol id="bpmn-throwEvent-link" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="9" stroke="#cc9933" stroke-width="2" fill="#fff9bf" />
+		<path d="M6,9h9v-2l4,5l-4,5v-2h-9z" fill="#cc9933" stroke="#cc9933"></path>
+	</symbol>
+	<symbol id="bpmn-endEvent" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="9" stroke="#C0262C" stroke-width="2" fill="#F9C2BC" />
+	</symbol>
+
+	<symbol id="bpmn-endEvent-terminate" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="9" stroke="#C0262C" stroke-width="2" fill="#F9C2BC" />
+		<circle cx="12" cy="12" r="5" stroke="#C0262C" stroke-width="1" fill="#C0262C" />
+	</symbol>
+	<symbol id="bpmn-endEvent-error" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="9" stroke="#C0262C" stroke-width="2" fill="#F9C2BC" />
+		<path fill="#C0262C" d="m9.204455,3.413438l-2.09212,8.128834l-3.529345,-6.244612l-2.546,3.507434l2.247689,-8.020324l3.602794,5.63412l2.316987,-3.005452l-0.000005,0z" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round" transform="translate(7 6.25)" />
+	</symbol>
+	<symbol id="bpmn-boundaryEvent-timer-noninterrupting" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1.2" stroke-dasharray="3 3" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1.2" stroke-dasharray="3 2" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="5.8" stroke="#cc9933" stroke-width="1" fill="#FEE5A0" />
+		<polygon points="12.5,8 11.5,8 11.5,13 16,13 16,12.3 12.5,12 " fill="#cc9933" />
+	</symbol>
+	<symbol id="bpmn-boundaryEvent-timer-interrupting" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="5.8" stroke="#cc9933" stroke-width="1" fill="#FEE5A0" />
+		<polygon points="12.5,8 11.5,8 11.5,13 16,13 16,12.3 12.5,12 " fill="#cc9933" />
+	</symbol>
+	<symbol id="bpmn-boundaryEvent-signal-noninterrupting" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1.2" stroke-dasharray="3 3" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1.2" stroke-dasharray="3 2" fill="#fff9bf" />
+		<path d="M12 7 L17 15 L7 15z" fill="#fff9bf" stroke="#cc9933"></path>
+	</symbol>
+	<symbol id="bpmn-boundaryEvent-signal-interrupting" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<path d="M12 7 L17 15 L7 15z" fill="#fff9bf" stroke="#cc9933"></path>
+	</symbol>
+	<symbol id="bpmn-boundaryEvent-error" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<circle cx="12" cy="12" r="8" stroke="#cc9933" stroke-width="1" fill="#fff9bf" />
+		<path stroke="#cc9933" fill="#fff9bf" d="m9.204455,3.413438l-2.09212,8.128834l-3.529345,-6.244612l-2.546,3.507434l2.247689,-8.020324l3.602794,5.63412l2.316987,-3.005452l-0.000005,0z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="translate(7 6.25)" />
+	</symbol>
+	<symbol id="bpmn-userTask" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path d="M15,9c0,1.7-1.3,3-3,3c-1.7,0-3-1.3-3-3c0-1.7,1.3-3,3-3C13.7,6,15,7.3,15,9z M6,17c0-2,4-3.1,6-3.1s6,1.1,6,3.1v1H6V17z" fill="#b0b0b0"></path>
+	</symbol>
+	<symbol id="bpmn-serviceTask" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path transform="scale(.55,.55) translate(10,9.5)" d="M19.4,13c0-0.3,0.1-0.6,0.1-1s0-0.7-0.1-1l2.1-1.7c0.2-0.2,0.2-0.4,0.1-0.6l-2-3.5C19.5,5.1,19.3,5,19,5.1l-2.5,1c-0.5-0.4-1.1-0.7-1.7-1l-0.4-2.6C14.5,2.2,14.2,2,14,2h-4C9.8,2,9.5,2.2,9.5,2.4L9.1,5.1C8.5,5.3,8,5.7,7.4,6.1L5,5.1C4.7,5,4.5,5.1,4.3,5.3l-2,3.5C2.2,8.9,2.3,9.2,2.5,9.4L4.6,11c0,0.3-0.1,0.6-0.1,1s0,0.7,0.1,1l-2.1,1.7c-0.2,0.2-0.2,0.4-0.1,0.6l2,3.5C4.5,18.9,4.7,19,5,18.9l2.5-1c0.5,0.4,1.1,0.7,1.7,1l0.4,2.6c0,0.2,0.2,0.4,0.5,0.4h4c0.2,0,0.5-0.2,0.5-0.4l0.4-2.6c0.6-0.3,1.2-0.6,1.7-1l2.5,1c0.2,0.1,0.5,0,0.6-0.2l2-3.5c0.1-0.2,0.1-0.5-0.1-0.6L19.4,13z M12,15.5c-1.9,0-3.5-1.6-3.5-3.5s1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5S13.9,15.5,12,15.5z" fill="#b0b0b0" />
+	</symbol>
+	<symbol id="bpmn-serviceTask-message" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path d="M17,16h-10v-7l5,3.5l5,-3.5zM7,8l5,3.5l5-3.5z" fill="#b0b0b0" />
+	</symbol>
+	<symbol id="bpmn-serviceTask-archive" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path transform="scale(.55,.55) translate(10,9.5)" d="M18,1H6A2,2 0 0,0 4,3V5A2,2 0 0,0 6,7H18A2,2 0 0,0 20,5V3A2,2 0 0,0 18,1M8,5H6V3H8V5M18,9H6A2,2 0 0,0 4,11V13A2,2 0 0,0 6,15H18A2,2 0 0,0 20,13V11A2,2 0 0,0 18,9M8,13H6V11H8V13M18,17H6A2,2 0 0,0 4,19V21A2,2 0 0,0 6,23H18A2,2 0 0,0 20,21V19A2,2 0 0,0 18,17M8,21H6V19H8V21Z" fill="#b0b0b0" />
+	</symbol>
+	<symbol id="bpmn-serviceTask-webhook" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path transform="scale(.55,.55) translate(10,9.5)" d="M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z" fill="#b0b0b0"></path>
+	</symbol>
+	<!--Duplicates to match LBPMN.Global names-->
+	<symbol id="bpmn-serviceTask-emailService" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path d="M17,16h-10v-7l5,3.5l5,-3.5zM7,8l5,3.5l5-3.5z" fill="#b0b0b0" />
+	</symbol>
+	<symbol id="bpmn-serviceTask-saveToLaserfiche" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path transform="scale(.55,.55) translate(10,9.5)" d="M18,1H6A2,2 0 0,0 4,3V5A2,2 0 0,0 6,7H18A2,2 0 0,0 20,5V3A2,2 0 0,0 18,1M8,5H6V3H8V5M18,9H6A2,2 0 0,0 4,11V13A2,2 0 0,0 6,15H18A2,2 0 0,0 20,13V11A2,2 0 0,0 18,9M8,13H6V11H8V13M18,17H6A2,2 0 0,0 4,19V21A2,2 0 0,0 6,23H18A2,2 0 0,0 20,21V19A2,2 0 0,0 18,17M8,21H6V19H8V21Z" fill="#b0b0b0" />
+	</symbol>
+	<symbol id="bpmn-serviceTask-webhookService" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path transform="scale(.55,.55) translate(10,9.5)" d="M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z" fill="#b0b0b0"></path>
+	</symbol>
+	<!--End duplicates-->
+	<symbol id="bpmn-ruleTask" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3"></path>
+		<path d="M5,17h14V7H5V17zM6 12h3v-2.5h-3zM6 15.5h3v-2.5h-3zM10 12h8v-2.5h-8zM10 15.5h8v-2.5h-8z" fill="#b0b0b0" fill-rule="evenodd" />
+	</symbol>
+
+
+
+	<symbol id="bpmn-subProcess" viewBox="0 0 24 24">
+		<path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z" stroke-width="1" stroke="#d5d5d5" fill="#f3f3f3" />
+		<path d="M17,17H7V7h10V17z" stroke-width=".8" stroke="#b0b0b0" fill="#fefefe" />
+		<path d="M12,9v6M9,12h6" stroke-width=".8" stroke="#b0b0b0" />
+	</symbol>
+
+	<symbol id="bpmn-exclusiveGateway" viewBox="0 0 24 24">
+		<path d="M12,2L2,12L12,22L22,12z" stroke="#d69D1B" stroke-width="1" fill="#fff9B2" />
+	</symbol>
+
+
+	<symbol id="bpmn-inclusiveGateway" viewBox="0 0 24 24">
+		<path d="M12,2L2,12L12,22L22,12z" stroke="#d69D1B" stroke-width="1" fill="#fff9B2" />
+		<circle cx="12" cy="12" r="3.5" stroke="#d69D1B" stroke-width="1.5" fill="#fff9B2" />
+	</symbol>
+
+	<symbol id="bpmn-parallelGateway" viewBox="0 0 24 24">
+		<path d="M12,2L2,12L12,22L22,12z" stroke="#d69D1B" stroke-width="1" fill="#fff9B2" />
+		<path d="M17,13h-4v4h-2v-4H7v-2h4V7h2v4h4V13z" fill="#d69D1B" />
+	</symbol>
+
+	<symbol id="bpmn-textAnnotation" viewBox="0 0 24 24">
+		<path d="M7,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h4" stroke="#b3b3b3" stroke-width=".8" fill="#f3f3f3" />
+		<path d="M21,19H3V5h18V19z" fill="#f3f3f3" />
+	</symbol>
+
+	<symbol id="date" viewBox="0 0 24 24">
+		<path d="M19,3h-1V1h-2v2H8V1H6v2H5C3.9,3,3,3.9,3,5l0,14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3z M19,19H5V8h14V19z" />
+		<rect x="7" y="10" width="5" height="5" />
+	</symbol>
+
+	<!--end of bpmn icons-->
+
+	<symbol id="caret-down" viewBox="0 0 24 24">
+		<!--<polygon points="  6,10 12,16 18,10"/>-->
+		<path d="M6,10h12l-6,6z" />
+	</symbol>
+
+	<symbol id="caret-up" viewBox="0 0 24 24">
+		<!--<polygon points="12,8 6,14 18,14"/>-->
+		<path d="M6,14h12l-6,-6z" />
+	</symbol>
+
+	<symbol id="caret-right" viewBox="0 0 24 24">
+		<polygon points=" 10,6 16,12 10,18" />
+	</symbol>
+
+	<symbol id="caret-left" viewBox="0 0 24 24">
+		<polygon points=" 8,12 14,6 14,18" />
+	</symbol>
+
+	<symbol id="caret-up-down" viewBox="0 0 24 24">
+		<path d="M6,10.5h12l-6,-6z M6,13.5h12l-6,6z" />
+	</symbol>
+
+	<symbol id="circle-caret-down" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" fill="white" />
+		<path d="M6,10h12l-6,6zM12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+	</symbol>
+
+	<symbol id="circle-caret-up" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="10" fill="white" />
+		<path d="M6,14h12l-6,-6zM12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+	</symbol>
+
+
+	<symbol id="check" viewBox="0 0 24 24">
+		<polygon points="9,16.2 4.8,12 3.4,13.4 9,19 21,7 19.6,5.6 " />
+	</symbol>
+	<symbol id="check-box" viewBox="0 0 24 24">
+		<path d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"  fill="#2ecc71"></path>
+	</symbol>
+	<symbol id="check-box-sm" viewBox="0 0 20 20">
+		<path fill="#2ecc71" d="m15.4 3l-10.9 0c-0.9 0-1.6 0.7-1.6 1.6l0 10.9c0 0.9 0.7 1.6 1.6 1.6l10.9 0c0.9 0 1.6-0.7 1.6-1.6l0-10.9c0-0.9-0.7-1.6-1.6-1.6zm-7 10.9l-3.9-3.9 1.1-1.1 2.8 2.8 5.9-5.9 1.1 1.1 -7 7 0 0z" />
+	</symbol>
+	<symbol id="checkbox" viewBox="0 0 24 24">
+		<path d="M7.9,10.1l-1.4,1.4L11,16L21,6l-1.4-1.4L11,13.2L7.9,10.1z M19,19L5,19V5h10V3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2v-8h-2V19z"/>
+	</symbol>
+
+	<symbol id="check-box-outline-blank" viewBox="0 0 24 24">
+		<path d="M19,5v14L5,19V5H19 M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3L19,3z" />
+	</symbol>
+	<svg id="check-box-outline-blank-sm" viewBox="0 0 20 20">
+		<rect ry="1.5" rx="1.5" height="14" width="14" y="3" x="3"/>
+		<rect height="10" width="10" y="5" x="5" fill="white" />
+	</svg>
+	<symbol id="check-box-outline-minus" viewBox="0 0 24 24">
+		<path d="M19,5v14L5,19V5H19 M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3L19,3z M7,11h10v2h-10z" />
+	</symbol>
+
+	<symbol id="check-box-outline-plus" viewBox="0 0 24 24">
+		<path d="M19,5v14L5,19V5H19 M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3L19,3z M7,11h10v2h-10z M11,7h2v10h-2z" />
+	</symbol>
+
+	<symbol id="check-bold" viewBox="0 0 24 24">
+		<polygon points="9,14 5.8,11 3.4,13.4 9,19 21,7 18.6,4.6 " />
+	</symbol>
+
+	<symbol id="checkmark-circle" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="11" fill="transparent" stroke="#2ecc71" stroke-width="2" />
+		<path class="st0" d="M17.7,10.1L12,16.3c0,0,0,0,0,0l-0.1,0.1l-0.2,0.3c-0.2,0.2-0.5,0.3-0.7,0.3
+		c-0.3,0-0.5-0.1-0.7-0.3L6.3,13c-0.4-0.4-0.4-1,0-1.4l0.4-0.4c0.4-0.4,1-0.4,1.4,0l2.8,2.6l5.1-5.6c0.4-0.4,1-0.4,1.4,0l0.4,0.4
+		C18.1,9,18.1,9.7,17.7,10.1z" fill="#2ecc71" />
+	</symbol>
+
+	<symbol id="nocheckmark-circle" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="11" fill="transparent" stroke="currentColor" stroke-width="2" />
+	</symbol>
+
+	<symbol id="six-dots" viewBox="0 0 24 24">
+		<circle cx="9" cy="6" r="1.5" />
+		<circle cx="9" cy="12" r="1.5" />
+		<circle cx="9" cy="18" r="1.5" />
+		<circle cx="15" cy="6" r="1.5" />
+		<circle cx="15" cy="12" r="1.5" />
+		<circle cx="15" cy="18" r="1.5" />
+	</symbol>
+
+	<symbol id="clock" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M12,20c-4.4,0-8-3.6-8-8s3.6-8,8-8c4.4,0,8,3.6,8,8S16.4,20,12,20z" />
+		<polygon points="12.5,7 11,7 11,13 16.2,16.2 17,14.9 12.5,12.3 " />
+	</symbol>
+
+	<symbol id="close" viewBox="0 0 24 24">
+		<path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z" />
+	</symbol>
+
+	<symbol id="arrow-back" viewBox="0 0 24 24">
+		<path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z" />
+	</symbol>
+
+	<symbol id="chevron-left" viewBox="0 0 24 24">
+		<!--<path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>-->
+		<path d="M11,12l3.7-3.3c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0L8,12l5.3,4.7c0.4,0.4,1,0.4,1.4,0
+						s0.4-1,0-1.4L11,12z" />
+	</symbol>
+
+	<symbol id="chevron1-left" viewBox="0 0 24 24">
+		<!--this is our version but arrow is too big (if we need this build from  arrow-back) -->
+		<path d="M15.85,2 l2.3,2.3 l-7.7,7.7 l7.7,7.7 l-2.3,2.3 l-10,-10z" />
+	</symbol>
+	<symbol id="chevron-right" viewBox="0 0 24 24">
+		<!--<path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>-->
+		<!-- <path d="M8.15,2 l-2.3,2.3 l7.7,7.7 l-7.7,7.7 l2.3,2.3 l10,-10z"/> our fat version-->
+		<path d="M9.7,7.3c-0.4-0.4-1-0.4-1.4,0s-0.4,1,0,1.4L12,12l-3.7,3.3c-0.4,0.4-0.4,1,0,1.4
+						c0.4,0.4,1,0.4,1.4,0L15,12L9.7,7.3z" />
+	</symbol>
+	<symbol id="chevron-up" viewBox="0 0 24 24">
+		<path d="M2,15.85 l2.3,2.3 l7.7,-7.7 l7.7,7.7 l2.3,-2.3 l-10,-10z" />
+	</symbol>
+	<symbol id="chevron-down" viewBox="0 0 24 24">
+		<path d="M2,8.15 l2.3,-2.3 l7.7,7.7 l7.7,-7.7 l2.3,2.3 l-10,10z" />
+	</symbol>
+
+	<symbol id="chevron-double-left" viewBox="0 0 24 24">
+		<!--<path d="M12,2 l2.3,2.3 l-7.7,7.7 l7.7,7.7 l-2.3,2.3 l-10,-10z M19.7,2 l2.3,2.3 l-7.7,7.7 l7.7,7.7 l-2.3,2.3 l-10,-10z"/>-->
+		<path d="M5,12l5.3,4.7c0.4,0.4,1,0.4,1.4,0s0.4-1,0-1.4L8,12l3.7-3.3c0.4-0.4,0.4-1,0-1.4
+						c-0.4-0.4-1-0.4-1.4,0L5,12z M17.3,7.3L12,12l5.3,4.7c0.4,0.4,1,0.4,1.4,0s0.4-1,0-1.4L15,12l3.7-3.3c0.4-0.4,0.4-1,0-1.4
+						C18.3,6.9,17.7,6.9,17.3,7.3z" />
+	</symbol>
+
+	<symbol id="chevron-double-right" viewBox="0 0 24 24">
+		<!--<path d="M12,2 l-2.3,2.3 l7.7,7.7 l-7.7,7.7 l2.3,2.3 l10,-10z M4.3,2 l-2.3,2.3 l7.7,7.7 l-7.7,7.7 l2.3,2.3 l10,-10z"/>-->
+		<path d="M13.7,7.3c-0.4-0.4-1-0.4-1.4,0c-0.4,0.4-0.4,1,0,1.4L16,12l-3.7,3.3c-0.4,0.4-0.4,1,0,1.4
+						s1,0.4,1.4,0L19,12L13.7,7.3z M5.3,7.3c-0.4,0.4-0.4,1,0,1.4L9,12l-3.7,3.3c-0.4,0.4-0.4,1,0,1.4s1,0.4,1.4,0L12,12L6.7,7.3
+						C6.3,6.9,5.7,6.9,5.3,7.3z" />
+	</symbol>
+
+
+
+	<symbol id="code" viewBox="0 0 24 24">
+		<polygon points="8.4,7.4 7,6 1,12 7,18 8.4,16.6 3.8,12 " />
+		<polygon points="8.7,20 11.1,20 15.3,4 12.9,4" />
+		<polygon points="17,6 15.6,7.4 20.2,12 15.6,16.6 17,18 23,12 " />
+	</symbol>
+
+	<symbol id="collection" viewBox="0 0 24 24">
+		<!--fill="#666"-->
+		<path d="M4,9h18V5H4V9z M4,14h9v-4H4V14z M4,19h9v-4H4V19z" />
+		<!--fill="#428bca"-->
+		<path d="M22,16h-3v3h-2v-3H14v-2h3v-3h2v3h3V16z" />
+	</symbol>
+
+	<symbol id="comment" viewBox="0 0 24 24">
+		<path d="M17 17h-6.2L6 21v-4.1c-1.7-0.4-3-2-3-3.9V7c0-2.2 1.8-4 4-4h10c2.2 0 4 1.8 4 4v6C21 15.2 19.2 17 17 17z" />
+	</symbol>
+
+	<!--symbol id ="custom-html" viewBox ="0 0 24 24">
+		<text x="4" y="13" font-family="Verdana" font-size="10" font-weight="bold" fill="#ff9900">A</text>
+		<path d="M13,9h9v-3h-9z M13,14h9v-3h-9z M4,19h18v-3h-18z" fill="#777"/>
+	</symbol-->
+
+	<symbol id="cancel" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M17,15.6L15.6,17L12,13.4L8.4,17L7,15.6l3.6-3.6L7,8.4L8.4,7l3.6,3.6L15.6,7L17,8.4L13.4,12L17,15.6z"></path>
+	</symbol>
+
+	<symbol id="create" viewBox="0 0 24 24">
+		<path d="M3 17.25v3.75h3.75l11.06-11.06-3.75-3.75-11.06 11.06zm17.71-10.21c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z" />
+	</symbol>
+	<!--<symbol id ="delete" viewBox ="0 0 24 24">
+		<path d="M6,19c0,1.1,0.9,2,2,2h8c1.1,0,2-0.9,2-2V7H6V19z M19,4h-3.5l-1-1h-5l-1,1H5v2h14V4z"/>
+	</symbol>-->
+	<symbol id="delete" viewBox="0 0 24 24">
+		<path d="M19,4h-2h-2c0-0.6-0.4-1-1-1H9C8.4,3,8,3.5,8,4H6H4C3.4,4,3,4.5,3,5c0,0.6,0.4,1,1,1v14
+			c0,1.1,0.9,2,2,2h11c1.1,0,2-0.9,2-2V6c0.6,0,1-0.4,1-1C20,4.5,19.6,4,19,4z M17,20H6V6h11V20z M11.5,17c0.3,0,0.5-0.2,0.5-0.5v-7
+			C12,9.2,11.8,9,11.5,9C11.2,9,11,9.2,11,9.5v7C11,16.8,11.2,17,11.5,17z M14.5,17c0.3,0,0.5-0.2,0.5-0.5v-7C15,9.2,14.8,9,14.5,9
+			C14.2,9,14,9.2,14,9.5v7C14,16.8,14.2,17,14.5,17z M8.5,17C8.8,17,9,16.8,9,16.5v-7C9,9.2,8.8,9,8.5,9C8.2,9,8,9.2,8,9.5v7
+			C8,16.8,8.2,17,8.5,17z" />
+	</symbol>
+
+	<symbol id="file-download" viewBox="0 0 24 24">
+		<path d="M19,9h-4V3H9v6H5l7,7L19,9z M5,18v2h14v-2H5z" />
+	</symbol>
+
+	<symbol id="file-upload" viewBox="0 0 24 24">
+		<polygon points="9,16 15,16 15,10 19,10 12,3 5,10 9,10 " />
+		<rect x="5" y="18" width="14" height="2" />
+	</symbol>
+
+	<!--<symbol id ="content-copy" viewBox ="0 0 24 24">
+		<path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"></path>
+	</symbol>-->
+	<symbol id="content-copy" viewBox="0 0 24 24">
+		<path d="M17,2H9.5C8.7,2,8,2.7,8,3.5V6H4.5C3.7,6,3,6.7,3,7.5v13C3,21.3,3.7,22,4.5,22h11c0.8,0,1.5-0.7,1.5-1.5V19h3.5
+	c0.8,0,1.5-0.7,1.5-1.5V7L17,2z M5,8h3v9.5C8,18.3,8.7,19,9.5,19H15v1H5V8z M10,17V4h6v3c0,0.5,0.5,1,1,1h3v9H10z" />
+	</symbol>
+
+	<symbol id="content-cut" viewBox="0 0 24 24">
+		<path d="M10,6c0-2.2-1.8-4-4-4S2,3.8,2,6c0,2.2,1.8,4,4,4c0.6,0,1.1-0.1,1.6-0.4L10,12l-2.4,2.4C7.1,14.1,6.6,14,6,14c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4s4-1.8,4-4c0-0.6-0.1-1.1-0.4-1.6L12,14l7,7h4L9.6,7.6C9.9,7.1,10,6.6,10,6z M6,8C4.9,8,4,7.1,4,6s0.9-2,2-2c1.1,0,2,0.9,2,2S7.1,8,6,8z M6,20c-1.1,0-2-0.9-2-2s0.9-2,2-2c1.1,0,2,0.9,2,2S7.1,20,6,20z M12,11.5c0.3,0,0.5,0.2,0.5,0.5c0,0.3-0.2,0.5-0.5,0.5c-0.3,0-0.5-0.2-0.5-0.5C11.5,11.7,11.7,11.5,12,11.5z M23,3h-4l-6,6l2,2L23,3z"></path>
+	</symbol>
+
+	<symbol id="currency" viewBox="0 0 24 24">
+		<path d="M19,4H3C1.9,4,1,4.9,1,6v12c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V6C23,4.9,22.1,4,21,4z M17,18H7c0,-4,-4,-4,-4,-4V10c4,0,4,-4,4,-4H17c0,4,4,4,4,4V14c-4,0,-4,4,-4,4z"></path>
+		<circle cx="12" cy="12" r="4" />
+	</symbol>
+
+	<symbol id="drive-image" viewBox="0 0 24 24">
+		<path d="M21,19V5c0-1.1-0.9-2-2-2H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14C20.1,21,21,20.1,21,19z M8.5,13.5l2.5,3l3.5-4.5l4.5,6H5L8.5,13.5z"></path>
+	</symbol>
+
+	<symbol id="email" viewBox="0 0 24 24">
+		<path d="M22,8c0-0.7-0.4-1.3-0.9-1.7L12,1L2.9,6.3C2.4,6.7,2,7.3,2,8v10c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2L22,8z M12,13L3.7,7.8L12,3l8.3,4.8L12,13z" />
+	</symbol>
+
+	<symbol id="format-align-center" viewBox="0 0 24 24">
+		<path d="M7,15v2h10v-2H7z M3,21h18v-2H3V21z M3,13h18v-2H3V13z M7,7v2h10V7H7z M3,3v2h18V3H3z" />
+	</symbol>
+
+	<symbol id="format-align-justify" viewBox="0 0 24 24">
+		<path d="M3,21h18v-2H3V21z M3,17h18v-2H3V17z M3,13h18v-2H3V13z M3,9h18V7H3V9z M3,3v2h18V3H3z" />
+	</symbol>
+
+	<symbol id="format-align-left" viewBox="0 0 24 24">
+		<path d="M15,15H3v2h12V15z M15,7H3v2h12V7z M3,13h18v-2H3V13z M3,21h18v-2H3V21z M3,3v2h18V3H3z" />
+	</symbol>
+
+	<symbol id="format-align-right" viewBox="0 0 24 24">
+		<path d="M3,21h18v-2H3V21z M9,17h12v-2H9V17z M3,13h18v-2H3V13z M9,9h12V7H9V9z M3,3v2h18V3H3z" />
+	</symbol>
+
+	<symbol id="format-bold" viewBox="0 0 24 24">
+		<path d="M15.6,10.8c1-0.7,1.7-1.8,1.7-2.8c0-2.3-1.7-4-4-4H7v14h7c2.1,0,3.7-1.7,3.7-3.8C17.8,12.7,16.9,11.4,15.6,10.8z M10,6.5h3c0.8,0,1.5,0.7,1.5,1.5S13.8,9.5,13,9.5h-3V6.5z M13.5,15.5H10v-3h3.5c0.8,0,1.5,0.7,1.5,1.5S14.3,15.5,13.5,15.5z" />
+	</symbol>
+
+	<symbol id="format-color-text" viewBox="0 0 24 24">
+		<path transform="translate(0 2)" d="M11 3L5.5 17h2.7l1.1-3h5.2l1.1 3h2.7L13 3H11zM10.3 11.5L12 7l1.7 4.5H9.6z" />
+	</symbol>
+
+	<symbol id="format-indent-decrease" viewBox="0 0 24 24">
+		<path d="M11,17h10v-2H11V17z M3,12l4,4V8L3,12z M3,21h18v-2H3V21z M3,3v2h18V3H3z M11,9h10V7H11V9z M11,13h10v-2H11V13z" />
+	</symbol>
+
+	<symbol id="format-indent-increase" viewBox="0 0 24 24">
+		<path d="M3,21h18v-2H3V21z M3,8v8l4-4L3,8z M11,17h10v-2H11V17z M3,3v2h18V3H3z M11,9h10V7H11V9z M11,13h10v-2H11V13z" />
+	</symbol>
+
+	<symbol id="format-italic" viewBox="0 0 24 24">
+		<polygon points="10,4 10,7 12.2,7 8.8,15 6,15 6,18 14,18 14,15 11.8,15 15.2,7 18,7 18,4 " />
+	</symbol>
+
+	<symbol id="format-list-bulleted" viewBox="0 0 24 24">
+		<path d="M4,10.5c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5S4.8,10.5,4,10.5z M4,4.5C3.2,4.5,2.5,5.2,2.5,6S3.2,7.5,4,7.5S5.5,6.8,5.5,6S4.8,4.5,4,4.5z M4,16.7c-0.7,0-1.3,0.6-1.3,1.3s0.6,1.3,1.3,1.3s1.3-0.6,1.3-1.3S4.7,16.7,4,16.7z M7,19h14v-2H7V19z M7,13h14v-2H7V13z M7,5v2h14V5H7z" />
+	</symbol>
+
+	<symbol id="format-list-numbered" viewBox="0 0 24 24">
+		<path d="M2,17h2v0.5H3v1h1V19H2v1h3v-4H2V17z M3,8h1V4H2v1h1V8z M2,11h1.8L2,13.1V14h3v-1H3.2L5,10.9V10H2V11z M7,5v2h14V5H7z M7,19h14v-2H7V19z M7,13h14v-2H7V13z" />
+	</symbol>
+
+	<symbol id="format-size" viewBox="0 0 24 24">
+		<path d="M9,4v3h5v12h3V7h5V4H9z M3,12h3v7h3v-7h3V9H3V12z" />
+	</symbol>
+
+	<symbol id="format-strikethrough" viewBox="0 0 24 24">
+		<path d="M10,19h4v-3h-4V19z M5,4v3h5v3h4V7h5V4H5z M3,14h18v-2H3V14z" />
+	</symbol>
+
+	<symbol id="format-underline" viewBox="0 0 24 24">
+		<path d="M12,17c3.3,0,6-2.7,6-6V3h-2.5v8c0,1.9-1.6,3.5-3.5,3.5S8.5,12.9,8.5,11V3H6v8C6,14.3,8.7,17,12,17z M5,19v2h14v-2H5z" />
+	</symbol>
+
+	<symbol id="geolocation" viewBox="0 0 24 24">
+		<path d="M2 12h10v10L22 2 Z" />
+	</symbol>
+
+	<symbol id="group" viewBox="0 0 24 24">
+		<path d="M16.5,12c1.4,0,2.5-1.1,2.5-2.5C19,8.1,17.9,7,16.5,7C15.1,7,14,8.1,14,9.5C14,10.9,15.1,12,16.5,12z M9,11c1.7,0,3-1.3,3-3s-1.3-3-3-3C7.3,5,6,6.3,6,8S7.3,11,9,11z M16.5,14c-1.8,0-5.5,0.9-5.5,2.7V19h11v-2.2C22,14.9,18.3,14,16.5,14z M9,13c-2.3,0-7,1.2-7,3.5V19h7v-2.2c0-0.8,0.3-2.3,2.4-3.5C10.5,13.1,9.7,13,9,13z"></path>
+	</symbol>
+
+	<symbol id="help" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M13,19h-2v-2h2V19z M15.1,11.3l-0.9,0.9C13.4,12.9,13,13.5,13,15h-2v-0.5c0-1.1,0.4-2.1,1.2-2.8l1.2-1.3C13.8,10.1,14,9.6,14,9c0-1.1-0.9-2-2-2c-1.1,0-2,0.9-2,2H8c0-2.2,1.8-4,4-4c2.2,0,4,1.8,4,4C16,9.9,15.6,10.7,15.1,11.3z" />
+	</symbol>
+	<symbol id="info" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M13,17h-2v-6h2V17z M13,9h-2V7h2V9z" />
+	</symbol>
+
+	<symbol id="link" viewBox="0 0 24 24">
+		<path d="M3.9,12c0-1.7,1.4-3.1,3.1-3.1h4V7H7c-2.8,0-5,2.2-5,5s2.2,5,5,5h4v-1.9H7C5.3,15.1,3.9,13.7,3.9,12z M8,13h8v-2H8V13z M17,7h-4v1.9h4c1.7,0,3.1,1.4,3.1,3.1s-1.4,3.1-3.1,3.1h-4V17h4c2.8,0,5-2.2,5-5S19.8,7,17,7z"></path>
+	</symbol>
+
+	<!--symbol id ="lock" viewBox ="0 0 24 24">
+		<path d="M18,8h-1V6c0-2.8-2.2-5-5-5C9.2,1,7,3.2,7,6v2H6c-1.1,0-2,0.9-2,2v10c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V10C20,8.9,19.1,8,18,8z M12,17c-1.1,0-2-0.9-2-2s0.9-2,2-2c1.1,0,2,0.9,2,2S13.1,17,12,17z M15.1,8H8.9V6c0-1.7,1.4-3.1,3.1-3.1c1.7,0,3.1,1.4,3.1,3.1V8z"></path>
+	</symbol-->
+
+	<!--list: draw order redone to made smaller from google original-->
+	<!--symbol id ="list" viewBox ="0 0 24 24">
+		<path d="M3 9h2v-2h-2v2zm0 4h2v-2h-2v2zm0 4h2v-2h-2v2zm4-8h14v-2h-14v2zm0 4h14v-2h-14v2zm0 4h14v-2h-14v2z"/>
+	</symbol-->
+
+	<!-- used also for vertitcal grip -->
+	<symbol id="more-vert" viewBox="0 0 24 24">
+		<path d="M12,8c1.1,0,2-0.9,2-2s-0.9-2-2-2c-1.1,0-2,0.9-2,2S10.9,8,12,8z M12,10c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S13.1,10,12,10z M12,16c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S13.1,16,12,16z" />
+	</symbol>
+
+	<symbol id="more-horiz" viewBox="0 0 24 24">
+		<path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" />
+	</symbol>
+
+	<symbol id="number" viewBox="0 0 24 24">
+		<!--path d="M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z M21,19H3V5h18V19z"/-->
+		<path d="M4,17h2V7h-2V17z"></path>
+		<path d="M13,15h-4v-2h2c1.1,0,2-0.9,2-2V9c0-1.1-0.9-2-2-2h-4v2h4v2h-2c-1.1,0-2,0.9-2,2v4h6V15z"></path>
+		<path d="M20,15v-1.5c0-0.8-0.7-1.5-1.5-1.5c0.8,0,1.5-0.7,1.5-1.5V9c0-1.1-0.9-2-2-2h-4v2h4v2h-2v2h2v2h-4v2h4C19.1,17,20,16.1,20,15z"></path>
+	</symbol>
+
+	<symbol id="longtext" viewBox="0 0 24 24">
+		<path d="M14,17H4v2h10V17z M20,9H4v2h16V9z M4,15h16v-2H4V15z M4,5v2h16V5H4z" />
+	</symbol>
+
+	<!--<symbol id="menu" viewBox="0 0 24 24">
+		<path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+	</symbol>-->
+
+	<symbol id="menu" viewBox="0 0 24 24">
+		<path d="M19,4H5C4.4,4,4,4.4,4,5v1c0,0.6,0.4,1,1,1h14c0.6,0,1-0.4,1-1V5C20,4.4,19.6,4,19,4z M19,10
+			H5c-0.6,0-1,0.4-1,1v1c0,0.6,0.4,1,1,1h14c0.6,0,1-0.4,1-1v-1C20,10.4,19.6,10,19,10z M19,16H5c-0.6,0-1,0.4-1,1v1
+			c0,0.6,0.4,1,1,1h14c0.6,0,1-0.4,1-1v-1C20,16.4,19.6,16,19,16z" />
+	</symbol>
+
+
+	<symbol id="pop-out" viewBox="0 0 24 24">
+		<path transform="rotate(-90 12,12)" d="m11.71034 9.52243l2.62728 2.64826 4.94316-4.98548 2.5524 2.57374 0.00394-7.68541 -7.67195-0.04571 2.48932 2.50914 -4.94415 4.98548 0.00001-0.00001zm10.08341 3.38262l-1.89212-1.93477 0.0345 8.95041 -15.78244 0.00894 0.01576-15.87264 8.82791-0.03975 -1.97096-1.98744 -6.89834 0c-1.08797 0-1.97096 0.89038-1.97096 1.98744l0 15.89948c0 1.09707 0.88299 1.98744 1.97096 1.98744l15.76765 0c1.08797 0 1.97096-0.89037 1.97096-1.98744l-0.07293-7.01167 0.00001 0 -0.00001 0z" />
+	</symbol>
+
+	<symbol id="pop-in" viewBox="0 0 24 24">
+		<path transform="rotate(90 12,12)" d="m11.71034 9.52243l2.62728 2.64826 4.94316-4.98548 2.5524 2.57374 0.00394-7.68541 -7.67195-0.04571 2.48932 2.50914 -4.94415 4.98548 0.00001-0.00001zm10.08341 3.38262l-1.89212-1.93477 0.0345 8.95041 -15.78244 0.00894 0.01576-15.87264 8.82791-0.03975 -1.97096-1.98744 -6.89834 0c-1.08797 0-1.97096 0.89038-1.97096 1.98744l0 15.89948c0 1.09707 0.88299 1.98744 1.97096 1.98744l15.76765 0c1.08797 0 1.97096-0.89037 1.97096-1.98744l-0.07293-7.01167 0.00001 0 -0.00001 0z" />
+	</symbol>
+
+	<symbol id="play-arrow" viewBox="0 0 24 24">
+		<polygon points="8,5 8,19 19,12 " />
+	</symbol>
+
+	<symbol id="play-circle-fill" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M10,16.5v-9l6,4.5L10,16.5z" />
+	</symbol>
+
+	<symbol id="pause" viewBox="0 0 24 24">
+		<path d="M3,22v-20h7v20h-7z M14,22v-20h7v20h-7z"></path>
+	</symbol>
+
+	<symbol id="skip" viewBox="0 0 24 24">
+		<polygon points="4,5 4,19 14,12 " />
+		<polygon points="12,5 12,19 22,12 " />
+	</symbol>
+
+	<!--to use the same style with zoom in/out, I commit this search-->
+	<symbol id="search" viewBox="0 0 24 24">
+		<path d="M15.5,14h-0.8l-0.3-0.3c1-1.1,1.6-2.6,1.6-4.2C16,5.9,13.1,3,9.5,3C5.9,3,3,5.9,3,9.5S5.9,16,9.5,16c1.6,0,3.1-0.6,4.2-1.6l0.3,0.3v0.8l5,5l1.5-1.5L15.5,14z M9.5,14C7,14,5,12,5,9.5S7,5,9.5,5C12,5,14,7,14,9.5S12,14,9.5,14z" />
+	</symbol>
+
+	<symbol id="save" viewBox="0 0 24 24">
+		<path d="M17,3H5C3.9,3,3,3.9,3,5l0,14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V7L17,3z M12,19c-1.7,0-3-1.3-3-3s1.3-3,3-3c1.7,0,3,1.3,3,3S13.7,19,12,19z M15,9H5V5h10V9z" />
+	</symbol>
+
+	<symbol id="section" viewBox="0 0 24 24">
+		<path d="M14,17H4v2h10V17z M20,9H4v2h16V9z M4,15h16v-2H4V15z M4,5v2h16V5H4z" />
+		<path d="M2,11 h20v6h-20z" fill-opacity="0.5" />
+	</symbol>
+	<symbol id="pagebreak" viewBox="0 0 24 24">
+		<g>
+			<polygon fill="#676767" points="5.1,15 5.1,22 7.1,22 7.1,17 17,17 17,22 19,22 19,15 	" />
+			<polygon fill="#676767" points="17,2 17,7 7.1,7 7.1,2 5.1,2 5.1,9 19,9 19,2 	" />
+			<rect x="9" y="2" fill="#676767" width="6" height="1" />
+			<rect x="9" y="4" fill="#676767" width="6" height="1" />
+			<rect x="9" y="19" fill="#676767" width="6" height="1" />
+			<rect x="9" y="21" fill="#676767" width="6" height="1" />
+			<rect x="2" y="11" fill="#676767" width="20" height="2" />
+		</g>
+	</symbol>
+	<!--<symbol id="settings" viewBox="0 0 24 24">
+		<path d="M19.4,13c0-0.3,0.1-0.6,0.1-1s0-0.7-0.1-1l2.1-1.7c0.2-0.2,0.2-0.4,0.1-0.6l-2-3.5C19.5,5.1,19.3,5,19,5.1l-2.5,1c-0.5-0.4-1.1-0.7-1.7-1l-0.4-2.6C14.5,2.2,14.2,2,14,2h-4C9.8,2,9.5,2.2,9.5,2.4L9.1,5.1C8.5,5.3,8,5.7,7.4,6.1L5,5.1C4.7,5,4.5,5.1,4.3,5.3l-2,3.5C2.2,8.9,2.3,9.2,2.5,9.4L4.6,11c0,0.3-0.1,0.6-0.1,1s0,0.7,0.1,1l-2.1,1.7c-0.2,0.2-0.2,0.4-0.1,0.6l2,3.5C4.5,18.9,4.7,19,5,18.9l2.5-1c0.5,0.4,1.1,0.7,1.7,1l0.4,2.6c0,0.2,0.2,0.4,0.5,0.4h4c0.2,0,0.5-0.2,0.5-0.4l0.4-2.6c0.6-0.3,1.2-0.6,1.7-1l2.5,1c0.2,0.1,0.5,0,0.6-0.2l2-3.5c0.1-0.2,0.1-0.5-0.1-0.6L19.4,13z M12,15.5c-1.9,0-3.5-1.6-3.5-3.5s1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5S13.9,15.5,12,15.5z"/>
+	</symbol>-->
+	<!--<symbol id="settings" viewBox="0 0 24 24">
+	  <path d="M19.4,13c0-0.3,0.1-0.6,0.1-1s0-0.7-0.1-1l2.1-1.7c0.2-0.2,0.2-0.4,0.1-0.6l-2-3.5C19.5,5.1,19.3,5,19,5.1l-2.5,1c-0.5-0.4-1.1-0.7-1.7-1l-0.4-2.6C14.5,2.2,14.2,2,14,2h-4C9.8,2,9.5,2.2,9.5,2.4L9.1,5.1C8.5,5.3,8,5.7,7.4,6.1L5,5.1C4.7,5,4.5,5.1,4.3,5.3l-2,3.5C2.2,8.9,2.3,9.2,2.5,9.4L4.6,11c0,0.3-0.1,0.6-0.1,1s0,0.7,0.1,1l-2.1,1.7c-0.2,0.2-0.2,0.4-0.1,0.6l2,3.5C4.5,18.9,4.7,19,5,18.9l2.5-1c0.5,0.4,1.1,0.7,1.7,1l0.4,2.6c0,0.2,0.2,0.4,0.5,0.4h4c0.2,0,0.5-0.2,0.5-0.4l0.4-2.6c0.6-0.3,1.2-0.6,1.7-1l2.5,1c0.2,0.1,0.5,0,0.6-0.2l2-3.5c0.1-0.2,0.1-0.5-0.1-0.6L19.4,13z M12,15.5c-1.9,0-3.5-1.6-3.5-3.5s1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5S13.9,15.5,12,15.5z"/>
+	</symbol>-->
+	<symbol id="settings" viewBox="0 0 24 24">
+		<path d="M19.4,13c0-0.3,0.1-0.6,0.1-1s0-0.7-0.1-1l2.1-1.7c0.2-0.2,0.2-0.4,0.1-0.6l-2-3.5C19.5,5.1,19.3,5,19,5.1l-2.5,1c-0.5-0.4-1.1-0.7-1.7-1l-0.4-2.6C14.5,2.2,14.2,2,14,2h-4C9.8,2,9.5,2.2,9.5,2.4L9.1,5.1C8.5,5.3,8,5.7,7.4,6.1L5,5.1C4.7,5,4.5,5.1,4.3,5.3l-2,3.5C2.2,8.9,2.3,9.2,2.5,9.4L4.6,11c0,0.3-0.1,0.6-0.1,1s0,0.7,0.1,1l-2.1,1.7c-0.2,0.2-0.2,0.4-0.1,0.6l2,3.5C4.5,18.9,4.7,19,5,18.9l2.5-1c0.5,0.4,1.1,0.7,1.7,1l0.4,2.6c0,0.2,0.2,0.4,0.5,0.4h4c0.2,0,0.5-0.2,0.5-0.4l0.4-2.6c0.6-0.3,1.2-0.6,1.7-1l2.5,1c0.2,0.1,0.5,0,0.6-0.2l2-3.5c0.1-0.2,0.1-0.5-0.1-0.6L19.4,13z M12,15.5c-1.9,0-3.5-1.6-3.5-3.5s1.6-3.5,3.5-3.5s3.5,1.6,3.5,3.5S13.9,15.5,12,15.5z" />
+	</symbol>
+	<!--<symbol id="preview" viewBox="0 0 24 24">
+	  <path d="M12,5C6.5,5,2,12,2,12s4.5,7,10,7c5.5,0,10-7,10-7S17.5,5,12,5z M12,15c-1.6,0-3-1.3-3-3c0-1.7,1.3-3,3-3c1.6,0,3,1.3,3,3
+	  C15,13.7,13.6,15,12,15z"/>
+	</symbol>-->
+	<symbol id="preview" viewBox="0 0 24 24">
+		<path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" />
+	</symbol>
+
+
+	<symbol id="signature" viewBox="0 0 24 24">
+		<path d="M5,15.2V19h3.8L17.8,9.9l-3.8-3.8L3,17.2z M20.7,7c0.4-0.4,0.4-1,0-1.4l-2.3-2.3c-0.4-0.4-1-0.4-1.4,0l-1.8,1.8l3.8,3.8L20.7,7z" />
+		<path d="M2,22h20v-2h-20z" />
+		<!--path d="m16.02 4.34l3.88 3.87 -6.88 6.75 -3.88-3.87 6.88-6.75zm2.09-2.08l3.88 3.87 -0.99 0.99 -3.88-3.87 0.99-0.99zm-9.96 9.83l3.88 3.87 -4.88 0.99 0.99-4.86 0 0zm11.95 7.15c0 0.79-0.6 1.39-1.4 1.39l-13.84 0c-0.79 0-1.4-0.6-1.4-1.39l0-13.71c0-0.79 0.6-1.39 1.4-1.39l5.58 0 1.4-1.39 -6.88 0c-1.5 0-2.79 1.19-2.79 2.78l0 13.71c0 1.49 1.29 2.78 2.79 2.78l13.84 0c1.5 0 2.79-1.19 2.79-2.78l0-6.85 -1.4 1.39 0 5.46 0 0 -0.1 0 0 0z"/-->
+	</symbol>
+
+	<symbol id="star" viewBox="0 0 24 24">
+		<polygon points="12,17.3 18.2,21 16.5,14 22,9.2 14.8,8.6 12,2 9.2,8.6 2,9.2 7.5,14 5.8,21 "></polygon>
+	</symbol>
+
+	<symbol id="star-border" viewBox="0 0 24 24">
+		<path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" />
+	</symbol>
+
+	<symbol id="stop" viewBox="0 0 24 24">
+		<path d="M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M8,8h8v8h-8z"></path>
+	</symbol>
+
+	<symbol id="tag" viewBox="0 0 24 24">
+		<path d="M21.4,11.6l-9-9C12.1,2.2,11.6,2,11,2H4C2.9,2,2,2.9,2,4v7c0,0.6,0.2,1.1,0.6,1.4l9,9c0.4,0.4,0.9,0.6,1.4,0.6c0.6,0,1.1-0.2,1.4-0.6l7-7c0.4-0.4,0.6-0.9,0.6-1.4C22,12.4,21.8,11.9,21.4,11.6z M5.5,7C4.7,7,4,6.3,4,5.5S4.7,4,5.5,4C6.3,4,7,4.7,7,5.5S6.3,7,5.5,7z"></path>
+	</symbol>
+
+
+	<symbol id="undo" viewBox="0 0 24 24">
+		<path d="M12.5 8c-2.65 0-5.05.99-6.9 2.6L2 7v9h9l-3.62-3.62c1.39-1.16 3.16-1.88 5.12-1.88 3.54 0 6.55 2.31 7.6 5.5l2.37-.78C21.08 11.03 17.15 8 12.5 8z" />
+	</symbol>
+
+	<symbol id="radio" viewBox="0 0 24 24">
+		<path d="M12,7c-2.8,0-5,2.2-5,5s2.2,5,5,5c2.8,0,5-2.2,5-5S14.8,7,12,7z M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10c5.5,0,10-4.5,10-10S17.5,2,12,2z M12,20c-4.4,0-8-3.6-8-8s3.6-8,8-8c4.4,0,8,3.6,8,8S16.4,20,12,20z" />
+	</symbol>
+
+
+	<!--<symbol id="redo" viewBox="0 0 24 24">
+		<path transform="translate(24), scale(-1,1)" d="M12,5V1.5l-5,5l5,5V7c3.3,0,6,2.7,6,6s-2.7,6-6,6c-3.3,0-6-2.7-6-6H4c0,4.4,3.6,8,8,8c4.4,0,8-3.6,8-8S16.4,5,12,5z"/>
+	</symbol>-->
+
+	<symbol id="redo" viewBox="0 0 24 24">
+		<path d="M18.4 10.6C16.55 8.99 14.15 8 11.5 8c-4.65 0-8.58 3.03-9.96 7.22L3.9 16c1.05-3.19 4.05-5.5 7.6-5.5 1.95 0 3.73.72 5.12 1.88L13 16h9V7l-3.6 3.6z" />
+	</symbol>
+
+	<symbol id="select" viewBox="0 0 24 24">
+		<path d="M19,5v14L5,19V5H19 M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3L19,3z M6,10 12,16 18,10z" />
+	</symbol>
+
+	<symbol id="sync" viewBox="0 0 24 24">
+		<path d="M12,4V1L8,5l4,4V6c3.3,0,6,2.7,6,6c0,1-0.3,2-0.7,2.8l1.5,1.5C19.5,15,20,13.6,20,12C20,7.6,16.4,4,12,4z M12,18c-3.3,0-6-2.7-6-6c0-1,0.3-2,0.7-2.8L5.2,7.7C4.5,9,4,10.4,4,12c0,4.4,3.6,8,8,8v3l4-4l-4-4V18z"></path>
+	</symbol>
+
+	<symbol id="text" viewBox="0 0 24 24">
+		<path d="M6,7h2v10h-2V7z M21,3H3C1.9,3,1,3.9,1,5v14c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V5C23,3.9,22.1,3,21,3z M21,19H3V5h18V19z" />
+	</symbol>
+
+	<symbol id="text2" viewBox="0 0 24 24">
+		<text x="2" y="15" font-family="Verdana" font-size="10">ABC</text>
+	</symbol>
+
+	<symbol id="title" viewBox="0 0 24 24">
+		<text x="6.5" y="18" font-family="Times New Roman" font-size="18" font-weight="400">T</text>
+	</symbol>
+
+	<symbol id="circle" viewBox="0 0 24 24">
+		<circle cx="12" cy="12" r="4"></circle>
+	</symbol>
+
+	<!--<symbol id="table" viewBox="0 0 24 24">
+		<path d="M4,9h5V5H4V9z M4,14h5v-4H4V14z M4,19h5v-4H4V19z M10,9h5v-4h-5v4z M10,14h5v-4h-5v4z M10,19h5v-4h-5v4z M16,9h5v-4h-5v4z M16,14h5v-4h-5v5z M16,19h5v-4h-5V5z"/>
+	</symbol>-->
+
+	<symbol id="table" viewBox="0 0 24 24">
+		<!--fill="#ffcc00"-->
+		<path d="M4,9h17V5H4V9z" />
+		<path d="M4 14h5v-4h-5zM4 19h5v-4h-5zM10 14h5v-4h-5zM10 19h5v-4h-5zM16 14h5v-4h-5zM16 19h5v-4h-5z" />
+	</symbol>
+
+	<symbol id="up-down" viewBox="0 0 24 24">
+		<path d="M12,11.5h-3v-4h-4v4h-3l5,5z M22,12.5h-3v4h-4v-4h-3l5,-5z" />
+	</symbol>
+
+	<!--<symbol id="user" viewBox="0 0 24 24">
+		<path d="M12,4C9.8,4,8,5.8,8,8c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4C16,5.8,14.2,4,12,4L12,4z M12,14c-2.7,0-8,1.3-8,4v2h16v-2C20,15.3,14.7,14,12,14L12,14z"></path>
+	</symbol>-->
+	<symbol id="user" viewBox="0 0 24 24">
+		<path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z" />
+	</symbol>
+
+	<symbol id="view-column" viewBox="0 0 24 24">
+		<path d="M21,7l0-4H2l0,4H21z M6,8H3C2.4,8,2,8.4,2,9l0,11c0,0.6,0.4,1,1,1h3c0.6,0,1-0.4,1-1V9C7,8.4,6.6,8,6,8z
+			 M13,8h-3C9.4,8,9,8.4,9,9l0,11c0,0.6,0.4,1,1,1h3c0.6,0,1-0.4,1-1l0-11C14,8.4,13.6,8,13,8z M20,8h-3c-0.6,0-1,0.4-1,1v11
+			c0,0.6,0.4,1,1,1h3c0.6,0,1-0.4,1-1l0-11C21,8.4,20.6,8,20,8z" />
+	</symbol>
+
+	<symbol id="warning" viewBox="0 0 152 146">
+		<comment>THIS IS A PLACEHOLDER TODO TODO TODO: REPLACE WITH OFFICIAL LF ICONS; modified from public domain clipart SVG so it's ok to commit for now</comment>
+		<g id="g1615">
+			<path d="M 12.473000,121.08200 C 11.559033,122.84329 10.481800,124.49000 10.481700,126.42300 L 10.490728,127.23088 C 10.490728,131.40288 13.756600,133.92500 17.511300,133.92500 L 138.83100,133.92500 C 142.58600,133.92500 145.81986,130.79848 145.81986,126.62648 L 145.78000,125.81500 C 145.78000,123.88200 144.82971,122.20348 143.78900,120.47400 L 83.705600,12.693800 C 81.051000,9.7442300 76.747300,9.7442300 74.092300,12.694200 L 12.473000,121.08200 z" />
+			<!-- <path d="M 78.703 16.2915L 15.2797 128.128L 76.4667 128.128L 79.3188 128.128L 139.826 128.128L 79.5155 16.2915L 78.703 16.2915z"/> -->
+		</g>
+		<g id="g1618">
+			<path d="M 84.366054,45.157900 C 85.289904,46.139400 85.469800,46.370250 85.931700,48.160100 C 86.393600,49.949950 87.405817,53.469087 86.291592,57.462546 C 85.829592,64.390946 86.129850,70.967972 85.856575,77.979383 C 85.583663,84.981490 87.317400,93.426000 79.234100,95.042600 C 77.155600,95.273600 75.077100,93.887900 74.268800,91.924800 C 72.883100,77.837000 71.497500,64.442000 70.111700,50.700600 C 71.266400,47.120900 74.153200,43.656700 77.617500,43.194800 C 81.081800,42.732900 83.442204,44.176400 84.366054,45.157900 z " fill="#ffffff" />
+			<path d="M 83.1603 103.357C 86.3936 105.32 86.9709 108.9 86.9709 112.479C 85.5852 115.944 84.0841 119.985 79.5806 119.985C 76.8092 119.87 74.1533 119.292 72.3057 117.214C 71.151 113.057 68.4951 108.784 72.3057 105.32C 75.1926 101.278 79.2341 102.318 83.1603 103.357z" fill="#ffffff" />
+		</g>
+	</symbol>
+
+	<!--this part is from dev.bowdenweb.com/a/fonts/symbols/eightyshades/svg-->
+	<!--<symbol id="zoom-in" viewBox="0 0 512 512">
+		<path d="M497.914,497.914c-18.783,18.781-49.226,18.781-68.008,0l-84.863-84.864  c-34.889,22.366-76.131,35.718-120.66,35.718C100.468,448.768,0,348.314,0,224.384S100.468,0,224.383,0  c123.931,0,224.384,100.453,224.384,224.384c0,44.529-13.352,85.771-35.718,120.675l84.864,84.848  C516.695,448.689,516.695,479.131,497.914,497.914z M224.383,64.11c-88.511,0-160.274,71.763-160.274,160.274  c0,88.526,71.763,160.274,160.274,160.274c88.527,0,160.274-71.748,160.274-160.274C384.657,135.873,312.91,64.11,224.383,64.11z   M256.438,320.548h-64.109v-64.109h-64.109v-64.109h64.109v-64.11h64.109v64.11h64.11v64.109h-64.11V320.548z"/>
+	</symbol>-->
+	<symbol id="zoom-in" viewBox="0 0 24 24">
+		<path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+	</symbol>
+
+	<!--<symbol id="zoom-out" viewBox="0 0 24 24">
+		<path d="M497.914,429.906l-84.864-84.848c22.366-34.903,35.718-76.146,35.718-120.675    C448.768,100.453,348.314,0,224.383,0C100.468,0,0,100.453,0,224.384s100.468,224.384,224.383,224.384    c44.529,0,85.771-13.352,120.66-35.718l84.863,84.864c18.782,18.781,49.225,18.781,68.008,0    C516.695,479.131,516.695,448.689,497.914,429.906z M224.383,384.658c-88.511,0-160.274-71.748-160.274-160.274    c0-88.511,71.763-160.274,160.274-160.274c88.527,0,160.274,71.763,160.274,160.274    C384.657,312.91,312.91,384.658,224.383,384.658z M128.219,256.438h192.329v-64.109H128.219V256.438z"/>
+	</symbol>-->
+	<symbol id="zoom-out" viewBox="0 0 24 24">
+		<path d="M7 11v2h10v-2H7zm5-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+	</symbol>
+
+	<!--symbol id="search" viewBox="0 0 512 512">
+		<path d="M497.914,429.906l-84.864-84.848c22.366-34.903,35.718-76.146,35.718-120.675    C448.768,100.453,348.314,0,224.383,0C100.468,0,0,100.453,0,224.384s100.468,224.384,224.383,224.384    c44.529,0,85.771-13.352,120.66-35.718l84.863,84.864c18.782,18.781,49.225,18.781,68.008,0    C516.695,479.131,516.695,448.689,497.914,429.906z M224.383,384.658c-88.511,0-160.274-71.748-160.274-160.274    c0-88.511,71.763-160.274,160.274-160.274c88.527,0,160.274,71.763,160.274,160.274    C384.657,312.91,312.91,384.658,224.383,384.658z"/>
+	</symbol -->
+
+	<symbol id="filter" viewBox="0 0 24 24">
+		<path d="M19,4H5v2l5.5,5.5v6l3,3v-9L19,6z" />
+	</symbol>
+
+	<symbol id="view-column" viewBox="0 0 24 24">
+		<path d="M10 18h5v-13h-5v13zm-6 0h5v-13h-5v13zm12-13v13h5v-13h-5z" />
+	</symbol>
+
+	<symbol id="add-ms" viewBox="0 0 24 24">
+		<path d="M3 5v4h2V5h4V3H5c-1.1 0-2 .9-2 2zm2 10H3v4c0 1.1.9 2 2 2h4v-2H5v-4zm14 4h-4v2h4c1.1 0 2-.9 2-2v-4h-2v4zm0-16h-4v2h4v4h2V5c0-1.1-.9-2-2-2z M17,13.5h-3.5v3.5h-3v-3.5h-3.5v-3h3.5v-3.5h3v3.5h3.5z" />
+	</symbol>
+
+	<symbol id="remove-ms" viewBox="0 0 24 24">
+		<path d="M3 5v4h2V5h4V3H5c-1.1 0-2 .9-2 2zm2 10H3v4c0 1.1.9 2 2 2h4v-2H5v-4zm14 4h-4v2h4c1.1 0 2-.9 2-2v-4h-2v4zm0-16h-4v2h4v4h2V5c0-1.1-.9-2-2-2z M17,13.5h-10v-3h10z" />
+	</symbol>
+
+	<symbol id="empty-state-tasks" viewBox="0 0 142 135">
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#D3D3D3" d="M141 129c0 2.8-1.9 5-4.7 5H6.8c-2.6 0-4.8-2.1-4.8-4.8V99c0 0 0-0.3 0.1-0.9C4 89 19.3 17 19.3 17h0.1c0.3-2.8 2.6-5 5.4-5 0.2 0 0.3 0 0.4 0l0.1 0c0 0 11.7 0 25.7 0v16c-9.3 0-16.9 0-16.9 0l0 0c-1.2 0.1-2.2 1.1-2.2 2.4 0 0.2 0 0.4 0.1 0.6h-0.2L20.6 95.8c-0.1 0.2-0.1 0.5-0.1 0.7 0 1.2 0.9 2.3 2.1 2.4l0 0.1H58c0 7 5.8 12.6 13 12.6 7.2 0 13-5.6 13-12.6h37l0 0c1.2-0.1 2.2-1.1 2.2-2.4 0-0.4-0.1-0.7-0.2-1 0 0-0.3-1.9-0.8-4.8h6.5c3.2 0 9.3-2.6 9.3-5.8 0-0.3-0.1-0.8-0.1-1.6 1.4 6.9 2.6 12.5 3.1 14.7 0.1 0.6 0.1 1 0.1 1L141 129zM127 85H66.1c-5 0-9.1-4-9.1-9.1V15.1c0-5 4.1-9 9-9L71 6V1.8C71 1.3 71.3 1 71.8 1l12.5 0C84.6 1 85 1.3 85 1.8V6l23 0V1.8c0-0.4 0.3-0.8 0.8-0.8l12.5 0c0.4 0 0.8 0.3 0.8 0.8V6h5.1c4.9 0 8.9 4.1 8.9 9v61C136 81 132 85 127 85zM127 24H66v52l61 0L127 24zM91.5 52.4l19.2-19.2 6.7 7.1L94.9 62.9l-0.1-0.1 -3.5 3.3L75 49.8l7.1-6.8L91.5 52.4z" />
+	</symbol>
+
+	<symbol id="empty-state-drafts" viewBox="0 0 141 135">
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#D3D3D3" d="M140 129c0 2.8-1.9 5-4.7 5H6c-2.8 0-5-2.2-5-5V99c0 0 0-0.3 0.1-0.9C3 89 18.3 17 18.3 17l0.1 0c0.3-2.8 2.6-5 5.4-5 0.2 0 0.3 0 0.4 0l0.1 0c0 0 43.8 0 65.1 0L76.2 28c-15.7 0-43.1 0-43.1 0l0 0c-1.2 0.1-2.2 1.1-2.2 2.4 0 0.2 0 0.4 0.1 0.6h-0.2L19.6 95.8c-0.1 0.2-0.1 0.5-0.1 0.7 0 1.2 0.9 2.3 2.1 2.4l0 0.1H57c0 7 5.8 12.6 13 12.6 7.2 0 13-5.6 13-12.6h37l0 0c1.2-0.1 2.2-1.1 2.2-2.4 0-0.4-0.1-0.7-0.2-1 0 0-6.9-34.3-10.3-51.5l12.8-15.1c4.2 18.7 14 62.6 15.4 69 0.1 0.6 0.1 1 0.1 1L140 129zM122.3 21.1c0.2 0.1 0.3 0.3 0.5 0.6l-12.6 14.8c0-0.2-0.1-0.4-0.1-0.5L75.9 77.9 55 83l0.3-20.5 22.9-27.6 0.1 0 22.5-27.3 0 0 4.3-5.2c1.3-1.6 3.7-1.8 5.3-0.5l14.3 10.3c1.6 1.3 1.8 3.7 0.5 5.3L122.3 21.1zM101.2 17.8L63.6 63.7l8.7 7.1 37.4-45.9L101.2 17.8zM109.1 8.6l-3.9 4.4 8.7 7.1 3.7-4.4L109.1 8.6z" />
+	</symbol>
+
+	<symbol id="empty-state-processes" viewBox="0 0 141 135">
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#D3D3D3" d="M140 129c0 2.8-1.9 5-4.7 5H6c-2.8 0-5-2.2-5-5l0-30c0 0 0-0.3 0.1-0.9C3 89 18.3 17 18.3 17h0.1c0.3-2.8 2.6-5 5.4-5 0.2 0 0.3 0 0.4 0l0.1 0c0 0 16.3 0 33.6 0 -3.9 4.7-6.9 10.1-8.8 16 -8.9 0-16.1 0-16.1 0l0 0c-1.2 0.1-2.2 1.1-2.2 2.4 0 0.2 0 0.4 0.1 0.6h-0.2L19.6 95.8c-0.1 0.2-0.1 0.5-0.1 0.7 0 1.2 0.9 2.3 2.1 2.4l0 0.1H57c0 7 5.8 12.6 13 12.6S83 106 83 99h37l0 0c1.2-0.1 2.2-1.1 2.2-2.4 0-0.4-0.1-0.7-0.2-1 0 0-0.8-4.7-1.9-11 0-0.1 0-0.1 0-0.2 5.6-3.4 10.5-7.9 14.2-13.2 0.1 0.2 0.1 0.4 0.2 0.7 2.4 12 4.7 22.9 5.4 26.2 0.1 0.6 0.1 1 0.1 1L140 129zM95 85.1c-23.4 0-42-18.6-42-42C53 19.6 71.6 1 95 1c23.4 0 42 18.6 42 42C137 66.4 118.4 85.1 95 85.1zM95 11c-17.9 0-32 14.1-32 32 0 17.9 14.2 32 32 32 17.9 0 32-14 32-31.9C127 25.2 112.9 11 95 11zM108.7 59.6L93.7 45.6h-1.5l0-1.4L91.9 44l0.3-0.3L93 21h3.8l0.7 21L111.3 57 108.7 59.6z" />
+	</symbol>
+
+	<symbol id="unassigned-icon" viewBox="0 0 44 44">
+		<path d="M38 37c-4 4.4-9.6 7-16 7 -6.4 0-12-2.6-16-7 4.6-2.1 10-5 10-5l1-3c-1-1.2-2-3-3-5h-0.5c-0.4-1.1-0.4-2.7-0.5-4 0-1.2 0.7-1 0.7-1 0-0.4-1.1-2.5-0.5-6C14 9.4 17.8 6 22 6c4.2 0 7.9 3.3 8.8 7 0.6 2.5-0.4 5.6-0.5 6 0 0 0.6-0.1 0.7 1 -0.1 1.2-0.1 2.9-0.5 4H30c-1 2-2 3.8-3 5l1 3C28 32 33.5 35.2 38 37z" />
+	</symbol>
+
+	<symbol id="item-draft" viewBox="0 0 24 24">
+		<path d="M19.7 6.3l-3-3c-0.4-0.4-1-0.4-1.4 0L4 14.5 3 20l5.5-1L19.7 7.7C20.1 7.3 20.1 6.7 19.7 6.3zM8 17.1L5.9 15l8.1-8L16 9.1 8 17.1zM16.9 8.1l-2.1-2.1L15.9 5 18 7.1 16.9 8.1z" />
+	</symbol>
+	<symbol id="item-history" viewBox="0 0 24 24">
+		<path d="M12.5 4C7.8 4 4 7.8 4 12.5c0 4.7 3.8 8.5 8.5 8.5 4.7 0 8.5-3.8 8.5-8.5C21 7.8 17.2 4 12.5 4zM12.5 19C8.9 19 6 16.1 6 12.5 6 8.9 8.9 6 12.5 6c3.6 0 6.5 2.9 6.5 6.5C19 16.1 16.1 19 12.5 19z" />
+		<path d="M15.9 15.3l-0.5 0.5 -3-2.8h-0.3l0-0.3L12 12.7l0.1-0.1L12.2 8H13l0.1 4.3L15.9 15.3z" />
+	</symbol>
+	<symbol id="item-task" viewBox="0 0 24 24">
+		<path d="M18 4h-1c0-0.6-0.4-1-1-1h-1c-0.6 0-1 0.4-1 1H9c0-0.6-0.4-1-1-1H7C6.4 3 6 3.4 6 4H5C3.9 4 3 4.9 3 6v13c0 1.1 0.9 2 2 2h13c1.1 0 2-0.9 2-2V6C20 4.9 19.1 4 18 4zM18 19H5V8h13V19z" />
+		<path d="M16.2 11.4L10.5 17 7 13.5 8.5 12l2 2 4.2-4.2L16.2 11.4z" />
+	</symbol>
+	<!--end-->
+
+	<!-- History States START -->
+
+	<symbol id="history-complete" viewBox="0 0 33 33">
+		<path d="M25.7 12.5L15.3 23.7c-0.4 0.4-1 0.4-1.4 0l-6.5-6c-0.4-0.4-0.4-1 0-1.4l0.9-1c0.4-0.4 1-0.4 1.4 0l5.1 4.4 8.7-9.4c0.4-0.4 1-0.4 1.4 0l0.8 0.8C26.1 11.5 26.1 12.1 25.7 12.5z" />
+	</symbol>
+
+	<symbol id="history-inprogress" viewBox="0 0 33 33">
+		<path d="M16.5 14c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5S17.9 14 16.5 14z" />
+		<path d="M23.5 14c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5S24.9 14 23.5 14z" />
+		<path d="M9.5 14C8.1 14 7 15.1 7 16.5S8.1 19 9.5 19s2.5-1.1 2.5-2.5S10.9 14 9.5 14z" />
+	</symbol>
+
+	<symbol id="history-cancelled" viewBox="0 0 33 33">
+		<path d="M18.7 16.5l4.9 4.9c0.6 0.6 0.6 1.5 0 2.1s-1.5 0.6-2.1 0l-4.9-4.9 -4.9 4.9c-0.6 0.6-1.5 0.6-2.1 0 -0.6-0.6-0.6-1.5 0-2.1l4.9-4.9 -4.9-4.9c-0.6-0.6-0.6-1.5 0-2.1 0.6-0.6 1.5-0.6 2.1 0l4.9 4.9 4.9-4.9c0.6-0.6 1.5-0.6 2.1 0s0.6 1.5 0 2.1L18.7 16.5z" />
+	</symbol>
+
+	<symbol id="history-interrupted" viewBox="0 0 33 33">
+		<path d="M25.5 18h-8.1l2-3h6.1c0.8 0 1.5 0.7 1.5 1.5S26.3 18 25.5 18zM13.8 18H7.5C6.7 18 6 17.3 6 16.5 6 15.7 6.7 15 7.5 15h8.3L13.8 18z" />
+	</symbol>
+
+	<symbol id="history-suspended" viewBox="0 0 33 33">
+		<path d="M13.5 9C12.7 9 12 9.7 12 10.5v12c0 0.8 0.7 1.5 1.5 1.5 0.8 0 1.5-0.7 1.5-1.5v-12C15 9.7 14.4 9 13.5 9zM19.5 9C18.7 9 18 9.7 18 10.5v12c0 0.8 0.7 1.5 1.5 1.5 0.8 0 1.5-0.7 1.5-1.5l0-12C21 9.7 20.3 9 19.5 9z" />
+	</symbol>
+	<!-- END History States -->
+
+	<symbol id="beaker" viewBox="214.7 0 182.6 792">
+		<circle cx="344.8" cy="20.2" r="20.2" />
+		<circle cx="344.8" cy="92.9" r="20.2" />
+		<circle cx="320.5" cy="169.7" r="24.2" />
+		<circle cx="243" cy="141.4" r="24.2" />
+		<circle cx="284.2" cy="56.6" r="36.4" />
+		<path d="M397.3 768.5l-11.3-343.5v-178.5l9.7-20.2h-29.9l-4 13.7 2.4 189.9 9.7 316.8c1.6 14.5-19.4 12.9-34.8 12.9h-33.9s-38.8.8-46.1 0c-14.5-.8-18.6 1.6-17-29.1 1.6-25.2.8-95.5 5.7-301.5l-2.4-189.9-3.2-12.9h-27.5l9.7 20.2v178.6s-3.2 323.3-3.2 343.5c0 26.7 22.6 23.4 22.6 23.4h128.5c7.2 0 25 0 25-23.4zM259.9 473.5h93.8l-1.6-79.9h-92.2zM356.1 611.7l-2.4-132.6v5.7h-93.8l-.8 126.9zM352.1 382.3l-1.7-99.4h-89.7l-.8 99.4zM259.1 623l-.8 123.6h101l-2.4-123.6z" />
+	</symbol>
+
+	<!--Inbox Open Task icons-->
+	<symbol id="save-draft" viewBox="0 0 24 24">
+		<path d="M19,22H4c-1.1,0-2-0.9-2-2V5c0-1.1,0.9-2,2-2h11l6,5v12C21,21.1,20.1,22,19,22z M11,5H9v5h2V5z M19,9
+	c-2-2-5-4-5-4h-1v6c0,0.6-0.4,1-1,1H7c-0.6,0-1-0.4-1-1V5H5C4.4,5,4,5.4,4,6v13c0,0.6,0.4,1,1,1h13c0.6,0,1-0.4,1-1
+	C19,19,19,13.1,19,9z" />
+	</symbol>
+
+	<symbol id="reassign" viewBox="0 0 24 24">
+		<path d="M14,12c2.2,0,4-1.8,4-4s-1.8-4-4-4c-2.2,0-4,1.8-4,4S11.8,12,14,12z M14,14c-2.7,0-8,1.3-8,4v2h16v-2
+			C22,15.3,16.7,14,14,14z M9,11L5,7v3H1v2h4v3L9,11z" />
+	</symbol>
+
+	<symbol id="release" viewBox="0 0 24 24">
+		<path d="M12,12c1.7,0,3-1.3,3-3s-1.3-3-3-3c-0.3,0-0.6,0-0.9,0.1C11.7,7,12,7.9,12,9s-0.3,2-0.9,2.9C11.4,12,11.7,12,12,12z M7,12
+			c1.7,0,3-1.3,3-3S8.7,6,7,6C5.3,6,4,7.3,4,9S5.3,12,7,12z M13.6,14.2c0.8,0.7,1.4,1.7,1.4,2.8v2h3v-2C18,15.5,15.6,14.5,13.6,14.2
+			z M7,14c-2,0-6,1-6,3v2h12v-2C13,15,9,14,7,14z M20,8V5l-4,4l4,4v-3h4V8H20z" />
+	</symbol>
+
+	<symbol id="calendar" viewBox="0 0 24 24">
+		<path d="M19,3H4C2.9,3,2,3.9,2,5l0,15c0,1.1,0.9,2,2,2h15c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3z M19,20H4V8h15V20z M9,10h2v2H9V10z
+	 M12,10h2v2h-2V10z M6,13h2v2H6V13z M9,13h2v2H9V13z M12,13h2v2h-2V13z M15,10h2v2h-2V10z M15,13h2v2h-2V13z M6,16h2v2H6V16z M9,16
+	h2v2H9V16z" />
+	</symbol>
+
+	<symbol id="due-date" viewBox="0 0 24 24">
+		<path d="M19,3H4C2.9,3,2,3.9,2,5l0,15c0,1.1,0.9,2,2,2h15c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3z M19,20H4V8h15V20z M12,13h3v3h-3
+	V13z" />
+	</symbol>
+
+	<symbol id="show-details" viewBox="0 0 14 14">
+		<path d="M7,0C3.1,0,0,3.1,0,7c0,3.9,3.1,7,7,7c3.9,0,7-3.1,7-7C14,3.1,10.9,0,7,0z M6.9,10.9L7.1,11
+	  c0.1,0,0.2,0,0.2-0.1C7.5,10.7,7.7,10.5,8,10l0.2,0.1C7.6,11.4,6.8,12,6,12c-0.3,0-0.5-0.1-0.7-0.3C5.1,11.6,5,11.3,5,11.1
+	  c0-0.2,0-0.4,0.1-0.7l1-3.4c0.1-0.3,0.1-0.6,0.1-0.7c0-0.1,0-0.2-0.1-0.3C6,5.9,5.9,5.8,5.7,5.8c-0.1,0-0.2,0-0.3,0l0.1-0.3L8,5.2
+	  h0.4l-1.4,5.1c-0.1,0.3-0.1,0.4-0.1,0.5L6.9,10.9z M8,4C7.4,4,7,3.6,7,3c0-0.6,0.4-1,1-1c0.6,0,1,0.4,1,1C9,3.6,8.6,4,8,4z" />
+	</symbol>
+
+	<symbol id="timeline-performed-action" viewBox="0 0 14 14" style="width:14px; height:14px;">
+
+		<path d="M12.6,1.4L5.1,8.9L1.4,5.3L0,6.7l5.1,5.1l8.9-9L12.6,1.4z" />
+	</symbol>
+
+	<!-- ADD USERS ICON -->
+	<symbol id="add-users" viewBox="0 0 24 24">
+		<path d="M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" />
+	</symbol>
+
+	<symbol id="autospace" viewBox="0 0 24 24">
+		<path d="M3 9h4V5H3v4zm0 5h4v-4H3v4zm5 0h4v-4H8v4zm5 0h4v-4h-4v4zM8 9h4V5H8v4zm5-4v4h4V5h-4zm5 9h4v-4h-4v4zM3 19h4v-4H3v4zm5 0h4v-4H8v4zm5 0h4v-4h-4v4zm5 0h4v-4h-4v4zm0-14v4h4V5h-4z" />
+	</symbol>
+	<symbol id="logotype" viewBox="0 0 160 48" style="width:160px; height:48px;">
+		<path fill="#fff" d="M2,17.8H0V32h8.8v-1.9H2V17.8z M14.2,21.7c-0.9,0-1.6,0.1-2.1,0.3c-0.5,0.2-1.1,0.6-1.5,1.1
+			l1.3,1.3c0.3-0.4,0.6-0.6,0.9-0.8c0.3-0.1,0.8-0.2,1.3-0.2c0.8,0,1.3,0.2,1.7,0.5c0.4,0.3,0.5,0.8,0.5,1.4v0.7h-2.7
+			c-1.1,0-2,0.3-2.6,0.8c-0.6,0.5-0.9,1.2-0.9,2.1c0,0.9,0.3,1.6,0.8,2.2c0.6,0.6,1.5,0.9,2.7,0.9c0.6,0,1.1-0.1,1.5-0.2
+			c0.4-0.2,0.8-0.4,1.2-0.8V32h2v-6.8C18.4,22.9,17,21.7,14.2,21.7z M16.3,28.3c0,0.7-0.1,1.2-0.4,1.5c-0.3,0.2-0.5,0.4-0.8,0.5
+			c-0.3,0.1-0.6,0.1-1.1,0.1c-1.2,0-1.9-0.5-1.9-1.4c0-1,0.6-1.5,1.8-1.5h2.4V28.3z M25.8,26L25,26l-0.8-0.1
+			c-0.5-0.1-0.9-0.2-1.1-0.4c-0.2-0.2-0.3-0.5-0.3-0.8c0-0.4,0.2-0.7,0.5-1c0.3-0.2,0.8-0.4,1.4-0.4c0.5,0,1,0.1,1.4,0.2
+			c0.4,0.1,0.8,0.3,1.1,0.6l1.3-1.3c-0.5-0.4-1-0.7-1.6-0.9c-0.6-0.2-1.3-0.3-2.1-0.3c-1.1,0-2,0.3-2.7,0.8
+			c-0.7,0.6-1.1,1.3-1.1,2.3c0,0.9,0.3,1.5,0.8,2c0.5,0.5,1.3,0.7,2.2,0.8l0.8,0.1l0.8,0.1c0.5,0,0.8,0.2,1,0.4
+			c0.2,0.2,0.3,0.5,0.3,0.8c0,0.5-0.2,0.8-0.6,1c-0.4,0.2-0.9,0.4-1.6,0.4c-0.6,0-1.1-0.1-1.6-0.2c-0.5-0.2-0.9-0.4-1.3-0.8
+			l-1.3,1.3c0.6,0.5,1.2,0.9,1.9,1.1c0.7,0.2,1.5,0.3,2.4,0.3c1.3,0,2.3-0.3,3.1-0.8c0.8-0.6,1.2-1.4,1.2-2.4c0-0.9-0.3-1.6-0.8-2
+			C27.5,26.4,26.8,26.1,25.8,26z M34.9,21.7c-1.3,0-2.3,0.5-3.1,1.4c-0.8,0.9-1.2,2.2-1.2,3.8c0,0.9,0.1,1.7,0.3,2.4
+			c0.2,0.7,0.6,1.2,1,1.6c0.4,0.4,0.9,0.7,1.4,0.9c0.5,0.2,1.2,0.3,1.8,0.3c0.9,0,1.6-0.1,2.1-0.4c0.6-0.3,1.1-0.7,1.7-1.2l-1.3-1.2
+			c-0.4,0.4-0.7,0.6-1.1,0.8c-0.4,0.2-0.8,0.2-1.4,0.2c-0.8,0-1.4-0.3-1.9-0.8c-0.5-0.5-0.7-1.2-0.7-2.1h6.6v-0.9
+			c0-1.5-0.4-2.6-1.2-3.5C37.3,22.2,36.2,21.7,34.9,21.7z M32.6,26.1c0-0.3,0-0.6,0.1-0.8c0-0.2,0.1-0.4,0.2-0.6
+			c0.2-0.4,0.4-0.7,0.8-0.9c0.4-0.2,0.8-0.4,1.2-0.4c0.5,0,0.9,0.1,1.2,0.4c0.4,0.2,0.6,0.5,0.8,0.9c0.1,0.2,0.2,0.4,0.2,0.6
+			c0,0.2,0.1,0.4,0.1,0.8H32.6z M46.4,21.7c-0.6,0-1.1,0.1-1.6,0.3c-0.5,0.2-0.9,0.5-1.1,0.9v-1.1h-2V32h2v-6.2
+			c0-0.7,0.2-1.2,0.6-1.7c0.4-0.4,0.9-0.6,1.4-0.6c0.3,0,0.6,0.1,0.8,0.2c0.2,0.1,0.5,0.3,0.7,0.5l1.5-1.5c-0.3-0.3-0.7-0.6-1.1-0.7
+			C47.3,21.8,46.9,21.7,46.4,21.7z M51.6,18.5c-0.5,0.5-0.7,1.2-0.7,2V22h-1.2v1.6h1.2V32h2v-8.4h2.1V22H53v-1.5
+			c0-0.8,0.4-1.2,1.1-1.2h1v-1.7h-1.4C52.8,17.6,52.1,17.9,51.6,18.5z M56.8,19.8H59v-2.2h-2.2V19.8z M56.9,32h2V21.8h-2V32z
+			 M63.7,24.4c0.5-0.6,1.1-0.9,1.9-0.9c0.4,0,0.7,0.1,1,0.2c0.3,0.1,0.6,0.4,0.9,0.8l1.4-1.4c-0.5-0.5-1-0.9-1.5-1.1
+			c-0.5-0.2-1.1-0.3-1.8-0.3c-0.6,0-1.2,0.1-1.7,0.3c-0.5,0.2-1,0.5-1.4,0.9c-0.4,0.4-0.8,1-1,1.6c-0.2,0.7-0.4,1.5-0.4,2.4
+			c0,0.9,0.1,1.7,0.4,2.4c0.2,0.7,0.6,1.2,1,1.6c0.4,0.4,0.9,0.7,1.4,0.9c0.5,0.2,1.1,0.3,1.7,0.3c0.7,0,1.3-0.1,1.8-0.3
+			c0.5-0.2,1-0.6,1.5-1.1l-1.4-1.3c-0.3,0.4-0.6,0.6-0.9,0.8c-0.3,0.1-0.6,0.2-1,0.2c-0.8,0-1.4-0.3-1.9-0.9c-0.2-0.3-0.4-0.6-0.5-1
+			c-0.1-0.4-0.1-0.9-0.1-1.5c0-0.6,0-1.1,0.1-1.5C63.3,25,63.5,24.7,63.7,24.4z M75.7,21.7c-1,0-2,0.4-2.7,1.1v-5h-2V32h2v-6.2
+			c0-0.7,0.2-1.3,0.6-1.7c0.4-0.4,0.9-0.6,1.5-0.6c0.6,0,0.9,0.2,1.3,0.6c0.4,0.4,0.6,0.9,0.6,1.7V32h2v-6.5c0-1.1-0.3-2-0.9-2.7
+			C77.5,22.1,76.8,21.7,75.7,21.7z M86.1,21.7c-1.3,0-2.3,0.5-3.1,1.4c-0.8,0.9-1.2,2.2-1.2,3.8c0,0.9,0.1,1.7,0.4,2.4
+			c0.2,0.7,0.6,1.2,1,1.6c0.4,0.4,0.9,0.7,1.4,0.9c0.5,0.2,1.2,0.3,1.8,0.3c0.9,0,1.6-0.1,2.1-0.4c0.6-0.3,1.1-0.7,1.7-1.2l-1.3-1.2
+			c-0.4,0.4-0.7,0.6-1.1,0.8c-0.4,0.2-0.8,0.2-1.4,0.2c-0.8,0-1.4-0.3-1.9-0.8c-0.5-0.5-0.7-1.2-0.7-2.1h6.6v-0.9
+			c0-1.5-0.4-2.6-1.1-3.5C88.5,22.2,87.4,21.7,86.1,21.7z M83.8,26.1c0-0.3,0-0.6,0.1-0.8c0-0.2,0.1-0.4,0.2-0.6
+			c0.2-0.4,0.4-0.7,0.8-0.9c0.4-0.2,0.8-0.4,1.2-0.4c0.5,0,0.9,0.1,1.2,0.4c0.4,0.2,0.6,0.5,0.8,0.9c0.1,0.2,0.2,0.4,0.2,0.6
+			c0,0.2,0.1,0.4,0.1,0.8H83.8z M97.8,32h2.2v-6h5.9V24H100v-4.1h6.9V18h-9.1V32z M115.1,22.9c-0.4-0.4-0.8-0.7-1.3-0.9
+			c-0.5-0.2-1.1-0.3-1.7-0.3c-0.7,0-1.2,0.1-1.7,0.3c-0.5,0.2-0.9,0.5-1.3,0.9c-0.5,0.5-0.8,1-0.9,1.7c-0.2,0.6-0.3,1.4-0.3,2.3
+			c0,0.9,0.1,1.7,0.3,2.3c0.2,0.6,0.5,1.2,0.9,1.7c0.4,0.4,0.8,0.7,1.3,0.9c0.5,0.2,1.1,0.3,1.7,0.3c0.7,0,1.2-0.1,1.7-0.3
+			c0.5-0.2,0.9-0.5,1.3-0.9c0.5-0.5,0.8-1,0.9-1.7c0.2-0.6,0.3-1.4,0.3-2.3c0-0.9-0.1-1.7-0.3-2.3C115.8,23.9,115.5,23.4,115.1,22.9
+			z M114.1,28.6c-0.1,0.5-0.3,0.8-0.6,1.1c-0.4,0.4-0.9,0.6-1.5,0.6c-0.6,0-1.1-0.2-1.5-0.6c-0.3-0.3-0.5-0.6-0.6-1.1
+			c-0.1-0.5-0.1-1-0.1-1.7c0-0.7,0-1.2,0.1-1.7c0.1-0.5,0.3-0.8,0.6-1.1c0.4-0.4,0.9-0.6,1.5-0.6c0.6,0,1.1,0.2,1.5,0.6
+			c0.3,0.3,0.5,0.6,0.6,1.1c0.1,0.5,0.1,1,0.1,1.7C114.2,27.6,114.2,28.1,114.1,28.6z M123.5,21.7c-0.6,0-1.1,0.1-1.6,0.3
+			c-0.5,0.2-0.9,0.5-1.1,0.9v-1.1h-2V32h2v-6.2c0-0.7,0.2-1.2,0.6-1.7c0.4-0.4,0.9-0.6,1.4-0.6c0.3,0,0.6,0.1,0.8,0.2
+			c0.2,0.1,0.5,0.3,0.7,0.5l1.5-1.5c-0.3-0.3-0.7-0.6-1.1-0.7C124.5,21.8,124,21.7,123.5,21.7z M139.3,22c-0.4-0.2-0.9-0.2-1.4-0.2
+			c-1.3,0-2.4,0.5-3.2,1.5c-0.6-1-1.6-1.5-2.9-1.5c-0.5,0-1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.8v-1h-2V32h2v-6.2
+			c0-0.7,0.2-1.3,0.6-1.7c0.4-0.4,0.9-0.6,1.5-0.6c0.6,0,1.1,0.2,1.5,0.6c0.4,0.4,0.6,0.9,0.6,1.7V32h2v-6.3c0-0.7,0.2-1.2,0.6-1.6
+			c0.4-0.4,0.9-0.6,1.5-0.6c0.6,0,1.1,0.2,1.5,0.6c0.4,0.4,0.6,0.9,0.6,1.7V32h2v-6.5c0-1.2-0.4-2.2-1.1-2.9
+			C140.1,22.3,139.7,22.1,139.3,22z M148.9,26l-0.8-0.1l-0.8-0.1c-0.5-0.1-0.9-0.2-1.1-0.4c-0.2-0.2-0.3-0.5-0.3-0.8
+			c0-0.4,0.2-0.7,0.5-1c0.3-0.2,0.8-0.4,1.4-0.4c0.5,0,1,0.1,1.4,0.2c0.4,0.1,0.8,0.3,1.1,0.6l1.3-1.3c-0.5-0.4-1-0.7-1.6-0.9
+			c-0.6-0.2-1.3-0.3-2.1-0.3c-1.1,0-2,0.3-2.7,0.8c-0.7,0.6-1.1,1.3-1.1,2.3c0,0.9,0.3,1.5,0.8,2c0.5,0.5,1.3,0.7,2.2,0.8l0.8,0.1
+			l0.8,0.1c0.5,0,0.8,0.2,1,0.4c0.2,0.2,0.3,0.5,0.3,0.8c0,0.5-0.2,0.8-0.6,1c-0.4,0.2-0.9,0.4-1.6,0.4c-0.6,0-1.1-0.1-1.6-0.2
+			c-0.5-0.2-0.9-0.4-1.3-0.8l-1.3,1.3c0.6,0.5,1.2,0.9,1.9,1.1c0.7,0.2,1.5,0.3,2.4,0.3c1.3,0,2.3-0.3,3-0.8
+			c0.8-0.6,1.2-1.4,1.2-2.4c0-0.9-0.3-1.6-0.8-2C150.6,26.4,149.9,26.1,148.9,26z M153.1,15.7h1.2v3.2h0.5v-3.2h1.2v-0.4h-2.8V15.7z
+			 M159.1,15.2l-0.9,2.5c-0.1,0.3-0.1,0.4-0.2,0.6c0-0.1-0.1-0.3-0.2-0.5l-0.8-2.5h-0.7v3.6h0.5v-3l1,3h0.4l1-3v3h0.5v-3.6H159.1z" />
+	</symbol>
+
+	<symbol id="process-edit" viewBox="0 0 24 24">
+		<path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"></path>
+	</symbol>
+
+	<symbol id="process-metrics" viewBox="0 0 24 24">
+		<path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"></path>
+	</symbol>
+
+	<symbol id="view-designer" viewBox="0 0 24 24">
+		<path d="M17.7,15.5c0,1.6-1.3,2.9-2.9,2.9H6.5c-1.6,0-2.9-1.3-2.9-2.9V7.2c0-1.6,1.3-2.9,2.9-2.9h8.4
+		c0.4,0,0.8,0.1,1.2,0.3c0.1,0,0.2,0.1,0.2,0.2c0,0.1,0,0.2-0.1,0.3l-0.5,0.5c-0.1,0.1-0.2,0.1-0.3,0.1c-0.2,0-0.3-0.1-0.5-0.1H6.5
+		c-0.9,0-1.6,0.7-1.6,1.6v8.4c0,0.9,0.7,1.6,1.6,1.6h8.4c0.9,0,1.6-0.7,1.6-1.6v-1.3c0-0.1,0-0.2,0.1-0.2l0.6-0.6
+		c0.1-0.1,0.2-0.1,0.4-0.1c0.1,0,0.2,0.2,0.2,0.3V15.5z M19.6,9.1l-6.7,6.7H10V13l6.7-6.7L19.6,9.1z M13.6,13.7l-1.5-1.5L11,13.4
+		v0.6h1v1h0.6L13.6,13.7z M16.6,7.7l-3.5,3.5c-0.1,0.1-0.1,0.2,0,0.3c0.1,0.1,0.2,0.1,0.3,0L16.9,8c0.1-0.1,0.1-0.2,0-0.3
+		C16.8,7.6,16.7,7.6,16.6,7.7z M20.3,8.5l-2.9-2.9l0.9-0.9c0.4-0.4,1-0.4,1.4,0l1.5,1.5c0.4,0.4,0.4,1,0,1.4L20.3,8.5z" />
+	</symbol>
+
+	<symbol id="view-reports" viewBox="0 0 24 24">
+		<path d="M22.1,19.7H1.6V4.3h1.3v14.1h19.3V19.7z M8,17.2H5.4V12H8V17.2z M11.8,17.2H9.3V6.9h2.6V17.2z M15.7,17.2h-2.6
+		V9.4h2.6V17.2z M19.6,17.2H17V5.6h2.6V17.2z" />
+	</symbol>
+
+	<symbol id="bigclose" height="20" width="20">
+		<path d="M11.6,10l6.2,6.2c0.4,0.4,0.4,1,0,1.4l-0.7,0.7c-0.4,0.4-1,0.4-1.4,0l-6.2-6.2l-6.2,6.2c-0.4,0.4-1,0.4-1.4,0l-0.7-0.7c-0.4-0.4-0.4-1,0-1.4L7.4,10L1.2,3.8c-0.4-0.4-0.4-1,0-1.4 l0.7-0.7c0.4-0.4,1-0.4,1.4,0l6.2,6.2l6.2-6.2c0.4-0.4,1-0.4,1.4,0l0.7,0.7c0.4,0.4,0.4,1,0,1.4L11.6,10z" />
+	</symbol>
+
+	<symbol viewBox="0 0 31 24" id="direct-approval" style="width:31px; height:24px;">
+		<path d="M9,11c0-0.6-0.4-1-1-1H2c-0.6,0-1,0.4-1,1s0.4,1,1,1h6C8.6,12,9,11.6,9,11z M11,14
+												c0-0.6-0.4-1-1-1H5c-0.6,0-1,0.4-1,1s0.4,1,1,1h5C10.6,15,11,14.6,11,14z M13,16H8c-0.6,0-1,0.4-1,1s0.4,1,1,1h5c0.6,0,1-0.4,1-1
+												S13.6,16,13,16z M28.9,4.3L18.3,14.9l-5.2-5.2l-1.4,1.4l6.6,6.6l12-12L28.9,4.3z" />
+	</symbol>
+
+	<symbol id="refresh" viewBox="0 0 24 24">
+		<path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z "></path>
+	</symbol>
+
+	<symbol id="folder" viewBox="0 0 24 24">
+		<path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10z  " />
+	</symbol>
+
+	<symbol id="record-folder" viewBox="0 0 24 24">
+		<path d="M19 22H8 5c-0.6 0-1-0.4-1-1V3c0-0.6 0.4-1 1-1h3 11c0.6 0 1 0.4 1 1v18C20 21.6 19.6 22 19 22zM7 4H6v16h1V4zM18 4H9v16h9V4zM16 10h-5V7h5V10z " />
+	</symbol>
+
+	<symbol id="priority" viewBox="0 0 24 24">
+		<path d="M14.4 6L14 4H5v17h2v-7h5.6l.4 2h7V6z" />
+	</symbol>
+
+
+	<symbol id="blank" viewBox="0 0 24 24">
+	</symbol>
+
+	<symbol id="select-down-arrow" viewBox="0 0 24 24">
+		<polygon points="8,10 16,10 12,14"></polygon>
+	</symbol>
+
+	<symbol id="search-bold" viewBox="0 0 24 24">
+		<path d="M20.7,18.6l-3.9-3.9c0.8-1.2,1.2-2.6,1.2-4.1C18,6.4,14.6,3,10.5,3C6.4,3,3,6.4,3,10.5 c0,4.1,3.4,7.5,7.5,7.5c1.5,0,2.9-0.5,4.1-1.2l3.9,3.9c0.4,0.4,1,0.4,1.4,0l0.7-0.7C21.1,19.6,21.1,19,20.7,18.6z M10.5,15 C8,15,6,13,6,10.5C6,8,8,6,10.5,6C13,6,15,8,15,10.5C15,13,13,15,10.5,15z" />
+	</symbol>
+
+	<symbol id="sort" viewBox="0 0 24 24">
+		<path d="M23,3H12c-0.6,0-1,0.4-1,1v1c0,0.6,0.4,1,1,1h11c0.6,0,1-0.4,1-1V4C24,3.4,23.6,3,23,3z M19,9 h-7c-0.6,0-1,0.4-1,1v1c0,0.6,0.4,1,1,1h7c0.6,0,1-0.4,1-1v-1C20,9.4,19.6,9,19,9z M15,15h-3c-0.6,0-1,0.4-1,1v1c0,0.6,0.4,1,1,1 h3c0.6,0,1-0.4,1-1v-1C16,15.4,15.6,15,15,15z M5,4c0-0.6-0.4-1-1-1C3.4,3,3,3.4,3,4v10H0l4.1,4l4-4H5V4z" />
+	</symbol>
+
+	<symbol id="view-details" viewBox="0 0 24 24">
+		<path d="M12,21c-5,0-9-4-9-9c0-5,4-9,9-9c5,0,9,4,9,9C21,17,17,21,12,21z M9.8,10.7c0.1,0,0.2,0,0.3,0 c0.2,0,0.4,0.1,0.5,0.2c0.1,0.1,0.2,0.2,0.2,0.4c0,0.2-0.1,0.5-0.2,0.9l-1.3,4.3c-0.1,0.3-0.2,0.6-0.2,0.9c0,0.3,0.1,0.6,0.3,0.8 c0.2,0.2,0.5,0.3,0.9,0.3c1,0,2-0.8,2.9-2.4L13,15.9c-0.4,0.6-0.7,1-1,1.2c-0.1,0.1-0.2,0.1-0.3,0.1l-0.2-0.1L11.5,17 c0-0.1,0.1-0.4,0.2-0.7l1.9-6.4h-0.5l-3.1,0.5L9.8,10.7z M13.9,6.1c-0.3-0.3-0.6-0.4-0.9-0.4c-0.4,0-0.7,0.1-0.9,0.4 c-0.3,0.3-0.4,0.6-0.4,0.9c0,0.4,0.1,0.7,0.4,0.9c0.3,0.3,0.6,0.4,0.9,0.4c0.4,0,0.7-0.1,0.9-0.4c0.3-0.3,0.4-0.6,0.4-0.9 C14.3,6.6,14.2,6.3,13.9,6.1z" />
+	</symbol>
+
+	<symbol id="claim" viewBox="0 0 24 24">
+		<path d="M19 3H4.99c-1.11 0-1.98.9-1.98 2L3 19c0 1.1.88 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 12h-4c0 1.66-1.35 3-3 3s-3-1.34-3-3H4.99V5H19v10zm-3-5h-2V7h-4v3H8l4 4 4-4z" />
+	</symbol>
+
+	<symbol id="clear-form" viewBox="0 0 24 24">
+		<path d="M15.14,3C14.63,3 14.12,3.2 13.73,3.59L2.59,14.73C1.81,15.5 1.81,16.77 2.59,17.56L5.03,20H12.69L21.41,11.27C22.2,10.5 22.2,9.23 21.41,8.44L16.56,3.59C16.17,3.2 15.65,3 15.14,3M17,18L15,20H22V18" />
+	</symbol>
+
+	<symbol id="documentation" viewBox="0 0 24 24">
+		<path d="M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"></path>
+	</symbol>
+
+	<symbol id="bplanswers" viewBox="0 0 24 24">
+		<g id="Layer_1">
+		</g>
+		<g id="Isolation_Mode">
+			<path d="M13,9h3V5c0-1.1-0.9-2-2-2H4C2.9,3,2,3.9,2,5v6c0,1.1,0.9,2,2,2h1v3l3-3h2v-1C10,10.3,11.3,9,13,9z" />
+			<path d="M20,10h-7c-1.1,0-2,0.9-2,2v4c0,1.1,0.9,2,2,2h3l3,3v-3h1c1.1,0,2-0.9,2-2v-4C22,10.9,21.1,10,20,10z" />
+		</g>
+	</symbol>
+
+	<symbol id="bplsuggestions" viewBox="0 0 24 24">
+		<g id="Layer_1">
+		</g>
+		<g id="Isolation_Mode">
+			<g>
+				<path d="M14.4,17c-0.9,0-1.6,0-2.4,0s-1.6,0-2.4,0C9.2,17,9,17.1,9,17.5c0,0.7,0,1.3,0,2c0,0.4,0.2,0.6,0.6,0.6
+			c0.3,0,0.3,0,0.6,0c0.3,1.1,0.9,0.9,1.8,0.8c0.9,0,1.5,0.2,1.8-0.8c0.3,0,0.3,0,0.6,0c0.4,0,0.6-0.2,0.6-0.6c0-0.7,0-1.3,0-2
+			C15,17.1,14.8,17,14.4,17z" />
+				<path d="M16.5,3.9c-1.1-1.2-2.4-1.8-4-1.9c-0.2,0-0.4,0-0.6,0c-0.2,0-0.4,0-0.6,0c-1.5,0.1-2.9,0.7-4,1.9
+			C5.9,5.6,5.6,8,6.5,10.3c0.2,0.4,0.4,0.8,0.6,1.2C8,12.9,8.9,14.2,9,16c1,0,2,0,3,0s2,0,3,0c0.1-1.8,1-3.1,1.8-4.6
+			c0.2-0.4,0.4-0.8,0.6-1.2C18.4,8,18.1,5.6,16.5,3.9z" />
+			</g>
+		</g>
+	</symbol>
+
+	<symbol id="bplhelp" viewBox="0 0 24 24">
+		<g id="Layer_1">
+		</g>
+		<g id="Isolation_Mode">
+			<g>
+				<rect x="10.5" y="19" width="3" height="3" />
+				<path d="M16.6,11.4l-1.4,1.4c-1.1,1.1-1.8,2-1.8,4.3h-3v-1c0-1.7,0.7-2.9,1.8-4l1.9-1.9c0.7-0.7,1-1.6,0.8-2.7c-0.2-1.1-1.1-2.1-2.2-2.3C10.8,4.6,9,6.1,9,8L6,8c0-3.4,2.8-6.2,6.2-6c1.4,0.1,2.7,0.7,3.7,1.7C18.8,6.4,18.4,9.6,16.6,11.4z" />
+			</g>
+		</g>
+	</symbol>
+
+	<symbol id="bpltrending" x="0px" y="0px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;">
+		<g>
+			<polygon fill="#54BD91" points="18,2.4 9.5,4 11.9,6.4 6.6,11.8 2,7.2 0,9.3 6.6,15.8 13.9,8.5 16.4,10.9" />
+		</g>
+	</symbol>
+
+	<symbol id="gridviewStartProcess" height="24" viewBox="0 0 24 24" width="24">
+		<path d="M3,11H11V3H3M3,21H11V13H3M13,21H21V13H13M13,3V11H21V3" />
+	</symbol>
+
+	<symbol id="listviewStartProcess" height="24" viewBox="0 0 24 24" width="24">
+		<path d="M8,3V7H21V3M8,21H21V17H8M8,14H21V10H8M3,7H7V3H3M3,21H7V17H3M3,14H7V10H3V14Z" />
+	</symbol>
+</svg>

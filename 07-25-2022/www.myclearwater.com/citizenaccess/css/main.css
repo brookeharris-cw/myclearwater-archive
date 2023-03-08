@@ -1,0 +1,439 @@
+﻿@font-face {
+  font-family: MuseoSans;
+  font-weight: 100;
+  font-style: normal;
+  src: url('fonts/MuseoSans-100.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 100;
+  font-style: italic;
+  src: url('fonts/MuseoSans-100Italic.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 300;
+  font-style: normal;
+  src: url('fonts/MuseoSans-300.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 300;
+  font-style: italic;
+  src: url('fonts/MuseoSans-300Italic.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 500;
+  font-style: normal;
+  src: url('fonts/MuseoSans-500.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 500;
+  font-style: italic;
+  src: url('fonts/MuseoSans-500_Italic.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 700;
+  font-style: normal;
+  src: url('fonts/MuseoSans-700.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 700;
+  font-style: italic;
+  src: url('fonts/MuseoSans-700Italic.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 900;
+  font-style: normal;
+  src: url('fonts/MuseoSans-900.otf') format('opentype');
+}
+@font-face {
+  font-family: MuseoSans;
+  font-weight: 900;
+  font-style: italic;
+  src: url('fonts/MuseoSans-900Italic.otf') format('opentype');
+}
+body {
+  background-color: #fff;
+  font-family: "Open Sans", sans-serif;
+}
+/* Font size base 14pt*/
+p.font_14 {
+  font-size: 0.85rem;
+  font-weight: 300;
+}
+h1.font_14 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_14 {
+  font-size: 2.827rem;
+}
+h3.font_14 {
+  font-size: 2rem;
+}
+h4.font_14 {
+  font-size: 1.414rem;
+}
+h1.font_14,
+h2.font_14,
+h3.font_14,
+h4.font_14 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 14px;
+}
+/* font-size: 16px*/
+p.font_16 {
+  font-size: 0.85rem;
+  font-weight: 300;
+}
+h1.font_16 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_16 {
+  font-size: 2.827rem;
+}
+h3.font_16 {
+  font-size: 2rem;
+}
+h4.font_16 {
+  font-size: 1.414rem;
+}
+h1.font_16,
+h2.font_16,
+h3.font_16,
+h4.font_16 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 16px;
+  /*color: orange;*/
+}
+/* Font class for 18pt font */
+p.font_18 {
+  font-size: 0.85rem;
+  font-weight: 300;
+}
+h1.font_18 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_18 {
+  font-size: 2.827rem;
+}
+h3.font_18 {
+  font-size: 2rem;
+}
+h4.font_18 {
+  font-size: 1.414rem;
+}
+h1.font_18,
+h2.font_18,
+h3.font_18,
+h4.font_18 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 18px;
+  /*color: green;*/
+}
+/* Base font 20 */
+p.font_20 {
+  margin-bottom: 1.3em;
+}
+h1.font_20 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_20 {
+  font-size: 2.827rem;
+}
+h3.font_20 {
+  font-size: 2rem;
+}
+h4.font_20 {
+  font-size: 1.414rem;
+}
+h1.font_20,
+h2.font_20,
+h3.font_20,
+h4.font_20 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 20px;
+}
+.header {
+  background-color: #1fafed;
+  height: 200px;
+  position: relative;
+  display: table;
+  text-align: center;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.header .container {
+  display: inline-block;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  max-width: 90vw;
+}
+.header .container .logo {
+  position: absolute;
+  margin: 0 auto;
+  width: 50%;
+  top: 0;
+  z-index: 100;
+  height: 180px;
+  background-image: url('images/logo.jpeg');
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+.header .container .contact {
+  color: #fff;
+  width: 100%;
+  height: 100px;
+  text-align: right;
+  padding-top: 5px;
+  font-family: MuseoSans;
+  font-weight: 300;
+}
+.header .container .return {
+  position: absolute;
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  padding: 5px 0 0 0;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 250px;
+  height: 25px;
+  background-color: #e7f6fd;
+}
+.header .container .return a {
+  color: #1F2F45;
+  font-family: MuseoSans;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+.footer {
+  margin: 0 auto;
+  border-top: solid 2px #ebebeb;
+  display: block;
+  background-color: #f6f6f7;
+  color: #464646;
+  font-family: MuseoSans;
+  font-size: 1.1em;
+  font-weight: 400;
+  height: 5%;
+  padding-top: 10px;
+}
+/*New Design*/
+.banner-header {
+  background-color: #1fafed;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+  height: 110px;
+  font-size: initial;
+  display: table;
+}
+.banner-container {
+  display: table;
+  margin: 0 auto;
+}
+.agency-logo {
+  text-align: left;
+  width: 25%;
+}
+.agency-logo img {
+  width: auto;
+  margin-top: 22px;
+}
+.agency-banner-text {
+  color: #fff;
+  text-align: right;
+  width: 75%;
+}
+.agency-banner-text h2 {
+  margin-top: 1em;
+  margin-bottom: 0.35em;
+  font-weight: bold;
+}
+.agency-logo,
+.agency-banner-text {
+  display: table-cell;
+  vertical-align: top;
+}
+.rta {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+.rta-container {
+  margin: auto 0;
+  display: inline-block;
+  width: 90vw;
+  text-align: right;
+}
+.rta-tittle {
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  padding: 5px 10px 0px 10px;
+  margin: 0 auto;
+  min-width: 50px;
+  height: 1.75em;
+  background-color: #e7f6fd;
+  text-align: center;
+  display: inline-block;
+}
+.rta-tittle a {
+  color: #1F2F45;
+  font-family: MuseoSans;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+/* Font size base 14pt*/
+p.font_14 {
+  font-size: 0.85rem;
+  font-weight: 300;
+}
+span.font_14 {
+  font-size: 0.85rem;
+  font-weight: 300;
+}
+h1.font_14 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_14 {
+  font-size: 2.827rem;
+}
+h3.font_14 {
+  font-size: 2rem;
+}
+h4.font_14 {
+  font-size: 1.414rem;
+}
+h1.font_14,
+h2.font_14,
+h3.font_14,
+h4.font_14 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 14px;
+}
+/* font-size: 16px*/
+p.font_16 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+span.font_16 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+h1.font_16 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_16 {
+  font-size: 2.827rem;
+}
+h3.font_16 {
+  font-size: 2rem;
+}
+h4.font_16 {
+  font-size: 1.414rem;
+}
+h1.font_16,
+h2.font_16,
+h3.font_16,
+h4.font_16 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 16px;
+}
+/* Font class for 18pt font */
+p.font_18 {
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+span.font_18 {
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+h1.font_18 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_18 {
+  font-size: 2.827rem;
+}
+h3.font_18 {
+  font-size: 2rem;
+}
+h4.font_18 {
+  font-size: 1.414rem;
+}
+h1.font_18,
+h2.font_18,
+h3.font_18,
+h4.font_18 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 18px;
+}
+/* Base font 20 */
+p.font_20 {
+  font-size: 1.2rem;
+  margin-bottom: 1.3em;
+}
+span.font_20 {
+  font-size: 1.2rem;
+  margin-bottom: 1.3em;
+}
+h1.font_20 {
+  margin-top: 0;
+  font-size: 4rem;
+}
+h2.font_20 {
+  font-size: 2.827rem;
+}
+h3.font_20 {
+  font-size: 2rem;
+}
+h4.font_20 {
+  font-size: 1.414rem;
+}
+h1.font_20,
+h2.font_20,
+h3.font_20,
+h4.font_20 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-size: 20px;
+}
