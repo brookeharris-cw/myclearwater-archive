@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220701T164343
+DTSTART:20220706T163000
+DTEND:20220706T173000
+SUMMARY:North Greenwood CRA Steering Committee Meeting
+DESCRIPTION:<p>The Steering Committee for the North Greenwood CRA will be meeting on Wednesday, July 6, 2022 at 6 p.m. </p><p>The meeting will be held by Zoom.</p><p> Anyone interested in listening can contact Dylan Prins at&nbsp;<a href="mailto:ngreenwoodcra@myclearwater.com" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">ngreenwoodcra@myclearwater.com</a>&nbsp;or call (727)562-4539.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>The Steering Committee for the North Greenwood CRA will be meeting on Wednesday, July 6, 2022 at 6 p.m. </p><p>The meeting will be held by Zoom.</p><p> Anyone interested in listening can contact Dylan Prins at&nbsp;<a href="mailto:ngreenwoodcra@myclearwater.com" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">ngreenwoodcra@myclearwater.com</a>&nbsp;or call (727)562-4539.</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
