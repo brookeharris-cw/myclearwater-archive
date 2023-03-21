@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220518T165850
+DTSTART:20220802T183000
+DTEND:20220802T201500
+SUMMARY:North Greenwood Community Redevelopment Area Plan Community Meeting
+DESCRIPTION:<p>Your voice matters! The city of Clearwater invites the public to attend a community workshop on Tuesday, Aug. 2, 6:30-8:15 p.m. to share thoughts and ideas to help shape a new plan for the North Greenwood Community Redevelopment Area. We want to hear from you about your vision for the future of the community. </p><p>The meeting will be held at the North Greenwood Recreation Center gymnasium, 900 N. Dr. MLK Jr. Ave.  </p><p>More info: ngreenwoodcra.com</p><p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Your voice matters! The city of Clearwater invites the public to attend a community workshop on Tuesday, Aug. 2, 6:30-8:15 p.m. to share thoughts and ideas to help shape a new plan for the North Greenwood Community Redevelopment Area. We want to hear from you about your vision for the future of the community. </p><p>The meeting will be held at the North Greenwood Recreation Center gymnasium, 900 N. Dr. MLK Jr. Ave.  </p><p>More info: ngreenwoodcra.com</p><p>&nbsp;</p>
+LOCATION:North Greenwood Recreation and Aquatic Complex\, 900 N Martin Luther King Jr Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220720T114556
+DTSTART:20220727T090000
+DTEND:20220727T120000
+SUMMARY:Coachman Park Governance Working Group
+DESCRIPTION:Coachman Park Governance Working Group - &nbsp;Wednesday, July 27, 2022 at 9 a.m. at the Main Library Board room (2<sup>nd</sup>&nbsp;Floor).
+X-ALT-DESC;FMTTYPE=text/html:Coachman Park Governance Working Group - &nbsp;Wednesday, July 27, 2022 at 9 a.m. at the Main Library Board room (2<sup>nd</sup>&nbsp;Floor).
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
