@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T101115
+DTSTART:20220806T000000
+DTEND:20220806T235900
+SUMMARY:Back to School Bash
+DESCRIPTION:<p>Get pumped for going back to school by playing pool games, eating some delicious barbecue and listening to live music at Morningside Recreation Center. <br><br></p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Get pumped for going back to school by playing pool games, eating some delicious barbecue and listening to live music at Morningside Recreation Center. <br><br></p>
+LOCATION:Clearwater Beach Recreation Complex\, 69 Bay Esplanade\, 51 Bay Esplanade Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
