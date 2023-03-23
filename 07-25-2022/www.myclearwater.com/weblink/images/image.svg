@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="tiny" viewBox="0 0 18 18">
+<g>
+  <path d="M12,8L12,8c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2l0,0C14,7.1,13.1,8,12,8z M18,2v14
+		    c0,1.1-0.9,2-2,2H2c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2h14C17.1,0,18,0.9,18,2z M16,2H2v11l4-6l4,7l3-4l3,4V2z"/>
+</g>
+</svg>
