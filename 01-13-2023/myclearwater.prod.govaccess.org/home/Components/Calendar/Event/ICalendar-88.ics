@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170301T181252
+DTSTART:20170321T130000
+DTEND:20170321T150000
+SUMMARY:Community Development Board Meeting
+DESCRIPTION:<a href="http://clearwater.granicus.com/ViewPublisher.php?view_id=50" target="_blank">Stream the meeting live and see the agenda.</a>
+X-ALT-DESC;FMTTYPE=text/html:<a href="http://clearwater.granicus.com/ViewPublisher.php?view_id=50" target="_blank">Stream the meeting live and see the agenda.</a>
+LOCATION:City of Clearwater Offices\, One Clearwater Tower\, 6th Floor\, 600 Cleveland St. Clearwater\, Florida 33756
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

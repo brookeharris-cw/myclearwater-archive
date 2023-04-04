@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220601T171656
+DTSTART:20220923T000000
+DTEND:20220925T235900
+SUMMARY:Hooter's Clearwater Offshore National Boat Races
+DESCRIPTION:It's time to start your engines for the Hooters Clearwater Offshore Nationals presented by Visit St. Petersburg Clearwater. A few helpful reminders for next weekend:<div aria-hidden="true">&nbsp;</div><div>Spectators can see all the race action from the beach or Pier 60. No chairs or coolers are allowed on the pier. Main race events will be on Sunday.&nbsp;</div><div><br aria-hidden="true"></div><div>Parking may be a challenge on Clearwater Beach. Some parking options to consider are the North Beach Parking Plaza, the Jolley Trolley and the Clearwater Ferry.</div><div>&nbsp;<br aria-hidden="true"></div>Event website for more information:&nbsp;<a href="http://www.clearwaternationals.com/" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" id="LPlnk648720" data-linkindex="0">www.clearwaternationals.com</a>
+X-ALT-DESC;FMTTYPE=text/html:It's time to start your engines for the Hooters Clearwater Offshore Nationals presented by Visit St. Petersburg Clearwater. A few helpful reminders for next weekend:<div aria-hidden="true">&nbsp;</div><div>Spectators can see all the race action from the beach or Pier 60. No chairs or coolers are allowed on the pier. Main race events will be on Sunday.&nbsp;</div><div><br aria-hidden="true"></div><div>Parking may be a challenge on Clearwater Beach. Some parking options to consider are the North Beach Parking Plaza, the Jolley Trolley and the Clearwater Ferry.</div><div>&nbsp;<br aria-hidden="true"></div>Event website for more information:&nbsp;<a href="http://www.clearwaternationals.com/" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" id="LPlnk648720" data-linkindex="0">www.clearwaternationals.com</a>
+LOCATION:Clearwater Beach\, 160 Gulfview Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

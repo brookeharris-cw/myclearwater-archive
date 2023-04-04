@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20200722T145630
+DTSTART:20200704T000000
+DTEND:20200704T235900
+SUMMARY:CANCELED: Clearwater Celebrates America event & Fireworks Display
+DESCRIPTION:The Clearwater City Council has&nbsp;decided to cancel the annual&nbsp;Clearwater Celebrates America event&nbsp;and fireworks display that was planned&nbsp;for July 4 of this year.
+X-ALT-DESC;FMTTYPE=text/html:The Clearwater City Council has&nbsp;decided to cancel the annual&nbsp;Clearwater Celebrates America event&nbsp;and fireworks display that was planned&nbsp;for July 4 of this year.
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

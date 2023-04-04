@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220201T121047
+DTSTART:20220215T183000
+DTEND:20220215T200000
+SUMMARY:Municipal Election - Seat 4 Candidate Forum - Virtual
+DESCRIPTION:<p>The city will host two virtual candidate forums for the upcoming municipal election.<br>Seat 4 will be held on Tuesday, Feb. 15, 6:30 p.m. and Seat 5 will be held Wednesday, Feb. 16, 6:30 p.m.</p><p>They can be watched on the&nbsp;<a href="https://www.myclearwater.com/government/council-meeting-streaming-videos?fbclid=IwAR19sm2Djn3imjYYGY5gDSLfPUOA_Zsa9K6oYJxZ_qNN36j5a9k1PMq8p1w#!/" target="_blank" style="font-size: 13px;">city’s website</a><span style="font-size: 13px;">&nbsp;and&nbsp;</span><a href="https://www.youtube.com/myclearwater" target="_blank" style="font-size: 13px;">YouTube channel</a><span style="font-size: 13px;">&nbsp;live and post event.</span></p><p><strong>Seat 4 Candidates Forum:</strong></p><p>Tuesday, Feb. 15 at 6:30 p.m.</p><p>Candidates:<br>- David Allbritton<br>- Gerry Lee<br>- Maranda Douglas</p><p><strong>Seat 5 Candidates Forum:</strong></p><p>Wednesday, Feb. 16 at 6:30 p.m.</p><p>Candidates:<br>- Aaron Smith-Levin<br>- Lina Teixeira<br>- Jonathan Wade, Sr.</p><p>For more information, visit <a href="https://www.myclearwater.com/government/city-departments/city-clerk/municipal-election-candidate-information" target="_blank">MyClearwater.com/election</a>.&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>The city will host two virtual candidate forums for the upcoming municipal election.<br>Seat 4 will be held on Tuesday, Feb. 15, 6:30 p.m. and Seat 5 will be held Wednesday, Feb. 16, 6:30 p.m.</p><p>They can be watched on the&nbsp;<a href="https://www.myclearwater.com/government/council-meeting-streaming-videos?fbclid=IwAR19sm2Djn3imjYYGY5gDSLfPUOA_Zsa9K6oYJxZ_qNN36j5a9k1PMq8p1w#!/" target="_blank" style="font-size: 13px;">city’s website</a><span style="font-size: 13px;">&nbsp;and&nbsp;</span><a href="https://www.youtube.com/myclearwater" target="_blank" style="font-size: 13px;">YouTube channel</a><span style="font-size: 13px;">&nbsp;live and post event.</span></p><p><strong>Seat 4 Candidates Forum:</strong></p><p>Tuesday, Feb. 15 at 6:30 p.m.</p><p>Candidates:<br>- David Allbritton<br>- Gerry Lee<br>- Maranda Douglas</p><p><strong>Seat 5 Candidates Forum:</strong></p><p>Wednesday, Feb. 16 at 6:30 p.m.</p><p>Candidates:<br>- Aaron Smith-Levin<br>- Lina Teixeira<br>- Jonathan Wade, Sr.</p><p>For more information, visit <a href="https://www.myclearwater.com/government/city-departments/city-clerk/municipal-election-candidate-information" target="_blank">MyClearwater.com/election</a>.&nbsp;</p>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

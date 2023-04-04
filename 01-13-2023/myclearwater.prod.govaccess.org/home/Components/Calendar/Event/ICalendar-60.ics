@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20210929T102417
+DTSTART:20211012T083000
+DTEND:20211012T110000
+SUMMARY:Affordable Housing Advisory Committee & Neighborhood and Affordable Housing Advisory Board
+DESCRIPTION:<p>This meeting will be held in the Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.</p><p>The meeting will be broadcast live on the city's YouTube channel (<a href="http://www.youtube.com/myclearwater">youtube.com/myclearwater</a>).</p><p>&nbsp;</p><p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>This meeting will be held in the Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.</p><p>The meeting will be broadcast live on the city's YouTube channel (<a href="http://www.youtube.com/myclearwater">youtube.com/myclearwater</a>).</p><p>&nbsp;</p><p>&nbsp;</p>
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190603T183453
+DTSTART:20190604T140000
+DTEND:20190604T150000
+SUMMARY:Building/Flood Board of Adjustment & Appeals
+DESCRIPTION:Meetings are open to the public and are held in Council Chambers on the first floor of the Main Library, located at 100 N. Osceola Ave.
+X-ALT-DESC;FMTTYPE=text/html:Meetings are open to the public and are held in Council Chambers on the first floor of the Main Library, located at 100 N. Osceola Ave.
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

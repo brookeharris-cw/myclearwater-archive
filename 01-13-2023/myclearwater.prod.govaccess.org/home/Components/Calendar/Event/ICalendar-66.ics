@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20190807T165953
+DTSTART:20191106T150000
+DTEND:20191106T160000
+SUMMARY:Airpark Advisory Board
+DESCRIPTION:Meetings are open to the public and are held in the first floor of the Main Library, located at 100 N. Osceola Ave.
+X-ALT-DESC;FMTTYPE=text/html:Meetings are open to the public and are held in the first floor of the Main Library, located at 100 N. Osceola Ave.
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

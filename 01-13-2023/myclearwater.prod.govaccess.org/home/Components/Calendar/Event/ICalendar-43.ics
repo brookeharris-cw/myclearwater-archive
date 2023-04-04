@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220309T085449
+DTSTART:20221124T070000
+DTEND:20221124T110000
+SUMMARY:Tampa Bay Turkey Trot
+DESCRIPTION:Don’t miss out on this early-morning Thanksgiving tradition.&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:Don’t miss out on this early-morning Thanksgiving tradition.&nbsp;
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

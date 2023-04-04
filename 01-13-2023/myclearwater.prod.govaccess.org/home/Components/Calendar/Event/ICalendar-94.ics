@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170323T141917
+DTSTART:20170417T130000
+DTEND:20170417T160000
+SUMMARY:City Council Work Session and Pension Trustees Meeting
+DESCRIPTION:<a href="http://clearwater.granicus.com/ViewPublisher.php?view_id=50" target="_blank">Stream the council meeting live and see the agenda.</a>
+X-ALT-DESC;FMTTYPE=text/html:<a href="http://clearwater.granicus.com/ViewPublisher.php?view_id=50" target="_blank">Stream the council meeting live and see the agenda.</a>
+LOCATION:City of Clearwater Offices\, One Clearwater Tower\, 6th Floor\, 600 Cleveland St. Clearwater\, Florida 33756
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

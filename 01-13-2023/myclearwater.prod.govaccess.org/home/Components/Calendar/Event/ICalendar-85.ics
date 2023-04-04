@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170313T102711
+DTSTART:20170313T130000
+DTEND:20170313T160000
+SUMMARY:City Council Work Session and Pension Trustees Meeting
+DESCRIPTION:<a href="http://clearwater.granicus.com/ViewPublisher.php?view_id=50" target="_blank">Stream the council meeting live and see the agenda.</a>
+X-ALT-DESC;FMTTYPE=text/html:<a href="http://clearwater.granicus.com/ViewPublisher.php?view_id=50" target="_blank">Stream the council meeting live and see the agenda.</a>
+LOCATION:
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

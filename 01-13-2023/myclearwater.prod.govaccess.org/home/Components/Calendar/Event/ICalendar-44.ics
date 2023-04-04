@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20221117T134059
+DTSTART:20221118T000000
+DTEND:20221120T235900
+SUMMARY:Festival of Trees
+DESCRIPTION:<p>It’s almost the most wonderful time of the year! Spread some holiday cheer, view beautifully decorated trees and wreaths, and visit Santa at The Long Center. All tree and wreath sales benefit those with intellectual and developmental disabilities served by The Arc Tampa Bay Foundation.</p><p>The event is open on November 18th and 19th from 10 am to 7 pm. The event is open on November 20th from 10 am to 5 pm.&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>It’s almost the most wonderful time of the year! Spread some holiday cheer, view beautifully decorated trees and wreaths, and visit Santa at The Long Center. All tree and wreath sales benefit those with intellectual and developmental disabilities served by The Arc Tampa Bay Foundation.</p><p>The event is open on November 18th and 19th from 10 am to 7 pm. The event is open on November 20th from 10 am to 5 pm.&nbsp;</p>
+LOCATION:Long Center\, 1501 N Belcher Rd Clearwater\, Florida 33765
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
