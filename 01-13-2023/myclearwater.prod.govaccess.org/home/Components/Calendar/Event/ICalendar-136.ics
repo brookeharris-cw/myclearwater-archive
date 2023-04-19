@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220505T163255
+DTSTART:20220516T180000
+DTEND:20220516T193000
+SUMMARY:Special City Council Meeting - Strategic Direction Planning & ARPA Funds
+DESCRIPTION:The city of Clearwater will hold several upcoming meetings to discuss the city’s strategic direction plan and how the city will spend the approximately<b>&nbsp;</b>$22.48 million they will receive as part of the American Rescue Plan Act.
+X-ALT-DESC;FMTTYPE=text/html:The city of Clearwater will hold several upcoming meetings to discuss the city’s strategic direction plan and how the city will spend the approximately<b>&nbsp;</b>$22.48 million they will receive as part of the American Rescue Plan Act.
+LOCATION:Morningside Recreation Complex\, 2400 Harn Blvd. Clearwater\, Florida 33764
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

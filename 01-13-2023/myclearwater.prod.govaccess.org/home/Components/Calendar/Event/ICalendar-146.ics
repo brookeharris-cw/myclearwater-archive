@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220329T095810
+DTSTART:20220427T133000
+DTEND:20220427T143000
+SUMMARY:Municipal Code Enforcement Board
+DESCRIPTION:<p>Meetings are are held in Council Chambers on the first floor of the Main Library, located at 100 N. Osceola Ave</p><p>See the agenda and stream the meeting live:&nbsp;<a href="http://bit.ly/ClearwaterCityCouncilMeetings">http://bit.ly/ClearwaterCityCouncilMeetings</a>.</p><p>The meeting will also be broadcast on the city's YouTube channel (<a href="http://www.youtube.com/myclearwater">youtube.com/myclearwater</a>) as well as on C-View TV Spectrum Channel 638, Frontier Channel 30 and WOW! Channel 15.</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Meetings are are held in Council Chambers on the first floor of the Main Library, located at 100 N. Osceola Ave</p><p>See the agenda and stream the meeting live:&nbsp;<a href="http://bit.ly/ClearwaterCityCouncilMeetings">http://bit.ly/ClearwaterCityCouncilMeetings</a>.</p><p>The meeting will also be broadcast on the city's YouTube channel (<a href="http://www.youtube.com/myclearwater">youtube.com/myclearwater</a>) as well as on C-View TV Spectrum Channel 638, Frontier Channel 30 and WOW! Channel 15.</p>
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

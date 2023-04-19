@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220321T173837
+DTSTART:20220323T140000
+DTEND:20220323T153000
+SUMMARY:Coachman Park Governance
+DESCRIPTION:<sub><p>There will be a Coachman Park Governance Working Group Meeting&nbsp;held on Wednesday, March 23, 2022 beginning at 2:00pm at the Clearwater Main Library Board Room, 100 North Osceola Ave.</p></sub>
+X-ALT-DESC;FMTTYPE=text/html:<sub><p>There will be a Coachman Park Governance Working Group Meeting&nbsp;held on Wednesday, March 23, 2022 beginning at 2:00pm at the Clearwater Main Library Board Room, 100 North Osceola Ave.</p></sub>
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

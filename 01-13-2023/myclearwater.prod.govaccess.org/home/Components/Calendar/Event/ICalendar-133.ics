@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220427T120628
+DTSTART:20220518T140000
+DTEND:20220518T150000
+SUMMARY:Red Light Camera Appeals Hearings
+DESCRIPTION:The meeting will be held in Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.
+X-ALT-DESC;FMTTYPE=text/html:The meeting will be held in Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220329T164201
+DTSTART:20221230T000000
+DTEND:20221230T235900
+SUMMARY:Tampa Bay Bowl Beach Day
+DESCRIPTION:The Outback Bowl Beach Day will take place on Clearwater Beach behind the Hilton Clearwater Beach Hotel ahead of the big game, with live music, skydivers, tug of war and other competitions setting the mood for celebration.
+X-ALT-DESC;FMTTYPE=text/html:The Outback Bowl Beach Day will take place on Clearwater Beach behind the Hilton Clearwater Beach Hotel ahead of the big game, with live music, skydivers, tug of war and other competitions setting the mood for celebration.
+LOCATION:Clearwater Beach\, 160 Gulfview Blvd Clearwater\, Florida 33767
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

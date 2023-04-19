@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220512T132053
+DTSTART:20220609T090000
+DTEND:20220609T120000
+SUMMARY:Special Pension Advisory Committee
+DESCRIPTION:The meeting will be held in Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.
+X-ALT-DESC;FMTTYPE=text/html:The meeting will be held in Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

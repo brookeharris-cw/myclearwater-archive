@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220602T141510
+DTSTART:20220609T103000
+DTEND:20220609T113000
+SUMMARY:City Council Executive Session, IAFF Negotiations
+DESCRIPTION:<div><p>10:30 a.m. –<br><b>City Council <br>Executive Session</b>, <b>IAFF Negotiations </b><br><b>600 Cleveland</b></p></div>
+X-ALT-DESC;FMTTYPE=text/html:<div><p>10:30 a.m. –<br><b>City Council <br>Executive Session</b>, <b>IAFF Negotiations </b><br><b>600 Cleveland</b></p></div>
+LOCATION:City of Clearwater Offices\, One Clearwater Tower\, 6th Floor\, 600 Cleveland St. Clearwater\, Florida 33756
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

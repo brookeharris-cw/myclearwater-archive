@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220322T165736
+DTSTART:20220419T130000
+DTEND:20220419T140000
+SUMMARY:Community Development Board Meeting
+DESCRIPTION:<p>Meetings are open to the public and are held in the first floor of the Main Library, located at 100 N. Osceola Ave.</p><p>Agendas and streaming video:&nbsp;<a href="http://bit.ly/ClearwaterCityCouncilMeetings">http://bit.ly/ClearwaterCityCouncilMeetings</a>.<br>The meeting will also&nbsp;be broadcast live on the city's YouTube channel (<a href="http://www.youtube.com/myclearwater">youtube.com/myclearwater</a>).</p>
+X-ALT-DESC;FMTTYPE=text/html:<p>Meetings are open to the public and are held in the first floor of the Main Library, located at 100 N. Osceola Ave.</p><p>Agendas and streaming video:&nbsp;<a href="http://bit.ly/ClearwaterCityCouncilMeetings">http://bit.ly/ClearwaterCityCouncilMeetings</a>.<br>The meeting will also&nbsp;be broadcast live on the city's YouTube channel (<a href="http://www.youtube.com/myclearwater">youtube.com/myclearwater</a>).</p>
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

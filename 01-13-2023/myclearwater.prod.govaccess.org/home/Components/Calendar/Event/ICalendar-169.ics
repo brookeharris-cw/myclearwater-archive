@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:City of Clearwater, FL Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220222T155711
+DTSTART:20220309T080000
+DTEND:20220309T090000
+SUMMARY:Marine Advisory Board Meeting
+DESCRIPTION:This meeting will be held in the Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.<p>&nbsp;</p>
+X-ALT-DESC;FMTTYPE=text/html:This meeting will be held in the Council Chambers at the Clearwater Main Library, 100 N. Osceola Ave.<p>&nbsp;</p>
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
