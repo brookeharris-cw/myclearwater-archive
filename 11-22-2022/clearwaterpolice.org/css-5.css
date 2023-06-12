@@ -1,0 +1,60 @@
+﻿@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: url(s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/lato/v23/S6u8w4BMUTPHjxsAXC-v-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: url(s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: url(s/lato/v23/S6u8w4BMUTPHh30AXC-v-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/lato/v23/S6u9w4BMUTPHh7USSwiPHA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/lato/v23/S6uyw4BMUTPHjx4wWw-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/lato/v23/S6u9w4BMUTPHh50XSwiPHA-1.ttf) format('truetype');
+}
