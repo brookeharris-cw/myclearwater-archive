@@ -1,0 +1,670 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* The Modal background */
+        .modal {
+            display: none; /* Modal form is hidden by default */
+            position: fixed;
+            z-index: 1;  /* Sit on top */
+            left: 40%;
+            top: 0;
+            width: 200px;  /*20% 18% 100px 200px*/ 
+            height: 140px; /*35% 25 15% 70px 150px 140px*/
+            /*overflow: auto;*/  /* Enable scroll if needed. */
+            background-color: rgb(4,120,53); /* Fallback color darker green*/
+            background-color: rgba(4,120,53,0); /* Black color with opacity - 1 is solid */
+        }
+
+        /* Modal Content Box */
+        .modal-content {
+            background-color: #F9F5E6;   /* antiquewhite #EDEADC  #F9F5E6 */
+            margin: 10% auto;  /* percentage from the top and centered */
+            padding: 10px;
+            /*border: 3px solid #888;*/
+            /*border: 3px solid #000000;*/  /* black color*/
+            border: 3px solid #09709A;  /* blue gray */
+            border-radius: 8px;  /* Attempt to round the border edges. 7px */
+            width: 90%;
+            height: 70%;
+        }
+
+        /* The Close Button */
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head > 
+
+<body onload="InitEventListener()" > 
+    <!-- Trigger/Open The Modal window -->
+    <!--<button id="myBtn">Open Modal Test</button>-->
+    <!-- The Modal Window     class="modal-content" -->
+    <div id="theModalPDFPopup" class="modal">
+        <!-- Modal Content -->
+        <div id="theModalPopUpCloseButton" class="modal-content">
+            <span class="close" onclick="CloseThePDFPopupMenu();">&times;</span>
+            <div id="theModalPopUpContentArea">
+                <!--<p>Engineering Atlas:</p>-->
+            </div>
+        </div>
+    </div>
+
+    <p > Click on the atlas, or click on the link for the street name or subdivision to display the PDFs for the atlas grid.</p >
+    <!-- Create the two search by lines. -->
+    <p > Search by Street Name:</p > 
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#1" > 1</a >,        <!--<a href="http://extgis.myclearwater.com/SearchByStreetForAtlas.htm#1"> 1</a>,-->
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#2" > 2</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#3" > 3</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#4" > 4</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#5" > 5</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#6" > 6</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#7" > 7</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#8" > 8</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#9" > 9</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#A" > A</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#B" > B</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#C" > C</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#D" > D</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#E" > E</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#F" > F</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#G" > G</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#H" > H</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#I" > I</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#J" > J</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#K" > K</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#L" > L</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#M" > M</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#N" > N</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#O" > O</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#P" > P</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#Q" > Q</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#R" > R</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#S" > S</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#T" > T</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#U" > U</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#V" > V</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#W" > W</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#Y" > Y</a >,
+    <a href="https://gis.myclearwater.com/SearchByStreetForAtlas.htm#Z" > Z</a > 
+    
+    <p > </p > <p > Search by Subdivision Name, Condominium Name, Mobile Home Park Name:</p > 
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#1" > 1</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#2" > 2</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#3" > 3</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#4" > 4</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#5" > 5</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#6" > 6</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#7" > 7</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#8" > 8</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#A" > A</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#B" > B</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#C" > C</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#D" > D</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#E" > E</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#F" > F</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#G" > G</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#H" > H</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#I" > I</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#J" > J</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#K" > K</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#L" > L</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#M" > M</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#N" > N</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#O" > O</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#P" > P</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#Q" > Q</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#R" > R</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#S" > S</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#T" > T</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#U" > U</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#V" > V</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#W" > W</a >,
+    <a href="https://gis.myclearwater.com/SearchBySubdivisionForAtlas.htm#Z" > Z</a >
+    <!-- <div class="divider"/ >-->
+    &nbsp; 
+    <button onclick="RefreshThePage()" > Clear Screen</button > 
+    <!--&nbsp; 
+    <button onclick="ZoomInOnTheGrid()" > Zoom In</button >-->
+    <p > </p > 
+    <p id="demo" > </p > 
+
+    <canvas id="atlasCanvas" width="1100" height="860" style="border:2px solid #000000;" > 
+        Your browser does not support the HTML5 canvas tag. 
+    </canvas > 
+    
+    <script type="text/javascript"> 
+        //=============================================================================================== 
+        // Final: Engineering Atlas Application        https://gis.myclearwater.com/EngineeringAtlas/
+        // Displays the city atlas and allows the user to click on an atlas grid to open the 
+        // associated atlas pages (PDFs) for the chosen grid. Atlas_Image3.jpg Atlas_Image6.jpg 
+        //=============================================================================================== 
+        var img = new Image(); 
+        img.src = 'https://gis.myclearwater.com/EngineeringAtlas/Atlas_Image6.jpg';                  
+        //img.src = 'https://gis.myclearwater.com/SolidWasteScheduleFinder/images/Atlas_Image6.jpg';
+        var ctx = document.getElementById('atlasCanvas').getContext('2d'); 
+        var offset = 0; 
+        var imgW = 1100; 
+        var imgH = 860; 
+        //var theTimeoutVar; 
+        var theSetIntervalVar; 
+        var theRoomDrawCntr = 0; 
+        var theCanvas = document.getElementById('atlasCanvas'); 
+        var theGridWidth = 50; 
+        var theGridHgt = 50; 
+        var theAtlasGrids = [];
+        //Draw the atlas grid image:
+        //init();
+        //ctx.drawImage(img, 0, 0, imgW, imgH);
+        //Panning the canvas 
+        var isDown = false; 
+        var startCoords = {
+            x: 0, y: 0
+        };
+        var last = {
+            x: 0, y: 0
+        };
+        //Set the modal popup window variables:
+        var modalPopUpWin = document.getElementById('theModalPDFPopup');
+        var span = document.getElementsByClassName('close')[0];
+
+        function init() {
+            //Draw the background image on the web page: 
+            ctx.drawImage(img, 0, 0, imgW, imgH);
+            //alert("Im one with the force. The force is with me!");
+        }
+
+        //--------------------------------------------------------------------------------------------------- 
+        function InitEventListener() {
+            //Draw the background: ctx.drawImage(img, 0, 0, imgW, imgH);
+            theCanvas.addEventListener("click", GetTheUserSelectedGrid, false);
+            //Draw the background image on the web page: 
+            ctx.drawImage(img, 0, 0, imgW, imgH);
+        }
+
+        function TheMouseMove(e) {
+            if (isDown) {
+                ctx .setTransform(1, 0, 0, 1, xVal - startCoords.x, yVal - startCoords.y);
+            }
+        }
+
+        function ZoomInOnTheGrid() {
+            //Zoom in on the Atlas Grid: var startScale = 1;
+            var scale = startScale;
+            //var ctx = $("#test")[0].getContext("2d") var width = ctx.canvas.width;
+            var height = ctx.canvas.height;
+            var intervalId;
+            //alert("Made it to ZoomInOnTheGrid()!");
+            //Set the scale to zoom in on: scale = scale + 0.05;
+            //Redraw the contents: var newWidth = width * scale;
+            var newHeight = height * scale;
+            //Set the context ctx.save();
+            ctx .translate(-((newWidth - width) / 2), -((newHeight - height) / 2));
+            ctx .scale(scale, scale);
+            ctx .clearRect(0, 0, width, height);
+            //ctx.drawimage(copiedCanvas, 0, 0);
+            ctx .drawimage(ctx.canvas, 0, 0);
+            ctx .restore();
+        } //ZoomInOnTheGrid()
+
+
+        function Point(x, y) {
+            //alert("Made it to the Point().");
+            this.x = x;
+            this.y = y;
+        } // Point()
+
+        function thePointIsInsidetheRectangle(thePnt, theRecX, theRecY, theRecW, theRecH) {
+            //Verify that the point is actually located inside the atlas grid rectangle:
+            //alert("Made it to thePointIsInsidetheRectangle()!");
+            if (thePnt.x >= theRecX && thePnt.y >= theRecY && thePnt.x <= theRecX + theRecW && thePnt.y <= theRecY + theRecH) {
+                //alert("That Puppy is in there!!!");
+                return true;
+            } else {
+                //alert("She is out of there!");
+                return false;
+            }
+        }  //thePointIsInsidetheRectangle()
+
+        function GetTheUserSelectedGrid(event) {
+            //Get the user selected atlas grid, and use it to find the atlas PDFs:
+            //alert("Made it to GetTheUserSelectedGrid()!");
+            var canvas = event.target;
+            var context = canvas.getContext('2d');
+            var theRect = theCanvas.getBoundingClientRect();
+
+            //This gets the mouse coordinates (relative to the canvas)
+            var theX = event.clientX - theRect.left,
+                theY = event.clientY - theRect.top
+            //var theUserClickedPntTest = new Point(theX, theY);
+            //alert("GetTheUserSelectedGrid()  eventX= " + theX + "  eventY= " + theY + "  The 1st AtlasGrids[] Name = " + theAtlasGrids[50][4] + "  The X,Y: " + theAtlasGrids[50][0] + "," + theAtlasGrids[50][1]);
+            
+            //Close the current PDF popup, if it is displayed:
+            //CloseThePDFPopupMenu();
+            //Clear the canvas of previous selections:
+            ctx.drawImage(img, 0, 0, imgW, imgH);
+
+            //Check if the user clicked point is inside the rectangle by iterating through each grid(rectangle) in the atlas array:
+            for (var i = 0; i < theAtlasGrids.length; i++) {
+                var theUserClickedPnt = new Point(theX, theY);
+                //var theAGRect = new rect(theAtlasGrids[i][0], theAtlasGrids[i][1], theAtlasGrids[i][2], theAtlasGrids[i][3]);
+                var theSelectedAtlasName = theAtlasGrids[i][4];
+                if (thePointIsInsidetheRectangle(theUserClickedPnt, theAtlasGrids[i][0], theAtlasGrids[i][1], theAtlasGrids[i][2], theAtlasGrids[i][3])) {
+                    //alert("GetTheUserSelectedGrid()  The user clicked inside of Atlas:  " + theSelectedAtlasName);
+                    //var thePopupStr = "The user clicked inside of Atlas:  " + theSelectedAtlasName;
+                    //Open the modal popup with the selected atlas grid's PDFs:
+                    OpenThePDFWindow(theSelectedAtlasName);
+
+                    //Highlight the selected atlas grid:  (x,                   y,               width,              height)
+                    DrawTheGridRectangle(theAtlasGrids[i][0], theAtlasGrids[i][1], theAtlasGrids[i][2], theAtlasGrids[i][3]);
+                    break;
+                }
+            }
+            //alert("GetTheUserSelectedGrid()  Done.");
+        } // GetTheUserSelectedGrid()
+
+        function OpenThePDFWindow(theAtlasName) {
+            //Construct the popup window with the PDF links that the user can click.
+            //alert("Made it to OpenThePDFWindow()!");
+            //set the text used for the web link:
+            var theTitletxt = "Atlas Page:  " + theAtlasName;
+            var theHousePDFtxt = "House Atlas";
+            var theZoningPDFtxt = "Zoning Atlas";
+            //var divElement = document.createElement("Div");
+            //Create a line separating the two pdf links:
+            var linebreak = document.createElement("br");
+
+            var divElement = document.getElementById("theModalPDFPopup");     //This works partially.
+            var divElementCA = document.getElementById("theModalPopUpContentArea");
+            divElementCA.innerHTML = "";
+           
+            //Create the paragraph element with the title text:
+            var theParagraphTitle = document.createElement("P");
+            //Create the hyperlink elements with the atlas PDFs:
+            var theHyperlinkPDF1 = document.createElement("a");
+            var theHyperlinkPDF2 = document.createElement("a");
+            //Create the text node for the popup title:
+            var theTextPopupTitle = document.createTextNode(theTitletxt);
+            
+            //Add the actual hyperlinks:
+            theHyperlinkPDF1.href = "https://gis.myclearwater.com/EngineeringAtlas/Hse200_" + theAtlasName + ".pdf";  //These 2 lines work.
+            theHyperlinkPDF2.href = "https://gis.myclearwater.com/EngineeringAtlas/Zon200_" + theAtlasName + ".pdf";
+            //theHyperlinkPDF1.href = "https://gis.myclearwater.com/EngineeringAtlas/Hse200_" + theAtlasName + ".pdf, target='_blank'";
+            //theHyperlinkPDF2.href = "https://gis.myclearwater.com/EngineeringAtlas/Zon200_" + theAtlasName + ".pdf, target='_blank'";
+            theHyperlinkPDF1.target = "_blank";
+            theHyperlinkPDF2.target = "_blank";
+            //alert("Made it past the document.createTextNode().");       //, target="_blank"
+
+            theHyperlinkPDF1.appendChild(document.createTextNode(theHousePDFtxt));
+            theHyperlinkPDF2.appendChild(document.createTextNode(theZoningPDFtxt));
+
+            //Append the textnode to the paragraph element:
+            theParagraphTitle.appendChild(theTextPopupTitle);
+            //alert("Made it past the theParagraphTitle.appendChild().");
+
+            //Add the title and PDF links to the popup window content-area element:
+            divElementCA.appendChild(theParagraphTitle);
+            divElementCA.appendChild(theHyperlinkPDF1);
+            divElementCA.appendChild(linebreak);
+            divElementCA.appendChild(theHyperlinkPDF2);
+            //alert("Made it past the divElement.appendChild().");
+
+            //Open the modal pdf window:
+            divElement.style.display = "block";
+            //divElementCA.style.display = "block";
+        } //OpenThePDFWindow()
+
+        //When the user clicks on the span (x), close the modal menu:
+        function CloseThePDFPopupMenu() {
+            //alert("Made it to the span.onclick = function.");   theModalPopUpCloseButton
+            //RefreshThePage();
+            theModalPDFPopup.style.display = "none";
+            theModalPopUpCloseButton.style.display = "none";
+            theModalPopUpContentArea.style.display = "none";
+            //RefreshThePage();
+            //Check if the browser is MS Edge:
+            if (/Edge\/\d./i.test(navigator.userAgent)) {
+                //The browser is Microsoft Edge, so reset the page:
+                //alert("CloseThePDFPopupMenu() The current browser is MS Edge!");
+                location.href = "https://gis.myclearwater.com/Eng_Atlas_App.htm";
+                //location.reload(true);
+            } else {
+                //Redraw the background image on the web page in Chrome: 
+                //alert("CloseThePDFPopupMenu() The current browser is Not Edge.");
+                RefreshThePage();
+                ctx.drawImage(img, 0, 0, imgW, imgH);
+            }
+        }
+
+        //When the user clicks anywhere outside of the modal, close it:
+        window.onclick = function (event) {
+            if (event.target == theModalPDFPopup) {
+                theModalPDFPopup.style.display = "none";
+                theModalPopUpCloseButton.style.display = "none";
+                theModalPopUpContentArea.style.display = "none";
+                RefreshThePage();
+                //Draw the background image on the web page: 
+                ctx.drawImage(img, 0, 0, imgW, imgH);
+            }
+        }
+
+
+        //Draw or highlight the selected grid cell (rectangle):
+        function DrawTheGridRectangle(theX, theY, gridW, gridH) {
+            //Reduce the size of the reectangle:
+            var theRectW = gridW - 4;
+            var theRectH = gridH - 3;
+            //ctx.drawimage(ctx.canvas, 0, 0);
+            //Draw the Grid Cell Rectangle:
+            context.beginPath();
+            context.lineWidth = 5;
+            context.strokeStyle = "#09709A";    // 'green'   #09709A Blue-gray
+            //context.rect(theX, theY, gridW, gridH);
+            context.rect(theX, theY, theRectW, theRectH);
+            context.stroke();
+            //alert("DrawTheGridRectangle() The atlas grid should be highlighted.");
+        }
+
+        //Insert the grid cells into the grid array:  theAtlasGrids
+        //function FillTheGridArray(theX, theY, gridW, gridH) {
+        function FillTheGridArray(theX, theY, gridW, gridH, theAtlasName) {
+            //theAtlasGrids.push([theGrid, theAtlasName]);
+            //May have to add each component of the rectangle separately:
+            theAtlasGrids.push([theX, theY, gridW, gridH, theAtlasName]);
+        }
+
+        //Add each grid to the atlas grid array:
+        //              (x,   y, width, height, AtlasName)
+        FillTheGridArray(711, 5, 53, 50, '166B');  //166B
+        FillTheGridArray(765, 5, 50, 50, '167A'); //167A
+        FillTheGridArray(711, 55, 50, 50, '177B');  //177B
+        FillTheGridArray(764, 55, 50, 50, '178A');  //178A
+        FillTheGridArray(815, 55, 50, 50, '178B');  //178B
+        FillTheGridArray(865, 55, 50, 50, '179A');  //179A
+        FillTheGridArray(713, 105, 50, 50, '188B');  //188B
+        FillTheGridArray(765, 105, 50, 50, '189A');  //189A
+        FillTheGridArray(815, 105, 50, 50, '189B');  //189B
+        FillTheGridArray(864, 105, 49, 50, '190A');  //190A
+        FillTheGridArray(915, 105, 51, 50, '190B');  //190B
+        FillTheGridArray(714, 155, 50, 50, '199B');  //199B
+        FillTheGridArray(764, 155, 50, 50, '200A');  //200A
+        FillTheGridArray(815, 155, 51, 50, '200B');  //200B
+        FillTheGridArray(865, 155, 50, 50, '201A');  //201A
+        FillTheGridArray(915, 156, 50, 51, '201B');  //201B
+        FillTheGridArray(713, 206, 51, 50, '210B');  //210B
+        FillTheGridArray(764, 206, 51, 50, '211A');  //211A
+        FillTheGridArray(815, 206, 51, 50, '211B');  //211B
+        FillTheGridArray(865, 206, 50, 50, '212A');  //212A
+        FillTheGridArray(147, 250, 57, 50, '216A');  //216A
+        FillTheGridArray(662, 257, 52, 50, '221A');  //221A
+        FillTheGridArray(714, 257, 52, 50, '221B');  //221B
+        FillTheGridArray(764, 257, 50, 50, '222A');  //222A
+        FillTheGridArray(814, 257, 50, 50, '222B');  //222B
+        FillTheGridArray(864, 257, 50, 50, '223A');  //223A
+        FillTheGridArray(147, 299, 56, 54, '227A');  //227A
+        FillTheGridArray(612, 306, 50, 51, '231B');  //231B
+        FillTheGridArray(662, 306, 52, 51, '232A');  //232A
+        FillTheGridArray(714, 306, 51, 51, '232B');  //232B
+        FillTheGridArray(765, 306, 50, 51, '233A');  //233A
+        FillTheGridArray(814, 306, 50, 51, '233B');  //233B
+        FillTheGridArray(864, 306, 50, 51, '234A');  //234A
+        FillTheGridArray(147, 353, 56, 49, '238A');  //238A
+        FillTheGridArray(562, 357, 50, 50, '242A');  //242A
+        FillTheGridArray(612, 357, 50, 50, '242B');  //242B
+        FillTheGridArray(662, 357, 52, 50, '243A');  //243A
+        FillTheGridArray(714, 357, 51, 50, '243B');  //243B
+        FillTheGridArray(765, 357, 50, 50, '244A');  //244A
+        FillTheGridArray(815, 357, 50, 50, '244B');  //244B
+        FillTheGridArray(865, 357, 50, 50, '245A');  //245A
+        FillTheGridArray(147, 402, 57, 52, '249A');  //249A
+        FillTheGridArray(204, 402, 55, 52, '249B');  //249B
+        FillTheGridArray(363, 406, 50, 50, '251A');  //251A
+        FillTheGridArray(413, 406, 50, 50, '251B');  //251B
+        FillTheGridArray(463, 406, 51, 50, '252A');  //252A
+        FillTheGridArray(512, 406, 50, 50, '252B');  //252B
+        FillTheGridArray(562, 406, 50, 50, '253A');  //253A
+        FillTheGridArray(612, 407, 50, 50, '253B');  //253B
+        FillTheGridArray(662, 407, 53, 50, '254A');  //254A
+        FillTheGridArray(715, 407, 50, 50, '254B');  //254B
+        FillTheGridArray(764, 407, 51, 50, '255A');  //255A
+        FillTheGridArray(815, 407, 51, 50, '255B');  //255B
+        FillTheGridArray(864, 407, 50, 50, '256A');  //256A
+        FillTheGridArray(147, 452, 57, 51, '258A');  //258A
+        FillTheGridArray(204, 451, 57, 51, '258B');  //258B
+        FillTheGridArray(312, 454, 51, 50, '259B');  //259B
+        FillTheGridArray(363, 454, 50, 50, '260A');  //260A
+        FillTheGridArray(413, 455, 50, 50, '260B');  //260B
+        FillTheGridArray(462, 455, 50, 50, '261A');  //261A
+        FillTheGridArray(512, 456, 50, 50, '261B');  //261B
+        FillTheGridArray(562, 457, 50, 50, '262A');  //262A
+        FillTheGridArray(612, 457, 51, 50, '262B');  //262B
+        FillTheGridArray(663, 457, 51, 50, '263A');  //263A
+        FillTheGridArray(714, 457, 49, 50, '263B');  //263B
+        FillTheGridArray(763, 457, 51, 50, '264A');  //264A
+        FillTheGridArray(814, 458, 51, 50, '264B');  //264B
+        FillTheGridArray(865, 458, 49, 50, '265A');  //265A
+        FillTheGridArray(147, 502, 57, 51, '267A');  //267A
+        FillTheGridArray(204, 504, 56, 49, '267B');  //267B
+        FillTheGridArray(260, 505, 52, 52, '268A');  //268A
+        FillTheGridArray(312, 504, 51, 50, '268B');  //268B
+        FillTheGridArray(363, 505, 50, 50, '269A');  //269A
+        FillTheGridArray(413, 505, 50, 50, '269B');  //269B
+        FillTheGridArray(462, 505, 50, 50, '270A');  //270A
+        FillTheGridArray(512, 505, 50, 50, '270B');  //270B
+        FillTheGridArray(562, 507, 50, 50, '271A');  //271A
+        FillTheGridArray(613, 507, 50, 50, '271B');  //271B
+        FillTheGridArray(663, 507, 50, 50, '272A');  //272A
+        FillTheGridArray(713, 507, 50, 50, '272B');  //272B
+        FillTheGridArray(763, 507, 51, 50, '273A');  //273A
+        FillTheGridArray(814, 508, 51, 50, '273B');  //273B
+        FillTheGridArray(865, 508, 51, 51, '274A');  //274A
+        FillTheGridArray(914, 509, 50, 50, '274B');  //274B
+        FillTheGridArray(963, 511, 50, 50, '275A');  //275A
+        FillTheGridArray(147, 553, 56, 50, '276A');  //276A
+        FillTheGridArray(203, 553, 56, 51, '276B');  //276B
+        FillTheGridArray(259, 553, 54, 51, '277A');  //277A
+        FillTheGridArray(313, 554, 50, 50, '277B');  //277B
+        FillTheGridArray(363, 555, 50, 50, '278A');  //278A
+        FillTheGridArray(413, 555, 50, 50, '278B');  //278B
+        FillTheGridArray(463, 555, 50, 50, '279A');  //279A
+        FillTheGridArray(512, 556, 50, 50, '279B');  //279B
+        FillTheGridArray(561, 557, 51, 50, '280A');  //280A
+        FillTheGridArray(612, 558, 51, 50, '280B');  //280B
+        FillTheGridArray(663, 558, 50, 50, '281A');  //281A
+        FillTheGridArray(713, 558, 50, 50, '281B');  //281B
+        FillTheGridArray(762, 558, 51, 50, '282A');  //282A
+        FillTheGridArray(814, 558, 50, 50, '282B');  //282B
+        FillTheGridArray(864, 559, 50, 50, '283A');  //283A
+        FillTheGridArray(914, 559, 50, 50, '283B');  //283B
+        FillTheGridArray(963, 560, 51, 50, '284A');  //284A
+        FillTheGridArray(147, 603, 51, 50, '285A');  //285A
+        FillTheGridArray(203, 603, 57, 50, '285B');  //285B
+        FillTheGridArray(260, 604, 50, 50, '286A');  //286A
+        FillTheGridArray(313, 604, 50, 50, '286B');  //286B
+        FillTheGridArray(363, 605, 50, 50, '287A');  //287A
+        FillTheGridArray(413, 605, 50, 50, '287B');  //287B
+        FillTheGridArray(462, 605, 50, 50, '288A');  //288A
+        FillTheGridArray(512, 606, 49, 50, '288B');  //288B
+        FillTheGridArray(563, 608, 50, 50, '289A');  //289A
+        FillTheGridArray(613, 608, 50, 50, '289B');  //289B
+        FillTheGridArray(663, 608, 49, 50, '290A');  //290A
+        FillTheGridArray(712, 609, 49, 50, '290B');  //290B
+        FillTheGridArray(761, 609, 49, 50, '291A');  //291A
+        FillTheGridArray(812, 608, 51, 50, '291B');  //291B
+        FillTheGridArray(864, 609, 50, 50, '292A');  //292A
+        FillTheGridArray(914, 609, 50, 50, '292B');  //292B
+        FillTheGridArray(963, 610, 52, 49, '293A');  //293A
+        FillTheGridArray(147, 655, 57, 48, '294A');  //294A
+        FillTheGridArray(260, 653, 53, 50, '295A');  //295A
+        FillTheGridArray(313, 653, 50, 50, '295B');  //295B
+        FillTheGridArray(363, 654, 50, 50, '296A');  //296A
+        FillTheGridArray(412, 654, 51, 50, '296B');  //296B
+        FillTheGridArray(463, 656, 50, 50, '297A');  //297A
+        FillTheGridArray(512, 656, 50, 50, '297B');  //297B
+        FillTheGridArray(563, 656, 50, 50, '298A');  //298A
+        FillTheGridArray(613, 658, 50, 50, '298B');  //298B
+        FillTheGridArray(663, 658, 49, 50, '299A');  //299A
+        FillTheGridArray(711, 658, 49, 50, '299B');  //299B
+        FillTheGridArray(760, 658, 51, 50, '300A');  //300A
+        FillTheGridArray(813, 659, 50, 50, '300B');  //300B
+        FillTheGridArray(863, 659, 50, 50, '301A');  //301A
+        FillTheGridArray(120, 704, 54, 48, '303B');  //303B
+        FillTheGridArray(260, 702, 53, 52, '305A');  //305A
+        FillTheGridArray(313, 703, 50, 52, '305B');  //305B
+        FillTheGridArray(362, 703, 50, 52, '306A');  //306A
+        FillTheGridArray(412, 704, 50, 51, '306B');  //306B
+        FillTheGridArray(462, 706, 50, 49, '307A');  //307A
+        FillTheGridArray(512, 706, 51, 50, '307B');  //307B
+        FillTheGridArray(564, 708, 50, 50, '308A');  //308A
+        FillTheGridArray(613, 708, 50, 51, '308B');  //308B
+        FillTheGridArray(663, 709, 49, 51, '309A');  //309A
+        FillTheGridArray(710, 709, 50, 51, '309B');  //309B
+        FillTheGridArray(760, 710, 50, 51, '310A');  //310A
+        FillTheGridArray(93, 753, 55, 47, '311B');   //311B
+        FillTheGridArray(313, 754, 50, 50, '313B');  //313B
+        FillTheGridArray(363, 755, 50, 50, '314A');  //314A
+        FillTheGridArray(413, 755, 50, 50, '314B');  //314B
+        FillTheGridArray(462, 755, 51, 50, '315A');  //315A
+        FillTheGridArray(513, 756, 51, 50, '315B');  //315B
+        FillTheGridArray(564, 757, 50, 50, '316A');  //316A
+        FillTheGridArray(613, 759, 50, 50, '316B');  //316B
+        FillTheGridArray(663, 760, 47, 50, '317A');  //317A
+        FillTheGridArray(709, 760, 50, 50, '317B');  //317B
+        FillTheGridArray(759, 760, 50, 51, '318A');  //318A
+        FillTheGridArray(809, 761, 50, 50, '318B');  //318B
+        FillTheGridArray(83, 800, 53, 49, '319B');   //319B
+        FillTheGridArray(313, 804, 50, 51, '321B');  //321B
+        FillTheGridArray(363, 805, 50, 51, '322A');  //322A
+        FillTheGridArray(412, 805, 50, 51, '322B');  //322B
+        FillTheGridArray(462, 805, 50, 51, '323A');  //323A
+        FillTheGridArray(757, 811, 48, 50, '326A');  //326A
+        //******************************************************************************************************************************************
+
+        function FindTheSelectedGrid(event) {
+            //alert("Made it to FindTheSelectedGrid()!!!");
+            var canvas = event.target;
+            var context = canvas.getContext('2d');
+            var theRect = theCanvas.getBoundingClientRect();
+
+            //This gets the mouse coordinates (relative to the canvas)
+            var mouseX = event.pageX;
+            var mouseY = event.pageY;
+            //alert("Made it past mouseX and mouseY.");
+            //alert("mouseX= " + mouseX + "  mouseY= " + mouseY);
+            var theX = event.clientX - theRect.left,
+                theY = event.clientY - theRect.top
+            alert("eventX= " + theX + "  eventY= " + theY);
+
+            //Grid 166B and test it
+            //166B:
+            if (context.isPointInPath(theX, theY)) {
+                alert("You selected: 166B");
+                context.lineWidth = 5;
+                context.strokeStyle = 'rgba(130,201,245,0.8)'; //blue
+                context.stroke();
+                return;
+            }
+
+            //Grid 167A
+            context.beginPath();
+            context.moveTo(765, 5); //NW
+            //context.moveTo(655, 5);
+            context.lineTo(814, 5); //NE
+            context.lineTo(814, 55); //SE
+            //context.lineTo(814, 155);
+            context.lineTo(764, 55); //SW
+            //context.lineTo(655, 155);
+            context.closePath();
+
+            if (context.isPointInPath(theX, theY)) {
+                alert("You selected: 167A Dude!");
+                context.beginPath();
+                context.moveTo(765, 5); //NW
+                context.lineTo(814, 5); //NE
+                context.lineTo(814, 55); //SE
+                context.lineTo(764, 55); //SW
+                context.closePath();
+                context.fillStyle = 'rgba(243,245,215,0.8)'; //light yellow
+                context.fill();
+                context.lineWidth = 6;
+                context.strokeStyle = 'rgba(164,201,107,0.8)'; //green
+                context.stroke();
+                context.closePath();
+                alert("Whats mine say?")
+                return;
+            }
+
+        } //FindTheSelectedGrid()
+
+
+        function ClearTheTimeFunctions() {
+            //ctx.clearRect(0, 0, imgW, imgH);
+            //clearTimeout(theTimeoutVar);
+            //clearInterval(theSetIntervalVar);
+            ctx.clearRect(0, 0, imgW, imgH);
+            //ctx.drawImage(img, 0, 0, imgW, imgH);
+        }
+
+        function ClearTheInterval() {
+            clearInterval(theSetIntervalVar);
+        }
+
+        function ClearTheCanvas() {
+            ctx.clearRect(0, 0, imgW, imgH);
+            //alert("Ding!");
+        } 
+
+
+        function RefreshThePage() {
+            //Clear the canavs and then redraw the floor plan:
+            //alert("Made it to the RefreshThePage().");
+            //Refresh the web page:
+            location.reload();
+        }
+
+        //=================================================================================
+        //Get the mouse coordinates when you place the mouse over the canvas.
+        //=================================================================================
+        function writeMessage(canvas, message) {
+            var context = canvas.getContext('2d');
+            //context.clearRect(0, 0, canvas.width, canvas.height);
+            context.drawImage(img, 0, 0, imgW, imgH);
+            context.font = '18pt Calibri';
+            context.fillStyle = 'black';
+            //context.fillText(message, 10, 25);
+            context.fillText(message, 305, 390);
+        }
+        function getMousePos(canvas, evt) {
+            var rect = canvas.getBoundingClientRect();
+            return {
+                x: evt.clientX - rect.left,
+                y: evt.clientY - rect.top
+            };
+        }
+        // Set the canvas variable = the canvas id we created above.
+        var canvas = document.getElementById('atlasCanvas');
+        var context = canvas.getContext('2d');
+
+        canvas.addEventListener('mousemove', function (evt) {
+            //var mousePos = getMousePos(canvas, evt);
+            //var message = 'Mouse position: ' + mousePos.x + ',' + mousePos.y;
+            //writeMessage(canvas, message);
+        }, false);
+        //=================================================================================
+
+    </script>
+
+
+</body>
+</html>
+        
