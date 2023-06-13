@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Clearwater, FL Parks and Recreation Calendar Creator
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220308T104324
+DTSTART:20221105T083000
+DTEND:20221105T113000
+SUMMARY:Tunnels to Towers 5K Run & Walk
+DESCRIPTION:Runners will honor the heroic life of Stephen Siller, a New York City firefighter who lost his life on Sept. 11, 2001 after strapping on his gear and running through the Brooklyn Battery Tunnel to the Twin Towers. The Memorial Causeway Bridge will be closed intermittently, so drivers should plan ahead for traffic delays or use an alternative route.&nbsp;
+X-ALT-DESC;FMTTYPE=text/html:Runners will honor the heroic life of Stephen Siller, a New York City firefighter who lost his life on Sept. 11, 2001 after strapping on his gear and running through the Brooklyn Battery Tunnel to the Twin Towers. The Memorial Causeway Bridge will be closed intermittently, so drivers should plan ahead for traffic delays or use an alternative route.&nbsp;
+LOCATION:Main Library\, 100 N Osceola Ave Clearwater\, Florida 33755
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
