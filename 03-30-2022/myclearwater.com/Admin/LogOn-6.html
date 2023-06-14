@@ -1,0 +1,195 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en" class="app-visionlive">
+<head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><title>
+	
+    Log In
+
+</title><link href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CAreas%5CAdmin%5CContent%5CStyleBundleBackendAdmin.cssbnd.css?v=htPyI9V2kRKwlWuasvyXsdRZLkJt321gF9UOfbv_oxE1" rel="stylesheet">
+<link href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CDefaultContent%5CDefault%5Ckendo%5CStyleBundleKendo.cssbnd.css?v=5Bk-AASYodhzSamHbcvvqR_KP1-w7vLYGBIWEVC1eg01" rel="stylesheet">
+<script src="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CScripts%5CScriptBundleFAllInOne.jsbnd?v=gIOpmVj-uUN4Dir5fJWoGsM7aib_-aoTsxTM5nlSJr41"></script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Clearwater, FL ', siteID:1, navigationID:0, isHomePage:false, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"City of Clearwater, FL","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"},"visionlive":{}};(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+
+    <!--[if lt IE 9]>
+        <script src="/Scripts/ScriptBundleOthers.jsbnd?v=3Q7FhTQfRrKx8h7Kvdbh9bBluzlNlXKsFAERd4g8_TY1"></script>
+
+	<![endif]-->
+    
+    <link rel="Shortcut Icon" href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5Cfavicon.ico">
+
+    <link href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CAdmin%5CComponents%5CContent%5CStyleBundle.cssbnd.css?v=-rtHVrMqYDoXKusqZDjJY6IDDRbWP5QCo9Hzn0gc5cg1" rel="stylesheet">
+</head>
+<body>
+    <link href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CDefaultContent%5CDefault%5CStyleBundleAngularLib.cssbnd.css?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1" rel="stylesheet">
+
+
+
+
+<script>
+    //It's before the AngularJSLib Loading, which might be update in the AngularJSLib bundle.
+    window.viPredefinedModules = [];
+</script>
+<script src="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CScripts%5CScriptBundleAngularLib.jsbnd?v=c_Kv4SjPZLO9_kl4zHzqVhs-TecgIsS2ZLJpIRSVruw1"></script>
+
+
+<script>
+    (function (window, angular) {
+
+        $("body").attr("ng-app", "vi.cms");
+        
+        window.viCurrentModule = angular.module("vi.cms", window.viPredefinedModules || []);
+    })(window, angular);
+</script>
+
+    
+    
+    
+    <div id="wrapper">
+        
+<nav id="header_nav">
+    
+
+<ul class="logon-bar">
+    <li>
+
+<ul class="granicus-logo">
+    <li></li>
+</ul>
+
+<ul class="current-app-logo single-app"><li><span>govAccess</span></li></ul>
+ </li>
+    
+    <li><a href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CAdmin%5CLogOn-9.html">Log In</a></li>
+    
+</ul>
+
+
+
+
+<!-- added development menu script here.-->
+<script type="text/javascript">
+    $(function () {
+        var loginPanel = $('.logon_user_name');
+        var header_dropdown_panel = loginPanel.find('#header_dropdown');
+        loginPanel.find('.show_hide_panel').on("hover", function () {
+            header_dropdown_panel.toggleClass('isopen');
+        });
+        header_dropdown_panel.hover(function () {
+            header_dropdown_panel.addClass('isopen');
+        }, function () {
+            setTimeout(function () {
+                header_dropdown_panel.removeClass('isopen');
+            }, 500);
+        });
+
+        //$("#header_nav").delegate(".show_hide_panel", "hover", function () {
+        //    $("#header_dropdown").slideToggle('100');
+        //});
+
+        //$('#top_bar .admin_more').click(function () {
+        //    $('#top_bar_dropdown').slideToggle('100');
+        //    $(this).toggleClass('active');
+        //});
+    });
+
+</script>
+
+</nav>
+<header>
+	<h1 class="main_title"><a title="City of Clearwater, FL" href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5Cindex.htm">City of Clearwater, FL</a></h1>
+	
+    
+</header>
+
+        <section id="main_section" class="noexpand">            
+            <div class="vi-temp-message-container" style="display:none;"></div>
+            
+    <form id="login_form" action="/Admin/LogOn?ReturnUrl=%2FAdmin%2FComponents%2FPage%2F%28800%29%20985-5990" class=" login-form" method="post"><input name="__RequestVerificationToken" type="hidden" value="zIEgRRGE1X_xtbiYgLwlLX_ts9ZOMDUlulPW_De5IE4fB-IC6g6Ol3m30ZF_InB5Po12oAbpLVY3IXjeTM3d1GktAARl6cOLArK-LG0h_2g1">
+    <div class="validation-summary-valid" data-valmsg-summary="true"><span>Please correct the fields below:</span>
+<ul><li style="display:none"></li>
+</ul></div>
+
+    
+    <span>
+        
+        
+    </span>
+    <ol class="formlist">
+        
+        <li>
+            <label for="UserName">User Name</label>
+            <input autofocus="" data-val="true" data-val-required="The User Name field is required." id="UserName" name="UserName" placeholder="Enter User Name" type="text" value="">
+        </li>
+        <li>
+            <label for="Password">Password</label>
+            <input data-val="true" data-val-length="The Password field must be no more than 50 characters." data-val-length-max="50" data-val-required="The Password field is required." id="Password" name="Password" placeholder="•••••••" type="password">
+            
+            <input type="submit" value="Log In" class="command primary">
+            
+            <script>
+                $(function () {
+                    $("input[type=submit]").click(function (e) {
+                        if ($(e.target).hasClass("disabled")) {
+                            e.preventDefault();
+                        }
+                    })
+                })
+            </script>
+        </li>
+        
+    </ol>
+    <a href="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CAdmin%5CAccount%5CForgotPassword.html">Forgot Your Password?</a>
+    </form>
+        </section>
+    </div>
+    
+    <footer>
+		
+<div class="footer_inner">
+    
+            <span class="copy_right">&copy; Copyright 2003-2022, Granicus, Inc. All rights reserved.</span>
+            
+    
+</div>
+
+	</footer>
+    <div class="backToTop">Top</div>
+
+    
+
+    <script type="text/javascript" src="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5Casset.axd?id=JAEAAB-LCAAAAAAABABd0EEKwyAQBdC7zDqYxDQpeI0uSxaiNpgmGkZrCsG7V0Kx1N3w32dg5gAJ7H7ABgxuAvXmXe3VolA_oYLHaSbZNyPCrqs1ZHZJLbAmVv8ukU_cSIl2y6W2LO3aSLtnp6W7RUuF2bvSJ9Qy66VUj0oFrX77-zjGsQLhz9Lb1zMP3J3HpkJIKW1aSigZmmsKRPpIN_RpAObxpeIHBvo__iQBAAA%3d"></script>
+<script src="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CScripts%5CScriptBundleVisionBackend.jsbnd?v=c-taoJIudR3knl2YJFsycOQuyiKXTfV4rbuK3smJpmY1"></script>
+     
+    <script src="C%3A%5CDownloaded%20Web%20Sites%5Cround%203%5Cwww.myclearwater.com%5CScripts%5CScriptBundleKendo.jsbnd?v=fIGvVFiLqA3ocwItI05mz1UEHRU_7HNN9ZnQ9BqozSo1"></script>
+
+    
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7JG59" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'adminDataLayer', 'GTM-T7JG59');
+(function (window) {
+    var dataLayer = window.adminDataLayer = window.adminDataLayer || [];
+    dataLayer.push(
+        {"Env":"LIVE","SessionID":"gngadc55al5nt5pvvbkbv5dt","Identity":"278fe624839646cea55446482475affc","OrganizationName":"City of Clearwater, FL","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        );
+})(window)
+</script>
+<!-- End Google Tag Manager -->
+    
+<!-- Start of Async siteimprove Analytics Code -->
+
+<!-- End of Async siteimprove Analytics Code -->
+
+
+
+    
+</body>
+</html>
