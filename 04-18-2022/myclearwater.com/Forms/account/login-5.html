@@ -1,0 +1,171 @@
+
+
+<!doctype html>
+<html lang="en-US" dir="ltr">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Sign In | Laserfiche Forms</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" href="/Forms/img/favicon.ico" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="stylesheet" href="/Forms/Styles/Open_Sans/open_sans.css" >
+	<script src="/Forms/bundles/modernizr?v=6yDZ5vpowjaUBThDPTBHjCl2vrNXyd5vp-k5MKHLE6Y1"></script>
+
+	<script src="/Forms/bundles/svg4everybody?v=y0NPkaH2BC5KYRIfsPXgzafkmAP1wkie6ed2wWH-5xw1"></script>
+
+
+	
+	<link href="/Forms/styles/bootstrap?v=7GsBEsX3kN0WQF8Jw_4hLTIgatCX-wR5fX529E1yt-k1" rel="stylesheet"/>
+
+	
+	
+	<link href="/Forms/styles/commonappcss?v=3BkWI1EKlk6a01D2cyPLHN4ortinjoESe9nYSxR1ovs1" rel="stylesheet"/>
+
+
+
+	
+</head>
+
+<body class="lf-background">
+	
+	<img style="display:none" src="/Forms/img/lf.svg?v=10.2.1">
+		<header id="head">
+			<div id='topnav' class="navbar navbar-inverse navbar-static-top">
+				<div class="lf-header lf-header--inverse">
+					<a class="lfm-toolbar__brand" href="/Forms/Home/Inbox">
+						<svg class="lf-icon" style="width:160px; height:48px; pointer-events:none"><use xlink:href="/Forms/img/lf.svg?v=10.2.1#logotype"></use></svg>
+					</a>
+				</div>
+			</div>
+		</header>
+	<div id="body">
+		
+
+
+<style>
+	.validation-summary-errors ul {
+		margin: 0;
+	}
+</style>
+
+
+<div class="container">
+	<div class="login-center">
+
+		<div class="modal-title">Sign In</div>
+
+<form action="/Forms/Account/Login?returnUrl=%2FForms%2FHome%2FError404%3Faspxerrorpath%3D%2FForms%2Fimg%2Farrow-forward.png" class="" id="login-form" method="post">			<!--Enable this to prevent browsers from storing password
+			<div class="hidden">
+				<input type="password" /> 
+			</div>
+			-->
+			<div class="form-group"></div>
+			<div class="form-group">
+				<label for="UserName" class="control-label">Username</label>
+				<div class="">
+					<input autofocus="" class="form-control" id="UserName" name="UserName" type="text" value="" />
+					
+					
+				</div>
+			</div>
+				<div class="form-group">
+					<label for="Password" class="control-label">Password</label>
+					<div>
+						<input class="form-control" id="Password" name="Password" type="password" />
+						
+						
+					</div>
+				</div>
+			<div class="form-group">
+				<div class="controls">
+					<div class="checkbox">
+						<label for="RememberMe">
+							<input checked="checked" id="RememberMe" name="RememberMe" type="checkbox" value="true" /><input name="RememberMe" type="hidden" value="false" />
+							Remember me
+						</label>
+					</div>
+					<button id="submit" type="submit" class="btn btn-primary" value="Log In">Sign in</button>
+
+				</div>
+			</div>
+</form>		
+	</div>
+	<div class="text-center">
+		<div class="lf-caption" style="font-size:80%; margin: 0px 15px">Version 10 | Copyright 2012-2018 <a href="https://www.laserfiche.com">Laserfiche</a></div>
+		
+	</div>
+
+</div>
+
+	</div>
+
+	
+	<script type="text/javascript">
+		document.getElementById("UserName").focus();
+		var userName = document.getElementById("UserName");
+		userName.addEventListener("change", changeSubmitBtn);
+		userName.addEventListener("keyup", changeSubmitBtn);
+		function changeSubmitBtn(){
+			if (userName.value == '') {
+				document.getElementById("submit").disabled = true;
+			}
+			else {
+				document.getElementById("submit").disabled = false;
+			}
+		}
+		changeSubmitBtn();
+	</script>
+	<!--[if lt IE 9]>
+	<script>
+		var browserNotSupported = true;
+	</script>
+<![endif]-->
+<script>
+	window.onload = function () {
+		if (typeof LF === 'undefined')
+			window.LF = {};
+		LF.browser = {};
+		LF.browser.warning = document.createElement("H4");
+		LF.browser.warning.id = 'browser-warning';
+		LF.browser.warning.className = 'alert alert-warning';
+		LF.browser.warning.innerHTML = 'Warning: Your browser is not supported. For the best experience with Laserfiche Forms, we recommend the latest versions of Internet Explorer, Edge, Firefox, or Chrome.';
+
+		var iOS_not_supported = false;
+		if (/(iPhone|iPod|iPad)/i.test(navigator.userAgent) &&
+			(/OS [2-4]_\d(_\d)? like Mac OS X/i.test(navigator.userAgent) || /CPU like Mac OS X/i.test(navigator.userAgent))) {
+			iOS_not_supported = true;
+		}
+
+		var ffVersion = navigator.userAgent.match(/Firefox\/(.*)$/);
+		if (ffVersion && ffVersion.length == 2) {
+			ffVersion = parseFloat(ffVersion[1]);
+		}
+		else
+			ffVersion = 100;
+		LF.browser.notSupported = document.documentMode && (document.documentMode || 100) < 11 || (typeof browserNotSupported != 'undefined') || (ffVersion < 10.0) || iOS_not_supported;
+		if (LF.browser.notSupported)
+			document.body.appendChild(LF.browser.warning); 
+
+		var e = document.getElementById('login-form');
+		if (e != null) {
+			if (e.addEventListener) {
+				e.addEventListener("submit", f, false);
+			} else if (e.attachEvent) {
+				e.attachEvent('onsubmit', f);
+			}
+		}
+	};
+	var f = function () {
+		var e = document.getElementById('login-form');
+		e.action = e.action + window.location.hash;
+	}
+</script>
+
+
+	
+</body>
+</html>
