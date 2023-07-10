@@ -1,0 +1,289 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Fee Estimator
+</title><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link href="favicon.ico" rel="shortcut icon" type="image/ico" /><link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" /><link href="css/toastr.min.css" rel="stylesheet" />
+    <style>
+
+        @media only screen and (min-width: 1200px) {
+            #pnlResults {
+                position: absolute;
+                top: 150px;
+                left: -200px;
+                text-align: start;
+                padding-left: 2px;
+                font-family: monospace;
+                background: #75c4e7;
+            }
+        }
+
+        #tblDisclamer {
+            color: #2f8dbd;
+            font-weight: bold;
+        }
+
+        #lblTotal {
+            font-weight: bolder;
+        }
+
+        #lblStateFee {
+            text-decoration: underline;
+        }
+
+        #pnlResults {
+            font-family: monospace;
+            background: #cfeffd;
+        }
+
+        #feeEstimatorHeading {
+            color: #2f8dbd;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-style: normal;
+            font-size: 3.25em;
+            height: 100%;
+        }
+
+
+        #lblEstimateTitle {
+            margin: 0 auto;
+            font-weight: bolder;
+            text-decoration: underline;
+        }
+
+
+        .cbTextIndented label {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            color: #333333;
+        }
+
+        .cbTextIndented input {
+            margin-right: 5px;
+        }
+
+        .fees {
+            white-space: pre;
+            padding: 3px;
+        }
+
+        .fees.feesUnderline {
+            text-decoration: underline;
+        }
+
+        .fees.feesBoldTotal {
+            font-weight: bolder;
+
+        }
+        a {
+            font-weight: bolder;
+            text-decoration: none;
+            border-bottom: 1px solid #2f8dbd;
+        }
+    </style>
+    
+    <script type="text/javascript"  src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+    <script  type="text/javascript" src="JavaScript/toastr.min.js"></script>
+    <script  type="text/javascript" src="JavaScript/custom.js"></script>
+</head>
+<body style="background-color: #e9f6fb">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-3 col-md-4" >
+            <img src="ClearwaterLogo.png" alt="Clearwater Logo Click To Return to myClearwater.com" />
+        </div>
+        <div class="col-lg-5 col-md-6 text-center align-middle" >
+            <div id="feeEstimatorHeading">Fee Estimator</div>
+        </div>
+    </div>
+    <div class="row">
+  <p>&nbsp;</p><p>&nbsp;</p>
+        <div class="col-lg-2 col-md-0" ></div>
+        <div class="col-lg-4 col-md-6" >
+            <form method="post" action="./" id="feeEstimatorForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EF9945FB" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="g+3tPPI6RUhO4W6V0yaMDo2Kd5HsolN8gdwsHYDvIvHSzV0hS4SJDewk/7ewoSe3v0LtQJzeYij2MjQxg1ssj49umioU3JtUOu1/rNlhpSdiHOrsw8YvzX9yqslLwqKu09DD2mlzLh7Rt1JjIiOfBT3nrWQVkZyCVGrOM+mE2pKv3aQeFLQmKNm8VvlPLXYveAhcy/4UHZUiWzUP/7ddiYKj2bkD0A4MafqV5rc7E0uVxA/kfFA7i03rZuWXLtueusiMdBi1hUeAKUqCj7G3pJ5PrxRXl01H2yAifXUTXxLw6Mo6I5ISTuaoJJ8HYlA59Llk3vMishOugc1rDJR9RFHanzw6AK9jOj16g9m5AXn4kAgwJCzO1KdMU/0wWtcL8OdqVOSOLquwHoksbkV21OgaBFYzynbgfcgv0ol6YpqkuY8NVgGYCmfgJC5t1lvjD4ozXOAF/9VOUHT7vBWq6Xx/E3j3SWmbySDa1XJWP6WidUW9Bdd0tk+x5ggav7+v3Lvbe2pxNcklcjnCE8vUJjCqTBW6MJgCQHkNHSeDxvJsMWRWBnEEbl77KB6i0iqFKSTuyV39E7uR5uqxq1LM0QS5KopEQ/2xUr+RlFFQR4QbFgR3Fesl1IxQFEHVeRGqkQXSEd94QLsghIhr88muWDtj+LdZ79ijJnEUdnqfvcaGTSpzIL0HqpayF5GMiYVxNEF6mos2XAzP+A/zT668Rkr0MI1/qwUiPutHLgWlKxiesiQy3m8ldLBm0ZTT9zb+S//r78TGyIb1qMb93XChyGEQIDuNiGK5p4asaoDa4nskXb40Gn25sc7Sbxm3/F4Qjih0AEYvAUnNFtOagUFEFkl2crOoCcR6SlHakWIhVUFOew0e+k2dZunPDAgMmv4S4q4Y9pYlpO5j6yLLpTM2XMLybcWZimdd4ZPsxfiIBnG5rQ+Sj/6/8TsyflIWEG8GVdfAthmfCuEWPJE5UMqZtrIz7HroKMh5k4Mbffj6ZGZwzQHyKREaC8Odnnfs9JG5CI9U3sZ9++V3hp43KEqCKqr63DOW3F8xkz6GvJ+HKNwkawcDtXciKosEJr4hZLbbso0tSJjZ7My8rvDk+DSVgpdn985eZkW5QV5bfIJgGk1bgniI/VBetGzT9xMb0TAXuE1R6FCTWTHpxNx6xrk7Z75h8guluwjQ4158dieHWgcpsyzuQqgex5Q3pSkND11E/ATUPBtdh3V79ZlPvjfpSONGxyTZpYUWiO+vqrpW2vI=" />
+                <table width:100%; cellspacing:0; cellpadding:0;>
+                    <td text-align: center; width:50%;>
+                        <table width: 55% cellspacing:0; cellpadding:0;>
+                            <tr>
+                                <td text-align: left;>Type Of Permit</td>
+                                <td colspan="2" text-align: left;>
+                                    <select name="ddlPermitType" id="ddlPermitType">
+	<option value="Construction PermitAA">Select A Permit Type</option>
+	<option value="Construction PermitAB">Addition</option>
+	<option value="Construction PermitAC">Construction Trailer</option>
+	<option value="Construction PermitAD">Demo - Building</option>
+	<option value="Construction PermitAE">Demo - Partial</option>
+	<option value="Construction PermitAF">Driveway</option>
+	<option value="Construction PermitAG">Fence</option>
+	<option value="Construction PermitAH">Foundation</option>
+	<option value="Construction PermitAI">Fuel Tank</option>
+	<option value="Construction PermitAJ">Hood</option>
+	<option value="Construction PermitAK">Interior - Build Out - New Building</option>
+	<option value="Construction PermitAL">Marine</option>
+	<option value="Construction PermitAM">New Accessory (Shed, Deck)</option>
+	<option value="Construction PermitAN">New Commercial</option>
+	<option value="Construction PermitAO">New Duplex/Triplex</option>
+	<option value="Construction PermitAP">New Mobile Home</option>
+	<option value="Construction PermitAQ">New Multi-Family Dwelling</option>
+	<option value="Construction PermitAR">New SF Detached</option>
+	<option value="Construction PermitAS">New Townhome</option>
+	<option value="Construction PermitAT">Parking</option>
+	<option value="Construction PermitAU">Pool - In Ground</option>
+	<option value="Construction PermitAUA">Pool - Above Ground</option>
+	<option value="Construction PermitAV">Portable Storage</option>
+	<option value="Construction PermitAW">Remodel</option>
+	<option value="Construction PermitAX">Replacement</option>
+	<option value="Construction PermitAY">Roof</option>
+	<option value="Construction PermitAZ">Roof with HVAC</option>
+	<option value="Construction PermitBA">Shell</option>
+	<option value="Construction PermitBA1">Sign</option>
+	<option value="Construction PermitBB">Sink Hole Remediation</option>
+	<option value="Construction PermitBC">Site Work Only</option>
+	<option value="Construction PermitBD">Structure Move</option>
+	<option value="Construction PermitBE">Telecom Tower - Antenna</option>
+	<option value="Construction PermitBF">Alarm - Fire </option>
+	<option value="Construction PermitBG">Windows/Doors</option>
+	<option value="Over the CounterA">A/C Change Out</option>
+	<option value="Over the CounterB">Alarm - Security</option>
+	<option value="Over the CounterC">Cut and Cap</option>
+	<option value="Over the CounterD">Electrical</option>
+	<option value="Over the CounterE">Irrigation Sprinkller</option>
+	<option value="Over the CounterF">Low Voltage - Commercial</option>
+	<option value="Over the CounterH">Sewer Repair - Replacement</option>
+	<option value="Over the CounterI">Water Heater Changeout</option>
+
+</select>
+                                </td>
+                            </tr>
+                            <tr><td>&nbsp;</td></tr>
+                            <tr>
+                                <td text-align: left; style="padding-right: 10px;">Type Of Property:</td>
+                                <td text-align: left; style="padding-right: 10px;">
+                                    <input id="Residential" type="radio" name="ConstructionType" value="Residential" />
+                                    <span style=" margin-right: 10px;">Residential</span>
+                                    <input id="Commercial" type="radio" name="ConstructionType" value="Commercial" checked="checked" />
+                                    Commercial
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td text-align: left; style="padding-right: 10px;">Value Of Job:</td>
+                                <td text-align: left; colspan="2">
+                                    <input name="txtValue" type="text" id="txtValue" class="cbTextIndented" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td text-align: left; style="padding-right: 10px;">Trades Included:</td>
+                                <td text-align: left; colspan="2">
+                                    <span class="cbTextIndented"><input id="ckbBuilding" type="checkbox" name="ckbBuilding" /><label for="ckbBuilding">Building</label></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td text-align: left;></td>
+                                <td text-align: left; colspan="2">
+                                    <span class="cbTextIndented"><input id="ckbElectric" type="checkbox" name="ckbElectric" /><label for="ckbElectric">Electric</label></span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td text-align: left;></td>
+                                <td text-align: left; colspan="2">
+                                    <span class="cbTextIndented" Font="Helvetica Neue"><input id="ckbRoof" type="checkbox" name="ckbRoof" /><label for="ckbRoof">Roof</label></span></td>
+                            </tr>
+                            <tr>
+                                <td text-align: left;></td>
+                                <td text-align: left; colspan="2">
+                                    <span class="cbTextIndented"><input id="ckbMechanic" type="checkbox" name="ckbMechanic" /><label for="ckbMechanic">Mechanic</label></span></td>
+                            </tr>
+                            <tr>
+                                <td text-align: left;></td>
+                                <td text-align: left; colspan="2">
+                                    <span class="cbTextIndented"><input id="ckbPlumbing" type="checkbox" name="ckbPlumbing" /><label for="ckbPlumbing">Plumbing</label></span></td>
+                            </tr>
+                            <tr>
+                                <td text-align: left;></td>
+                                <td text-align: left; colspan="2">
+                                    <span class="cbTextIndented"><input id="ckbGas" type="checkbox" name="ckbGas" /><label for="ckbGas">Gas</label></span></td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </table>
+
+                    <table style="margin: 0 auto; width: 100%;">
+                        <tr>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td colspan="1" style="height: 10px; text-align: left;">
+                                <input type="submit" name="txtSubmit" value="Submit" onclick="return myClearwater.valid();" id="txtSubmit" />
+                                <input type="submit" name="txtReset" value="Reset" id="txtReset" />
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    <br />
+                    </td>
+                </table>
+            </form>
+        </div>
+   
+        <div class= "col-lg-2 col-md-2 col-sm-3">
+        <br/>
+            <div class= "col-lg-2 col-md-2 col-sm-3">
+                <br/>
+                
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="row">
+        <div class="offset-2"   ></div>
+        <div class="col-lg-8 col-md-12" >
+            <table ID="tblDisclamer"; width:75; cellspacing:0; cellpadding:0;>
+            <tr>
+                <td text-align: center>Click <a href="http://www.myclearwater.com/home/showdocument?id=2261" target="_blank">here </a>to view the schedule of fees, rates and charges.</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td text-align: left;>
+                    <span id="lblExplainState"><b><font size="3">*   State Fee includes <i>Fl Building Commission </i> <u>and</u> <i> Fl Building Code Administration and Inspectors Board</i>. They are 3% of the Permit Fees, Plans Fee and Trades Fee or a minimum of $2.</font></b></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    <span id="lblDisclaimer"><b><font color="#2F8DBD" size="3">Disclaimer:   The above fee estimate does not include other fees such as impact fees, fire fees, right-of-way, tree removal and clearing and grubbing fees, some of which could be substantial.  For information concerning fire fees please call 727-562-4327 and for more information on other fees please call 727-562-4567. The City of Clearwater assumes no liability for any errors, omissions, or inaccuracies in the information provided. </font></b></span>
+                </td>
+            </tr>
+        </table>
+    </div>
+        <br/><br/>
+    </div>
+    <footer class="panel-footer text-center" style="font-size: .75em; font-weight: bolder; background-color: #cfeffd">
+        Developed by the City of Clearwater Department of Information Technology
+        <br />
+        <a href="#">
+            <span id="Copyright" class="glyphicon glyphicon-copyright-mark"></span>
+        </a>
+    </footer>
+</body>
+</html>
