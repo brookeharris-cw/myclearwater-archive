@@ -1,0 +1,1132 @@
+var agisAca = angular.module('appAca', []);
+var acaAddressMapController = function ($scope, $rootScope, $timeout, $compile) {
+	$scope.mapId = '';
+	$scope.isAdmin = false;
+	$scope.agency = '';
+
+	$scope.mapUrl = '';
+	$scope.isMapDisplayed = false;
+	$scope.mapLoadingError = 'errorLoadingMap';
+
+	var mapContainerId = 'mapContainer';
+
+    $scope.init = function (agency, mapId, gridId, labelId, isAdmin, serviceId) {
+		$scope.agency = agency;
+		$scope.mapId = mapId;
+		$scope.gridId = gridId;
+		$scope.labelId = labelId;
+        $scope.isAdmin = isAdmin;
+        $scope.serviceId = serviceId; //GIS Map Service Id
+	};
+
+	$scope.show = function () {
+
+		$scope.recordIds = [];
+		$scope.addresses = [];
+
+		$scope.isMapDisplayed = true;
+
+		$rootScope.$on('map-loading-success-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = true;
+
+			}
+		});
+
+		$rootScope.$on('map-loading-falied-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = false;
+			}
+		});
+
+		//collect selected records from the grid
+		$('table[id*=' + $scope.gridId + '] tr')
+			.filter(':has(:checkbox:checked)')
+			.each(function () {
+				if ($(this).find($('[id*=' + $scope.labelId + ']')).length > 0) {
+					var add =
+						{
+							Address: $(this).find($('[id*=' + $scope.labelId + ']')).children(":first")[0].innerText 
+						};
+					$scope.addresses.push(add);
+				}
+			});
+
+		//broadcast show-map event
+		$rootScope.$broadcast('show-map-event', {
+			agency: $scope.agency,
+			mapId: $scope.mapId,
+			mapElementId: $scope.mapId,
+			records: $scope.recordIds,
+            addressInfo: $scope.addresses,
+            serviceId: $scope.serviceId
+		});
+	};
+	$scope.hide = function () {
+		if ($scope.isAdmin) return;
+        console.log('Hiding:' + $scope.mapId + '_' + mapContainerId);
+		$('#' + $scope.mapId + '_' + mapContainerId).hide();
+		$('#' + $scope.mapLoadingError).hide();
+
+		$scope.isMapDisplayed = false;
+	};
+
+	Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function (sender, args) {
+		var elem = angular.element(document.getElementById("MainContent"));
+
+		elem.replaceWith($compile(elem)($scope));
+		$scope.$apply();
+	});
+
+};
+
+acaAddressMapController.$inject = ['$scope', '$rootScope', '$timeout', '$compile'];
+agisAca.controller('acaAddressMapController', acaAddressMapController);
+var acaParcelMapController = function ($scope, $rootScope, $timeout, $compile) {
+	$scope.mapId = '';
+	$scope.isAdmin = false;
+	$scope.agency = '';
+
+	$scope.mapUrl = '';
+	$scope.isMapDisplayed = false;
+	$scope.mapLoadingError = 'errorLoadingMap';
+
+	var mapContainerId = 'mapContainer';
+
+    $scope.init = function (agency, mapId, gridId, isAdmin, serviceId) {
+    $scope.agency = agency;
+		$scope.mapId = mapId;
+		$scope.gridId = gridId;
+        $scope.isAdmin = isAdmin;
+        $scope.serviceId = serviceId;
+	};
+
+	$scope.show = function () {
+
+		$scope.recordIds = [];
+		$scope.addresses = [];
+		$scope.parcelInfos = [];
+
+		$scope.isMapDisplayed = true;
+
+		$rootScope.$on('map-loading-success-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = true;
+
+			}
+		});
+
+		$rootScope.$on('map-loading-falied-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = false;
+			}
+		});
+
+		//collect selected records from the grid
+		$('table[id*=' + $scope.gridId + '] tr')
+			.filter(':has(:checkbox:checked)')
+			.each(function () {
+                if ($(this).find($('[id*=lbParcelNumber]')).length > 0) {
+                    var parcelInfo = {
+                        unmaskedParcelNumber: $(this).find('[id*=lbParcelNumber]').children(":first")[0].innerText,
+                    };
+                    $scope.parcelInfos.push(parcelInfo);
+                }
+			});
+		//broadcast show-map event
+		$rootScope.$broadcast('show-map-event', {
+			agency: $scope.agency,
+			mapId: $scope.mapId,
+			mapElementId: $scope.mapId,
+			records: $scope.recordIds,
+			addressInfo: $scope.addresses,
+            parcelInfo: $scope.parcelInfos,
+            serviceId: $scope.serviceId
+		});
+	};
+	$scope.hide = function () {
+        if ($scope.isAdmin) return;
+        console.log('Hiding:' + $scope.mapId + '_' + mapContainerId);
+        $('#' + $scope.mapId + '_' + mapContainerId).hide();
+		$('#' + $scope.mapLoadingError).hide();
+
+		$scope.isMapDisplayed = false;
+	};
+
+	Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function (sender, args) {
+		var elem = angular.element(document.getElementById("MainContent"));
+
+		elem.replaceWith($compile(elem)($scope));
+		$scope.$apply();
+	});
+
+};
+
+acaParcelMapController.$inject = ['$scope', '$rootScope', '$timeout', '$compile'];
+agisAca.controller('acaParcelMapController', acaParcelMapController);
+var addressDetailMapController = function ($scope, $rootScope, $timeout) {
+	$scope.mapId = '';
+	$scope.isAdmin = false;
+	$scope.agency = '';
+
+	$scope.mapUrl = '';
+	$scope.isMapDisplayed = false;
+	$scope.mapLoadingError = 'errorLoadingMap';
+	$scope.addresses = [];
+
+	var mapContainerId = 'mapContainer';
+
+    $scope.init = function (agency, mapId, isAdmin, address, serviceId) {
+		$scope.agency = agency;
+		$scope.mapId = mapId;
+        $scope.isAdmin = isAdmin;
+        $scope.serviceId = serviceId;
+
+		$timeout(function () {
+			$scope.address = $('[id*=' + address + ']')[0].innerText;
+			$scope.show();
+		});
+
+	};
+
+	$scope.show = function () {
+
+		$scope.recordIds = [];
+		$scope.addresses = [];
+
+		$scope.isMapDisplayed = true;
+
+		$rootScope.$on('map-loading-success-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = true;
+			}
+		});
+
+		$rootScope.$on('map-loading-falied-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = false;
+			}
+		});
+
+		var addressInfo = {
+			fullAddress: $scope.address,
+		};
+		//collect selected records from the grid
+		$scope.addresses.push(addressInfo);
+
+		//broadcast show-map event
+		$rootScope.$broadcast('show-map-event', {
+			agency: $scope.agency,
+			mapId: $scope.mapId,
+			records: $scope.recordIds,
+            addressInfo: $scope.addresses,
+            serviceId: $scope.serviceId
+		});
+	};
+
+	$scope.hide = function () {
+		if ($scope.isAdmin) return;
+
+		$('#' + $scope.mapId + '_' + mapContainerId).hide();
+		$('#' + $scope.mapLoadingError).hide();
+
+		$scope.isMapDisplayed = false;
+	};
+
+};
+
+addressDetailMapController.$inject = ['$scope', '$rootScope', '$timeout'];
+agisAca.controller('AddressDetailMapController', addressDetailMapController);
+var capHomeController = function ($scope, $rootScope, $timeout) {
+    $scope.mapId = '';
+    $scope.isAdmin = false;
+    $scope.agency = '';
+
+    $scope.mapUrl = '';
+    $scope.isMapDisplayed = false;
+    $scope.mapLoadingError = 'errorLoadingMap';
+    
+    var mapContainerId = 'mapContainer';
+
+    $scope.init = function (agency, mapId, isAdmin, serviceId) {
+        $scope.agency = agency;
+        $scope.mapId = mapId;
+        $scope.isAdmin = isAdmin;
+        $scope.serviceId = serviceId; 
+    };
+
+    $scope.show = function () {
+        if ($scope.isAdmin) return;
+
+        $scope.recordIds = [];
+
+        $scope.isMapDisplayed = true;
+
+        $rootScope.$on('map-loading-success-event', function (event, data) {
+            if (data && data.mapId === $scope.mapId) {
+                $scope.isMapDisplayed = true;
+            }
+        });
+
+        $rootScope.$on('map-loading-falied-event', function (event, data) {
+            if (data && data.mapId === $scope.mapId) {
+                $scope.isMapDisplayed = false;
+            }
+        });
+        
+        //collect selected records from the grid
+        $('table[id*=gdvPermitList] tr')
+            .filter(':has(:checkbox:checked)')
+            .each(function () {
+                $scope.recordIds.push($(this).find('#RecordId').val());
+            });
+
+        //broadcast show-map event
+        $rootScope.$broadcast('show-map-event', {
+            agency: $scope.agency,
+            mapId: $scope.mapId,
+            records: $scope.recordIds,
+            serviceId: $scope.serviceId
+        });
+    };
+    $scope.hide = function () {
+        if ($scope.isAdmin) return;
+
+        $('#' + $scope.mapId + '_' + mapContainerId).hide();
+        $('#' + $scope.mapLoadingError).hide();
+
+        $scope.isMapDisplayed = false;
+    };
+};
+
+capHomeController.$inject = ['$scope', '$rootScope', '$timeout'];
+agisAca.controller('CapHomeMapController', capHomeController);
+var pageflowController = function ($scope, $rootScope, $timeout, $compile, MapCommandService) {
+    $scope.isMapDisplayed = false;
+    $scope.isAdmin = false;
+
+    var mapContainerId = 'mapContainer';
+
+    $scope.init = function (agency, mapId, isAdmin, serviceId) {
+        $scope.agency = agency;
+        $scope.mapId = mapId;
+        $scope.isAdmin = isAdmin;
+        $scope.serviceId = serviceId;
+    };
+
+    $scope.locateAPO = function (addresses, parcels) {
+        if ($scope.isAdmin) return;
+
+        if (!$scope.isMapDisplayed)
+            return;
+
+        if (addresses) {
+            addresses = JSON.parse(addresses);
+        }
+        else
+            addresses = '';
+
+        if (parcels) {
+            parcels = JSON.parse(parcels);
+        }
+        else
+            parcels = '';
+
+        //broadcast show-map event
+        $rootScope.$broadcast('show-map-event', {
+            mapId: $scope.mapId,
+            addressInfo: [{
+                addresses: addresses
+            }],
+            parcelInfo: parcels
+
+        });
+    };
+
+    $scope.show = function (agency) {
+        if ($scope.isAdmin) return;
+
+        $scope.isMapDisplayed = true;
+
+        
+
+        $rootScope.$on('map-loading-success-event', function (event, data) {
+            if (data && data.mapId === $scope.mapId) {
+                $scope.isMapDisplayed = true;
+            }
+        });
+
+        $rootScope.$on('map-loading-falied-event', function (event, data) {
+            if (data && data.mapId === $scope.mapId) {
+                $scope.isMapDisplayed = false;
+            }
+        });
+
+        //broadcast show-map event
+        $rootScope.$broadcast('show-map-event', {
+            agency: agency,
+            mapId: $scope.mapId,
+            serviceId: $scope.serviceId
+        });
+    };
+
+    $scope.hide = function () {
+        if ($scope.isAdmin) return;
+
+        $('#' + $scope.mapId + '_' + mapContainerId).hide();
+        $('#' + $scope.mapLoadingError).hide();
+
+        $scope.isMapDisplayed = false;
+    };
+
+    $scope.$on('location-selected-event', function (event, message) {
+
+        if (message && message.data) {
+            var gisAddress = message.data;
+            var parcelId = '';            
+
+            if (gisAddress.parcelId && gisAddress.parcelId.length && typeof FillParcelFromGIS === 'function') {
+                parcelId = gisAddress.parcelId[0];
+
+                //map GIS parcel model to ACAGISModel
+                var parcelModel = {
+                    agency: $scope.agency,
+                    moduleName: message.moduleName,
+                    context: 'ParcelDetailSpear',
+                    parcelModels: [{
+                        parcelNumber: parcelId
+                    }]
+                };
+
+                MapCommandService.sendParcel(parcelModel)
+                    .then(function (response) {
+                        var parcelInfo = response.data.Model.ParcelModels[0];
+
+                        setTimeout(function () {
+                            FillParcelFromGIS(parcelInfo || {});
+                        });
+                    }, function (error) {
+                        setTimeout(function () {
+                            FillParcelFromGIS({});
+                        });
+                    });
+            }
+            //check if any one data do not have layerinfo
+            else if (hasAddressInfo(gisAddress)   && typeof FillGISAddress === 'function') {
+                //map GIS address model to ACAGISModel
+                var addressModel = {
+                    agency: message.serviceId,
+                    moduleName: message.moduleName,
+                    context: 'AddressDetailSpear',
+                    refAddressModels: [{
+                        fullAddress: gisAddress.address,
+                        city: gisAddress.city,
+                        state: gisAddress.state || gisAddress.region,
+                        zip: gisAddress.postalCode,
+                        countryCode: gisAddress.country,
+                        houseNumberStart: gisAddress.streetStart,
+                        streetName: gisAddress.streetName,
+                        streetSuffix: gisAddress.streetSuffix
+                    }]
+                };
+
+                //if ref address info did not get populated, set it to null to avoid sending empty object
+                if (addressModel && addressModel.refAddressModels) {
+                    var hasNoRefAddressData = JSON.stringify(addressModel.refAddressModels[0]) === '{}';
+
+                    if (hasNoRefAddressData)
+                        addressModel.refAddressModels = null;
+                }
+
+                MapCommandService.sendAddress(addressModel)
+                    .then(function (response) {
+                        var refAddress = response.data.Model.RefAddressModels[0];
+                        if (message.location) {
+                            refAddress.XCoordinator = message.location.x;
+                            refAddress.YCoordinator = message.location.y;
+                        }
+
+                        setTimeout(function () {
+                            FillGISAddress(refAddress || {});
+                        });
+                    }, function (error) {
+                        setTimeout(function () {
+                            FillGISAddress({});
+                        });
+                    });
+            }
+            else if (message.data.length>0) {
+                var gisObjects = [];
+                var layers = message.data;
+                if (layers && layers.length > 0) {
+                    for (var LayerIndex = 0; LayerIndex < layers.length; LayerIndex++) {
+                        var layerinfo = layers[LayerIndex];
+                        if (layerinfo.features.length > 0) {
+                            for (var featureIndex = 0; featureIndex < layerinfo.features.length; featureIndex++) {
+                                var TempGISObject = {};
+                                var featureInfo = layerinfo.features[featureIndex];
+                                TempGISObject["layerId"] = layerinfo.AGLayerName;
+                                TempGISObject["gisId"] = featureInfo.attributes[layerinfo.layerInfo.idField];//OBJECTID
+                                TempGISObject["gisObjectID"] = featureInfo.attributes[layerinfo.layerInfo.oIdField];
+                                gisObjects.push(TempGISObject);
+                            }
+                        }
+                    }
+                }
+                FillGISAddress(gisObjects);
+            }
+        }
+    });
+
+    //returns true if gis model has any [address] property with the value
+    var hasAddressInfo = function (gisInfo) {
+        //check if any of the property has value (except parcelId)
+        return Object.keys(gisInfo).some(function (key) {
+            if (key === 'parcelId')
+                return false;
+            if (key === 'layer')
+                return false;
+
+            if (gisInfo[key] && gisInfo[key].length)
+                return true;
+            else
+                return false;
+        });
+    };
+
+    Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function (sender, args) {
+        var elem = angular.element(document.getElementById("mapButtonsSection"));
+
+        elem.replaceWith($compile(elem)($scope));
+
+        $scope.$apply();
+    });
+};
+
+pageflowController.$inject = ['$scope', '$rootScope', '$timeout', '$compile', 'MapCommandService'];
+agisAca.controller('PageflowMapController', pageflowController);
+
+var parcelDetailMapController = function ($scope, $rootScope, $timeout) {
+	$scope.mapId = '';
+	$scope.isAdmin = false;
+	$scope.agency = '';
+
+	$scope.mapUrl = '';
+	$scope.isMapDisplayed = false;
+	$scope.mapLoadingError = 'errorLoadingMap';
+	$scope.parcelInfos = [];
+
+	var mapContainerId = 'mapContainer';
+
+  $scope.init = function (agency, mapId, isAdmin, parcel, serviceId) {
+		$scope.agency = agency;
+		$scope.mapId = mapId;
+		$scope.isAdmin = isAdmin;
+		$scope.parcelId = parcel;	
+        $scope.serviceId = serviceId;
+
+		$timeout(function () {
+			$scope.show();
+		});
+
+	};
+
+	$scope.show = function () {
+
+		$scope.recordIds = [];
+		$scope.parcelInfos = [];
+
+		$scope.isMapDisplayed = true;
+
+		$rootScope.$on('map-loading-success-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = true;
+			}
+		});
+
+		$rootScope.$on('map-loading-falied-event', function (event, data) {
+			if (data && data.mapId === $scope.mapId) {
+				$scope.isMapDisplayed = false;
+			}
+		});
+
+		var parcelInfo = {
+			unmaskedParcelNumber : $scope.parcelId,
+		};
+		//collect selected records from the grid
+		$scope.parcelInfos.push(parcelInfo);
+
+
+		//broadcast show-map event
+		$rootScope.$broadcast('show-map-event', {
+			agency: $scope.agency,
+			mapId: $scope.mapId,
+			records: $scope.recordIds,
+            parcelInfo: $scope.parcelInfos,
+            serviceId: $scope.serviceId
+		});
+	};
+	$scope.hide = function () {
+		$('#' + $scope.mapId + '_' + mapContainerId).hide();
+		$('#' + $scope.mapLoadingError).hide();
+
+		$scope.isMapDisplayed = false;
+	};
+
+};
+
+parcelDetailMapController.$inject = ['$scope', '$rootScope', '$timeout'];
+agisAca.controller('ParcelDetailMapController', parcelDetailMapController);
+var showMapEvent_watcher;
+
+var mapDirective = function ($rootScope, $timeout, LabelService) {
+    var init = function (scope, element, attributes) {
+        scope.mapId = attributes['mapId'];
+        scope.mapUrl = attributes['mapUrl'];
+        scope.moduleName = attributes['moduleName'];
+        scope.isMiniMode = attributes['isMiniMode'] === 'true' ? true : false;
+        scope.loadingMessage = 'Please wait...';
+
+        $timeout(function () {
+            LabelService.getLabelKey('capdetail_message_loading')
+                .then(function (response) {
+                    scope.loadingMessage = response.result;
+            });            
+        });
+        
+        scope.recordIds = JSON.parse(attributes['recordIds']) || [];
+        scope.agency = attributes['agencyId'] || '';
+        scope.serviceId = $rootScope.serviceId;
+
+        scope.mapLoadingError = 'errorLoadingMap';
+        scope.mapContainerId = scope.mapId + '_mapContainer';
+        scope.mapContainerWrapperId = scope.mapId + '_mapContainerWrapper';
+
+        if (typeof showMapEvent_watcher === 'function') {
+            //unregister watcher for the  event
+            showMapEvent_watcher();
+        }
+
+        //start watching for the event
+        showMapEvent_watcher = scope.$on('show-map-event', function (event, data) {
+            if (data && data.mapId && data.agency) {
+                if (data.mapId !== scope.mapId) {
+                    scope.mapId = data.mapId;
+                    scope.mapContainerId = data.mapId + '_mapContainer';
+                }
+                onShowMap(scope, data);
+            } else {
+                console.log('show-map-event error: Missing Data');
+                console.log(JSON.stringify(data));
+            }
+        });
+
+        if (scope.recordIds.length) {
+            scope.$on('map-loaded-event', function (event, data) {
+                scope.locateAPO(scope.recordIds, [], [], function () {
+                    scope.isMapDisplayed = true;
+                }, function () {
+                    scope.hide();
+                });
+            });
+
+            $timeout(function () {
+                scope.show(scope.agency);
+            });
+        }
+    };
+
+    var onShowMap = function (scope, data) {
+        scope.recordIds = [];
+        scope.addressInfo = [];
+        scope.parcelInfo = [];
+
+        scope.data = data;
+
+		if (scope.isMapLoaded) {
+            doLocate(scope, data);
+        }
+        else {
+            scope.$watch('isMapLoaded', function () {
+				if (scope.isMapLoaded) {
+                    doLocate(scope, data);
+                }
+            });
+        }
+
+        $timeout(function () {
+            scope.show(data.agency);
+        });
+    };
+
+	var doLocate = function (scope, data) {
+
+        if (data.records && data.records.length) {
+            scope.recordIds = data.records;
+        }
+
+        if (data.addressInfo && data.addressInfo.length) {
+            scope.addressInfo = data.addressInfo;
+        }
+
+        if (data.parcelInfo && data.parcelInfo.length) {
+            scope.parcelInfo = data.parcelInfo;
+        }
+
+        scope.locateAPO(scope.recordIds, scope.addressInfo, scope.parcelInfo, function () {
+            scope.isMapDisplayed = true;
+        }, function () {
+            console.log('hiding map as no data to display');
+            scope.hide();
+        });
+    };
+
+    var onHideMap = function (scope, data) {
+        scope.text = data;
+    };
+
+    return {
+        restrict: 'E',
+        templateUrl: GLOBAL_APPLICATION_ROOT + 'acaapp/map.html',
+        link: init,
+        scope: true,
+        controller: ['$scope', '$rootScope', 'MapService', 'LabelService', function ($scope, $rootScope, MapService, LabelService) {
+            $scope.isMapLoaded = false;
+            $scope.isMapDisplayed = false;
+            $scope.recordIds = [];
+            $scope.label = '';
+			$scope.agency = '';
+
+            $scope.mapInstance = null;
+
+            $scope.onSelectLocation = function (event) {
+                var message = {
+                    eventType: event.eventType,
+                    command: event.eventData.command,
+                    isUseLocation: event.eventData.isUseLocation,
+                    serviceId: event.eventData.mapServiceId,
+                    moduleName: $scope.moduleName,
+                    data: event.eventData.addressInfo || event.eventData.selection,
+                    location: event.eventData.location,
+                };
+                $rootScope.$broadcast('location-selected-event', message);
+            };
+
+            $scope.onLoaded = function (data) {
+                //to prevent all hyperlinks inside the map trigger postback
+                $('a', $('map')).each(function () {
+                    $(this).addClass('NotShowLoading');
+                });
+
+                $rootScope.$broadcast('map-loaded-event', { mapId: $scope.mapId, map: $scope.mapInstance });
+            };
+
+            $scope.show = function (agency) {
+                if (!agency)
+                    return;
+
+                $('#' + $scope.mapContainerId).show();
+
+                if (!$scope.isMapLoaded || $scope.agency !== agency) {
+                    var mapContainerId = $scope.mapContainerId;
+
+                    if ($('#' + mapContainerId).length) {
+                        $scope.agency = agency;
+
+                        MapService.load(agency, mapContainerId, $scope.isMiniMode, $scope.onLoaded, $scope.onSelectLocation)
+                            .then(function (map) {
+                                if (map) {
+                                    $scope.mapInstance = map;
+                                    $scope.isMapLoaded = true;
+
+                                    $rootScope.$broadcast('map-loading-success-event', { mapId: $scope.mapId});
+                                }
+                                else {
+                                    $scope.isMapLoaded = false;
+                                    $('#' + $scope.mapContainerId).hide();
+
+                                    $rootScope.$broadcast('map-loading-falied-event', { mapId: $scope.mapId });
+                                    
+                                    LabelService.getLabelKey("aca_gis_msg_noconnection_error")
+                                        .then(function (response) {
+
+                                            $('#' + $scope.mapLoadingError).show();
+                                            $scope.label = response.result;
+                                            $('#' + $scope.mapLoadingError).html($scope.label);
+
+                                        },
+                                        function (httpError) {
+                                            $scope.label = "Could not connect to the GIS Server";
+											$('#' + $scope.mapLoadingError).show();
+                                        });
+                                }
+                            }, function () {
+                                $rootScope.$broadcast('map-loading-falied-event', { mapId: $scope.mapId });
+                            });
+                    }
+                }
+            };
+
+            $scope.hide = function () {
+                $('#' + $scope.mapContainerId).hide();
+                $scope.isMapDisplayed = false;
+            };
+
+            //locate addresses on the map
+            $scope.locateAPO = function (capIds, addressInfo, parcelInfo, successCallback, errorCallback) {
+
+                if(!MapService)
+                    return;
+
+				MapService.clear();
+
+                if (capIds && capIds.length) {
+                    MapService.getAddressData(capIds)
+                        .then(function (response) {
+                            var locateInfo = JSON.stringify(response.result);
+
+                            MapService.locateRecords($scope.mapInstance, locateInfo)
+                                .then(function () {
+                                    $scope.isMapDisplayed = true;
+
+                                    successCallback();
+                                })
+                                .catch(function (error) {
+                                    $scope.isMapDisplayed = false;
+
+                                    errorCallback(error);
+                                });
+                        })
+                        .catch(function (error) {
+                            $scope.isMapDisplayed = false;
+
+                            errorCallback(error.data);
+                        });
+                }
+                else if (parcelInfo && parcelInfo.length) {
+                    MapService.locateParcels($scope.mapInstance, parcelInfo)
+                        .then(function () {
+                            $scope.isMapDisplayed = true;
+
+                            successCallback();
+                        })
+                        .catch(function (error) {
+                            errorCallback(error);
+                        });
+                }
+                else if (addressInfo && addressInfo.length) {
+					MapService.locateAddresses($scope.mapInstance, addressInfo)
+                        .then(function () {
+                            $scope.isMapDisplayed = true;
+
+                            successCallback();
+                        })
+                        .catch(function () {
+                            errorCallback();
+                        });
+                }
+                else {
+                    MapService.clear($scope.mapInstance)
+                        .then(function () {
+                            $scope.isMapDisplayed = true;
+
+                            successCallback();
+                        })
+                        .catch(function () {
+                            errorCallback();
+                        });
+                }
+            };
+        }]
+    };
+};
+
+mapDirective.$inject = ['$rootScope', '$timeout', 'LabelService'];
+agisAca.directive('map', mapDirective);
+var labelService = function ($http) {
+    var labelService = {};
+
+    labelService.getLabelKey = function (key) {
+        var url = GLOBAL_APPLICATION_ROOT + "api/labelkey/label?key=" + key;
+        return $http.get(url)
+            .then(function (response) {
+                return { result: response.data };
+            });
+    };
+
+    return labelService;
+};
+
+labelService.$inject = ['$http'];
+agisAca.factory('LabelService', labelService);
+var mapCommandService = function ($http, $q, $timeout) {
+    var mapCommandService = {};
+
+    mapCommandService.sendAddress = function (data, callback) {
+        var deferred = $q.defer();
+
+        $timeout(function () {
+            $http({
+                method: "POST",
+                data: data,
+                url: GLOBAL_APPLICATION_ROOT + "api/mapcommand/send-address"
+            }).then(function (response) {
+                deferred.resolve(response);
+            }, function (errorResponse) {
+                deferred.reject(errorResponse);
+            });
+        });
+        
+        return deferred.promise;
+    };
+
+    mapCommandService.sendParcel = function (data, callback) {
+        var deferred = $q.defer();
+
+        $timeout(function () {
+            $http({
+                method: "POST",
+                data: data,
+                url: GLOBAL_APPLICATION_ROOT + "api/mapcommand/send-parcel"
+            }).then(function (response) {
+                deferred.resolve(response);
+            }, function (errorResponse) {
+                deferred.reject(errorResponse);
+            });
+        });
+        
+        return deferred.promise;
+    };
+
+    return mapCommandService;
+};
+
+mapCommandService.$inject = ['$http', '$q', '$timeout'];
+agisAca.factory('MapCommandService', mapCommandService);
+
+var mapService = function ($http, $q, $timeout) {
+    var mapService = {};
+
+    mapService.getConfig = function (agency) {
+        var url = GLOBAL_APPLICATION_ROOT + "api/gis/config";
+        var config = { params: { "agency": agency } };
+
+        return $http.get(url, config)
+            .then(function (response) {
+                return { config: response.data };
+            });
+    };
+
+    mapService.getAddressData = function (capIds) {
+        var url = GLOBAL_APPLICATION_ROOT + "api/gis/addresses";
+
+        return $http.post(url, capIds)
+            .then(function (response) {
+                return { result: response.data };
+            });
+    };
+
+    mapService.load = function (agency, containerId, isMiniMode, onLoaded, onLocationSelected) {
+        return mapService.getConfig(agency)
+            .then(function (data) {
+                var configData = data.config;
+
+                try {
+                    var map = new AGISMap(containerId,
+                    {
+                        mapMode: isMiniMode ? 'miniMap' : '',
+                        agencyCode: configData.AgencyCode,
+                        aaServiceId: configData.AAServiceId,
+                        product: configData.Product,
+                        groupId: configData.GroupId,
+                        userId: configData.UserId,
+                        lang: configData.Locale
+                    });
+
+					map.COMMANDDISPATCHER('AGIS-Map-Loaded', onLoaded);
+					map.COMMANDDISPATCHER('sendGISFeature', onLocationSelected);
+
+                    return map;
+                }
+				catch (ex) {
+					console.log(ex);
+                }
+            });
+    };
+
+    mapService.locateParcels = function (map, parcelInfos) {
+        console.log("Locating Parcels");
+        console.log(JSON.stringify(parcelInfos));
+        var deferred = $q.defer();
+
+        $timeout(function () {
+            var data = { parcels: [] };
+
+            if (typeof (parcelInfos) === "string") {
+                parcelInfos = JSON.parse(parcelInfos);
+            }
+
+            if (map) {
+
+                var layerId = "Parcels";
+                
+                if (parcelInfos && parcelInfos.length) {
+                    for (var i = 0; i < parcelInfos.length; i++) {
+                        var parcelId = parcelInfos[i].unmaskedParcelNumber;
+
+                        var parcelInfo =
+                            {
+                                parcelId: parcelId,
+                                gisobjects: [{
+                                    id: layerId + "-" + parcelId,
+                                    layerId: layerId,
+                                    gisid: parcelId
+                                }],
+                                addresses: []
+                            };
+
+                        data.parcels.push(parcelInfo);
+                    }
+                }
+                
+                map.locate(data, function () {
+                    deferred.resolve();
+                });
+            } else {
+                deferred.reject();
+            }
+        });
+
+        return deferred.promise;
+    };
+
+    mapService.locateRecords = function (map, recordInfos) {
+        var deferred = $q.defer();
+
+        $timeout(function () {
+            if (typeof (recordInfos) === "string") {
+                recordInfos = JSON.parse(recordInfos);
+            }
+
+            if (map !== null
+                && map !== undefined) {
+                var data = { records: [] };
+
+                if (recordInfos && recordInfos.length) {
+                    for (var i = 0; i < recordInfos.length; i++) {
+                        var _record =
+                            {
+                                recordId: recordInfos[i].recordId,
+                                gisobjects: [],
+                                parcels: [],
+                                addresses: []
+                            };
+
+                        //define addresses
+                        var addresses = recordInfos[i].addresses;
+
+                        if (addresses && addresses.length) {
+                            //fill addresses' array
+                            for (var a = 0; a < addresses.length; a++) {
+                                var item = addresses[a];
+
+                                var _address =
+                                    {
+                                        attributes: {
+                                            Address: item.Address ? item.Address : item.fullAddress,
+                                            Neighborhood: item.Neighborhood ? item.Neighborhood : item.neighborhood,
+                                            City: item.City ? item.City : item.city,
+                                            StreetName: item.StreetName ? item.StreetName : item.streetName,
+                                            Postal: item.Postal ? item.Postal : item.zip,
+                                            StreetNumber: item.StreetNumber ? item.StreetNumber : item.houseNumberStart,
+                                            CountryCode: item.CountryCode ? item.CountryCode : item.countryCode,
+                                            StreetSuffix: item.StreetSuffix ? item.StreetSuffix : item.streetSuffix,
+                                            Direction: item.Direction ? item.Direction : item.streetDirection
+                                        }
+                                    };
+
+                                _record.addresses.push(_address);
+                            }
+
+                            data.records.push(_record);
+                        }
+                    }
+                }
+                
+                map.locate(data, function () {
+                    deferred.resolve();
+                });                
+            } else {
+                deferred.reject();
+            }
+        });
+        
+        return deferred.promise;
+	};
+
+	mapService.locateAddresses = function (map, addresses) {
+		var deferred = $q.defer();
+
+		$timeout(function () {
+			if (typeof (addresses) === "string") {
+				addresses = JSON.parse(addresses);
+			}
+
+			if (map !== null
+				&& map !== undefined) {
+				var data = { address: [] };
+
+				if (addresses && addresses.length) {
+					//fill addresses' array
+					for (var a = 0; a < addresses.length; a++) {
+						var item = addresses[a];
+						var _address =
+							{
+								attributes: {
+									Address: item.Address ? item.Address : item.fullAddress,
+									Neighborhood: item.Neighborhood ? item.Neighborhood : item.neighborhood,
+									City: item.City ? item.City : item.city,
+									StreetName: item.StreetName ? item.StreetName : item.streetName,
+									Postal: item.Postal ? item.Postal : item.zip,
+									StreetNumber: item.StreetNumber ? item.StreetNumber : item.houseNumberStart,
+									CountryCode: item.CountryCode ? item.CountryCode : item.countryCode,
+									StreetSuffix: item.StreetSuffix ? item.StreetSuffix : item.streetSuffix,
+									Direction: item.Direction ? item.Direction : item.streetDirection
+								}
+							};
+
+						data.address.push(_address);
+					}
+				}
+
+				map.locate(data, function () {
+					deferred.resolve();
+				});
+			} else {
+				deferred.reject();
+			}
+		});
+
+		return deferred.promise;
+	};
+
+    mapService.clear = function (map) {
+        var deferred = $q.defer();
+
+        $timeout(function () {
+            if (map !== null
+                && map !== undefined) {
+                var data = { records: [] };
+
+                map.locate(data);
+            }
+        });
+
+        return deferred.promise;
+    };
+
+    return mapService;
+};
+
+mapService.$inject = ['$http', '$q', '$timeout'];
+agisAca.factory('MapService', mapService);

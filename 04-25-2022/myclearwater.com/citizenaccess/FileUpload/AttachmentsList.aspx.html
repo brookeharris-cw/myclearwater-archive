@@ -1,0 +1,551 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head><link href="../App_Themes/Default/form.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Default/style.css" type="text/css" rel="stylesheet"><title>
+	Attachment list
+</title>
+    <script type="text/javascript" src="../Scripts/lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="../Scripts/aca.jquery.etxensions.js"></script>
+    <script type="text/javascript" src="../Scripts/GlobalConst.aspx.html"></script>
+    <script type="text/javascript" src="../Scripts/global.js"></script>
+    <script type="text/javascript" src="../Scripts/textCollapse.js"></script>
+    <script type="text/javascript" src="../Scripts/ProcessLoading.js"></script>
+    <script type="text/javascript" src="../Scripts/FileUpload.js"></script>
+    <script type="text/javascript">
+        var Args;
+        var TimerID = 0;
+
+        window.onload = function() {
+            var isAdmin = IsTrue(getparmByUrl("isAdmin"));
+
+            if (isAdmin) {
+                setInterval("setAttachmentListHeight()", 300);
+            } else {
+                setAttachmentListHeight();
+            }
+
+            Args = $get('hfValue').value.split('|');
+            if (Args[0] > 0) {
+                StartTimer();
+            } else if (typeof (parent.HideWaitMessage) != 'undefined') {
+                parent.HideWaitMessage();
+            }
+
+            parent.HideLoading();
+        };
+
+        function StartTimer()
+        {
+            if(TimerID > 0)
+            {
+                window.clearTimeout(TimerID);
+            }
+            
+            TimerID = window.setTimeout('CheckPendingAttachments()',2000);
+        }
+        
+        function CheckPendingAttachments()
+        {
+            PageMethods.GetPendingAttachments(Args[1], HandleResult, OnError);
+        }
+
+        function HasPendingDocs() {
+            return Args[0] > 0;
+        }
+
+        function OnError() { }
+        
+        function HandleResult(result)
+        {
+            if(Args[0] != result)
+            {
+                //parent.hideMessage();
+                RefreshPage();
+            }
+            else
+            {
+                StartTimer();
+            }
+        }
+        
+        function RefreshPage()
+        {
+            window.location.href = window.location.href;
+        }        
+
+        function setAttachmentListHeight() {
+            // set the attachmentlist iframe's height to its container.
+            var iframe = getOwnIframe(window);
+
+            if (iframe) {
+                iframe.height = document.body.offsetHeight + 25;
+            }
+        }
+    </script>
+<link href="../App_Themes/en-US/style.css" type="text/css" rel="stylesheet"><link id="CustomerCssStyle" style="text/css" rel="stylesheet" href="../Handlers/CustomizedCssStyle.ashx.css?agencyCode=CLEARWATER"><link id="PageCustomizeCssStyle_GlobalCustomScriptBefore" style="text/css" rel="stylesheet" href="../Customization/CLEARWATER/globalcustomscriptbefore.css"></head>
+<body class="ACA_Page_NoScrollBar">
+    <span style="display:none">
+        <div style="WIDTH: 0px; HEIGHT: 0px;" id="divhlSkipToolBar" class=""><a id="hlSkipToolBar" accesskey="" href="#FirstAnchorInACAMainContent" tabindex="-1" title="Skip Module Navigation" class="NotShowLoading"><img alt="Skip Module Navigation" src="/CitizenAccess/WebResource.axd?d=2bGLyss_3utMfi5AkeObF8Gp2x3XUlA6YtmpH6ZeFWUVpYoaRF7GYguYQ9al3EbwUgUeOilozg8_MxswY9QAHWA6PykJDCuVs1QytUNHoHRLJh_HZCC6QmU-htm8y02rAKo6GrT3dhanJHeoJNQc0XRp7LtIKM69PDTR8AsbmAE1&t=637787957340000000" width='0px' height='0px' style='border-width:0px;'></a></div>
+        <a name="FirstAnchorInACAMainContent" id="FirstAnchorInACAMainContent" tabindex="-1"></a>
+    </span>
+    <form name="form1" method="post" action="./AttachmentsList.aspx?module=Planning" id="form1">
+<input type="hidden" name="ACA_CS_FIELD" id="ACA_CS_FIELD" value="ce1cfa26551e473e83bb6eeb4da4256d">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+
+<script src="../Customization/CLEARWATER/globalcustomscriptbefore.js" type="text/javascript"></script>
+<script src="../Scripts/ACCELAGRIDVIEW_JS.js" type="text/javascript"></script>
+<script src="../Scripts/Validation.js" type="text/javascript"></script>
+<script src="../Scripts/ActionMenu.js" type="text/javascript"></script>
+<script src="../ScriptResource.axd?d=Yh6lB4okcFzytmJeEp4JJwtZZGRG3l4bFr_YfY8j7zww3wXwV9xRvQBe6s7_aQU4QL3IvROBOhKJj4tzjMVYcEQTasmgAvthoOqO-OoHl7U3AgY_4kyWl1af4tjR-c6eOG3OFRRXsGfDsPrqg59FiJTVEK5KDR-DQTXbOEmHt_w1&amp;t=ffffffffd202a464" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var PageMethods = function() {
+PageMethods.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+PageMethods.prototype = {
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return PageMethods._staticInstance.get_path();},
+GetContactAddressUsedInDailyAsPrimary:function(contactAddressID,agencyCode,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetContactAddressUsedInDailyAsPrimary',false,{contactAddressID:contactAddressID,agencyCode:agencyCode},succeededCallback,failedCallback,userContext); },
+ClearUIData:function(serializedUIDataTypes,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'ClearUIData',false,{serializedUIDataTypes:serializedUIDataTypes},succeededCallback,failedCallback,userContext); },
+SetAccessibilityCookie:function(isEnableAccessibility,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'SetAccessibilityCookie',false,{isEnableAccessibility:isEnableAccessibility},succeededCallback,failedCallback,userContext); },
+GetPendingAttachments:function(moduleName,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetPendingAttachments',false,{moduleName:moduleName},succeededCallback,failedCallback,userContext); }}
+PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
+PageMethods._staticInstance = new PageMethods();
+PageMethods.set_path = function(value) { PageMethods._staticInstance.set_path(value); }
+PageMethods.get_path = function() { return PageMethods._staticInstance.get_path(); }
+PageMethods.set_timeout = function(value) { PageMethods._staticInstance.set_timeout(value); }
+PageMethods.get_timeout = function() { return PageMethods._staticInstance.get_timeout(); }
+PageMethods.set_defaultUserContext = function(value) { PageMethods._staticInstance.set_defaultUserContext(value); }
+PageMethods.get_defaultUserContext = function() { return PageMethods._staticInstance.get_defaultUserContext(); }
+PageMethods.set_defaultSucceededCallback = function(value) { PageMethods._staticInstance.set_defaultSucceededCallback(value); }
+PageMethods.get_defaultSucceededCallback = function() { return PageMethods._staticInstance.get_defaultSucceededCallback(); }
+PageMethods.set_defaultFailedCallback = function(value) { PageMethods._staticInstance.set_defaultFailedCallback(value); }
+PageMethods.get_defaultFailedCallback = function() { return PageMethods._staticInstance.get_defaultFailedCallback(); }
+PageMethods.set_enableJsonp = function(value) { PageMethods._staticInstance.set_enableJsonp(value); }
+PageMethods.get_enableJsonp = function() { return PageMethods._staticInstance.get_enableJsonp(); }
+PageMethods.set_jsonpCallbackParameter = function(value) { PageMethods._staticInstance.set_jsonpCallbackParameter(value); }
+PageMethods.get_jsonpCallbackParameter = function() { return PageMethods._staticInstance.get_jsonpCallbackParameter(); }
+PageMethods.set_path("AttachmentsList.aspx");
+PageMethods.GetContactAddressUsedInDailyAsPrimary= function(contactAddressID,agencyCode,onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetContactAddressUsedInDailyAsPrimary(contactAddressID,agencyCode,onSuccess,onFailed,userContext); }
+PageMethods.ClearUIData= function(serializedUIDataTypes,onSuccess,onFailed,userContext) {PageMethods._staticInstance.ClearUIData(serializedUIDataTypes,onSuccess,onFailed,userContext); }
+PageMethods.SetAccessibilityCookie= function(isEnableAccessibility,onSuccess,onFailed,userContext) {PageMethods._staticInstance.SetAccessibilityCookie(isEnableAccessibility,onSuccess,onFailed,userContext); }
+PageMethods.GetPendingAttachments= function(moduleName,onSuccess,onFailed,userContext) {PageMethods._staticInstance.GetPendingAttachments(moduleName,onSuccess,onFailed,userContext); }
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BB9EEC31">
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+        
+        <div>
+            
+<script language="javascript" type="text/javascript">
+    function ViewDocumentDetails(agencyCode, documentNo, specificEntity, focusObjectID) {
+        SetNotAskForSPEAR();
+        var url = '/CitizenAccess/FileUpload/DocumentDetail.aspx?Module=Planning&isPeopleDocument=False&agencyCode=' + agencyCode + '&documentNo=' + documentNo + '&specificEntity=' + specificEntity;
+        parent.ACADialog.popup({ url: url, width: 700, height: 280, objectTarget: $get(focusObjectID) });
+
+        return false;
+    }
+
+    function UpdateDocumentStatus(agencyCode, documentNo, specificEntity, focusObjectID) {
+        SetNotAskForSPEAR();
+        var url = '/CitizenAccess/FileUpload/UpdateDocumentStatus.aspx?Module=Planning&isPeopleDocument=False&agencyCode=' + agencyCode + '&documentNo=' + documentNo + '&specificEntity=' + specificEntity;
+        parent.ACADialog.popup({ url: url, width: 500, height: 280, objectTarget: $get(focusObjectID) });
+
+        return false;
+    }
+
+    //resubmit call function
+    function BrowseFile(agencyCode, documentNo, focusObjectID) {
+        SetNotAskForSPEAR();
+        var url = '/CitizenAccess/FileUpload/FileUploadPage.aspx?multipleupload=y&Module=Planning&agencyCode=' + agencyCode + '&documentNo=' + documentNo + '&attachmentCtrlID=';
+        parent.ACADialog.popup({ url: url, width: 485, height: 400, objectTarget: $get(focusObjectID) });
+
+        return false;
+    }
+
+    function RemoveDocument(uniqueID) {
+        var warnMsg = 'Are you sure you want to delete this record?';
+
+        if(confirmMsg(warnMsg)) {
+            parent.CreateShowLoading();
+            __doPostBack(uniqueID, '');
+        }
+
+        return false;
+    }
+
+    function BindDocumentList() {
+        if (typeof("window.parent")!= "undefined" && typeof("window.parent.UploadAuditedDocumentList")!= "undefined") {
+            window.parent.UploadAuditedDocumentList();
+        }
+    }
+</script>
+
+<div style="WIDTH: 0px; HEIGHT: 0px;" id="divattachmentList_lnkFocusAnchor" class=""><a id="attachmentList_lnkFocusAnchor" accesskey="" href="#" tabindex="-1" onclick="if(typeof(SetNotAsk)!='undefined') SetNotAsk();var obj = document.getElementById('attachmentList_'); if (obj) obj.focus();" title="This is the start of the list." class="NotShowLoading"><img alt="This is the start of the list." src="/CitizenAccess/WebResource.axd?d=2bGLyss_3utMfi5AkeObF8Gp2x3XUlA6YtmpH6ZeFWUVpYoaRF7GYguYQ9al3EbwUgUeOilozg8_MxswY9QAHWA6PykJDCuVs1QytUNHoHRLJh_HZCC6QmU-htm8y02rAKo6GrT3dhanJHeoJNQc0XRp7LtIKM69PDTR8AsbmAE1&t=637787957340000000" width='0px' height='0px' style='border-width:0px;'></a></div>
+<a id='attachmentList_gdvAttachmentList_4ValidateGridView_anchor' name='attachmentList_gdvAttachmentList_4ValidateGridView_anchor'></a><div class="ACA_Grid_OverFlow">
+	<table class="ACA_GridView ACA_Grid_Caption" cellspacing="0" summary="Attachment table with one level of column headers" border="0" id="attachmentList_gdvAttachmentList" style="border-width:0px;">
+		<caption>
+			Attachment list
+		</caption><tr class="ACA_TabRow_Header ACA_TabRow_Header_FontSize">
+			<th class="ACA_AlignLeftOrRight" scope="col" abbr="lnkNameHeader" style="width:100px;">
+                <div class="ACA_Header_Row">
+                    <a id="attachmentList_gdvAttachmentList_ctl01_lnkNameHeader" title="Name" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl01$lnkNameHeader','')"><span>Name</span></a>
+                </div>
+            </th><th class="ACA_AlignLeftOrRight" scope="col" abbr="lnkTypeHeader" style="width:100px;">
+                <div class="ACA_Header_Row">
+                    <a id="attachmentList_gdvAttachmentList_ctl01_lnkTypeHeader" title="Type" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl01$lnkTypeHeader','')"><span>Type</span></a>
+                </div>
+            </th><th class="ACA_AlignLeftOrRight" scope="col" abbr="lnkSizeHeader" style="width:100px;">
+                <div class="ACA_Header_Row">
+                    <span id="attachmentList_gdvAttachmentList_ctl01_lnkSizeHeader">Size</span>
+                </div>
+            </th><th class="ACA_AlignLeftOrRight" scope="col" abbr="lnkDateHeader" style="width:100px;">
+                <div class="ACA_Header_Row">
+                    <a id="attachmentList_gdvAttachmentList_ctl01_lnkDateHeader" title="Latest Update" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl01$lnkDateHeader','')"><span>Latest Update</span></a>
+                </div>
+            </th><th class="ACA_AlignLeftOrRight" scope="col" style="width:370px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl01_lblActionHeader">Action</span>
+                </div>
+            </th>
+		</tr><tr class="ACA_TabRow_Odd ACA_TabRow_Odd_FontSize">
+			<td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <a id="attachmentList_gdvAttachmentList_ctl02_lnkFileName" class="NotShowLoading" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl02$lnkFileName','')"><span id="attachmentList_gdvAttachmentList_ctl02_lblName">PLT.pdf</span></a>
+                    
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl02_lblType">Application</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl02_lblSize">589.70 KB</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl02_lblDate">04/01/2019</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:370px;">
+                <div class="ACA_FLeft">
+                    
+                    <div class="ACA_LinkButton">
+                        <a id="attachmentList_gdvAttachmentList_ctl02_lnkAdvanceResubmit" class="ACA_Hide" title="Resubmit" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl02$lnkAdvanceResubmit','')"><span>Resubmit</span></a>
+                    </div>
+                    <div id="attachmentList_gdvAttachmentList_ctl02_divFileBrowser" class="ACA_Hide"></div>
+                    <div class="ACA_FLeft">
+                        <div id="attachmentList_gdvAttachmentList_ctl02_actionMenu_divMenu" class="ACA_FRight">
+    <table role='presentation' class="NoBorder">
+        <tr>
+            <td class="ACA_LinkButton">
+                <a id="attachmentList_gdvAttachmentList_ctl02_actionMenu_lnkActions" onclick="ShowActionMenus(this.parentNode.parentNode, 'attachmentList_gdvAttachmentList_ctl02_actionMenu_ActionMenu','False');" href="javascript:void(0);" class="nav_more_arrow NotShowLoading actionMenu_LinkAndArrow" title="Actions">
+                    <span id="attachmentList_gdvAttachmentList_ctl02_actionMenu_lblActions">Actions</span>
+                    <img alt="" border="0" src="../app_themes/Default/assets/caret_arrow.gif">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="ActionMenus">
+                    <div id="attachmentList_gdvAttachmentList_ctl02_actionMenu_ActionMenu" class="ACA_ALeft ACA_Nowrap ACA_LinkButton ACA_Delegate_Action ACA_Hide" onmouseover="EnterActionMenus(this.id);" onmouseout="ExitActionMenus(this.id);">
+                        <div id="attachmentList_gdvAttachmentList_ctl02_actionMenu_upActionMenu">
+				
+                                <table role='presentation' class="ACA_TDAlignLeftOrRightTopNoBorder">
+                                    <tr>
+                                        <td id="attachmentList_gdvAttachmentList_ctl02_actionMenu_MenuItemContainer" class="ActionMenu_Link"><div><a onclick="this.focus();return ViewDocumentDetails(&#39;CLEARWATER&#39;,&#39;433668&#39;,&#39;&#39;,&#39;attachmentList_gdvAttachmentList_ctl02_actionMenu_lnkActions&#39;);;return false;" onfocus="SetFocusInForActionMenu()" onblur="SetBlurOutForActionMenu();" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl02$actionMenu$ctl03','')">View Details</a></div></td>
+				
+                                    </tr>
+                                </table>
+                            
+			</div>
+                    </div>
+                </div>
+            </td>
+        </tr> 
+    </table>
+</div>
+
+                    </div>
+                    
+                </div>
+            </td>
+		</tr><tr class="ACA_TabRow_Even ACA_TabRow_Even_FontSize">
+			<td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <a id="attachmentList_gdvAttachmentList_ctl03_lnkFileName" class="NotShowLoading" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl03$lnkFileName','')"><span id="attachmentList_gdvAttachmentList_ctl03_lblName">/AccelaReports/Letter_Of_Incompleteness_20190402_123427.pdf</span></a>
+                    
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl03_lblType">BMP</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl03_lblSize">437.48 KB</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl03_lblDate">04/02/2019</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:370px;">
+                <div class="ACA_FLeft">
+                    
+                    <div class="ACA_LinkButton">
+                        <a id="attachmentList_gdvAttachmentList_ctl03_lnkAdvanceResubmit" class="ACA_Hide" title="Resubmit" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl03$lnkAdvanceResubmit','')"><span>Resubmit</span></a>
+                    </div>
+                    <div id="attachmentList_gdvAttachmentList_ctl03_divFileBrowser" class="ACA_Hide"></div>
+                    <div class="ACA_FLeft">
+                        <div id="attachmentList_gdvAttachmentList_ctl03_actionMenu_divMenu" class="ACA_FRight">
+    <table role='presentation' class="NoBorder">
+        <tr>
+            <td class="ACA_LinkButton">
+                <a id="attachmentList_gdvAttachmentList_ctl03_actionMenu_lnkActions" onclick="ShowActionMenus(this.parentNode.parentNode, 'attachmentList_gdvAttachmentList_ctl03_actionMenu_ActionMenu','False');" href="javascript:void(0);" class="nav_more_arrow NotShowLoading actionMenu_LinkAndArrow" title="Actions">
+                    <span id="attachmentList_gdvAttachmentList_ctl03_actionMenu_lblActions">Actions</span>
+                    <img alt="" border="0" src="../app_themes/Default/assets/caret_arrow.gif">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="ActionMenus">
+                    <div id="attachmentList_gdvAttachmentList_ctl03_actionMenu_ActionMenu" class="ACA_ALeft ACA_Nowrap ACA_LinkButton ACA_Delegate_Action ACA_Hide" onmouseover="EnterActionMenus(this.id);" onmouseout="ExitActionMenus(this.id);">
+                        <div id="attachmentList_gdvAttachmentList_ctl03_actionMenu_upActionMenu">
+				
+                                <table role='presentation' class="ACA_TDAlignLeftOrRightTopNoBorder">
+                                    <tr>
+                                        <td id="attachmentList_gdvAttachmentList_ctl03_actionMenu_MenuItemContainer" class="ActionMenu_Link"><div><a onclick="this.focus();return ViewDocumentDetails(&#39;CLEARWATER&#39;,&#39;433876&#39;,&#39;&#39;,&#39;attachmentList_gdvAttachmentList_ctl03_actionMenu_lnkActions&#39;);;return false;" onfocus="SetFocusInForActionMenu()" onblur="SetBlurOutForActionMenu();" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl03$actionMenu$ctl03','')">View Details</a></div></td>
+				
+                                    </tr>
+                                </table>
+                            
+			</div>
+                    </div>
+                </div>
+            </td>
+        </tr> 
+    </table>
+</div>
+
+                    </div>
+                    
+                </div>
+            </td>
+		</tr><tr class="ACA_TabRow_Odd ACA_TabRow_Odd_FontSize">
+			<td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <a id="attachmentList_gdvAttachmentList_ctl04_lnkFileName" class="NotShowLoading" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl04$lnkFileName','')"><span id="attachmentList_gdvAttachmentList_ctl04_lblName">/AccelaReports/Letter_Of_Completeness_20190405_140154.pdf</span></a>
+                    
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl04_lblType">BMP</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl04_lblSize">343.67 KB</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl04_lblDate">04/05/2019</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:370px;">
+                <div class="ACA_FLeft">
+                    
+                    <div class="ACA_LinkButton">
+                        <a id="attachmentList_gdvAttachmentList_ctl04_lnkAdvanceResubmit" class="ACA_Hide" title="Resubmit" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl04$lnkAdvanceResubmit','')"><span>Resubmit</span></a>
+                    </div>
+                    <div id="attachmentList_gdvAttachmentList_ctl04_divFileBrowser" class="ACA_Hide"></div>
+                    <div class="ACA_FLeft">
+                        <div id="attachmentList_gdvAttachmentList_ctl04_actionMenu_divMenu" class="ACA_FRight">
+    <table role='presentation' class="NoBorder">
+        <tr>
+            <td class="ACA_LinkButton">
+                <a id="attachmentList_gdvAttachmentList_ctl04_actionMenu_lnkActions" onclick="ShowActionMenus(this.parentNode.parentNode, 'attachmentList_gdvAttachmentList_ctl04_actionMenu_ActionMenu','False');" href="javascript:void(0);" class="nav_more_arrow NotShowLoading actionMenu_LinkAndArrow" title="Actions">
+                    <span id="attachmentList_gdvAttachmentList_ctl04_actionMenu_lblActions">Actions</span>
+                    <img alt="" border="0" src="../app_themes/Default/assets/caret_arrow.gif">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="ActionMenus">
+                    <div id="attachmentList_gdvAttachmentList_ctl04_actionMenu_ActionMenu" class="ACA_ALeft ACA_Nowrap ACA_LinkButton ACA_Delegate_Action ACA_Hide" onmouseover="EnterActionMenus(this.id);" onmouseout="ExitActionMenus(this.id);">
+                        <div id="attachmentList_gdvAttachmentList_ctl04_actionMenu_upActionMenu">
+				
+                                <table role='presentation' class="ACA_TDAlignLeftOrRightTopNoBorder">
+                                    <tr>
+                                        <td id="attachmentList_gdvAttachmentList_ctl04_actionMenu_MenuItemContainer" class="ActionMenu_Link"><div><a onclick="this.focus();return ViewDocumentDetails(&#39;CLEARWATER&#39;,&#39;435029&#39;,&#39;&#39;,&#39;attachmentList_gdvAttachmentList_ctl04_actionMenu_lnkActions&#39;);;return false;" onfocus="SetFocusInForActionMenu()" onblur="SetBlurOutForActionMenu();" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl04$actionMenu$ctl03','')">View Details</a></div></td>
+				
+                                    </tr>
+                                </table>
+                            
+			</div>
+                    </div>
+                </div>
+            </td>
+        </tr> 
+    </table>
+</div>
+
+                    </div>
+                    
+                </div>
+            </td>
+		</tr><tr class="ACA_TabRow_Even ACA_TabRow_Even_FontSize">
+			<td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <a id="attachmentList_gdvAttachmentList_ctl05_lnkFileName" class="NotShowLoading" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl05$lnkFileName','')"><span id="attachmentList_gdvAttachmentList_ctl05_lblName">Santorini Trace Preliminary Plat package 060319 (002).pdf</span></a>
+                    
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl05_lblType">Plans</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl05_lblSize">7.28 MB</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl05_lblDate">06/03/2019</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:370px;">
+                <div class="ACA_FLeft">
+                    
+                    <div class="ACA_LinkButton">
+                        <a id="attachmentList_gdvAttachmentList_ctl05_lnkAdvanceResubmit" class="ACA_Hide" title="Resubmit" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl05$lnkAdvanceResubmit','')"><span>Resubmit</span></a>
+                    </div>
+                    <div id="attachmentList_gdvAttachmentList_ctl05_divFileBrowser" class="ACA_Hide"></div>
+                    <div class="ACA_FLeft">
+                        <div id="attachmentList_gdvAttachmentList_ctl05_actionMenu_divMenu" class="ACA_FRight">
+    <table role='presentation' class="NoBorder">
+        <tr>
+            <td class="ACA_LinkButton">
+                <a id="attachmentList_gdvAttachmentList_ctl05_actionMenu_lnkActions" onclick="ShowActionMenus(this.parentNode.parentNode, 'attachmentList_gdvAttachmentList_ctl05_actionMenu_ActionMenu','False');" href="javascript:void(0);" class="nav_more_arrow NotShowLoading actionMenu_LinkAndArrow" title="Actions">
+                    <span id="attachmentList_gdvAttachmentList_ctl05_actionMenu_lblActions">Actions</span>
+                    <img alt="" border="0" src="../app_themes/Default/assets/caret_arrow.gif">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="ActionMenus">
+                    <div id="attachmentList_gdvAttachmentList_ctl05_actionMenu_ActionMenu" class="ACA_ALeft ACA_Nowrap ACA_LinkButton ACA_Delegate_Action ACA_Hide" onmouseover="EnterActionMenus(this.id);" onmouseout="ExitActionMenus(this.id);">
+                        <div id="attachmentList_gdvAttachmentList_ctl05_actionMenu_upActionMenu">
+				
+                                <table role='presentation' class="ACA_TDAlignLeftOrRightTopNoBorder">
+                                    <tr>
+                                        <td id="attachmentList_gdvAttachmentList_ctl05_actionMenu_MenuItemContainer" class="ActionMenu_Link"><div><a onclick="this.focus();return ViewDocumentDetails(&#39;CLEARWATER&#39;,&#39;449485&#39;,&#39;&#39;,&#39;attachmentList_gdvAttachmentList_ctl05_actionMenu_lnkActions&#39;);;return false;" onfocus="SetFocusInForActionMenu()" onblur="SetBlurOutForActionMenu();" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl05$actionMenu$ctl03','')">View Details</a></div></td>
+				
+                                    </tr>
+                                </table>
+                            
+			</div>
+                    </div>
+                </div>
+            </td>
+        </tr> 
+    </table>
+</div>
+
+                    </div>
+                    
+                </div>
+            </td>
+		</tr><tr class="ACA_TabRow_Odd ACA_TabRow_Odd_FontSize">
+			<td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <a id="attachmentList_gdvAttachmentList_ctl06_lnkFileName" class="NotShowLoading" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl06$lnkFileName','')"><span id="attachmentList_gdvAttachmentList_ctl06_lblName">1501 S Highland PLT.FLD DO 2019.pdf</span></a>
+                    
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl06_lblType">Development Order</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl06_lblSize">272.09 KB</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:100px;">
+                <div>
+                    <span id="attachmentList_gdvAttachmentList_ctl06_lblDate">09/05/2019</span>
+                </div>
+            </td><td class="ACA_AlignLeftOrRightTop" style="width:370px;">
+                <div class="ACA_FLeft">
+                    
+                    <div class="ACA_LinkButton">
+                        <a id="attachmentList_gdvAttachmentList_ctl06_lnkAdvanceResubmit" class="ACA_Hide" title="Resubmit" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl06$lnkAdvanceResubmit','')"><span>Resubmit</span></a>
+                    </div>
+                    <div id="attachmentList_gdvAttachmentList_ctl06_divFileBrowser" class="ACA_Hide"></div>
+                    <div class="ACA_FLeft">
+                        <div id="attachmentList_gdvAttachmentList_ctl06_actionMenu_divMenu" class="ACA_FRight">
+    <table role='presentation' class="NoBorder">
+        <tr>
+            <td class="ACA_LinkButton">
+                <a id="attachmentList_gdvAttachmentList_ctl06_actionMenu_lnkActions" onclick="ShowActionMenus(this.parentNode.parentNode, 'attachmentList_gdvAttachmentList_ctl06_actionMenu_ActionMenu','False');" href="javascript:void(0);" class="nav_more_arrow NotShowLoading actionMenu_LinkAndArrow" title="Actions">
+                    <span id="attachmentList_gdvAttachmentList_ctl06_actionMenu_lblActions">Actions</span>
+                    <img alt="" border="0" src="../app_themes/Default/assets/caret_arrow.gif">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="ActionMenus">
+                    <div id="attachmentList_gdvAttachmentList_ctl06_actionMenu_ActionMenu" class="ACA_ALeft ACA_Nowrap ACA_LinkButton ACA_Delegate_Action ACA_Hide" onmouseover="EnterActionMenus(this.id);" onmouseout="ExitActionMenus(this.id);">
+                        <div id="attachmentList_gdvAttachmentList_ctl06_actionMenu_upActionMenu">
+				
+                                <table role='presentation' class="ACA_TDAlignLeftOrRightTopNoBorder">
+                                    <tr>
+                                        <td id="attachmentList_gdvAttachmentList_ctl06_actionMenu_MenuItemContainer" class="ActionMenu_Link"><div><a onclick="this.focus();return ViewDocumentDetails(&#39;CLEARWATER&#39;,&#39;474683&#39;,&#39;&#39;,&#39;attachmentList_gdvAttachmentList_ctl06_actionMenu_lnkActions&#39;);;return false;" onfocus="SetFocusInForActionMenu()" onblur="SetBlurOutForActionMenu();" href="javascript:__doPostBack('attachmentList$gdvAttachmentList$ctl06$actionMenu$ctl03','')">View Details</a></div></td>
+				
+                                    </tr>
+                                </table>
+                            
+			</div>
+                    </div>
+                </div>
+            </td>
+        </tr> 
+    </table>
+</div>
+
+                    </div>
+                    
+                </div>
+            </td>
+		</tr>
+	</table>
+</div>
+
+
+        </div>
+        <input type="hidden" name="hfValue" id="hfValue" value="0|Planning">
+        <input type="submit" name="Submit" value="Submit" class="HiddenButton" onclick="return false;">
+    </form>
+    <noscript>Your browser does not support JavaScript.</noscript>
+    <script type="text/javascript">
+        // use for the process loading to get the loading's title and src.
+        var getText = parent.getText;
+
+        if ('False'.toLowerCase() == 'false') {
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            prm.add_pageLoaded(function () {
+                var p = new ProcessLoading();
+                p.initControlLoading(true);
+            });
+        }
+    </script>
+</body>
+</html>
