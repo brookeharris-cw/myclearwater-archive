@@ -1,0 +1,346 @@
+﻿/* Material styling for ESS */
+/* Many elements are custom implementations based on the Materialize CSS Library
+    https://materializecss.com/
+*/
+
+/*material-flow-text*/
+@media only screen and (min-width: 360px) {
+  .material-flow-text {
+    font-size: 1.2rem;
+  }
+}
+
+@media only screen and (min-width: 390px) {
+  .material-flow-text {
+    font-size: 1.224rem;
+  }
+}
+
+@media only screen and (min-width: 420px) {
+  .material-flow-text {
+    font-size: 1.248rem;
+  }
+}
+
+@media only screen and (min-width: 450px) {
+  .material-flow-text {
+    font-size: 1.272rem;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .material-flow-text {
+    font-size: 1.296rem;
+  }
+}
+
+@media only screen and (min-width: 510px) {
+  .material-flow-text {
+    font-size: 1.32rem;
+  }
+}
+
+@media only screen and (min-width: 540px) {
+  .material-flow-text {
+    font-size: 1.344rem;
+  }
+}
+
+@media only screen and (min-width: 570px) {
+  .material-flow-text {
+    font-size: 1.368rem;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .material-flow-text {
+    font-size: 1.392rem;
+  }
+}
+
+@media only screen and (min-width: 630px) {
+  .material-flow-text {
+    font-size: 1.416rem;
+  }
+}
+
+@media only screen and (min-width: 660px) {
+  .material-flow-text {
+    font-size: 1.44rem;
+  }
+}
+
+@media only screen and (min-width: 690px) {
+  .material-flow-text {
+    font-size: 1.464rem;
+  }
+}
+
+@media only screen and (min-width: 720px) {
+  .material-flow-text {
+    font-size: 1.488rem;
+  }
+}
+
+@media only screen and (min-width: 750px) {
+  .material-flow-text {
+    font-size: 1.512rem;
+  }
+}
+
+@media only screen and (min-width: 780px) {
+  .material-flow-text {
+    font-size: 1.536rem;
+  }
+}
+
+@media only screen and (min-width: 810px) {
+  .material-flow-text {
+    font-size: 1.56rem;
+  }
+}
+
+@media only screen and (min-width: 840px) {
+  .material-flow-text {
+    font-size: 1.584rem;
+  }
+}
+
+@media only screen and (min-width: 870px) {
+  .material-flow-text {
+    font-size: 1.608rem;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .material-flow-text {
+    font-size: 1.632rem;
+  }
+}
+
+@media only screen and (min-width: 930px) {
+  .material-flow-text {
+    font-size: 1.656rem;
+  }
+}
+
+@media only screen and (min-width: 960px) {
+  .material-flow-text {
+    font-size: 1.68rem;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .material-flow-text {
+    font-size: 1.2rem;
+  }
+}
+
+/* Grid System */
+
+/* main content container (parent div for any material page */
+.material-container {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+@media only screen and (min-width: 601px) {
+  .material-container {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .material-container {
+    width: 70%;
+  }
+}
+
+.material-col .material-row {
+  margin-left: -0.75rem;
+  margin-right: -0.75rem;
+}
+
+.material-row .material-col {
+  float: left;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0 0.75rem;
+  min-height: 1px;
+}
+
+.material-row {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.material-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.material-row .material-col.s1 {
+  width: 8.3333333333%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s2 {
+  width: 16.6666666667%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s3 {
+  width: 25%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s4 {
+  width: 33.3333333333%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s5 {
+  width: 41.6666666667%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s6 {
+  width: 50%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s7 {
+  width: 58.3333333333%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s8 {
+  width: 66.6666666667%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s9 {
+  width: 75%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s10 {
+  width: 83.3333333333%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s11 {
+  width: 91.6666666667%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+.material-row .material-col.s12 {
+  width: 100%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
+
+/* Section class- for separating areas of the page */
+.material-section {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.material-section.no-pad {
+  padding: 0;
+}
+
+.material-section.no-pad-bot {
+  padding-bottom: 0;
+}
+
+.material-section.no-pad-top {
+  padding-top: 0;
+}
+
+/* material divider (simple 1px line) */
+.material-divider {
+    height: 1px;
+    overflow: hidden;
+    background-color: #e0e0e0;
+}
+
+/* material panel */
+.material-card-panel {
+  -webkit-transition: -webkit-box-shadow .25s;
+  transition: -webkit-box-shadow .25s;
+  transition: box-shadow .25s;
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
+  padding: 24px;
+  margin: 0.5rem 0 1rem 0;
+  border-radius: 2px;
+  background-color: #fff;
+  /*NOTE these 2 styles are applied separately in the material library to many elements, not directly in the .card-panel selector*/
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* The following styles not based on Materialize */
+.material-dialog{
+    background-color: white;
+    padding: 0px 24px 8px 24px;
+    box-shadow: 2px 2px 7px #888888;
+    overflow-y:auto;
+    max-height: 100vh;
+}
+
+.material-dialog input[type=submit]{
+    background-color: white;
+    text-align:right;
+    padding: 8px;
+    margin: 36px 0 0 8px;
+    font-weight: bold;
+}
+
+.material-dialog h3{
+    line-height: 48px;
+}
+
+.material-alert{
+    font-size: 1.2em;
+    background: url(images/material-alert.png) no-repeat left;
+    padding: 5px 0 5px 35px;
+}
+
+.material-add{
+    font-size: 1.2em;
+    background: url(images/material-alert.png) no-repeat left;
+    padding: 5px 0 5px 35px;
+}
+
+.material-plus{
+    font-size: 1.2em;
+    background: url(images/material-plus.png) no-repeat left;
+    padding: 5px 0 5px 35px;
+}

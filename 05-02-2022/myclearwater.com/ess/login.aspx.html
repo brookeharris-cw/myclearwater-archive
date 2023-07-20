@@ -1,0 +1,501 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head id="ctl00_ctl00_head"><title>
+	Login
+</title><link rel="stylesheet" href="FontAwesome/css/font-awesome.min.css"><link rel="stylesheet" href="bootstrap/bootstrap.css"><link href="jquery-ui.css" type="text/css" rel="Stylesheet"><link href="jquery-ui.theme.css" type="text/css" rel="Stylesheet"><link id="ctl00_ctl00_MaterialStyleLink" rel="stylesheet" type="text/css" href="MOLmaterial.css"><meta name="description" content="MUNIS Self Services"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <script src="../recaptcha/api.js" async="" defer=""></script>
+        <script async="" defer="" crossorigin="anonymous" src="../en_US/sdk.js#xfbml=1&version=v5.0"></script>
+        <link href="../icon.css?family=Material+Icons" rel="stylesheet"><link href="main.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="Static/Styles/tcw-material-design.css"><link rel="stylesheet" href="../css-5.css?family=Roboto:400,500" type="text/css" media="all"><link id="ctl00_ctl00_BaseStyleLink" rel="stylesheet" type="text/css" href="MOLStyleSheet.css">
+        <style type="text/css">
+            /* hack to make tylerButtons ahere to themed color scheme in Edge browser */
+            @supports (-ms-ime-align:auto) {
+                .tyl-button--raised:not(:disabled) {
+                    background-color: var(--mdc-theme-primary,#3f51b5);
+                }
+            }
+        </style>
+    <link href="App_Themes/Teal/teal.css" type="text/css" rel="stylesheet"><link type="text/css" rel="Stylesheet" href="custom/StyleSheet.css"></head>
+    <noscript>
+        <style type="text/css">
+            #content {display:none;}
+            #leftcolumn {display:none;}
+            .mol-page-container { display: none; }
+        </style>
+        <p>
+            Your browser's ability to run Javascript has been turned off. Please turn it on in order to view this site.
+        </p>
+    </noscript>
+    <body id="top">
+        <form name="aspnetForm" method="post" action="./login.aspx" id="aspnetForm" autocomplete="off" enctype="multipart/form-data">
+<input type="hidden" name="ctl00_ctl00_HiddenUpload_ClientState" id="ctl00_ctl00_HiddenUpload_ClientState" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+
+<script src="../users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js" type="text/javascript"></script>
+<script src="common/FileNotFound.aspx.html?d=5IbQIQ86ZstW0I07OcM-pnIuYajkbGyIl74s3VuVx1nH7pu2g7Mk0QLzNLgzdUEXue219x3skH6pxHUF8oO2sz6Ih4Z3mIuHBBnZ7MvxRWTJWyi0SafhEh2XTLgySof_Kv9aJZbMxD_EsL9qa2LIyTEE4IM1&amp;t=637975409140000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+
+function ReceiveSessionExtensionCallback(arg, context) { 
+if (arg.toString().indexOf("STOP", 0) < 0) {
+	var date = new Date(); 
+	status = 'Session refreshed at ' + date.toLocaleTimeString(); 
+if (TriggerTheSessionTimer) {
+	TriggerTheSessionTimer(arg); 
+}
+}
+}
+
+function CallServer(arg, context) {
+WebForm_DoCallback('ctl00$ctl00$FooterPlaceHolder$SessionExtenderControl1',arg,ReceiveSessionExtensionCallback,"",null,false);
+}//]]>
+</script>
+
+<script src="ScriptResource.axd?d=Wf7gUeC0lBrGb77ZFWcJFjhqxWHpim8WC1nPoCW_CQ5K0EiDOsqYPNbP5TLRykjgWG3E2dTOM2n_1uiqtiFE6urCGmqRdHq2h-DuFX3E8vDBQ-voGl1dF6vWzn0uu_pvE1ELRz4T-ufPMQNQNxhd-ch0c8c1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="js/jquery-3.5.0.min.js" type="text/javascript"></script>
+<script src="js/jquery.calculation.js" type="text/javascript"></script>
+<script src="js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="js/ClientCommon.js" type="text/javascript"></script>
+<script src="common/masterpages/MasterPage.js" type="text/javascript"></script>
+<script src="Static/Scripts/custom-elements-es5-adapter.js" type="text/javascript"></script>
+<script src="Static/Scripts/webcomponents-bundle.js" type="text/javascript"></script>
+<script src="Static/Scripts/tyler-components-web-lib.min.js" type="text/javascript"></script>
+<script src="ScriptResource-1.axd?d=pvy-45-My4HOj22PrvOdOPQlpKIja1V1sOGzT98x1nji_BSr_cqPod-fVTeyc4lYwUa0HAgB4kMukf6OK6qaostMIjLkyRQbQm8bPJgT8SJJZON36ez7MFAGJtw-wdv11UVcLQ2&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-2.axd?d=RRj0owagZbqtAqdHcdHqmhMIxTKinpsLtk9GCdtXuiblX8JV4c_ZgAT1d18l2Jk-W_oaITAiv2VQDM36xuu6BtjBgBSdPfY1wizcBlbEdntXbZGt0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-3.axd?d=TNretO4LO5JtPxYCXXgD6J1518bjqbfyA9Zh6yzymVKt6OZaxP7OeHF4xLORfLWmCwTqDO0ro2FLyPj-clFrllp-ihiTTF6JWkqd4OTtvDKr6Jdu0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-4.axd?d=02scPT5hkRpg3krfUsjxOoVGDcEQ4cFeFkJyNg9DLXglQDzxhgBtv9gKDNFND_s6vUMunu88hU3XfibalRhMefB0Z2bqfAQIw-ATXHhHsR6XqDQn0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-5.axd?d=2jQxgKMF6FMIc5eXjbY7o-R5g14VXoorEeXeKVLLk0iCYjL4zvik8EU1-V1-MIH75kCJT56qeKCR6ttufBVu_ek669Ppq7ecHx74yobFZuXM9Yae0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-6.axd?d=olRfc9UOvJ4Q-MSj1GAg6GvCigccVDTzS5CF7rd87_RB0LmPJ9u3n4NDAw-Jw-CVALKkDxHAStmSaXUPYgVoYCEueCVBypLrTzXzIsE89i1IwoqM0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-7.axd?d=8YnJQJJrcLdsWZG7vOCTI3XJ00yxx67qg8XwUf7G3-TOKlvtoNuluREmeC9ttudWGze6s3RSVTUZ3V92jYDZXfvbyZZdEKrGBB0kKpktF5tlD7Si0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-8.axd?d=9IPDzVWvywVpNb3-e5XJrXUjno7m2UgEL-53J8VT-9isb0mTkaFElqEFOdnIrDQqSf-LrFpG8Lqo3lRa9vFtyHy82Pjk2YdHfL-R26Vtm7aWu6UPTkfQPmVJrJrFuzm5hS8i_Q2&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-9.axd?d=l5wvEAItO0EbMCyM5swHg7FeGBhdJbMAvCFT810lWFBHKRxdaJL7o7SH3YlXqYnrTFLJ1a9ZClOYwMUGAzRZtNNt55fCSHhJH_9RZcATaJqZ9ehC0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-10.axd?d=0JzfGy_pPSssstwLkkruymHzk6Q2bkfa9cZxrscQgkflZKn8SysXeiUJgCjDLOl1AM2KdkG3BvU55bSLU-AiftYzY2vxyc6zgRdt5Jwzn-7yUV8z0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-11.axd?d=A2no627JZJrvdTnwRlq4VDKRtB-E4o__3lGnD9Zsqqdm9Tbor3uDDzH39-OIJQtUKwEPLnppb_yrtu5xja-nOH6KELtIqgHWY3Chf-FHowkRuMa6XH8_-LZ88KvfWRUL3qchYw2&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-12.axd?d=TvK8O1Xw44cM_3hIT7dlPwirfEg9ryFBR-XyI4YVqC41-ZeInWZ7qYdO0WTk8GO_dkOTyHZrQy7YQdu_6khy8jmV0SkPuOCIqxcR5gr5O1ur0YB50&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-13.axd?d=rBjCXg6urBKy_wvhHieoCQTMkNXP2VkyZ0QNl7B-jYKubAjxfBg27q-L02dtDdVdLLf89TuYirj6V9A_O7Sws99iU-2_aMVSHHSc0WyCs0_lG1wn0&amp;t=17b84382" type="text/javascript"></script>
+<script src="ScriptResource-14.axd?d=dtG6GjzC7BlawKzdlcCYr00k9wYWcv1kEyiFB6qUGpIQawqefUKSzudo-y3g1t0dVqzzbBOfDu_Srtn7GRqlTy2z-RNyF8A0w4__AIamx7hsI0PK0&amp;t=17b84382" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5759FBEA">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="t2S9bgzWmxtOiN281ZeFEVaEI5u4rzwk+8spmWkAQ+I8T7vn1W7ora2D353bfw1H5QYLeF+SyPD/z+Lm2g9NeuWFJ44iTwXwAFbrmHw4JjKgVXRcjfn8Jkh6dCfuczJNM5Yf2ssJZyDPYpJI3s2AGsIdv3pxHTEoXjbRxvtqxe4iuhmeQ/QFFfT6sNWE4VsIi2PrUaGdivVmjZxgdBNcp5356s23Ufdhfdl2hPmgEPreloKGfhrvskJsrqn6TpT4ltt0TrG6nePVeW0/DWzBKCxzj8ZDo66JBlbVLZX/ID3r8sld58PoVQcoVum9iZiKgFzfExFY+E2GiRG4VFOp4rvbuVq+iF0mdiRTfUaFjQjmUPvrok2Z1otmTyZ47DkRYKFxtQ==">
+            
+            <div id="fb-root"></div>
+
+            <div class="mol-page-header" role="banner">
+                <a href="common/Upgrade.aspx.html" id="ctl00_ctl00_HomeLinkImage" class="homeLinkImage">
+                  <img id="ctl00_ctl00_ClientHeaderImage" src="custom/images/clw_munis_ss_logo.png" alt="Banner logo with link to homepage" border="0">
+               </a>
+               <div id="headerForPrintOnly" class="printImage">
+                    
+                </div>
+                
+               <div id="topnavbanner">
+                    <div class="loginMenuContainer mol-header-menu-item">
+	<div class="contextMenuTarget" style="line-height:38px">
+		<a class="loginTarget" href="common/Upgrade.aspx.html" aria-expanded="false" aria-label="Home"><div class="mol-menu-item-icon">
+			<i class="material-icons" aria-hidden="true" title="Home">home</i>
+		</div></a>
+	</div><ul class="loginMenu">
+		<li><a href="common/Upgrade.aspx.html">Home</a></li><li><a href="common/Upgrade.aspx.html">My Account</a></li><li><a id="ctl00_ctl00_LoginPlaceHolder_MemberBanner_LoginButton" href="javascript:__doPostBack('ctl00$ctl00$LoginPlaceHolder$MemberBanner$LoginButton','')">Log In</a></li>
+	</ul>
+</div>
+               </div>
+            </div>
+            <div class="mol-page-container mol-fade-in" id="molPageContainer">
+                <div id="molSideMenu" class="mol-side-menu mol-menu-left" role="navigation">
+                    <div class="mol-side-menu-mobile-toggle">
+                        <a href="#" id="molMenuExpander"><i class="fa fa-minus-circle"></i> Collapse Menu</a>
+                    </div>
+                    <ul id="primarynav">
+	<li><a href="common/Upgrade.aspx.html">Home</a></li>
+</ul>
+                </div>
+                <div id="molContentContainer" class="mol-content-container mol-menu-left" role="main">
+                    <div id="molContentMainDiv">
+                        
+                        <div>
+	<h1 class="h2background">
+		Login
+	</h1>
+</div>
+                     
+                        
+                     
+                     
+<div>
+    
+<script type="text/javascript">
+	function GetStrength() {
+		var control = $find("PasswordStrengthBehavior");
+		var label = $get('ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_ChangePasswordControl_ChangePasswordContainerID_PasswordStrengthLabel');
+		var button = $get('ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_ChangePasswordControl_ChangePasswordContainerID_ChangePasswordButton');
+		var strength = control._getPasswordStrength();
+		if (strength == "100") {
+			label.innerHTML = "Acceptable";
+			label.style.color = "Green";
+		}
+		else {
+			label.innerHTML = "Unacceptable";
+			label.style.color = "Red";
+		}
+	}
+</script>
+<div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_UpdatePanel">
+	
+		<div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LoginPanel">
+		
+			
+			<table id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td>
+					<table class="formtable">
+						<caption>
+							
+						</caption>
+						<tr>
+							<td>
+								<label for="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_UserName">Username</label><br>
+								<input name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$LoginControl$LogInServerControl$UserName" type="text" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_UserName" tabindex="1" class="long">
+								<div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_ForgotUsernameContainer" align="right">
+					
+									<a id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_LinkButton1" tabindex="4" href="javascript:__doPostBack('ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$LoginControl$LogInServerControl$LinkButton1','')">Forgot your username?</a>
+								
+				</div>
+								
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<label for="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_Password">Password</label><br>
+								<input name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$LoginControl$LogInServerControl$Password" type="password" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_Password" tabindex="2" class="long">
+								<div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_ForgotPasswordContainer" align="right">
+					
+									<a id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_ShowPasswordHintLink" tabindex="5" href="javascript:__doPostBack('ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$LoginControl$LogInServerControl$ShowPasswordHintLink','')">Forgot your password?</a>
+								
+				</div>
+								
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="button-container">
+									
+            
+        
+									<tcw-button type="raised">
+					<button type="submit" type="submit" name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$LoginControl$LogInServerControl$LogInButton" value="Log in" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$LoginControl$LogInServerControl$LogInButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_LoginControl_LogInServerControl_LogInButton" tabindex="3" style="">Log in</button>
+				</tcw-button>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+			
+			
+
+			
+		
+	</div>
+	
+</div>
+
+</div>
+
+                        
+                    </div>
+                </div>
+                <div style="display: none;" id="hiddenUploadControlDiv">
+                    <div id="ctl00_ctl00_HiddenUpload">
+	<input type="hidden" name="ctl00$ctl00$HiddenUpload$ctl00" id="ctl00_ctl00_HiddenUpload_ctl00"><div id="ctl00_ctl00_HiddenUpload_ctl01"><input name="ctl00$ctl00$HiddenUpload$ctl02" type="file" id="ctl00_ctl00_HiddenUpload_ctl02" style="width:355px;"></div>
+</div>
+                </div>
+                <div class="mol-page-footer" role="contentinfo">
+                    <div class="mol-page-footer-content">
+                        <span id="ctl00_ctl00_CopyrightSpan" class="copyrightSpan">
+                            &#169;2022 Tyler Technologies, Inc.
+                        </span>
+                        
+
+<span id="ctl00_ctl00_FooterPlaceHolder_SessionExtenderControl1"></span>
+
+
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+
+                $(function () {
+                    TylerComponentsWeb.lib.defineComponents();
+                });
+
+                function PreventDoubleClick(element) {
+                    element.onclick = function () { return false; };
+                }
+
+                $(function () {
+                    $(".collapsedheader, .expandedheader").click(function () {
+                        jQuery(this).toggleClass("expandedheader").toggleClass("collapsedheader");
+                        $('.expandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.collapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                    });
+                });
+
+                $(function () {
+                    $(".inlinecollapsedheader").click(function () {
+                        jQuery(this).toggleClass("inlineexpandedheader").toggleClass("inlinecollapsedheader");
+                        $('.inlineexpandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.inlinecollapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                        var self = this;
+                        $('.inlinecollapsed,.inlineexpanded').each(function () {
+                            if (jQuery.contains(this, self)) {
+                                jQuery(this).toggleClass("inlineexpanded").toggleClass("inlinecollapsed");
+                                return;
+                            }
+                        });
+                    });
+                });
+
+                $(function () {
+                    $(".datepicker").datepicker();
+                });
+
+                var showPopupId;
+                function showModalProcessingSpinner() {
+                    if (showPopupId != null) {
+                        // if showPopupId has a value, that means the spinner is already visible
+                        // we need to hide this spinner so the next call to hideModalProcessingSpinner() after
+                        // this one will hide the correct spinner
+                        hideModalProcessingSpinner();
+                    }
+                    var pageURL = document.URL;
+                    var onExceptionsPage = pageURL.includes("Exceptions");
+                    if (!onExceptionsPage) {
+                        showPopupId = setTimeout(function () {
+                            $find('programmaticModalPopupBehavior').show();
+                        }, 1500);
+                    }
+                }
+
+                function hideModalProcessingSpinner() {
+                    clearTimeout(showPopupId);
+                    $find('programmaticModalPopupBehavior').hide();
+                    showPopupId = null;
+                }
+
+                function BeginRequestHandler(sender, args) {
+                    showModalProcessingSpinner();
+                }
+
+                function EndRequestHandler(sender, args) {
+                    hideModalProcessingSpinner();
+                    $(".datepicker").datepicker();
+                }
+
+                var nameOfButtonClicked;
+                function pageLoad(sender, args) {
+                    $('.noSpinner').click(function(){
+                        // if whatever is submitting has "noSpinner" as a class, then we populate nameOfButtonClicked
+                        // otherwise, nameOfButtonClicked will be undefined
+                        // this difference will be used to show the spinner or not
+                        nameOfButtonClicked = $(this).attr('name');
+                    });
+                    var prm = Sys.WebForms.PageRequestManager.getInstance();
+                    prm.remove_beginRequest(BeginRequestHandler);
+                    prm.remove_endRequest(EndRequestHandler);
+                    prm.add_beginRequest(BeginRequestHandler);
+                    prm.add_endRequest(EndRequestHandler);
+                    var formToSubmit = document.getElementById("aspnetForm");
+                    if (formToSubmit.addEventListener) {
+                        formToSubmit.addEventListener("submit", submitForm, false); //event for submit
+                        formToSubmit.addEventListener("change", function (event) {  //event for change on page
+                            var elementType = event.target.type
+                            var elementOnChange = event.target.getAttribute('onchange');
+                            // if a change on the page a) is not a submit, b) is a dropdown
+                            // and c) has an onchange event that is posting back then we show the progress spinner
+                            if (elementType != null && elementType.includes("select") &&
+                                elementOnChange != null && elementOnChange.includes("PostBack")) {
+                                showModalProcessingSpinner();
+                            }
+                        });
+                    }
+                    // add aria label to hidden upload buttons
+                    $('#hiddenUploadControlDiv :input').attr('aria-label', 'File Upload Button');
+                }
+
+                var validatingAndErrorsFound = false;
+                function submitForm(event) {
+                     var OKToShowSpinner = true;
+                     if(typeof nameOfButtonClicked != 'undefined') {
+                        // the button that submitted the form has 'noSpinner' as a class so we do NOT want to show the spinner
+                        // this is for TylerButtons that don't cause the page to do a full post-back, which results in the spinner displaying
+                        // but never being hidden
+                        OKToShowSpinner = false;
+                     }
+
+                    if(OKToShowSpinner) {
+                        // if the page being submitted has validators and one or more
+                        // is invalid, don't show the spinner
+                        if (typeof Page_Validators != 'undefined') {
+                            $.each(Page_Validators, function () {
+                                if (!this.isvalid) {
+                                    validatingAndErrorsFound = true;
+                                    return false;
+                                }
+                            });
+                        }
+                    }
+
+                    if (validatingAndErrorsFound || !OKToShowSpinner) {
+                        hideModalProcessingSpinner();
+                    }
+                    else {
+                       showModalProcessingSpinner();
+                    }
+                    validatingAndErrorsFound = false;
+                }
+
+                pageLoad();
+
+                /**
+                 * This controls hiding/showing the menu when viewed on a small screen in portrait mode.
+                 */
+                $(function () {
+                    var SHOW_CLASS = 'mol-side-menu-show';
+                    var COLLAPSE_MENU_CONTENT = '<i class="fa fa-minus-circle"></i> Collapse Menu';
+                    var EXPAND_MENU_CONTENT = '<i class="fa fa-plus-circle"></i> Expand Menu';
+
+                    // Whenever the window resizes we need to make sure that the menu is visible
+                    // This was added because the CSS used for the media query to add the correct
+                    // styles, we not working on iOS browsers. We add a class with the styles manually.
+                    $(window).resize(function () {
+                        var viewportWidth = $(window).width();
+                        var isExpanded = isMenuExpanded();
+
+                        if (viewportWidth > 768 && !isExpanded) {
+                            $('#primarynav').addClass(SHOW_CLASS);
+                        } else {
+                            $('#primarynav').removeClass(SHOW_CLASS);
+                        }
+
+                        var content = isExpanded ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                        $('#molMenuExpander').html(content);
+                    });
+
+                    // When the page loads, make sure the the menu is visible on larger screens
+                    // in case it set to collapsed for the mobile viewport.
+                    var isExpanded = isMenuExpanded();
+                    if ($(window).width() > 768 && !isExpanded) {
+                        $('#primarynav').addClass(SHOW_CLASS);
+                    }
+
+                    // When the page loads, make sure to collapse the menu if we need to.
+                    if (!isExpanded) {
+                        toggleMenu(true);
+                    }
+
+                    // Whenever the toggle button is clicked, we need to expand or collapse the menu.
+                    $('.mol-side-menu-mobile-toggle').click(function() {
+                        toggleMenu();
+                    });
+
+                    /**
+                     * Determines the expanded/collapsed status of the menu from session storage.
+                     */
+                    function isMenuExpanded() {
+                        return sessionStorage.getItem('isMenuExpanded') === 'true' ? true : false;
+                    }
+
+                    /**
+                     * This toggles the menu between expanded and collapsed.
+                     */
+                    function toggleMenu(skipSessionStorage) {
+                        $('#primarynav').slideToggle(250, function() {
+                            var isVisible = $(this).is(':visible');
+                            var content = isVisible ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                            $('#molMenuExpander').html(content);
+
+                            if (!skipSessionStorage) {
+                                sessionStorage.setItem('isMenuExpanded', isVisible);
+                            }
+
+                            document.body.scrollTop = 0;
+                        });
+                    }
+                });
+
+            </script>
+            
+            <div id="ProgressSpinnerPanel" style="display: none;">
+	
+                <tcw-progress-spinner></tcw-progress-spinner>
+            
+</div>
+            <input name="ctl00$ctl00$ShowModalButton" type="button" id="ShowModalButton" class="nodisplay" value="Modal button">
+        
+
+<script type="text/javascript">
+//<![CDATA[
+
+            var TylerUniversity = {"ClientId":51558,"ClientName":"City of Clearwater, FL","IsEnabled":true,"Munis":{"Version":"2021.5.0.741","Context":"{\"EnvironmentType\":\"Production\",\"DatabaseType\":\"Client\"}"},"ScriptUrl":"https://cdn.walkme.com/users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js","UserName":"GUEST","UserIdentifier":"[51558].[GUEST]"};
+
+            try {
+                var context = JSON.parse(TylerUniversity.Munis.Context);
+                if (context) {
+                    TylerUniversity.Munis.Context = context;
+                } else {
+                    delete TylerUniversity.Munis.Context;    
+                }
+            } catch(e) {
+                delete TylerUniversity.Munis.Context;
+            }
+        PresenceRefresh();
+            var mouse_is_inside = false;
+            $(document).ready(function () {
+                $('.loginMenuTarget').bind('click', ShowLoginMenu);
+                $('.loginMenu').hover(function () {
+                    mouse_is_inside = true;
+                }, function () {
+                    mouse_is_inside = false;
+                });
+
+                $('html').mouseup(function () {
+                    if (!mouse_is_inside)
+                    {
+                        var mouseupTarget = event.srcElement || event.target;
+                        if($(mouseupTarget).is('select')) {
+                            return;
+                        }
+                        HideLoginMenu();
+                    }
+                });
+            });
+
+            function ShowLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'true');
+               $('.loginMenuContainer').addClass('selected');
+               $('.loginMenu').show();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', HideLoginMenu);
+            }
+
+            function HideLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'false');
+               $('.loginMenuContainer').removeClass('selected');                  
+               $('.loginMenu').hide();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', ShowLoginMenu);
+            }Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AsyncFileUpload, {"clientStateField":$get("ctl00_ctl00_HiddenUpload_ClientState"),"completeBackColor":"Lime","errorBackColor":"Red","formName":"aspnetForm","hiddenField":$get("ctl00_ctl00_HiddenUpload_ctl00"),"inputFile":$get("ctl00_ctl00_HiddenUpload_ctl02"),"postBackUrl":"/ess/login.aspx","uploadingBackColor":"White"}, null, null, $get("ctl00_ctl00_HiddenUpload"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/ess/login.aspx","id":"programmaticModalPopupBehavior","popupControlID":"ProgressSpinnerPanel"}, null, null, $get("ShowModalButton"));
+});
+//]]>
+</script>
+</form>
+
+    </body>
+</html>

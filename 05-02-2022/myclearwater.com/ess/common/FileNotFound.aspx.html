@@ -1,0 +1,526 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head id="ctl00_ctl00_head"><title>
+	Untitled Page
+</title><link rel="stylesheet" href="../FontAwesome/css/font-awesome.min.css" /><link rel="stylesheet" href="../bootstrap/bootstrap.css" /><link href="../jquery-ui.css" type="text/css" rel="Stylesheet" /><link href="../jquery-ui.theme.css" type="text/css" rel="Stylesheet" /><link id="ctl00_ctl00_MaterialStyleLink" rel="stylesheet" type="text/css" href="../MOLmaterial.css" /><meta name="description" content="MUNIS Self Services" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="../main.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="../Static/Styles/tcw-material-design.css" /><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,500" type="text/css" media="all" /><link id="ctl00_ctl00_BaseStyleLink" rel="stylesheet" type="text/css" href="../MOLStyleSheet.css" />
+        <style type="text/css">
+            /* hack to make tylerButtons ahere to themed color scheme in Edge browser */
+            @supports (-ms-ime-align:auto) {
+                .tyl-button--raised:not(:disabled) {
+                    background-color: var(--mdc-theme-primary,#3f51b5);
+                }
+            }
+        </style>
+    <link href="../App_Themes/Teal/teal.css" type="text/css" rel="stylesheet" /><link  type="text/css" rel="Stylesheet" href="../custom/StyleSheet.css" /></head>
+    <noscript>
+        <style type="text/css">
+            #content {display:none;}
+            #leftcolumn {display:none;}
+            .mol-page-container { display: none; }
+        </style>
+        <p>
+            Your browser's ability to run Javascript has been turned off. Please turn it on in order to view this site.
+        </p>
+    </noscript>
+    <body id="top">
+        <form name="aspnetForm" method="post" action="./FileNotFound.aspx" id="aspnetForm" autocomplete="off" enctype="multipart/form-data">
+<input type="hidden" name="ctl00_ctl00_HiddenUpload_ClientState" id="ctl00_ctl00_HiddenUpload_ClientState" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="https://cdn.walkme.com/users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js" type="text/javascript"></script>
+<script src="/ess/WebResource.axd?d=5IbQIQ86ZstW0I07OcM-pnIuYajkbGyIl74s3VuVx1nH7pu2g7Mk0QLzNLgzdUEXue219x3skH6pxHUF8oO2sz6Ih4Z3mIuHBBnZ7MvxRWTJWyi0SafhEh2XTLgySof_Kv9aJZbMxD_EsL9qa2LIyTEE4IM1&amp;t=637975409140000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+
+function ReceiveSessionExtensionCallback(arg, context) { 
+if (arg.toString().indexOf("STOP", 0) < 0) {
+	var date = new Date(); 
+	status = 'Session refreshed at ' + date.toLocaleTimeString(); 
+if (TriggerTheSessionTimer) {
+	TriggerTheSessionTimer(arg); 
+}
+}
+}
+
+function CallServer(arg, context) {
+WebForm_DoCallback('ctl00$ctl00$FooterPlaceHolder$SessionExtenderControl1',arg,ReceiveSessionExtensionCallback,"",null,false);
+}
+                function MolSessionTimeoutController(timeout, url, sessionRefreshLifetime) {
+                    this.sessionRefreshLifetime = sessionRefreshLifetime > 0 ? sessionRefreshLifetime : 30;
+
+                    if (timeout < sessionRefreshLifetime) {
+                        sessionRefreshLifetime = timeout;
+                    }
+
+                    this.sessionTimeoutLength = timeout;
+                    this.sessionTimeoutUrl = url;
+                    this.sessionSeconds = 0; 
+                   
+                    this.sessionExtensionModalTimer = null;
+                    this.sessionRedirectTimer = null;
+                    this.sessionSecondsInterval = null;
+                    
+                    this.startSessionTimer();
+                }
+
+                MolSessionTimeoutController.prototype.startSessionTimer = function() {
+                    this.createSessionTimers(this.sessionTimeoutLength, this.sessionTimeoutUrl);
+                }
+
+                MolSessionTimeoutController.prototype.createSessionTimers = function(timeout, url) {
+                    this.sessionExtensionModalTimer = setTimeout(this.showTimeoutExtensionModal.bind(this, this.sessionTimeoutLength, this.sessionTimeoutUrl), (timeout - this.sessionRefreshLifetime) * 1000);
+                    this.sessionRedirectTimer = setTimeout(this.timeoutRedirect.bind(this, this.sessionTimeoutUrl), timeout * 1000);
+                }
+
+                MolSessionTimeoutController.prototype.secondCounter = function() {
+                    if (this.sessionSeconds > 0) {
+                        this.sessionSeconds--;
+                    }
+
+                    this.updateSessionSecondsLabel(this.sessionSeconds);
+
+                    if (this.sessionSeconds === 0) {
+                        this.disableSessionTimeoutModalButtons();
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.showTimeoutExtensionModal = function(timeout, url) {                    
+                    this.sessionSeconds = this.sessionRefreshLifetime;
+
+                    var sessionTimeoutModal = $find('sessionExtendConfirm');
+                    if (sessionTimeoutModal) {
+                        sessionTimeoutModal.show();
+
+                        this.updateSessionSecondsLabel(this.sessionSeconds);
+                        this.sessionSecondsInterval = setInterval(this.secondCounter.bind(this), 1000);
+
+                        var yesButton = document.getElementById('sessionTimeoutButtonYes');
+                        if (yesButton) {
+                            yesButton.focus();
+                        }
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.updateSessionSecondsLabel = function(seconds) {
+                    var secondsElement = document.getElementById('sessionTimeoutSeconds');
+                    if (secondsElement) {
+                        secondsElement.innerHTML = seconds > 0 ? seconds : 0;
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.disableSessionTimeoutModalButtons = function() {
+                    var yesButton = document.getElementById('sessionTimeoutButtonYes');
+                    var noButton = document.getElementById('sessionTimeoutButtonNo');
+                        
+                    if (yesButton) {
+                        yesButton.disabled = true;
+                    }
+
+                    if (noButton) {
+                        noButton.disabled = true;
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.timeoutRedirect = function(url) {
+                    this.updateSessionSecondsLabel(0);
+                    clearInterval(this.sessionSecondsInterval);
+                    this.disableSessionTimeoutModalButtons();
+                    window.location.href = url;
+                }
+
+                MolSessionTimeoutController.prototype.extendSession = function(timeout, url) {
+                    if (window.CallServer) {
+                        window.CallServer('1', '');
+                    }
+                    else {
+                        console.error('SessionTimeoutControl.extendSession: CallServer unavailable. Session was not extended.');
+                    }
+
+                    clearTimeout(this.sessionExtensionModalTimer);
+                    clearTimeout(this.sessionRedirectTimer);
+                    clearInterval(this.sessionSecondsInterval);
+                    this.createSessionTimers(timeout, url);
+                }
+            //]]>
+</script>
+
+<script src="/ess/ScriptResource.axd?d=Wf7gUeC0lBrGb77ZFWcJFjhqxWHpim8WC1nPoCW_CQ5K0EiDOsqYPNbP5TLRykjgWG3E2dTOM2n_1uiqtiFE6urCGmqRdHq2h-DuFX3E8vDBQ-voGl1dF6vWzn0uu_pvE1ELRz4T-ufPMQNQNxhd-ch0c8c1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="../js/jquery-3.5.0.min.js" type="text/javascript"></script>
+<script src="../js/jquery.calculation.js" type="text/javascript"></script>
+<script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="../js/ClientCommon.js" type="text/javascript"></script>
+<script src="masterpages/MasterPage.js" type="text/javascript"></script>
+<script src="../Static/Scripts/custom-elements-es5-adapter.js" type="text/javascript"></script>
+<script src="../Static/Scripts/webcomponents-bundle.js" type="text/javascript"></script>
+<script src="../Static/Scripts/tyler-components-web-lib.min.js" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=pvy-45-My4HOj22PrvOdOPQlpKIja1V1sOGzT98x1nji_BSr_cqPod-fVTeyc4lYwUa0HAgB4kMukf6OK6qaostMIjLkyRQbQm8bPJgT8SJJZON36ez7MFAGJtw-wdv11UVcLQ2&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=RRj0owagZbqtAqdHcdHqmhMIxTKinpsLtk9GCdtXuiblX8JV4c_ZgAT1d18l2Jk-W_oaITAiv2VQDM36xuu6BtjBgBSdPfY1wizcBlbEdntXbZGt0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=TNretO4LO5JtPxYCXXgD6J1518bjqbfyA9Zh6yzymVKt6OZaxP7OeHF4xLORfLWmCwTqDO0ro2FLyPj-clFrllp-ihiTTF6JWkqd4OTtvDKr6Jdu0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=02scPT5hkRpg3krfUsjxOoVGDcEQ4cFeFkJyNg9DLXglQDzxhgBtv9gKDNFND_s6vUMunu88hU3XfibalRhMefB0Z2bqfAQIw-ATXHhHsR6XqDQn0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=2jQxgKMF6FMIc5eXjbY7o-R5g14VXoorEeXeKVLLk0iCYjL4zvik8EU1-V1-MIH75kCJT56qeKCR6ttufBVu_ek669Ppq7ecHx74yobFZuXM9Yae0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=olRfc9UOvJ4Q-MSj1GAg6GvCigccVDTzS5CF7rd87_RB0LmPJ9u3n4NDAw-Jw-CVALKkDxHAStmSaXUPYgVoYCEueCVBypLrTzXzIsE89i1IwoqM0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=8YnJQJJrcLdsWZG7vOCTI3XJ00yxx67qg8XwUf7G3-TOKlvtoNuluREmeC9ttudWGze6s3RSVTUZ3V92jYDZXfvbyZZdEKrGBB0kKpktF5tlD7Si0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=9IPDzVWvywVpNb3-e5XJrXUjno7m2UgEL-53J8VT-9isb0mTkaFElqEFOdnIrDQqSf-LrFpG8Lqo3lRa9vFtyHy82Pjk2YdHfL-R26Vtm7aWu6UPTkfQPmVJrJrFuzm5hS8i_Q2&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=l5wvEAItO0EbMCyM5swHg7FeGBhdJbMAvCFT810lWFBHKRxdaJL7o7SH3YlXqYnrTFLJ1a9ZClOYwMUGAzRZtNNt55fCSHhJH_9RZcATaJqZ9ehC0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=0JzfGy_pPSssstwLkkruymHzk6Q2bkfa9cZxrscQgkflZKn8SysXeiUJgCjDLOl1AM2KdkG3BvU55bSLU-AiftYzY2vxyc6zgRdt5Jwzn-7yUV8z0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=A2no627JZJrvdTnwRlq4VDKRtB-E4o__3lGnD9Zsqqdm9Tbor3uDDzH39-OIJQtUKwEPLnppb_yrtu5xja-nOH6KELtIqgHWY3Chf-FHowkRuMa6XH8_-LZ88KvfWRUL3qchYw2&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=TvK8O1Xw44cM_3hIT7dlPwirfEg9ryFBR-XyI4YVqC41-ZeInWZ7qYdO0WTk8GO_dkOTyHZrQy7YQdu_6khy8jmV0SkPuOCIqxcR5gr5O1ur0YB50&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=rBjCXg6urBKy_wvhHieoCQTMkNXP2VkyZ0QNl7B-jYKubAjxfBg27q-L02dtDdVdLLf89TuYirj6V9A_O7Sws99iU-2_aMVSHHSc0WyCs0_lG1wn0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=dtG6GjzC7BlawKzdlcCYr00k9wYWcv1kEyiFB6qUGpIQawqefUKSzudo-y3g1t0dVqzzbBOfDu_Srtn7GRqlTy2z-RNyF8A0w4__AIamx7hsI0PK0&amp;t=17b84382" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="048CA885" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ywnxq48s8PGC+dFdvmXImGsOfE1oyj2E2Xf7cPFKvE/CCwOHaRzVTuF7AofUhzyc69jp5skx+H70o569o/KbikRYOVSBBjfeZ4l46iLKWv+zPJO/L7D1+NtT+yRMVNEYB9U4+5Pmj+Z2GJpIg0d+GrwN77+S5J/YAzE0aoCvLd+hXk6Vcn8rpyi0xDtnQXB898Sx1WGY/MR/fjmnCi2jBGdQOLw2rCxnwqxDSkmm7lOwE47n1si5fdSZOqeAV8v3rPlFadNamAbHeJ5CGIWR0RsSjdB+FkTRFBh8CmVHLsCVbf1odnnSQUFg6QSn85huIt1eawDVo3IMkpsXGh+NEdkNbcE=" />
+            
+            <div id="fb-root"></div>
+
+            <div class="mol-page-header" role="banner">
+                <a href="https://munisss.myclearwater.com/ESS" id="ctl00_ctl00_HomeLinkImage" class="homeLinkImage">
+                  <img id="ctl00_ctl00_ClientHeaderImage" src="../custom/images/clw_munis_ss_logo.png" alt="Banner logo with link to homepage" border="0" />
+               </a>
+               <div id="headerForPrintOnly" class="printImage">
+                    
+                </div>
+                
+               <div id="topnavbanner">
+                    <div class="loginMenuContainer mol-header-menu-item">
+	<div class="contextMenuTarget" style="line-height:38px">
+		<a class="loginTarget" href="../login.aspx" aria-expanded="false" aria-label="Log In"><div class="mol-menu-item-icon">
+			<span><font size="4">LOG IN</font></span>
+		</div></a>
+	</div><ul class="loginMenu">
+		<li><a href="/ess/Default.aspx">Home</a></li><li><a href="/ess/AccountSettings.aspx">My Account</a></li><li><a id="ctl00_ctl00_LoginPlaceHolder_MemberBanner_LoginButton" href="javascript:__doPostBack(&#39;ctl00$ctl00$LoginPlaceHolder$MemberBanner$LoginButton&#39;,&#39;&#39;)">Log In</a></li>
+	</ul>
+</div>
+               </div>
+            </div>
+            <div class="mol-page-container mol-fade-in" id="molPageContainer">
+                <div id="molSideMenu" class="mol-side-menu mol-menu-left" role="navigation">
+                    <div class="mol-side-menu-mobile-toggle">
+                        <a href="#" id="molMenuExpander"><i class="fa fa-minus-circle"></i> Collapse Menu</a>
+                    </div>
+                    <ul id="primarynav">
+	<li><a href="/ess/default.aspx">Home</a></li>
+</ul>
+                </div>
+                <div id="molContentContainer" class="mol-content-container mol-menu-left" role="main">
+                    <div id="molContentMainDiv">
+                        
+                        <div>
+	<h1 class="h2background">
+		404 - File Not Found
+	</h1>
+</div>
+                     
+                        
+                     <p class="tyl-message"><i class="tyl-error material-icons">error</i><span>The file that has been requested cannot be found.&nbsp;<a alt='close' title='close' onclick="jQuery(this).parent().hide('fast');"><img id='feedbackmessage' height='12px' width='12px' style='margin-top: 0' alt="Close" align='top' src='/ess/images/delete_item_myCart.png'></img></a></span></p>
+                     
+    
+
+                        
+                    </div>
+                </div>
+                <div style="display: none;" id="hiddenUploadControlDiv">
+                    <div id="ctl00_ctl00_HiddenUpload">
+	<input type="hidden" name="ctl00$ctl00$HiddenUpload$ctl00" id="ctl00_ctl00_HiddenUpload_ctl00" /><div id="ctl00_ctl00_HiddenUpload_ctl01"><input name="ctl00$ctl00$HiddenUpload$ctl02" type="file" id="ctl00_ctl00_HiddenUpload_ctl02" style="width:355px;" /></div>
+</div>
+                </div>
+                <div class="mol-page-footer" role="contentinfo">
+                    <div class="mol-page-footer-content">
+                        <span id="ctl00_ctl00_CopyrightSpan" class="copyrightSpan">
+                            &#169;2022 Tyler Technologies, Inc.
+                        </span>
+                        
+
+<span id="ctl00_ctl00_FooterPlaceHolder_SessionExtenderControl1"></span>
+<input type="submit" name="ctl00$ctl00$FooterPlaceHolder$HiddenButton" value="show" id="ctl00_ctl00_FooterPlaceHolder_HiddenButton" class="hidden" /><div id="ctl00_ctl00_FooterPlaceHolder_sessionTimeoutModal" class="modalPopup" role="dialog" aria-labelledby="sessionTimeoutTitle" aria-describedby="sessionTimeoutDescription" style="display:none;">
+	<h3 id="sessionTimeoutTitle">Session Expiring</h3><p id="sessionTimeoutDescription" style="text-align: center;">Your session will expire in <span id="sessionTimeoutSeconds"></span> seconds.<br />Do you want to extend your session?</p><div style="text-align:center;">
+		<input type="submit" name="ctl00$ctl00$FooterPlaceHolder$sessionTimeoutButtonYes" value="Yes" id="sessionTimeoutButtonYes" class="yes" /><input type="submit" name="ctl00$ctl00$FooterPlaceHolder$sessionTimeoutButtonNo" value="No" onclick="window.molSessionTimeoutController.timeoutRedirect(window.molSessionTimeoutController.sessionTimeoutUrl);" id="sessionTimeoutButtonNo" class="no no-right-margin" />
+	</div>
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+
+                $(function () {
+                    TylerComponentsWeb.lib.defineComponents();
+                });
+
+                function PreventDoubleClick(element) {
+                    element.onclick = function () { return false; };
+                }
+
+                $(function () {
+                    $(".collapsedheader, .expandedheader").click(function () {
+                        jQuery(this).toggleClass("expandedheader").toggleClass("collapsedheader");
+                        $('.expandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.collapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                    });
+                });
+
+                $(function () {
+                    $(".inlinecollapsedheader").click(function () {
+                        jQuery(this).toggleClass("inlineexpandedheader").toggleClass("inlinecollapsedheader");
+                        $('.inlineexpandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.inlinecollapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                        var self = this;
+                        $('.inlinecollapsed,.inlineexpanded').each(function () {
+                            if (jQuery.contains(this, self)) {
+                                jQuery(this).toggleClass("inlineexpanded").toggleClass("inlinecollapsed");
+                                return;
+                            }
+                        });
+                    });
+                });
+
+                $(function () {
+                    $(".datepicker").datepicker();
+                });
+
+                var showPopupId;
+                function showModalProcessingSpinner() {
+                    if (showPopupId != null) {
+                        // if showPopupId has a value, that means the spinner is already visible
+                        // we need to hide this spinner so the next call to hideModalProcessingSpinner() after
+                        // this one will hide the correct spinner
+                        hideModalProcessingSpinner();
+                    }
+                    var pageURL = document.URL;
+                    var onExceptionsPage = pageURL.includes("Exceptions");
+                    if (!onExceptionsPage) {
+                        showPopupId = setTimeout(function () {
+                            $find('programmaticModalPopupBehavior').show();
+                        }, 1500);
+                    }
+                }
+
+                function hideModalProcessingSpinner() {
+                    clearTimeout(showPopupId);
+                    $find('programmaticModalPopupBehavior').hide();
+                    showPopupId = null;
+                }
+
+                function BeginRequestHandler(sender, args) {
+                    showModalProcessingSpinner();
+                }
+
+                function EndRequestHandler(sender, args) {
+                    hideModalProcessingSpinner();
+                    $(".datepicker").datepicker();
+                }
+
+                var nameOfButtonClicked;
+                function pageLoad(sender, args) {
+                    $('.noSpinner').click(function(){
+                        // if whatever is submitting has "noSpinner" as a class, then we populate nameOfButtonClicked
+                        // otherwise, nameOfButtonClicked will be undefined
+                        // this difference will be used to show the spinner or not
+                        nameOfButtonClicked = $(this).attr('name');
+                    });
+                    var prm = Sys.WebForms.PageRequestManager.getInstance();
+                    prm.remove_beginRequest(BeginRequestHandler);
+                    prm.remove_endRequest(EndRequestHandler);
+                    prm.add_beginRequest(BeginRequestHandler);
+                    prm.add_endRequest(EndRequestHandler);
+                    var formToSubmit = document.getElementById("aspnetForm");
+                    if (formToSubmit.addEventListener) {
+                        formToSubmit.addEventListener("submit", submitForm, false); //event for submit
+                        formToSubmit.addEventListener("change", function (event) {  //event for change on page
+                            var elementType = event.target.type
+                            var elementOnChange = event.target.getAttribute('onchange');
+                            // if a change on the page a) is not a submit, b) is a dropdown
+                            // and c) has an onchange event that is posting back then we show the progress spinner
+                            if (elementType != null && elementType.includes("select") &&
+                                elementOnChange != null && elementOnChange.includes("PostBack")) {
+                                showModalProcessingSpinner();
+                            }
+                        });
+                    }
+                    // add aria label to hidden upload buttons
+                    $('#hiddenUploadControlDiv :input').attr('aria-label', 'File Upload Button');
+                }
+
+                var validatingAndErrorsFound = false;
+                function submitForm(event) {
+                     var OKToShowSpinner = true;
+                     if(typeof nameOfButtonClicked != 'undefined') {
+                        // the button that submitted the form has 'noSpinner' as a class so we do NOT want to show the spinner
+                        // this is for TylerButtons that don't cause the page to do a full post-back, which results in the spinner displaying
+                        // but never being hidden
+                        OKToShowSpinner = false;
+                     }
+
+                    if(OKToShowSpinner) {
+                        // if the page being submitted has validators and one or more
+                        // is invalid, don't show the spinner
+                        if (typeof Page_Validators != 'undefined') {
+                            $.each(Page_Validators, function () {
+                                if (!this.isvalid) {
+                                    validatingAndErrorsFound = true;
+                                    return false;
+                                }
+                            });
+                        }
+                    }
+
+                    if (validatingAndErrorsFound || !OKToShowSpinner) {
+                        hideModalProcessingSpinner();
+                    }
+                    else {
+                       showModalProcessingSpinner();
+                    }
+                    validatingAndErrorsFound = false;
+                }
+
+                pageLoad();
+
+                /**
+                 * This controls hiding/showing the menu when viewed on a small screen in portrait mode.
+                 */
+                $(function () {
+                    var SHOW_CLASS = 'mol-side-menu-show';
+                    var COLLAPSE_MENU_CONTENT = '<i class="fa fa-minus-circle"></i> Collapse Menu';
+                    var EXPAND_MENU_CONTENT = '<i class="fa fa-plus-circle"></i> Expand Menu';
+
+                    // Whenever the window resizes we need to make sure that the menu is visible
+                    // This was added because the CSS used for the media query to add the correct
+                    // styles, we not working on iOS browsers. We add a class with the styles manually.
+                    $(window).resize(function () {
+                        var viewportWidth = $(window).width();
+                        var isExpanded = isMenuExpanded();
+
+                        if (viewportWidth > 768 && !isExpanded) {
+                            $('#primarynav').addClass(SHOW_CLASS);
+                        } else {
+                            $('#primarynav').removeClass(SHOW_CLASS);
+                        }
+
+                        var content = isExpanded ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                        $('#molMenuExpander').html(content);
+                    });
+
+                    // When the page loads, make sure the the menu is visible on larger screens
+                    // in case it set to collapsed for the mobile viewport.
+                    var isExpanded = isMenuExpanded();
+                    if ($(window).width() > 768 && !isExpanded) {
+                        $('#primarynav').addClass(SHOW_CLASS);
+                    }
+
+                    // When the page loads, make sure to collapse the menu if we need to.
+                    if (!isExpanded) {
+                        toggleMenu(true);
+                    }
+
+                    // Whenever the toggle button is clicked, we need to expand or collapse the menu.
+                    $('.mol-side-menu-mobile-toggle').click(function() {
+                        toggleMenu();
+                    });
+
+                    /**
+                     * Determines the expanded/collapsed status of the menu from session storage.
+                     */
+                    function isMenuExpanded() {
+                        return sessionStorage.getItem('isMenuExpanded') === 'true' ? true : false;
+                    }
+
+                    /**
+                     * This toggles the menu between expanded and collapsed.
+                     */
+                    function toggleMenu(skipSessionStorage) {
+                        $('#primarynav').slideToggle(250, function() {
+                            var isVisible = $(this).is(':visible');
+                            var content = isVisible ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                            $('#molMenuExpander').html(content);
+
+                            if (!skipSessionStorage) {
+                                sessionStorage.setItem('isMenuExpanded', isVisible);
+                            }
+
+                            document.body.scrollTop = 0;
+                        });
+                    }
+                });
+
+            </script>
+            
+            <div id="ProgressSpinnerPanel" style="display: none;">
+	
+                <tcw-progress-spinner></tcw-progress-spinner>
+            
+</div>
+            <input name="ctl00$ctl00$ShowModalButton" type="button" id="ShowModalButton" class="nodisplay" value="Modal button" />
+        
+
+<script type="text/javascript">
+//<![CDATA[
+
+            var TylerUniversity = {"ClientId":51558,"ClientName":"City of Clearwater, FL","IsEnabled":true,"Munis":{"Version":"2021.5.0.741","Context":"{\"EnvironmentType\":\"Production\",\"DatabaseType\":\"Client\"}"},"ScriptUrl":"https://cdn.walkme.com/users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js","UserName":"GUEST","UserIdentifier":"[51558].[GUEST]"};
+
+            try {
+                var context = JSON.parse(TylerUniversity.Munis.Context);
+                if (context) {
+                    TylerUniversity.Munis.Context = context;
+                } else {
+                    delete TylerUniversity.Munis.Context;    
+                }
+            } catch(e) {
+                delete TylerUniversity.Munis.Context;
+            }
+        PresenceRefresh();
+            var mouse_is_inside = false;
+            $(document).ready(function () {
+                $('.loginMenuTarget').bind('click', ShowLoginMenu);
+                $('.loginMenu').hover(function () {
+                    mouse_is_inside = true;
+                }, function () {
+                    mouse_is_inside = false;
+                });
+
+                $('html').mouseup(function () {
+                    if (!mouse_is_inside)
+                    {
+                        var mouseupTarget = event.srcElement || event.target;
+                        if($(mouseupTarget).is('select')) {
+                            return;
+                        }
+                        HideLoginMenu();
+                    }
+                });
+            });
+
+            function ShowLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'true');
+               $('.loginMenuContainer').addClass('selected');
+               $('.loginMenu').show();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', HideLoginMenu);
+            }
+
+            function HideLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'false');
+               $('.loginMenuContainer').removeClass('selected');                  
+               $('.loginMenu').hide();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', ShowLoginMenu);
+            }window.molSessionTimeoutController = new MolSessionTimeoutController(1200, 'https://munisss.myclearwater.com/ess/timeout.aspx', 30);Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AsyncFileUpload, {"clientStateField":$get("ctl00_ctl00_HiddenUpload_ClientState"),"completeBackColor":"Lime","errorBackColor":"Red","formName":"aspnetForm","hiddenField":$get("ctl00_ctl00_HiddenUpload_ctl00"),"inputFile":$get("ctl00_ctl00_HiddenUpload_ctl02"),"postBackUrl":"/ess/common/FileNotFound.aspx","uploadingBackColor":"White"}, null, null, $get("ctl00_ctl00_HiddenUpload"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/ess/common/FileNotFound.aspx","id":"sessionExtendConfirm","okControlID":"sessionTimeoutButtonYes","onOkScript":"window.molSessionTimeoutController.extendSession(window.molSessionTimeoutController.sessionTimeoutLength, window.molSessionTimeoutController.sessionTimeoutUrl);","popupControlID":"ctl00_ctl00_FooterPlaceHolder_sessionTimeoutModal"}, null, null, $get("ctl00_ctl00_FooterPlaceHolder_HiddenButton"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/ess/common/FileNotFound.aspx","id":"programmaticModalPopupBehavior","popupControlID":"ProgressSpinnerPanel"}, null, null, $get("ShowModalButton"));
+});
+//]]>
+</script>
+</form>
+
+    </body>
+</html>

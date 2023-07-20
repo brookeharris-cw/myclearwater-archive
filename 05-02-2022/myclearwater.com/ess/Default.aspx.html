@@ -1,0 +1,425 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head id="ctl00_ctl00_head"><title>
+	MUNIS OnLine Home Page
+</title><link rel="stylesheet" href="FontAwesome/css/font-awesome.min.css" /><link rel="stylesheet" href="bootstrap/bootstrap.css" /><link href="jquery-ui.css" type="text/css" rel="Stylesheet" /><link href="jquery-ui.theme.css" type="text/css" rel="Stylesheet" /><link id="ctl00_ctl00_MaterialStyleLink" rel="stylesheet" type="text/css" href="MOLmaterial.css" /><meta name="description" content="MUNIS Self Services" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="main.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="Static/Styles/tcw-material-design.css" /><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,500" type="text/css" media="all" /><link id="ctl00_ctl00_BaseStyleLink" rel="stylesheet" type="text/css" href="MOLStyleSheet.css" />
+        <style type="text/css">
+            /* hack to make tylerButtons ahere to themed color scheme in Edge browser */
+            @supports (-ms-ime-align:auto) {
+                .tyl-button--raised:not(:disabled) {
+                    background-color: var(--mdc-theme-primary,#3f51b5);
+                }
+            }
+        </style>
+    <link href="App_Themes/Teal/teal.css" type="text/css" rel="stylesheet" /><link  type="text/css" rel="Stylesheet" href="custom/StyleSheet.css" /></head>
+    <noscript>
+        <style type="text/css">
+            #content {display:none;}
+            #leftcolumn {display:none;}
+            .mol-page-container { display: none; }
+        </style>
+        <p>
+            Your browser's ability to run Javascript has been turned off. Please turn it on in order to view this site.
+        </p>
+    </noscript>
+    <body id="top">
+        <form name="aspnetForm" method="post" action="./Default.aspx" id="aspnetForm" autocomplete="off" enctype="multipart/form-data">
+<input type="hidden" name="ctl00_ctl00_HiddenUpload_ClientState" id="ctl00_ctl00_HiddenUpload_ClientState" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="https://cdn.walkme.com/users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js" type="text/javascript"></script>
+<script src="/ess/WebResource.axd?d=5IbQIQ86ZstW0I07OcM-pnIuYajkbGyIl74s3VuVx1nH7pu2g7Mk0QLzNLgzdUEXue219x3skH6pxHUF8oO2sz6Ih4Z3mIuHBBnZ7MvxRWTJWyi0SafhEh2XTLgySof_Kv9aJZbMxD_EsL9qa2LIyTEE4IM1&amp;t=637975409140000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+
+function ReceiveSessionExtensionCallback(arg, context) { 
+if (arg.toString().indexOf("STOP", 0) < 0) {
+	var date = new Date(); 
+	status = 'Session refreshed at ' + date.toLocaleTimeString(); 
+if (TriggerTheSessionTimer) {
+	TriggerTheSessionTimer(arg); 
+}
+}
+}
+
+function CallServer(arg, context) {
+WebForm_DoCallback('ctl00$ctl00$FooterPlaceHolder$SessionExtenderControl1',arg,ReceiveSessionExtensionCallback,"",null,false);
+}//]]>
+</script>
+
+<script src="/ess/ScriptResource.axd?d=Wf7gUeC0lBrGb77ZFWcJFjhqxWHpim8WC1nPoCW_CQ5K0EiDOsqYPNbP5TLRykjgWG3E2dTOM2n_1uiqtiFE6urCGmqRdHq2h-DuFX3E8vDBQ-voGl1dF6vWzn0uu_pvE1ELRz4T-ufPMQNQNxhd-ch0c8c1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="js/jquery-3.5.0.min.js" type="text/javascript"></script>
+<script src="js/jquery.calculation.js" type="text/javascript"></script>
+<script src="js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="js/ClientCommon.js" type="text/javascript"></script>
+<script src="common/masterpages/MasterPage.js" type="text/javascript"></script>
+<script src="Static/Scripts/custom-elements-es5-adapter.js" type="text/javascript"></script>
+<script src="Static/Scripts/webcomponents-bundle.js" type="text/javascript"></script>
+<script src="Static/Scripts/tyler-components-web-lib.min.js" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=pvy-45-My4HOj22PrvOdOPQlpKIja1V1sOGzT98x1nji_BSr_cqPod-fVTeyc4lYwUa0HAgB4kMukf6OK6qaostMIjLkyRQbQm8bPJgT8SJJZON36ez7MFAGJtw-wdv11UVcLQ2&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=RRj0owagZbqtAqdHcdHqmhMIxTKinpsLtk9GCdtXuiblX8JV4c_ZgAT1d18l2Jk-W_oaITAiv2VQDM36xuu6BtjBgBSdPfY1wizcBlbEdntXbZGt0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=TNretO4LO5JtPxYCXXgD6J1518bjqbfyA9Zh6yzymVKt6OZaxP7OeHF4xLORfLWmCwTqDO0ro2FLyPj-clFrllp-ihiTTF6JWkqd4OTtvDKr6Jdu0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=02scPT5hkRpg3krfUsjxOoVGDcEQ4cFeFkJyNg9DLXglQDzxhgBtv9gKDNFND_s6vUMunu88hU3XfibalRhMefB0Z2bqfAQIw-ATXHhHsR6XqDQn0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=2jQxgKMF6FMIc5eXjbY7o-R5g14VXoorEeXeKVLLk0iCYjL4zvik8EU1-V1-MIH75kCJT56qeKCR6ttufBVu_ek669Ppq7ecHx74yobFZuXM9Yae0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=olRfc9UOvJ4Q-MSj1GAg6GvCigccVDTzS5CF7rd87_RB0LmPJ9u3n4NDAw-Jw-CVALKkDxHAStmSaXUPYgVoYCEueCVBypLrTzXzIsE89i1IwoqM0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=8YnJQJJrcLdsWZG7vOCTI3XJ00yxx67qg8XwUf7G3-TOKlvtoNuluREmeC9ttudWGze6s3RSVTUZ3V92jYDZXfvbyZZdEKrGBB0kKpktF5tlD7Si0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=9IPDzVWvywVpNb3-e5XJrXUjno7m2UgEL-53J8VT-9isb0mTkaFElqEFOdnIrDQqSf-LrFpG8Lqo3lRa9vFtyHy82Pjk2YdHfL-R26Vtm7aWu6UPTkfQPmVJrJrFuzm5hS8i_Q2&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=l5wvEAItO0EbMCyM5swHg7FeGBhdJbMAvCFT810lWFBHKRxdaJL7o7SH3YlXqYnrTFLJ1a9ZClOYwMUGAzRZtNNt55fCSHhJH_9RZcATaJqZ9ehC0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=0JzfGy_pPSssstwLkkruymHzk6Q2bkfa9cZxrscQgkflZKn8SysXeiUJgCjDLOl1AM2KdkG3BvU55bSLU-AiftYzY2vxyc6zgRdt5Jwzn-7yUV8z0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=A2no627JZJrvdTnwRlq4VDKRtB-E4o__3lGnD9Zsqqdm9Tbor3uDDzH39-OIJQtUKwEPLnppb_yrtu5xja-nOH6KELtIqgHWY3Chf-FHowkRuMa6XH8_-LZ88KvfWRUL3qchYw2&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=TvK8O1Xw44cM_3hIT7dlPwirfEg9ryFBR-XyI4YVqC41-ZeInWZ7qYdO0WTk8GO_dkOTyHZrQy7YQdu_6khy8jmV0SkPuOCIqxcR5gr5O1ur0YB50&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=rBjCXg6urBKy_wvhHieoCQTMkNXP2VkyZ0QNl7B-jYKubAjxfBg27q-L02dtDdVdLLf89TuYirj6V9A_O7Sws99iU-2_aMVSHHSc0WyCs0_lG1wn0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ess/ScriptResource.axd?d=dtG6GjzC7BlawKzdlcCYr00k9wYWcv1kEyiFB6qUGpIQawqefUKSzudo-y3g1t0dVqzzbBOfDu_Srtn7GRqlTy2z-RNyF8A0w4__AIamx7hsI0PK0&amp;t=17b84382" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5E766463" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="W/UB4TU5T+G0uGBgvnaBIhtYcT+My9Jv01j/ctrifNcR3cFSc5Qa/qjBVcyCbkixdRTt4YuKdY+yjqMI0Z1a2xDgW+h397vME/j3whv8r5BICtLqqQmSQUZ98kIJc9lWrO6yynWftDidWhpTtmOvVqw3XSBeaJk3lgqftc+7IFqSrdnE2HoFbhDQNO5GLRs7coO8t5+Fu5r4G7vqnVgh82O0NCTN+rgizZXKeVAdPneUrdE37q7IZXur4G+QuimQr73RjW19yOeJjC3sK0l3ymhLSYM=" />
+            
+            <div id="fb-root"></div>
+
+            <div class="mol-page-header" role="banner">
+                <a href="https://munisss.myclearwater.com/ESS" id="ctl00_ctl00_HomeLinkImage" class="homeLinkImage">
+                  <img id="ctl00_ctl00_ClientHeaderImage" src="custom/images/clw_munis_ss_logo.png" alt="Banner logo with link to homepage" border="0" />
+               </a>
+               <div id="headerForPrintOnly" class="printImage">
+                    
+                </div>
+                
+               <div id="topnavbanner">
+                    <div class="loginMenuContainer mol-header-menu-item">
+	<div class="contextMenuTarget" style="line-height:38px">
+		<a class="loginTarget" href="login.aspx" aria-expanded="false" aria-label="Log In"><div class="mol-menu-item-icon">
+			<span><font size="4">LOG IN</font></span>
+		</div></a>
+	</div><ul class="loginMenu">
+		<li><a href="/ess/AccountSettings.aspx">My Account</a></li><li><a id="ctl00_ctl00_LoginPlaceHolder_MemberBanner_LoginButton" href="javascript:__doPostBack(&#39;ctl00$ctl00$LoginPlaceHolder$MemberBanner$LoginButton&#39;,&#39;&#39;)">Log In</a></li>
+	</ul>
+</div>
+               </div>
+            </div>
+            <div class="mol-page-container mol-fade-in" id="molPageContainer">
+                <div id="molSideMenu" class="mol-side-menu mol-menu-left" role="navigation">
+                    <div class="mol-side-menu-mobile-toggle">
+                        <a href="#" id="molMenuExpander"><i class="fa fa-minus-circle"></i> Collapse Menu</a>
+                    </div>
+                    <ul id="primarynav">
+	<li class="primarynavselected"><a href="/ess/default.aspx">Home<span class="visually-hidden">Currently selected</span></a></li>
+</ul>
+                </div>
+                <div id="molContentContainer" class="mol-content-container mol-menu-left" role="main">
+                    <div id="molContentMainDiv">
+                        
+                        <div>
+	<h1 class="h2background">
+		City of Clearwater Florida Employee Self Service
+	</h1>
+</div>
+                     
+                        
+                     
+                     
+    <p style="font-size:larger"><span id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_HomePageMessage"><br><h1 style="color:DodgerBlue;">Welcome!</h1> <br><br>
+<font size="3">Use the link at the upper right corner to log in using your Munis employee number as your username. <br><br>
+If this is your first time logging in, your temporary password will be the last four digits of your social security number, and you will be prompted to enter a permanent password. <br>
+Passwords must be at least 15 characters and include at least one number and both upper and lowercase letters. <br></font></span></p>
+
+                        
+                    </div>
+                </div>
+                <div style="display: none;" id="hiddenUploadControlDiv">
+                    <div id="ctl00_ctl00_HiddenUpload">
+	<input type="hidden" name="ctl00$ctl00$HiddenUpload$ctl00" id="ctl00_ctl00_HiddenUpload_ctl00" /><div id="ctl00_ctl00_HiddenUpload_ctl01"><input name="ctl00$ctl00$HiddenUpload$ctl02" type="file" id="ctl00_ctl00_HiddenUpload_ctl02" style="width:355px;" /></div>
+</div>
+                </div>
+                <div class="mol-page-footer" role="contentinfo">
+                    <div class="mol-page-footer-content">
+                        <span id="ctl00_ctl00_CopyrightSpan" class="copyrightSpan">
+                            &#169;2022 Tyler Technologies, Inc.
+                        </span>
+                        
+
+<span id="ctl00_ctl00_FooterPlaceHolder_SessionExtenderControl1"></span>
+
+
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+
+                $(function () {
+                    TylerComponentsWeb.lib.defineComponents();
+                });
+
+                function PreventDoubleClick(element) {
+                    element.onclick = function () { return false; };
+                }
+
+                $(function () {
+                    $(".collapsedheader, .expandedheader").click(function () {
+                        jQuery(this).toggleClass("expandedheader").toggleClass("collapsedheader");
+                        $('.expandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.collapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                    });
+                });
+
+                $(function () {
+                    $(".inlinecollapsedheader").click(function () {
+                        jQuery(this).toggleClass("inlineexpandedheader").toggleClass("inlinecollapsedheader");
+                        $('.inlineexpandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.inlinecollapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                        var self = this;
+                        $('.inlinecollapsed,.inlineexpanded').each(function () {
+                            if (jQuery.contains(this, self)) {
+                                jQuery(this).toggleClass("inlineexpanded").toggleClass("inlinecollapsed");
+                                return;
+                            }
+                        });
+                    });
+                });
+
+                $(function () {
+                    $(".datepicker").datepicker();
+                });
+
+                var showPopupId;
+                function showModalProcessingSpinner() {
+                    if (showPopupId != null) {
+                        // if showPopupId has a value, that means the spinner is already visible
+                        // we need to hide this spinner so the next call to hideModalProcessingSpinner() after
+                        // this one will hide the correct spinner
+                        hideModalProcessingSpinner();
+                    }
+                    var pageURL = document.URL;
+                    var onExceptionsPage = pageURL.includes("Exceptions");
+                    if (!onExceptionsPage) {
+                        showPopupId = setTimeout(function () {
+                            $find('programmaticModalPopupBehavior').show();
+                        }, 1500);
+                    }
+                }
+
+                function hideModalProcessingSpinner() {
+                    clearTimeout(showPopupId);
+                    $find('programmaticModalPopupBehavior').hide();
+                    showPopupId = null;
+                }
+
+                function BeginRequestHandler(sender, args) {
+                    showModalProcessingSpinner();
+                }
+
+                function EndRequestHandler(sender, args) {
+                    hideModalProcessingSpinner();
+                    $(".datepicker").datepicker();
+                }
+
+                var nameOfButtonClicked;
+                function pageLoad(sender, args) {
+                    $('.noSpinner').click(function(){
+                        // if whatever is submitting has "noSpinner" as a class, then we populate nameOfButtonClicked
+                        // otherwise, nameOfButtonClicked will be undefined
+                        // this difference will be used to show the spinner or not
+                        nameOfButtonClicked = $(this).attr('name');
+                    });
+                    var prm = Sys.WebForms.PageRequestManager.getInstance();
+                    prm.remove_beginRequest(BeginRequestHandler);
+                    prm.remove_endRequest(EndRequestHandler);
+                    prm.add_beginRequest(BeginRequestHandler);
+                    prm.add_endRequest(EndRequestHandler);
+                    var formToSubmit = document.getElementById("aspnetForm");
+                    if (formToSubmit.addEventListener) {
+                        formToSubmit.addEventListener("submit", submitForm, false); //event for submit
+                        formToSubmit.addEventListener("change", function (event) {  //event for change on page
+                            var elementType = event.target.type
+                            var elementOnChange = event.target.getAttribute('onchange');
+                            // if a change on the page a) is not a submit, b) is a dropdown
+                            // and c) has an onchange event that is posting back then we show the progress spinner
+                            if (elementType != null && elementType.includes("select") &&
+                                elementOnChange != null && elementOnChange.includes("PostBack")) {
+                                showModalProcessingSpinner();
+                            }
+                        });
+                    }
+                    // add aria label to hidden upload buttons
+                    $('#hiddenUploadControlDiv :input').attr('aria-label', 'File Upload Button');
+                }
+
+                var validatingAndErrorsFound = false;
+                function submitForm(event) {
+                     var OKToShowSpinner = true;
+                     if(typeof nameOfButtonClicked != 'undefined') {
+                        // the button that submitted the form has 'noSpinner' as a class so we do NOT want to show the spinner
+                        // this is for TylerButtons that don't cause the page to do a full post-back, which results in the spinner displaying
+                        // but never being hidden
+                        OKToShowSpinner = false;
+                     }
+
+                    if(OKToShowSpinner) {
+                        // if the page being submitted has validators and one or more
+                        // is invalid, don't show the spinner
+                        if (typeof Page_Validators != 'undefined') {
+                            $.each(Page_Validators, function () {
+                                if (!this.isvalid) {
+                                    validatingAndErrorsFound = true;
+                                    return false;
+                                }
+                            });
+                        }
+                    }
+
+                    if (validatingAndErrorsFound || !OKToShowSpinner) {
+                        hideModalProcessingSpinner();
+                    }
+                    else {
+                       showModalProcessingSpinner();
+                    }
+                    validatingAndErrorsFound = false;
+                }
+
+                pageLoad();
+
+                /**
+                 * This controls hiding/showing the menu when viewed on a small screen in portrait mode.
+                 */
+                $(function () {
+                    var SHOW_CLASS = 'mol-side-menu-show';
+                    var COLLAPSE_MENU_CONTENT = '<i class="fa fa-minus-circle"></i> Collapse Menu';
+                    var EXPAND_MENU_CONTENT = '<i class="fa fa-plus-circle"></i> Expand Menu';
+
+                    // Whenever the window resizes we need to make sure that the menu is visible
+                    // This was added because the CSS used for the media query to add the correct
+                    // styles, we not working on iOS browsers. We add a class with the styles manually.
+                    $(window).resize(function () {
+                        var viewportWidth = $(window).width();
+                        var isExpanded = isMenuExpanded();
+
+                        if (viewportWidth > 768 && !isExpanded) {
+                            $('#primarynav').addClass(SHOW_CLASS);
+                        } else {
+                            $('#primarynav').removeClass(SHOW_CLASS);
+                        }
+
+                        var content = isExpanded ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                        $('#molMenuExpander').html(content);
+                    });
+
+                    // When the page loads, make sure the the menu is visible on larger screens
+                    // in case it set to collapsed for the mobile viewport.
+                    var isExpanded = isMenuExpanded();
+                    if ($(window).width() > 768 && !isExpanded) {
+                        $('#primarynav').addClass(SHOW_CLASS);
+                    }
+
+                    // When the page loads, make sure to collapse the menu if we need to.
+                    if (!isExpanded) {
+                        toggleMenu(true);
+                    }
+
+                    // Whenever the toggle button is clicked, we need to expand or collapse the menu.
+                    $('.mol-side-menu-mobile-toggle').click(function() {
+                        toggleMenu();
+                    });
+
+                    /**
+                     * Determines the expanded/collapsed status of the menu from session storage.
+                     */
+                    function isMenuExpanded() {
+                        return sessionStorage.getItem('isMenuExpanded') === 'true' ? true : false;
+                    }
+
+                    /**
+                     * This toggles the menu between expanded and collapsed.
+                     */
+                    function toggleMenu(skipSessionStorage) {
+                        $('#primarynav').slideToggle(250, function() {
+                            var isVisible = $(this).is(':visible');
+                            var content = isVisible ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                            $('#molMenuExpander').html(content);
+
+                            if (!skipSessionStorage) {
+                                sessionStorage.setItem('isMenuExpanded', isVisible);
+                            }
+
+                            document.body.scrollTop = 0;
+                        });
+                    }
+                });
+
+            </script>
+            
+            <div id="ProgressSpinnerPanel" style="display: none;">
+	
+                <tcw-progress-spinner></tcw-progress-spinner>
+            
+</div>
+            <input name="ctl00$ctl00$ShowModalButton" type="button" id="ShowModalButton" class="nodisplay" value="Modal button" />
+        
+
+<script type="text/javascript">
+//<![CDATA[
+
+            var TylerUniversity = {"ClientId":51558,"ClientName":"City of Clearwater, FL","IsEnabled":true,"Munis":{"Version":"2021.5.0.741","Context":"{\"EnvironmentType\":\"Production\",\"DatabaseType\":\"Client\"}"},"ScriptUrl":"https://cdn.walkme.com/users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js","UserName":"GUEST","UserIdentifier":"[51558].[GUEST]"};
+
+            try {
+                var context = JSON.parse(TylerUniversity.Munis.Context);
+                if (context) {
+                    TylerUniversity.Munis.Context = context;
+                } else {
+                    delete TylerUniversity.Munis.Context;    
+                }
+            } catch(e) {
+                delete TylerUniversity.Munis.Context;
+            }
+        PresenceRefresh();
+            var mouse_is_inside = false;
+            $(document).ready(function () {
+                $('.loginMenuTarget').bind('click', ShowLoginMenu);
+                $('.loginMenu').hover(function () {
+                    mouse_is_inside = true;
+                }, function () {
+                    mouse_is_inside = false;
+                });
+
+                $('html').mouseup(function () {
+                    if (!mouse_is_inside)
+                    {
+                        var mouseupTarget = event.srcElement || event.target;
+                        if($(mouseupTarget).is('select')) {
+                            return;
+                        }
+                        HideLoginMenu();
+                    }
+                });
+            });
+
+            function ShowLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'true');
+               $('.loginMenuContainer').addClass('selected');
+               $('.loginMenu').show();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', HideLoginMenu);
+            }
+
+            function HideLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'false');
+               $('.loginMenuContainer').removeClass('selected');                  
+               $('.loginMenu').hide();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', ShowLoginMenu);
+            }Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.AsyncFileUpload, {"clientStateField":$get("ctl00_ctl00_HiddenUpload_ClientState"),"completeBackColor":"Lime","errorBackColor":"Red","formName":"aspnetForm","hiddenField":$get("ctl00_ctl00_HiddenUpload_ctl00"),"inputFile":$get("ctl00_ctl00_HiddenUpload_ctl02"),"postBackUrl":"/ess/Default.aspx","uploadingBackColor":"White"}, null, null, $get("ctl00_ctl00_HiddenUpload"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/ess/Default.aspx","id":"programmaticModalPopupBehavior","popupControlID":"ProgressSpinnerPanel"}, null, null, $get("ShowModalButton"));
+});
+//]]>
+</script>
+</form>
+
+    </body>
+</html>
