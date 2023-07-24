@@ -1,0 +1,3434 @@
+/* HTML Defaults and Generics Classes */
+@media all {
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr { 
+	border: 0 none;
+	margin: 0; 
+	padding: 0;
+}
+
+        html * {
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+    body {
+    background: #f0f0f0; 
+    font-size: 80%;
+}
+	
+	
+	h1 { 
+		font-size: 1.8em;
+	}
+
+	h2 { 
+		font-size: 1.4em; 
+	}
+
+	h3 { 
+		font-size: 1.2em;
+	}
+
+	h4 { 
+		font-size: 1.1em;
+	}
+
+	p { 
+		font-size: 1em;
+	}
+	
+	table { 
+		}
+
+		caption { 
+			font-size: 1em; 
+			text-align: left;
+        font-weight: bold;
+		}
+
+		th { 
+			font-size: 1em;
+			text-align: left;
+        font-weight: bold;
+			}
+
+		td { 
+			font-size: 1em;
+        vertical-align: middle;
+			}
+			
+        td.aligntop {
+    			font-size: 1em;
+            vertical-align: top;
+			}
+
+		li {
+			font-size: 1em;
+			}
+
+			li li {
+				font-size: 1em;
+			}
+			
+	hr {
+		border: 0; 
+		height: 1px; 
+		background: #b1b1b1; 
+			*color: #b1b1b1; 
+		margin-bottom: 0;
+	}
+
+	a, a:link, a:visited {
+        cursor: pointer;
+	    color: blue;
+		}
+
+		a:hover, a:active, a:focus {
+			text-decoration: none;
+		}
+
+	img { 
+		border: none;
+	}
+
+   .img-hover-zoom img {
+      -webkit-transition: all .3s ease; /* Safari and Chrome */
+  	   -moz-transition: all .3s ease; /* Firefox */
+  	   -o-transition: all .3s ease; /* IE 9 */
+  	   -ms-transition: all .3s ease; /* Opera */
+  	   transition: all .3s ease;
+   }
+  .img-hover-zoom:hover img:hover {
+     -webkit-backface-visibility: hidden;
+     backface-visibility: hidden;
+     -webkit-transform:translateZ(0) translateX(50%) scale(2.80); /* Safari and Chrome */
+     -moz-transform:scale(2.80) translateX(50%); /* Firefox */
+     -ms-transform:scale(2.80) translateX(50%); /* IE 9 */
+     -o-transform:translatZ(0) translateX(50%) scale(2.80); /* Opera */
+     transform:translatZ(0) translateX(50%) scale(2.80);
+}
+
+	form {
+		margin: 0;
+		padding: 0;
+		}
+
+		input, select, textarea {
+			font: 13px;
+		}
+
+        input[type=text],
+        input[type=password],
+        input[type=email],
+        select {            
+            padding: 6px 6px;
+            line-height: 1.42857143;
+            border: 1px solid #ced4da;
+            border-radius:2px;   
+        }
+
+        input[type=submit]:hover {
+            cursor: pointer;
+        }
+		
+		
+        invalid-feedback {
+            color:red;
+        }
+		
+/* Styles for Page and Header */
+
+    #envelope {
+    width: 960px; /* width: 1024px; */
+        margin: 0 auto;
+}
+
+    #container {
+	height: 80px;
+	padding: 22px 0 0 2px;
+	width: 100%;
+        position: relative;
+}
+	
+    #skip-navigation {
+        display: none;
+    }
+
+    a.homeLinkImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+    #emblem {
+    padding: 0;
+        width: 400px;
+        float: left;
+}
+
+        #emblem a {
+	background: url(images/emblem-portsmouth.png) 0 0 no-repeat;
+	color: #FFFFFF;
+	display: block;
+	height: 58px;
+	overflow: hidden;
+	padding: 13px 0 0 73px;
+	text-shadow: 0.1em 0.1em #000000;
+	text-decoration: none;
+}
+
+#header {
+    background-color: #00366b;
+    height: 100px;
+}
+
+#innerContent {
+	background: #FFFFFF;
+	border: 1px solid #d3d3d3;
+	float: left;
+	margin: 0;
+	min-height: 875px;
+	height: auto !important;
+	height: 875px;
+	padding: 10px 12px 0 12px;
+	width: 730px;
+}
+		
+    #topnavbanner {
+        text-align: right;
+        float: right;
+        min-width: 150px;
+        margin-top: -7px;
+}
+			
+        #topnavbanner > div {
+            position: absolute;
+            right: 0;
+            white-space: nowrap;
+            min-width: 136px;
+}
+
+        #topnavbanner br {
+            line-height: 20px;
+}
+
+    a.shoppingCartTarget, a.loginMenuTarget, a.contextMenuTarget {
+	background: url(images/topnavbanner.png) no-repeat right center;
+	color: #FFFFFF;
+    padding-right: 10px;
+}
+
+    a.loginTarget {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+
+/*SELECTED A*/		
+    div.selected a.shoppingCartTarget, div.selected a.loginMenuTarget, div.selected a.contextMenuTarget {
+	/*background: url(images/topnavbannerselected.png) no-repeat right center;
+	color: #545454;*/
+	/*padding-right: 14px;*/
+	/*font-weight:bold;*/
+}
+		
+    #topnavbanner ul, #topnavbanner .shoppingCartPanel {
+	background: #f9f9f9;
+	border: 1px solid #b8b8b8;
+	display: none;
+        text-align: left;
+        white-space: nowrap;
+	margin-top: 5px;
+	position: absolute;
+        list-style-type: none;
+	padding: 0;
+    z-index: 1;
+    right: 0;
+    color: #40403a;
+}
+
+.shoppingCartPanel table {
+    border-spacing: 0;
+}
+
+    .loginMenuContainer {
+    padding-top: 10px;
+}
+		
+    #topnavbanner ul li {
+    line-height: 25px;
+    padding: 5px;
+	/*border-bottom: 1px solid #b8b8b8;
+	padding: 7px 6px 6px 6px;
+	font-weight: bold;*/
+}
+
+#topnavbanner ul li:hover {
+    background-color: #e6e6e6;
+}
+				
+/*#topnavbanner ul li:last-child
+{
+	border-bottom: none;
+}*/
+					
+    #sideBar {
+	float: left;
+	width: 240px;
+}			
+
+#sideBar.mainNavLeft {
+    float: left;
+}
+
+#sideBar.mainNavRight {
+    float: right;
+}
+		
+        #sideBar ul {
+	list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#sidebar ul#primarynav {
+    padding: 0;
+    margin: 0;
+}
+
+            #sideBar ul li {
+    background-color: #e6e6e6;
+}
+
+#sideBar ul li:hover {
+    background-color: #cfcfcf;
+}
+
+#sideBar ul li.primarynavselected {
+    font-weight: bold;
+    background-color: #ffffff;
+}
+
+#sideBar ul li a {
+    display: block;
+    padding: 14px 0 13px 13px;
+    font-size: 16px;
+}
+				
+								
+                #sideBar ul li ul {
+	border: none;
+	margin-bottom: 0;
+}
+		
+			
+                    #sideBar ul li ul li {
+    background: #FFFFFF;
+    min-height: 35px;
+    height: 35px;
+    font-weight: normal;
+}
+							
+                    #sideBar ul li ul.submenu a {
+    color: #5d5d5d;
+    padding: 9px 0 9px 23px;
+    min-height: 17px;
+    height: 17px;
+}
+
+#sideBar ul li ul.submenu a#submenuselected {
+    font-weight: bold;   
+}
+
+    .mainNavLeft {
+    padding-left: 0;
+}
+	
+	
+        .mainNavLeft ul li.primarynavselected {
+    margin: 0 12px 0 0;
+}
+
+        .mainNavLeft .primarynavselected ul {
+    margin-left: 0;
+}	
+					
+				
+/* Styles for Footer */
+				
+#footer {
+	clear: both;
+	color: #818181;
+	padding: 20px 0 20px 20px;
+	float: right;
+	}
+
+	
+	#footer #copyright {
+		float: left;
+		padding: 26px 0 0 0;
+		}
+
+
+    #content {
+	margin: 10px 0 0 0;
+	width: 1080px;
+}
+
+        #content h2 {
+	padding-top: 8px;
+}
+
+    .printImage {
+    /* Used for BannerForPrintOnly (an image) on OnlineMasterPage. That image (banner) will only appear when pages are printed. */
+        display: none;
+}
+
+    .deleteIconButton {
+	background-position: center center;
+	background: url('images/icon_delete.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	border: 0;
+}
+
+/* left column and primary nav */
+
+div#leftcolumn { /* set to specified maximum left nav width */
+    width: 128px; 
+	padding: 0;
+	padding-bottom: 8px;
+    border: 0;
+	margin: 0;
+	font-size: 1.2em;
+	position: absolute; /* z-index can only be applied to elements that also have a value set for the position property: so have this to gain control of stacking order */
+    z-index: 10;
+    left: 0;
+    background: none;
+}
+	
+
+	
+/* general left and right floats */
+.left {
+     float: left;
+}
+
+.right {
+     float: right;
+}
+
+    .italic {
+        font-style: italic;
+}
+
+
+#breadcrumbs {
+	padding: 0;
+	padding-left: 3px;
+	padding-right: 13px;
+	border: 0;
+	margin-top: -25px;
+	margin-bottom: 1.5em;
+	font-size: 0.9em;
+        display: none;
+}
+
+#breadcrumbs a:link, #breadcrumbs a:visited {
+	color: #000000; 	
+	text-decoration: none;
+}
+
+
+#breadcrumbs ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+#breadcrumbs ul li {
+	display: inline;
+} 
+
+/* paragraphs */
+
+p {
+    margin-top: 0;
+    margin-bottom: .8em;
+}
+
+.center {
+	text-align: center;
+}
+
+.nomargin {
+    margin: 0;
+}
+
+.nobottommargin {
+    margin-top: .8em;
+    margin-bottom: 0;
+}
+
+    .no-right-margin {
+        margin-right:0px !important;
+    }
+
+    p.updatesuccess, p.success { /* (green) used for "Update successful" "Submitted successfully" "entered successfully" "completed successfully" type messages: use .success rather than .updatesuccess (which was only used in Employees) */
+    background: url(images/round_check_circle_green_18dp.png) no-repeat left top;
+    padding: 5px 0 15px 35px;
+    margin: 0;
+}
+
+.wfsuccess { /* (green check mark) used for "Approved" MUN-220571*/
+    background: url(images/success_check_bg.gif) no-repeat left top;
+    padding: 5px 0 15px 27px;
+    margin: 0;
+}
+
+.wfalert { /* (yellow exclamation mark) used for "alert" type messages MUN-220571*/
+    background: url(images/alert_bg.gif) no-repeat left top;
+    padding: 2px 0 12px 26px;
+    margin: 0;
+}
+
+.wferror { /* (red triangle) used for "Error" type messages MUN-220571*/
+    background: url(images/unsuccessful_bg.gif) no-repeat left top;
+    padding: 3px 0 15px 28px;
+    margin: 0;
+}
+
+p.success .background {
+    background: #cae2bf;
+    color: #000;
+}
+
+p.success span {
+    background: #cae2bf;
+    color: #000;
+    padding: 1px 0 2px 1px;
+}
+
+    .successLabel {
+    background: #cae2bf;
+    color: #000;
+    padding: 1px 0 2px 1px;
+}
+
+p.unsuccessful { /* (red) used for "search unsuccessful" type messages */
+    background: url(images/round_error_red_18dp.png) no-repeat left top;
+    padding: 5px 0 15px 35px;
+    margin: 0;
+}
+
+p.unsuccessful span {
+    background: #FBCEC8;
+    color: #000;
+    padding: 1px 0 2px 1px;
+}
+ 
+p.step { /* (red) used for "step 1 of x" type messages */
+    color: #A46200;
+    background: #fff;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.instruction { /* used for instruction type messages */
+    font-size: 1.2em;
+}
+
+.instruction {
+    background: #ECE3D7; /* #E9DECF;#EDE4D8;#E9DECF;#E6D9C8;#EBFBB3; #EDFBBF; */
+    padding: 1px 0 2px 1px;
+    color: #000;
+}
+
+.pleasenote { /* used for "please note" type messages */
+    font-style: italic;
+    color: Red;
+}
+
+.alert { /* used for "alert" type messages */
+    background: url(images/Alerts_Large.png) no-repeat left top;
+    padding: 5px 0 15px 35px;
+    margin: 0;
+}
+
+.alert .background {
+    background: #FFFF75;
+    color: #000;
+}
+
+.alert span {
+    background: #FFFF75;
+    padding: 1px 0 2px 1px;
+    color: #000;
+}
+
+h4 {
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 1.25em;
+    font-size: 1.3em;
+}
+
+ul.rightlinks, div.rightlinks {
+    float: right;
+    padding: 0 15px 0 0;
+    margin: 0 0 0 30px;
+    list-style-type: none;
+}
+
+ul.rightlinks li {
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
+
+ul.stepindicator {
+    float: right;
+    margin: 0 10px 1.5em 10px;
+    /* font-size: 0.95em; */
+    list-style-type: none;
+    color: #666; 
+    background: #fff;
+    display: inline;
+}
+
+ul.stepindicator span {
+    color: #000;
+    background: #fff;
+    font-weight: bold;
+}
+
+ul.stepindicator2 {
+    float: right;
+    margin: 0 15px 1.5em 15px;
+    display: inline;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 3px 40px;
+    list-style-type: none;
+    color: #666;
+    background: transparent url(images/step_bg.jpg) no-repeat 0 4px;
+}
+
+ul.stepindicator2 li {
+    display: inline;
+    margin-left: 5px;
+}
+
+ul.stepindicator2 span {
+    color: #000;
+    background: #fff;
+    font-weight: bold;
+    font-size: 1.3em;
+            margin-top: 12px;
+}
+
+ul.inlineleftlinks {
+    margin-left: 0;
+    list-style-type: none;
+    font-size: 1.1em;
+    white-space: normal;
+    padding-left: 0;
+}
+
+ul.inlineleftlinks li {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.inlinerightlinks {
+    text-align: right;
+    list-style-type: none;
+    font-size: 1.1em;
+    white-space: normal;
+}
+
+ul.inlinerightlinks li {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+    div#content hr {
+    width: 100%;
+    text-align: left; /*this will align it for IE*/
+    margin: 0 auto 1.25em 0; /*this will align it left for Mozilla*/
+    border: none 0; 
+    border-top: 1px dotted #999;
+    height: 1px; /*whatever the total width of the border-top and border-bottom equal*/
+} 
+
+img {
+    display: inline; /* set back to inline for content div, so will behave as default */
+	margin: 5px; /* IE5x/PC won't respect padding on an inline img */
+}
+
+table.datatable img {
+    margin: 0 0 1px 3px;
+}
+
+.modalBackground { /* style from Mike D */
+    background-color: Gray;
+    filter: alpha(opacity=20);
+    opacity: 0.2;
+}
+
+.required {
+	color: #E52D00;
+	background: transparent;
+	font-weight: bold;
+}
+
+    .strong {
+    font-weight: bold;
+}
+
+.requiredfieldindicator {
+	color: #E52D00;
+	background: transparent;
+	font-weight: bold;
+	font-size: 1.2em;
+	vertical-align: top;
+}
+
+.validationsummary {
+	background: transparent;
+	font-weight: bold;
+	font-size: 13px;
+	line-height: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+        .validationsummary li {
+	color: #E52D00;
+            list-style-type: square;
+}
+
+        .validationsummary ul {
+    margin-left: 1.5em;
+    padding: 0;
+}
+
+.shorter {
+	width: 4em;
+}
+
+
+.short {
+	width: 6em;
+}
+
+.shortright {
+    width: 6em;
+    text-align: right;
+}
+
+
+.mediumshort {
+    width: 12em;
+}
+
+.medium {
+	width: 17em; /* rather than having to use size attribute on <input> which is inconsistent across browsers, as relative to browser's base font: am using ems so input field will increase with text size. Can still enter into field as far beyond width as need to -- field will "scroll", unless there is a maxlength attribute */
+}
+
+.long {
+	width: 25em;
+}
+
+.extralong {
+    width: 30em;
+}
+
+
+.buttonshort {
+    width: 5em;
+}
+
+.buttonmedium {
+    width: 8em;
+}
+
+.buttonlong {
+    width: 15em;
+}
+
+    .marginformessagebelow {
+        margin-bottom: 5px;
+}
+		
+input.value {
+    text-align: right;
+}
+
+.errorfield {
+background: #FBCEC8;
+color: #000;
+}
+
+.errorlabel {
+color: #B72400;
+background: transparent;
+}
+
+.errorlabelbold {
+color: #B72400;
+background: transparent;
+    font-weight: bold;
+}
+	
+/* form table syles */
+
+table.formtable {
+    margin-bottom: 1.2em;
+}
+
+table.formtable caption {
+    color: #000;
+    /*
+	padding: 0.5em 0 0.5em;  way to create some whitespace before the table element: works on PC: IE6, Firefox, Opera (haven't tested others 
+	margin: 0;
+        */
+}
+
+
+    .formtablecontainer {
+	background: #F5F5F5;
+}
+
+.attachmenttable {
+    width: 100%;
+}
+
+.attachmenttable th {
+    background: none;
+		border-bottom: 1px solid #d8d8d8;
+        text-align: center;
+}
+
+    .datatable {
+        width: 100%;
+        margin-bottom: 1.7em;
+        border-collapse: collapse;
+	}	
+	
+.datatable th {
+		background: none;
+		border-bottom: 1px solid #d8d8d8;
+		color: #4b4b4b;
+		font-size: 1em;
+		font-weight: bold;
+		height: auto;
+		padding: .5em 1.5em .5em 0;
+            white-space: nowrap;
+            margin: 0;
+}
+
+.datatable th a {
+    font-weight: normal;
+}
+		
+.datatable tr {
+			margin-top: 5px;
+			}	
+					
+        .datatable td {
+		padding: 8px 1.5em 8px 0;
+            margin: 0;
+		border-bottom: 1px solid #ddd;
+}	
+							
+
+    td.numericdata, th.numericdataheader {
+        text-align: right;
+}
+
+.datatable2
+{
+	width:100%;
+	display:inline-table;
+	margin-bottom:1.7em;
+	border-collapse:collapse;
+	}
+
+.datatable2 th {
+		background: none;
+		border-bottom: 0px solid #d8d8d8;
+		color: #4b4b4b;
+		font-size: 1em;
+		font-weight: bold;
+		height: auto;
+		padding: .5em 1.5em .5em 0;
+		white-space:nowrap;
+		margin:0;
+}
+
+.datatable2 th a {
+    font-weight: normal;
+}
+
+.datatable2 tr {
+			margin-top: 5px;
+			}
+
+.datatable2  td {
+		padding: 8px 1.5em 8px 0;
+		margin:0;
+		border-bottom: 1px solid #ddd;
+}
+
+
+.benefitOption {
+    padding:8px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.benefitOption td {
+    vertical-align: top;
+    padding: 3px;
+}
+
+table.formtable th { 
+	text-align: left;
+	vertical-align: middle;
+	white-space: nowrap;
+	font-weight: bold;
+	padding: 6px 6px 6px 2px;
+}
+
+table.formtable tr.formtablealternaterows {
+	background: #F2F2F2; /* #E9E9E9; #eee; */
+	color: #333;
+}
+
+    table.formtable td {
+	padding: 6px;
+	margin: 0;
+	text-align: left;
+}
+
+    table.formtable .datatable td {
+	padding-left: 0;
+}
+
+
+table.formtable td.noleftpadding {
+padding-left: 0;
+}
+
+table.formtable td.lessverticalpadding {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+table.formtable td.moreleftpadding {
+padding-left: 15px;
+}
+
+    table.formtable td.formspacer { /* padding will not work on tr */
+padding: 5px;
+}
+
+    table.formtable td.formspacer2 { /* padding will not work on tr */
+padding: 3px;
+}
+
+table.formtable td.formspacer3 {
+    padding: 0 5px 0 0 ;
+    height: 33px;
+}
+
+table.formtable td.linespacer { /* border bottom works well when used before a formsection (since formsection has padding-top), and after a series of fields that belong to the formsection, since linepspacer effectively provides a formspacer afterwards with the border on the bottom */
+        padding: .2em;
+}
+
+table.formtable td.formsection { 
+	padding: 6px 3px 0 0;
+	font-weight: bold;
+}
+
+table.datatable caption {
+	padding: 0;
+	padding-top: 0.5em; /* way to create some whitespace before the table element: works on PC: IE6, Firefox, Opera (haven't tested others */
+	margin: 0;
+    color: #000;
+}
+
+/* information table */
+
+table.informationtable {
+ margin-bottom: 1.2em;
+ border-collapse: collapse;
+}
+
+table.informationtable th, table.informationtable td, table.datatable td.informationrow {
+	padding: 5px 20px 5px 0;
+	margin: 0;
+	vertical-align: middle;
+	border-bottom: 1px solid #ddd;
+}
+
+table.informationtable th {
+	font-weight: bold;
+    white-space: nowrap;
+}
+
+table.informationtable th[scope=col] {
+	white-space: normal;
+}
+
+.numericinformation {
+text-align: right;
+padding-right: 0;
+}
+
+.nocaption {
+border-top: 1px solid #ddd;
+}
+
+.nocaptionborder {
+    border-top: 0;
+}
+
+
+table.datatable caption, table.informationtable caption {
+	padding: 0;
+	padding-top: 0.5em; /* way to create some whitespace before the table element: works on PC: IE6, Firefox, Opera (haven't tested others */
+	padding-bottom: 0.2em;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+	margin: 0;
+}
+
+table.informationtable caption {    
+    color: #000;
+}
+
+    table.datatable td.noborder, table.datatable th.noborder {
+        border-bottom: 0 none !important;
+}
+
+table.informationtable th.middle, table.informationtable td.middle {
+vertical-align: middle;
+}
+
+    table.informationtable td.noborder, table.informationtable th.noborder {
+        border-bottom: 0 none !important;
+}
+
+    table.noborder td {
+        border-bottom: 0 none !important;
+}
+
+/* calendar tables */
+
+table.calendarmonth {
+    border: 0;
+    border-collapse: collapse; 
+    margin: 0 10px 10px 0;
+    background: #fff;
+    color: #000;
+    font-size: 12px; /* getting weird inheritance effects in IE5/PC with em or % font size */
+}
+
+table.calendarmonth caption {
+	padding-bottom: 0.3em;
+	text-align: center;
+	color: #fff;
+	font-size: 11px;
+}
+
+table.calendarmonth th {
+	padding: 3px 4px 3px 3px;
+	border: 0;
+	margin: 0;
+	text-align: center;
+	white-space: nowrap;
+	font-weight: bold;
+}
+
+table.calendarmonth td.header {
+	padding: 3px 4px 3px 3px;
+	border: 0;
+	margin: 0;
+	text-align: center;
+	white-space: nowrap;
+	font-weight: bold;
+}
+
+
+table.calendarmonth td {
+	padding: 3px 4px 3px 3px;
+	border: 1px solid #ddd;
+	margin: 0;
+	vertical-align: top;
+	text-align: center;
+    text-decoration: none !important;
+	}
+	
+            table.calendarmonth td a {
+    text-decoration: none !important;
+}
+	
+table.calendarmonth td.singledigit {
+text-align: center;
+	}
+	
+	
+table.calendarmonth td.selected {
+background-color: #FFD700 !important;
+}
+
+table.nomargin {
+margin-bottom: 0;
+}
+
+table.lessmargin {
+margin-bottom: 0.7em;
+}
+
+.width60 {
+width: 60%;
+}
+
+.width50 {
+width: 50%;
+}
+
+.width40 {
+width: 40%;
+}
+
+.width34 {
+width: 34%;
+}
+
+.width33 {
+width: 33%;
+}
+
+.width25 {
+width: 25%;
+}
+
+.width66 {
+width: 66%;
+}
+
+.width75 {
+width: 75%;
+}
+
+.width20 {
+width: 20%;
+}
+
+    .width70 {
+    width: 70%;
+}
+
+.width15 {
+width: 15%;
+}
+
+.width10 {
+width: 10%;
+}
+
+.width1 {
+width: 1%;
+}
+
+.width100 {
+width: 100%;
+}
+
+.nowrap {
+white-space: nowrap;
+}
+
+    .nobreak {
+        word-break: normal;
+}
+
+.wrap {
+    white-space: normal;
+}
+
+.center {
+text-align: center;
+}
+
+.middle {
+vertical-align: middle;
+}
+
+.smaller {
+font-size: 0.8em;
+}
+
+.large {
+font-size: 1.2em;
+}
+
+.larger {
+font-size: 1.4em;
+}
+
+.largest {
+font-size: 1.8em;
+}
+
+.additionalfieldinformation {
+font-size: 0.95em;
+color: #666;
+}
+
+.aligntop {
+vertical-align: top;
+}
+
+.alignright {
+text-align: right;
+}
+
+    .alignleft {
+text-align: left;
+}
+
+    .requiresattention {
+color: #B72400;
+}
+
+.clear { 
+  clear: both;
+  }  
+
+    table.wrap {
+        table-layout: fixed;
+    word-wrap: break-word;
+}
+
+    .module {
+        border-bottom: 1px dotted #0A3BAD;
+        padding-bottom: 8px;
+        padding-top: 8px;
+}
+
+
+    .ajax__tab_xp .ajax__tab_outer {
+        background: url(images/ajax_tab_outer.gif) !important;
+}
+
+    .ajax__tab_xp .ajax__tab_inner {
+        padding-left: 3px;
+        background: url(images/ajax_tab_inner.gif) no-repeat !important;
+}
+
+    .ajax__tab_xp .ajax__tab_tab {
+        background: url(images/ajax_tab_tab.gif) repeat-x !important;
+    margin: 0;
+    height: 20px !important;
+}
+
+    .ajax__tab_xp .ajax__tab_hover .ajax__tab_outer {
+        background: url(images/ajax_tab_hover_outer.gif) no-repeat right !important;
+}
+
+    .ajax__tab_xp .ajax__tab_hover .ajax__tab_inner {
+        background: url(images/ajax_tab_hover_inner.gif) no-repeat !important;
+}
+
+    .ajax__tab_xp .ajax__tab_hover .ajax__tab_tab {
+        background: url(images/ajax_tab_hover.gif) repeat-x !important;
+}
+
+    .ajax__tab_xp .ajax__tab_active .ajax__tab_outer {
+        background: url(images/ajax_tab_active_outer.gif) no-repeat right !important;
+}
+
+    .ajax__tab_xp .ajax__tab_active .ajax__tab_inner {
+        background: url(images/ajax_tab_active_inner.gif) no-repeat !important;
+}
+
+    .ajax__tab_xp .ajax__tab_active .ajax__tab_tab {
+        background: url(images/ajax_tab_active.gif) repeat-x !important;
+}
+
+/*.ajax__tab_xp .ajax__tab_body
+{
+   font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}*/
+
+    .employmentopportunity {
+        text-align: left;
+        margin: 0;
+        border-bottom: dotted 1px #0A3BAD;
+}
+
+    .employmentopportunityheader {
+        text-align: left;
+        margin: 0;
+}
+
+        .employmentopportunityheader th {
+            font-weight: bold;
+            padding: 4px;
+    font-size: 1.3em;
+            margin: 0;
+}
+
+    .employmentopportunity td {
+        text-align: left;
+        padding: 4px;
+}
+
+    .radiobuttonlist label {
+        margin-right: 1em;
+}
+
+table.calendartable {
+        border-collapse: collapse;
+        width: 100%;
+     margin-bottom: 1.2em;
+}
+
+table.calendartable th { /* over-rides table border is Mozilla, which is according to spec */
+    padding: 3px;
+	background: #d2d2d2;
+    border-width: 0 0 4px 0;
+    border-color: White;
+    border-style: solid;
+}
+
+table.calendartable td {	
+    border-style: solid;
+    border-width: 0 1px 4px 1px;
+    border-color: White;
+            width: 8px;
+}
+
+    .monthlychart {
+    padding: 0;
+    margin: 0;
+        border-collapse: collapse;
+        border-spacing: 0;
+}
+
+        .monthlychart td {
+            height: 23px;
+            width: 27px;
+    background: url(images/monthly_chart_background.png) repeat-y top center;
+            text-align: center;
+    padding: 0;
+}
+
+            .monthlychart td.rightend {
+                background-image: none;
+    text-align: left;
+    width: auto;
+                white-space: nowrap;
+    padding-left: 3px;
+}
+
+            .monthlychart td.leftend {
+                background-image: none;
+    text-align: right;
+    width: auto;
+                white-space: nowrap;
+    padding-right: 3px;
+}
+
+            .monthlychart td.monthfooter {
+                background: none;
+                text-align: center;
+}
+
+            .monthlychart td.daycell {
+                width: 11px;
+                background-position: center;
+                text-align: center;
+}
+
+        .monthlychart div.daycellselected {
+            width: 11px;
+            height: 11px;
+            background-position: center;
+            text-align: center;
+}
+
+        .monthlychart td.daycellweekend {
+            width: 11px;
+    background: url(images/monthly_chart_weekend_background.png) repeat-y top left;
+}
+
+        .monthlychart td.dayfooterweekend {
+            width: 11px;
+            text-align: center;
+            font-size: .7em;
+    background: url(images/monthly_chart_weekend_background.png) repeat-y top left;
+}
+
+        .monthlychart td.dayfooter {
+            width: 11px;
+            text-align: center;
+            font-size: .7em;
+            background-image: none;
+}
+
+        .monthlychart td.dayheader {
+            background: none;
+            width: 11px;
+            text-align: center;
+    height: 20px;
+            vertical-align: bottom;
+}
+
+        .monthlychart td.monthheader {
+            background: none;
+            text-decoration: none;
+}
+
+    .monthlychartexpand {
+        visibility: hidden;
+        text-decoration: none;
+    font-size: .8em;
+}
+
+    .monthlychart td.daycell {
+        width: 11px;
+}
+
+    .monthlychart td.years {
+        height: 4px;
+        vertical-align: top;
+        text-align: center;
+        font-size: .8em;
+        background: none;
+}
+
+    a.dayofweekbutton {
+    display: block;
+    float: left;
+    height: 85px;
+    width: 85px;
+        margin-right: 10px;
+        text-align: center;
+        background-color: #E9E9E9;
+}
+
+    a.selecteddayofweekbutton {
+    display: block;
+    float: left;
+    height: 85px;
+    width: 85px;
+        margin-right: 10px;
+        text-align: center;
+    background-color: #D1D8E2;
+}
+
+    a.dayofweekbutton:hover {
+    background-color: #D1D8E2;
+}
+
+    span.dayofweekbuttontotal {
+        font-size: 1.7em;
+}
+
+    .barchart .complete {
+        float: right;
+        font-weight: bold;
+        font-size: 1.1em;
+}
+
+    .barchart td.maximum {
+        text-align: left;
+        width: 25%;
+}
+
+    .barchart td.chart {
+        width: 50%;
+    padding: 0;
+}
+
+        .barchart td.chart div {
+            height: 25px;
+}
+
+    .barchart td.completelegend {
+        font-size: 11px;
+        height: 14px;
+        text-align: right;
+    white-space: normal;
+}
+
+    .barchart td.maximumlegend {
+        font-size: 11px;
+        height: 14px;
+    white-space: normal;
+}
+
+    .landingHighlight {
+        border-style: solid;
+    border-width: 1px;
+        vertical-align: top;
+    padding: 8px;
+        margin-left: 10px;
+        white-space: nowrap;
+        text-align: center;
+        min-width: 200px;
+}
+
+    .landingAmount {
+    font-size: 2.7em;
+    font-weight: bold;
+    text-shadow: 2px 1px white;
+}
+
+    .timeOffSummary {
+        clear: both;
+        margin-bottom: 20px;
+}
+ 
+    div#content .timeOffSummary .headerLink {
+    font-size: 1.3em;
+        text-decoration: none;
+        padding: 3px;
+}
+
+    .marginBottom {
+    margin: 0 0 10px 0;
+}
+
+
+    .landingHeading {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+
+        .landingHeading img {
+            margin: 0;
+            margin: 5px;
+}
+
+    .hidden {
+        visibility: hidden;
+        display: none;
+}
+
+    .centered {
+    margin:0 auto;
+}
+
+    .captionlink {
+        position: relative;
+        float: right;
+        top: 20px;
+        text-decoration: none;
+}
+
+    .fixedwidthcolumn160 {
+	width: 160px;
+}
+
+    .lightGrayBackground {
+	border-color: #E0E0E0;
+	background-color: #E0E0E0;
+}
+
+    .cartReviewSectionHeader {
+	color: #A46200;
+	white-space: pre;
+}
+
+    .cartReviewSectionHeaderSubtotal {
+	white-space: pre;
+	background-color: rgb(235, 235, 235);
+}
+
+    .cartReviewSectionHeaderTotal {
+	white-space: pre;
+	background-color: rgb(210, 210, 210);
+}
+
+    .cartReviewValueCell {
+        text-align: right;
+	width: 20%;
+}
+
+    .cartReviewValueCellSubtotal {
+        text-align: right;
+	width: 20%;
+	padding-right: 20px;
+	background-color: rgb(235, 235, 235);
+}
+
+    .cartReviewValueCellTotal {
+        text-align: right;
+	width: 20%;
+	padding-right: 20px;
+	background-color: rgb(210, 210, 210);
+}
+
+    .headerLabelBold200 {
+        font-weight: bold;
+        width: 200px;
+}
+
+    textarea {
+    overflow: auto;
+}
+
+/*Modal Popup*/
+    .modalBackground {
+    /* used for the tinted background surrounding a modalpopup control */
+    background-color: Gray;
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+
+    .modalPopup {
+    /* the main styling for the modalpopup dialog panel itself */
+    border-width: 3px;
+    border-style: solid;
+    border-color: Gray;
+        padding: 1.5em 2em 1.5em 2em;
+        white-space: normal;
+        min-width: 300px;
+        max-width: 700px;
+        overflow: auto;
+}
+
+.modalPopup table, .modalPopup div, .modalPopup p {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: .8em;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.modalPopup h3 {
+    font-size: 1.6em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.modalPopup.modalPopup2 {
+    border: none;
+    border-radius: 2px;
+    max-width: 500px;
+}
+
+.modalPopup.modalPopup2 table {
+    margin-left: 0;
+    margin-top: 0;
+    padding-top: .8em;
+}
+.modalHeaderH3 {
+    color: #5e5e5e;
+    float: left;
+}
+
+.modalDropdownLabel {
+    color: #5e5e5e;
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 0 0 0;
+}
+    
+.modalPopupDataTable {
+    font-weight: bold;
+}
+    
+    .visibility_hidden {
+        visibility: hidden;
+    }
+
+    .DuplicateWarningMsg {
+        padding-top: 10px;
+    }
+    
+    .addEditModalDropdown {
+        border: none;
+        border-radius: 2px;
+        font-weight: bold;
+    }
+    .addEditModalTextBox {
+        border: none;
+        border-radius: 2px;
+        font-weight: bold;
+        padding:  9px;
+    }
+    
+    .addEditModal {
+        margin-right: 0;
+    }
+
+    .modalScrollBar {
+        overflow: auto;
+        height: 165px;
+    }
+
+    .modalNoScrollBar {
+        overflow: initial;
+        height: auto;
+    }
+
+    input[type=text].shadow, .shadow {
+        border: none;
+        -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,0.14), 0 2px 2px 0 rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.2); /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+        -moz-box-shadow: 0 0 2px 0 rgba(0,0,0,0.14), 0 2px 2px 0 rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.2); /* Firefox 3.5 - 3.6 */
+        box-shadow: 0 0 2px 0 rgba(0,0,0,0.14), 0 2px 2px 0 rgba(0,0,0,0.12), 0 1px 3px 0 rgba(0,0,0,0.2); /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+    }
+
+    input[type=submit].shadow {
+        color: #5e5e5e;
+        background: #fff;
+        border-radius: 2px;
+    }
+
+    input[type=submit].addButton {
+        padding: 7px 10px 8px 9px;
+    }
+
+    input[type=submit].cancelButton {
+        background: none;
+        color: #5e5e5e;
+    }
+
+/*Modal Popup Vendor Workflow*/
+    .modalBackgroundWF {
+    background-color: Gray;
+    filter: alpha(opacity=70);
+    opacity: 0.7;
+}
+
+    .modalPopupWF {
+    /* the main styling for the modalpopup dialog panel itself */
+    border-width: 3px;
+    border-style: solid;
+    border-color: Gray;
+        padding: 1em;
+        white-space: normal;
+        min-width: 600px;
+        max-width: 800px;
+        overflow: auto;
+}
+
+        .modalPopupWF table, .modalPopupWF div, .modalPopupWF p {
+            margin-left: auto;
+            margin-right: auto;
+    margin-top: .8em;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+        .modalPopupWF h3 {
+    font-size: 1.6em;
+            margin-bottom: 0;
+            text-align: center;
+}
+
+    .workflowheading {
+    font-size: 1.2em;
+        color: #000000;
+    font-weight: bold;
+}
+
+    .workflowsubheading {
+    font-size: 1.0em;
+        color: #545454;
+    font-weight: bold;
+}
+
+    .workflowtable {
+    margin-left: 2em;
+    table-layout: fixed;
+    width: 500px;
+}
+
+    th.certificatesheader {
+    column-span: 2;
+    color: #5a5a5a;
+    font-size: 1.1em;  
+}
+
+    .invisible {
+    display: none;
+    visibility: hidden;
+}
+
+    .datepicker {
+    width: 7em;
+}
+
+    .roundedcontainer {
+	background-color: #ffffff;
+        padding: 10px 10px 0 10px;
+        margin-bottom: 2em;
+        overflow: auto;
+}
+	
+
+.purcard {
+    border-radius: 25px;
+    padding: 10px 0 6px 6px;
+	border: 1px solid #2A9FD8;
+    margin: -10px -10px 10px -10px;
+}
+
+.roundedcontainercentered {
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+}
+	
+.roundedcontainer > h3 {
+            padding: 10px 0 6px 6px;
+	border-bottom: 1px solid #D8D8D8;
+    margin: -10px -10px 10px -10px;
+}
+
+    .roundedcontainerChangeSet {
+	border: 1px solid #000;
+	background-color: #ffffff;
+        padding: 10px 10px 0 10px;
+        margin-bottom: 2em;
+        overflow: auto;
+    max-height: 400px;
+}
+
+    .roundedcontainer div.nopadding {
+        margin: -10px -10px 0 -10px;
+}
+
+    .actionLink {
+	padding: 4px 10px 4px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+    .actionLink2 {
+        color: White;
+        padding: 4px 10px 4px 10px;
+}
+
+.buttonLink {
+    font-size: .8em;
+    font-weight: bold;
+    height: 22px;
+    width: 100px;
+}
+
+.vendorButtonLink {
+    background-color:#283593 !important; 
+    margin-left:30px !important; 
+    font-size:larger !important; 
+    border-radius:3px !important;
+}
+
+a.LinkButton {
+  display: table-cell;
+  height: 8px;
+  width : 70px;
+  background: #5a5a5a;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  border-radius: 2px;
+  text-decoration: none;
+  border: 1px solid #EFEBE9;
+  font-weight: 600;
+}
+
+    .expandedheader td, .collapsedheader td, .inlineexpandedheader td, .inlinecollapsedheader td {
+        vertical-align: middle;
+        padding: 0;
+}
+	.inlinecollapsed
+   {
+       float:right;
+	}
+   .inlineexpanded
+   {
+       float:inherit;
+   }
+
+    .grayBarLeft {
+     background: url(images/grayend.jpg) repeat-x right 0px;
+        width: 13px;
+        height: 66px;
+}
+
+    .grayBar {
+    background: url(images/graymiddle.jpg) repeat-x right 0px;
+        height: 66px;
+        text-align: center;
+        color: White;
+        font-size: 26px;
+        font-weight: bold;
+}
+
+    .blueBarRight {
+     background: url(images/blueend.jpg) repeat-x right 0px;
+        width: 13px;
+        height: 66px;
+}
+
+    .blueBar {
+    background: url(images/bluemiddle.jpg) repeat-x right 0px;
+        height: 66px;
+        text-align: center;
+        color: White;
+        font-size: 26px;
+        font-weight: 700;
+}
+
+    .grayBlueMiddle {
+    background: url(images/graybluemiddle.jpg);
+        width: 4px;
+        height: 66px;
+}
+
+
+    .additionBoxesLeft {
+    background: url(images/roundedadditionboxesleft.jpg);
+        width: 20px;
+        height: 201px;
+}
+
+    .additionBoxesRight {
+    background: url(images/roundedadditionboxesright.jpg);
+        width: 20px;
+        height: 201px;
+}
+
+    .additionBoxesTop {
+    background: url(images/toproundedadditionboxbg.jpg) repeat-x right 0px;
+        background-attachment: inherit;
+        height: 81px;
+        text-align: center;
+        vertical-align: top;
+    color: #597CB4;
+        font-weight: bold;
+        font-size: 24px;
+}
+
+    .additionBoxesBottom {
+    background: url(images/bottomroundedadditionboxbg.jpg) repeat-x right 0px;
+        height: 81px;
+        text-align: center;
+        vertical-align: top;
+    color: #597CB4;
+        font-weight: bold;
+}
+
+    .additionBoxesMiddle {
+    background: url(images/roundedadditionboxesmiddle.jpg);
+        height: 39px;
+        width: 171px;
+    }
+
+    .functionlink {
+        font-weight: normal;
+}
+
+    .inline {
+        display: inline;
+}
+
+    .block {
+        display: block;
+}
+
+/* this will be colored in the theme */
+    .caption {
+        font-weight: bold;
+}
+
+        caption a, .caption a {
+    font-weight: normal;
+}
+
+    .expandedcontent {
+    margin: 0 5px 0 5px;
+}
+
+.collapsedheader, .inlinecollapsedheader{
+    height: 41px;
+    width: 100%;
+}
+.collapsedheader {
+    border-top: 1px solid #cfcfcf;
+}
+
+.non-resizable {
+    resize: none;
+}
+
+    input[type=submit], input[type=button], input[type=reset] {
+    color: #ffffff;
+    background: #5a5a5a;
+    color: #ffffff;
+    padding: 0;
+    /*background: -moz-linear-gradient(
+	    top,
+	    #8d8d8d 0%,
+	    #888888 14%,
+	    #6f6f6f 50%,
+	    #5a5a5a 75%,
+	    #595959);*/
+    /*background: -webkit-gradient(
+	    linear, left top, left bottom, 
+	    from(#8d8d8d),
+	    color-stop(0.14, #888888),
+	    color-stop(0.50, #6f6f6f),
+	    color-sto
+	    to(#595959));*/
+    border: 0 solid #2ea100;
+    /*-moz-box-shadow:
+	    0 1px 0 rgba(000,000,000,0),
+	    inset 0 0 3px rgba(255,255,255,0);
+    -webkit-box-shadow:
+	    0 1px 0 rgba(000,000,000,0),
+	    inset 0 0 3px rgba(255,255,255,0);*/
+    cursor: hand;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 5px 15px 5px 15px;
+        
+}
+
+    /* Fix for button margins - do not add 30px margin to every button, only when they are adjacent*/
+    input[type=button] + input[type=button] {
+        margin-left: 30px;
+    }
+
+    input[type=submit] + input[type=submit] {
+        margin-left: 30px;
+    }
+
+
+/* BEGIN: styles added for MUN-243008 */
+    .button-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+        vertical-align:middle;
+}
+
+    .ModalButtonRightSpacing input {
+        margin-top: 10px;
+        margin-right: 30px;
+        margin-left: 0;
+        vertical-align: middle;
+}
+
+    .ModalButtonRightSpacing input {
+        margin-top: 10px;
+        margin-right: 30px;
+        margin-left: 0;
+        vertical-align: middle;
+}
+    /* END: styles added for MUN-243008 */
+
+    input[type=button]:disabled, input[type=submit]:disabled, input[type=reset]:disabled {
+        background: #dddddd;
+        cursor: default;
+        color: #9E9E9E;
+
+}
+
+    .expandedheader .expander {
+        background-image: url("images/collapse.png");
+}
+    .inlineexpandedheader .expander {
+        background-image: url(images/collapse.png);
+}
+ 
+    .expandedheader, .inlineexpandedheader{
+        height: 41px;
+        width: 100%;
+        color: #FFFFFF;
+}
+
+    .expander {
+        width: 25px;
+        background-position: center center;
+        background-repeat: no-repeat;
+}
+
+    .ui-datepicker {
+        width: 17em;
+        padding: .2em .2em 0;
+        display: none;
+}
+
+        .ui-datepicker .ui-datepicker-header {
+            position: relative;
+            padding: .2em 0;
+}
+
+        .ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+            position: absolute;
+            top: 2px;
+            width: 1.8em;
+            height: 1.8em;
+}
+
+        .ui-datepicker .ui-datepicker-prev {
+            left: 2px;
+        }
+
+        .ui-datepicker .ui-datepicker-next {
+            right: 2px;
+}
+
+            .ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span {
+                display: block;
+                position: absolute;
+                left: 50%;
+                margin-left: -8px;
+                top: 50%;
+                margin-top: -10px;
+}
+
+        .ui-datepicker .ui-datepicker-title {
+            margin: 0 2.3em;
+            line-height: 1.8em;
+            text-align: center;
+}
+
+            .ui-datepicker .ui-datepicker-title select {
+                font-size: 1em;
+                margin: 1px 0;
+}
+
+        .ui-datepicker select.ui-datepicker-month-year {
+            width: 100%;
+}
+
+        .ui-datepicker select.ui-datepicker-month,
+        .ui-datepicker select.ui-datepicker-year {
+            width: 49%;
+}
+
+        .ui-datepicker table {
+            width: 100%;
+            font-size: .9em;
+            border-collapse: collapse;
+            margin: 0 0 .4em;
+}
+
+        .ui-datepicker th {
+            padding: .7em .3em;
+    text-align: center;
+            font-weight: bold;
+            border: 0;
+}
+
+        .ui-datepicker td {
+            border: 0;
+            padding: 1px;
+}
+	
+            .ui-datepicker td span, .ui-datepicker td a {
+                display: block;
+                padding: .2em;
+                text-align: right;
+                text-decoration: none;
+}
+
+        .ui-datepicker .ui-datepicker-buttonpane {
+            background-image: none;
+            margin: .7em 0 0 0;
+            padding: 0 .2em;
+            border-left: 0;
+            border-right: 0;
+            border-bottom: 0;
+}
+
+            .ui-datepicker .ui-datepicker-buttonpane button {
+                float: right;
+                margin: .5em .2em .4em;
+                cursor: pointer;
+                padding: .2em .6em .3em .6em;
+                width: auto;
+                overflow: visible;
+}
+
+                .ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current {
+                    float: left;
+                }
+
+    .ui-datepicker-trigger {
+        float: left;
+        margin-top: 7px;
+    }
+
+/* IE6 IFRAME FIX (taken from datepicker 1.5.3 */
+.ui-datepicker-cover {
+    display: none; /*sorry for IE5*/
+        display /**/: block; /*sorry for IE5*/
+    position: absolute; /*must have*/
+    z-index: -1; /*must have*/
+    filter: mask(); /*must have*/
+    top: -4px; /*must have*/
+    left: -4px; /*must have*/
+    width: 200px; /*must have*/
+    height: 200px; /*must have*/
+}
+
+    .totalCompensationPercentage {
+        background-color: #F0F1F5;
+        height: 100px;
+        margin-left: 4px;
+        margin-right: 4px;
+}
+
+    .bulletcircle li {
+        list-style-type: square;
+        font-size: 14px;
+    margin: 0 0 10px 20px;
+}
+
+    .rss img {
+        margin: 2px 1px 0 5px;
+}
+
+    .rss {
+        vertical-align: top;
+}
+
+    .blurred {
+    text-shadow: 0 0 20px black;
+    color: transparent;
+    /* IE8 */
+        filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='8');
+    /* IE7 */
+    min-height: 1px;
+}
+
+    .shadedBackground {
+        background-color: rgb(245, 245, 245);
+}
+
+    .moreLeftMargin30 {
+        margin-left: 30px;
+}
+
+    .moreLeftMargin20 {
+        margin-left: 20px;
+}
+
+    .landingHeadingContent {
+        font-weight: bold;
+}
+
+    .trainingdetail {
+        text-align: left;
+        margin: 0;
+        border-bottom: dotted 1px #0A3BAD;
+}
+
+    .trainingdetailheader {
+        text-align: left;
+        margin: 0;
+}
+
+        .trainingdetailheader th {
+            font-weight: bold;
+            padding: 4px;
+    font-size: 1.0em;
+            margin: 0;
+}
+
+    .trainingdetail td {
+        vertical-align: top;
+        text-align: left;
+        padding: 4px;
+}
+
+        .trainingdetail td div {
+            overflow: hidden;
+  white-space: nowrap;
+}
+
+    .trainingdetail p {
+        margin: 0;
+        padding: 0;
+}
+
+.divider {
+    height: 1px; 
+        background: black;
+    width: 100%;
+}
+
+
+    input.invalidInput {
+        border:1px solid #ff0000;
+}
+
+    .workflowicon {
+    vertical-align: middle;
+}
+
+    #sideBar ul li ul.submenu a.thirdlevelmenu {
+    font-weight: normal;
+    padding-right: 22px;
+    padding-left: 35px;
+}
+
+    .fullScreen {
+        width: 950px;
+        position: absolute;
+}
+
+    .timesheet td {
+        width: 82px;
+        min-width: 82px;
+        height: 80px;
+    border: 1px solid White;
+        text-align: center;
+        background-color: #DEDEDE;
+}
+
+    .timesheet th {
+        background-color: #DEDEDE;
+    border: 1px solid White;
+        height: 60px;
+        text-align: center;
+        font-weight: normal;
+    min-width: 90px;
+}
+
+    .timesheet .entertime {
+        width: 70px;
+        font-size: 20px;
+        text-align: center;
+}
+
+.timesheet input.entertime {
+        border-style: none;
+    box-shadow: none;
+    -ms-box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+    .timesheetHeader {
+        text-align: center;
+}
+
+    .timesheetApproval {
+        text-align: center;
+        font-size: 22px;
+        margin-top: 20px;
+}
+
+    .timesheetPending {
+        position: relative;
+        color: #A6A6A6;
+}
+
+    .timesheetApprovalIcon {
+        position: absolute;
+        top: -16px;
+        right: -18px;
+}
+
+    .timesheetDate {
+        float: right;
+        font-weight: normal;
+}
+
+    .timesheet {
+        border-collapse: collapse;
+}
+
+    .timesheet-entry-control {
+    overflow-y: hidden;
+    overflow-x: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.timesheet-header-footer {
+    min-height: 84px;
+}
+
+.timesheet-section {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.timesheet-button {
+    padding: 5px 10px 5px 10px !important;
+}
+
+.timesheet-row-header {
+    min-width: 180px !important;
+    padding: 10px;
+}
+
+    .hastime {
+        background-color: #DEDEDE;
+}
+
+    .timeSheetLineItemControl {
+        display: inline-block;
+        margin-right: 12px;
+}
+
+    .unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+        border-style: none;
+}
+
+    .approved {
+	background: url(images/checkmark.png) no-repeat right top;
+}
+
+    .denied {
+	background: url(images/redx.png) no-repeat right top;
+}
+
+    .forwarding {
+	background: url(images/forward.png) no-repeat right top;
+}
+
+    .onhold {
+	background: url(images/hold.png) no-repeat right top;
+}
+
+    .inprogress {
+	background: url(images/in_progress.png) no-repeat right top;
+}
+
+.timesheet td.ruleerror {
+        border: 2px solid red;
+}
+
+.timesheet td.rulewarning {
+        border: 2px solid darkorange;
+}
+
+    .timesheet .historyselected {
+    border-bottom-color: #DEDEDE;
+}
+
+    .ajax__calendar_container td, .datatable .ajax__calendar_container td {
+        padding: 0 !important;
+        margin: 0 !important;
+        color: Black !important;
+        border-bottom: 1px solid #ffffff;
+}
+
+li.ruleerror {
+    color: red;
+}
+
+li.rulewarning {
+    color: darkorange;
+}
+
+    #ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TabContainer_SearchTabPanel_SearchLocation td {
+        padding: 1px !important;
+}
+
+    #ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TabContainer_SearchTabPanel_SearchJobFamily td {
+        padding: 1px !important;
+}
+
+    #ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TabContainer_SearchTabPanel_SearchJobClass td {
+        padding: 1px !important;
+}
+
+    #ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TabContainer_SearchTabPanel_SearchGroupBU td {
+        padding: 1px !important;
+}
+
+    .checkbox_list_div {
+        float: left;
+        margin-top: 0;
+        margin-bottom: 0;
+        width: 100%;
+        border: 1px solid gray;
+        height: 90px;
+        overflow-y: auto;
+        overflow-x: hidden;
+}
+
+    .checkbox_select_link {
+        text-decoration: underline !important;
+}
+
+    a {
+    cursor: pointer; 
+}
+
+    .taxSaleAlertStyle {
+       background: url(images/warning_icon.gif) no-repeat left top;
+        padding: 2px 0 12px 26px;
+        margin: 0;
+		color: red;
+		font-weight: bold;
+    }
+
+    .nodisplay {
+        display: none;
+    }
+
+    .margin10 {
+        margin: 10px;
+    }
+
+    .margin8 {
+        margin: 8px; 
+    }
+
+    .marginVertical8 {
+        margin-top: 8px; 
+        margin-bottom: 8px;
+    }
+
+    .menu-success {
+        background: url(images/checkmark.png) no-repeat;
+        background-position: right 10px center;
+        padding-right: 30px;    
+    }   
+
+    .tile{
+        padding:5px;
+        margin:5px;
+        display:inline-block;
+        vertical-align:top;
+    }
+
+    .bottom-border{
+        border-bottom: 1px solid #D8D8D8;
+        margin-bottom: 10px;
+        padding-bottom: 6px;
+    }
+
+    .green-success{
+        color:green;
+    }
+
+    .persistent{
+        position : fixed;
+        bottom: 68px;
+        right: 15px;
+    }
+
+    .expand-collapse{
+        min-height:48px;
+        vertical-align:middle;
+        /*border-top:1px solid #E0E0E0;*/
+        cursor:pointer;
+    }
+
+    .caret{
+        vertical-align: middle;
+        float: right;
+        margin: -2px 6px 0px 6px;
+    }
+
+    .pointer {
+        cursor:pointer;
+    }
+
+    .option-cost-title{
+        width:100px;
+        float:left;
+        clear:both;
+        font-size: 0.95em;
+        color: #666;
+    }
+
+    .option-cost {
+        width: 70px;
+        float: left;
+        text-align: right;
+        font-size: 0.95em;
+        color: #666;
+    }
+
+    .valid-text-icon {
+        color: #4caf50;
+        vertical-align: bottom;    
+    }
+
+    .material-link-button{
+        text-decoration:none;
+        margin-right: 24px;
+        font-weight:normal;
+    }
+
+    .justified{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding:12px;
+    }
+
+    .benefit-option-summary
+    {
+        margin-right: 40px;
+        vertical-align: top;
+        width: 350px;
+        display: inline-block;
+    }
+
+    .benefit-summary
+    {
+        padding:10px;
+        margin:20px;
+    }
+}
+
+    .red_error {
+        color: red;
+        font-weight: bold;
+}
+
+    .yellow_error {
+        color: #e6da30;
+        font-weight: bold;
+}
+
+    .submittab {
+        margin-left: 40px;
+    }
+
+a.tab {
+        background-color: #e6e6e6;
+        padding: 8px;
+    margin: 0px;
+        font-size: 18px;
+    text-decoration: none;  
+}
+
+
+/**
+ * Page layout and menu styles go below here.   
+ */
+.mol-page-container {
+    position: absolute;
+    top: 48px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+    background-color: #e6e6e6;    
+}
+
+@-webkit-keyframes molFadeIn {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+}
+
+@-moz-keyframes molFadeIn {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+}
+
+@keyframes molFadeIn {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+}
+
+.mol-fade-in {
+    opacity: 0;
+    filter: alpha(opacity = 100);
+    -webkit-animation: molFadeIn 500ms ease-in 1;
+    -moz-animation: molFadeIn 500ms ease-in 1;
+    -o-animation: molFadeIn 500ms ease-in 1;
+    animation: molFadeIn 500ms ease-in 1;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    -o-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+.mol-page-header {
+    height: 48px;
+    background-color: #283593;
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 2em;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    /*position: relative;*/
+}
+
+.mol-page-header .loginMenuContainer, a.shoppingCartTarget, a.loginMenuTarget, a.contextMenuTarget {
+    background: none;
+    padding: 0;
+}
+
+.mol-header-menu-item a {
+    text-decoration: none;
+}
+
+.mol-header-menu-item button {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    background-image: none;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    color: rgba(255, 255, 255, 0.87);
+}
+
+.mol-page-header #topnavbanner {
+    font-size: 12px;
+    height: 48px;
+    margin-right: 14px;
+    text-align: right;
+    margin-top: 0;
+}
+
+.mol-page-header > #topnavbanner > div {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    min-width: 0;
+    height: 48px;
+}
+
+.mol-page-header > #topnavbanner > div.mol-header-menu-item {
+    padding: 5px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 24px;
+}
+
+.mol-page-header > #topnavbanner > div.mol-header-menu-item .mol-context-menu-title {
+    font-weight: bold;
+    background-color: #e6e6e6;
+    white-space: nowrap;
+    max-width: 250px;
+    min-width: 100px;
+    text-overflow: ellipsis;
+    display: block;
+    overflow: hidden;
+}
+
+.mol-page-header > #topnavbanner > div.mol-header-menu-item .mol-menu-item-icon {
+    font-size: 20px;
+}
+
+.mol-page-header > #topnavbanner > div.mol-header-menu-item .mol-menu-item-icon > i {
+    line-height: 38px;
+}
+
+.mol-page-header > #topnavbanner > div.mol-header-menu-item .mol-menu-item-text {
+    font-size: 12px;
+}
+
+.mol-page-header > #topnavbanner > div > a {
+    height: 48px;
+    display: block;
+}
+
+.mol-page-header > #topnavbanner div.mol-header-menu-item button:hover {
+    cursor: pointer;
+}
+
+.mol-page-header > #topnavbanner > div:last-child {
+    margin-right: 0;
+    border: none;
+}
+
+.mol-page-header > #topnavbanner div.mol-header-menu-item a > div.mol-menu-item-icon, div.mol-menu-item-text {
+    color: white;
+}
+
+.mol-page-header > #topnavbanner div.mol-header-menu-item button > div.mol-menu-item-text {
+    margin-top: 2px;
+}
+
+.mol-page-header > #topnavbanner div.mol-header-menu-item > a > i {    
+    height: 48px;
+    width: 48px;
+    line-height: 48px;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.mol-page-header > #topnavbanner div.mol-header-menu-item > a > img {
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.mol-page-header > a.homeLinkImage {
+    padding: 5px;
+}
+
+.mol-page-header > a.homeLinkImage > img {
+    height: 38px;
+    margin: 0;
+}
+
+.mol-page-header > .mol-main-title {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
+
+.mol-main-title .mol-tyler-logo {
+    height: 48px;
+    width: 48px;
+    float: left;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuNvyMY98AAALISURBVFhHxZahb1NRFMYrKiYqEBUVExMTFROIiYmKCQRyogKJRCAnKhFzIEhowhIqSPgHEAgSJhCIJSNBsgSSkUBSgZiomFjS8vvu++7re6/tawd940u+nHfPd+49971773m3ti5MJpPOeDw+h9fwPe2WpepBsgZJL7EpaL+1XD3I10nSTsEErixXD/K19OmT1Alon1quBiTYJk8Pe4htYh/HSWCHcM+h6weD78CRkgk8/8Q0YQtqOTYcWg1I2CdJDvgOLVcPkg2cN4ue5epAkvBpsTrz6abjeQS3szErgw5t+NkD/cLsW0qBfxd+d4yKzY7isG/gK7Xhfaj+ijmFm+5eDgJP1CmCtgpK7i3wheQRtM8tBeCaV4hOLJfD8UXctSx9K3HNoOkQxewnrimYwMhyOQg8c58AdcQ0LGvwOr5hEA3aF5YDcKkOXCVqAtqfLJeDQK3fhTtdwi6PW9hn8DmM6/3bMZpMx91T4O/CUBuw3zDaW9qsx9gnMP1iM0CsQ33qDVk6hWSCBoWaRNBg3d1mgNZQjJ8P6Jc9KV8xy08IQb3QIwM69y2vDProl5wDvq7lxSDuv09AS5Ct83EJ4jKVLUFYJj8fwBSMEZYA6siW1wiCNImn8IWTazOFk2C7aBOGWoBV3Yib8CU84jn+MeNpUfFbfmsiaN4x/GE5ANfMMQQfLQeg60WKeG15MQhaSyHC9TBRpiAmV1EXgkCd6xRqWwrAtbQU49KyFm9NA8vlIFZrGSYhC3ftG8A+1OfVuY/75AzGv6NuTQ/0jH0E4z75gFlcnOaBDndslTz3O8bE3R9iBPnQjuA7uwKyMX8FBlz5QoJfx/Gem+sBE7j9Kxk5tNH2bIuXUq39zdbzJmBwbbC4efTH1O0ndy136PrB4CpE6d9RoD20XD3It7QQVQ7euFiIvli6HZCzTdJwdbNtW/pH1Gp/AArpfyf4FWHsAAAAAElFTkSuQmCC');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 6px;
+}
+
+.mol-main-title > .mol-title {
+    display: inline-block;
+    height: 48px;
+    line-height: 48px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 6px;
+    margin-right: 12px;
+}
+
+.mol-side-menu {
+    position: absolute;
+    top: 40px;
+    bottom: 48px;
+    left: 0;
+    background-color: #e6e6e6;
+    width: 250px;
+    font-size: 16px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.mol-side-menu > .mol-side-menu-mobile-toggle {
+    display: none;
+}
+
+.mol-side-menu > .mol-side-menu-mobile-toggle > a {
+    color: blue;
+    background-color: inherit;
+    -webkit-transition: background-color 400ms ease-out;
+    -moz-transition: background-color 400ms ease-out;
+    -ms-transition: background-color 400ms ease-out;
+    -o-transition: background-color 400ms ease-out;
+    transition: background-color 400ms ease-out;
+}
+
+.mol-side-menu > .mol-side-menu-mobile-toggle > a:hover {
+    background-color: #cfcfcf;
+    text-decoration: underline;
+}
+
+.mol-side-menu.mol-menu-left {
+    left: 0;
+    right: auto;
+}
+
+.mol-side-menu.mol-menu-right {
+    left: auto;
+    right: 0;
+}
+
+.mol-side-menu a {
+    color: inherit;
+    text-decoration: none !important;
+    padding: 10px;
+    display: block;
+}
+
+.mol-side-menu > ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color: #00366b;
+}
+
+.mol-side-menu > ul > li {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: background-color 400ms ease-out;
+    -moz-transition: background-color 400ms ease-out;
+    -ms-transition: background-color 400ms ease-out;
+    -o-transition: background-color 400ms ease-out;
+    transition: background-color 400ms ease-out;
+}
+
+.mol-side-menu > ul > li:hover {
+    background-color: #cfcfcf;
+    cursor: pointer;
+}
+
+.mol-side-menu > ul > .primarynavselected {
+    background-color: white;
+    font-weight: bold;
+}
+
+.mol-side-menu > ul > li.primarynavselected.mol-side-submenu > ul > li.submenuselected.mol-side-submenu > a {
+    font-weight: bold;
+}
+
+.mol-side-submenu {
+    position: relative;
+    background-color: #e6e6e6;
+    padding: 0;
+    margin: 0;
+}
+
+.mol-side-submenu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.mol-side-submenu ul li {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #40403a;
+    font-weight: normal;
+    display: block;
+    padding-left: 20px;
+    background-color: #f0f0f0;
+    -webkit-transition: background-color 400ms ease-out;
+    -moz-transition: background-color 400ms ease-out;
+    -ms-transition: background-color 400ms ease-out;
+    -o-transition: background-color 400ms ease-out;
+    transition: background-color 400ms ease-out;
+}
+
+.mol-side-submenu ul li:hover {
+    background-color: #cfcfcf;
+}
+
+.mol-side-menu a#submenuselected {
+    font-weight: bold;
+}
+
+.mol-side-submenu a.thirdlevelmenu {
+    margin-left: 20px;
+    background-color: inherit !important;
+}
+
+.mol-content-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 48px;
+    left: 250px;
+    padding: 10px;
+    overflow: auto;
+    background-color: #ffffff;
+}
+
+.mol-content-container.mol-menu-left {
+    left: 250px;
+    right: 0;
+}
+
+.mol-content-container.mol-menu-right {
+    left: 0;
+    right: 250px;
+}
+
+.NotificationBanner {
+    margin: -10px -10px 5px -10px;
+    padding: 7px;
+    font-size: 1.5em;
+    border-bottom: 1px solid rgb(0,0,0,0.12);
+    display: flex;
+    background: #FFEBEE;
+    color: #B71C1C;
+}
+
+.NotificationBanner span {
+    flex-grow:1;
+}
+
+.NotificationBanner a{
+    text-decoration: none;
+}
+
+    .NotificationBanner a:hover {
+        text-decoration: underline;
+    }
+
+    .NotificationBanner .material-icons {
+        margin-right: 8px;
+        font-size: 34px;
+        line-height: 26px;
+        color: #D50000;
+    }
+
+
+.mol-content-timesheet {
+    width: 100%;
+    height: 100%;
+    overflow-y: hidden;
+    min-width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mol-page-footer {
+    position: absolute;
+    bottom: 0;
+    left: 250px;
+    text-align: center;
+    right: 0;
+    height: 48px;
+    line-height: 48px;
+    background-color: #e6e6e6;
+}
+
+.mol-page-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.mol-content-flex {
+    flex: 1;
+    overflow-y: hidden;
+}
+
+.mol-page-footer > .mol-page-footer-content {
+    margin-left: -250px;
+}
+
+.mol-content-container-legacy {
+    max-width: 730px;
+}
+
+.mol-has-error {
+    border-color: #a20000 !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075) !important;
+    -ms-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075) !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075) !important;
+}
+
+.mol-has-error:focus {
+    border-color: #6f0000 !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ff0909 !important;
+    -ms-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ff0909 !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #ff0909 !important;
+}
+
+.noshade .shadedBackground {
+    background-color: inherit;
+        padding: 0px !important;
+    padding-left: 8px !important;
+}
+
+    .visually-hidden {
+  position: absolute;
+        clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+/* Tablet (portrait/landscape) */
+@media only screen and (min-width: 768px) and (max-width: 1260px) {
+    .mol-side-menu {
+        width: 150px;
+        font-size: 12px;
+    }
+
+    .mol-side-menu.mol-menu-left {
+        left: 0;
+        right: auto;
+    }
+
+    .mol-side-menu.mol-menu-right {
+        left: auto;
+        right: 0;
+    }
+
+    .mol-content-container {
+        left: 150px;
+    }
+
+    .mol-content-container.mol-menu-left {
+        left: 150px;
+        right: 0;
+    }
+
+    .mol-content-container.mol-menu-right {
+        left: 0;
+        right: 150px;
+    }
+
+    .mol-page-footer {
+        left: 150px;        
+    }
+
+    .mol-page-footer > .mol-page-footer-content {
+        margin-left: -150px;
+        font-size: 10px;
+    }
+}
+
+/** Portrait smartphones **/
+@media only screen and (max-width: 768px) {
+    .mol-side-menu {
+        width: 100%;
+        height: auto;
+        display: block;
+        position: static;        
+        font-size: 12px;
+    }
+
+    .mol-side-menu > .mol-side-menu-mobile-toggle {
+        display: block;
+    }
+
+    .mol-content-container {
+        display: block;
+        position: static;
+        height: auto;
+    }
+
+    .mol-page-footer {
+        position: static;
+        width: 100%;
+    }
+
+    .mol-page-footer > .mol-page-footer-content {
+        margin-left: 0;
+        font-size: 10px;
+    }
+
+    .mol-fade-in {
+        opacity: 1;
+        filter: alpha(opacity = 100);
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        animation: none !important;
+        -webkit-animation-fill-mode: none !important;
+        -moz-animation-fill-mode: none !important;
+        -o-animation-fill-mode: none !important;
+        animation-fill-mode: none !important;
+    }
+}
+
+.mol-side-menu-show {
+    display: block !important;
+}
+
+@media print {
+    #sideBar, .noprint, #topnavbanner, #FooterPlaceHolder, .FeedbackLink, #molSideMenu {
+        visibility: hidden;
+        display: none;
+    }
+
+        .copyrightSpan {
+        page-break-before: avoid;
+    }
+
+    #innerContent {
+        width: 100%;
+        height: 0;
+	    padding: 0;
+	    margin: 0;
+            color: Black !important;
+            text-align: left !important;
+        page-break-after: avoid;
+    }
+    
+    .printImage {
+            display: inherit;
+    }
+
+    .mol-page-header > .mol-main-title {
+        display: block !important;
+    }
+
+    .mol-content-container {
+        display: block;
+        position: static;
+        height: auto;
+    }
+
+    /* Allows Internet Explorer to print more than one page */
+    .mol-page-container {
+        position: static;
+    }
+    
+    .mol-page-footer {
+        position: static;
+        width: 100%;
+    }
+
+    .mol-page-footer > .mol-page-footer-content {
+        margin-left: 0;
+        font-size: 10px;
+    }
+
+    .mol-fade-in {
+        opacity: 1;
+        filter: alpha(opacity = 100);
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        animation: none !important;
+        -webkit-animation-fill-mode: none !important;
+        -moz-animation-fill-mode: none !important;
+        -o-animation-fill-mode: none !important;
+        animation-fill-mode: none !important;
+    }
+}
+
+.width17em {
+    width: 17.6em;
+}
+
+.width24em {
+    min-width: 24em;
+}
+
+.width35em {
+    width: 35em;
+}
+
+.cellnopaddingright tbody tr td {
+    padding-right: 0;
+}
+
+table.formtable .datatable td.pad-right {
+    padding-right: 25px;
+}
+
+table.formtable th.pad-right {
+    padding-right: 25px;
+}
+
+.highlighted-text {
+    background-color: #6da0f2;
+}
+
+.bank-dropdown-item {
+    background-color: white;
+}
+
+.datatable.modalPopupDataTable {
+    background-color: white;
+    border-radius: 2px;
+}
+
+.datatable.modalPopupDataTable td {
+    padding-left: 10px;
+    border: none;
+}
+
+.job-application-module {
+    clear:both;
+    background-color: #F0F0F5;
+    padding: 10px;
+    margin-bottom: 60px;
+    border-radius: 2px;
+}
+
+.job-application-section {
+    padding: 30px 60px 10px 60px;
+    margin-bottom:60px;
+    border-radius: 2px;
+}
+
+.add{
+    font-size:1.8em;
+    text-align:center;
+    padding:10px;
+    margin:5px;
+    min-height:300px;
+    cursor:pointer;
+    border: 1px dashed;
+}
+
+.slide-left{
+    position:relative;
+    left: -2000px;
+}
+
+.flex{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+}
+
+input.material-button{
+    margin-right:0px;
+    background:#ffffff;
+    cursor:pointer;
+    border-radius: 2px;
+    font-weight:normal;
+}
+
+input.material-button-colored{
+    padding: 0 16px 0 16px;
+    height: 36px;
+    min-width: 64px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px #888888;
+    color:white;
+}
+
+.shadow{
+    box-shadow: 2px 2px 7px #888888;
+}
+
+.wrapped{
+    border: 2px solid red;
+    height: 270px;
+    overflow: hidden;
+}
+
+.round{
+    border-radius: 50%;
+}
+
+.white-background
+{
+    background-color:white;
+}
+
+.white{
+    color:white
+}
+
+.round-right{
+    border-radius: 0 50% 50% 0;
+}
+
+
+.round-left{
+    border-radius: 50% 0 0 50%;
+}
+
+.no-decoration a{
+    text-decoration:none;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.twofa-security-questions__description {
+    margin-bottom: 24px;
+}
+
+.twofa-security-question__container {
+    width: 500px;
+    margin-bottom: 24px;
+}
+
+.twofa-security-question__container > div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.twofa-security-question__label {
+    width: 150px;
+}
+
+.twofa-security-question__input {
+    flex: 1;
+    width: 100%;
+}
+
+/* Loading Spinner */
+.loader {
+    position: fixed;
+    border: 24px solid #bdbdbd;
+    border-radius: 50%;
+    border-top: 24px solid #03a9f4;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 1.5s linear infinite; /* Safari */
+    animation: spin 1.5s linear infinite;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+/* END of Loading Spinner */
+
+
+/* Chrome Autofill event creator for client side interaction */
+@keyframes onAutoFillStart {  from {/**/}  to {/**/}}
+input:-webkit-autofill {
+    /*Expose a hook for JavaScript when autofill is shown*/
+    animation-name: onAutoFillStart;
+    transition: background-color 1s ease-in-out 0s;
+}
+
+/* Custom CSS for form icons */
+.valid-textbox-icon{
+    position: absolute; 
+    margin-left: -15px;
+    margin-top: 15px;
+    color: #4caf50;
+}
+
+
