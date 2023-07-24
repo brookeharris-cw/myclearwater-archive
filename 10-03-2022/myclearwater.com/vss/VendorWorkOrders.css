@@ -1,0 +1,189 @@
+﻿/* Styles for Vendor Work Order components */
+
+/* Detail General Tab */
+.WorkOrderGeneralTable {
+    width: 40%;
+    table-layout: fixed;
+}
+
+.WorkOrderGeneralTable .WorkOrderGeneralTableSectionHeader td {
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 1em;
+    border-bottom: 1px solid black;
+}
+
+.WorkOrderGeneralTable tr td:first-child {
+    font-weight: bold;
+}
+
+.WorkOrderGeneralWorkflowButton {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.WorkOrderGeneralTable .WorkOrderWorkflowErrorRow {
+    font-weight: normal;
+    color: red;
+}
+
+/* Task Detail Tab */
+
+.WorkOrderTaskTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+}
+
+.WorkOrderTaskTable tr td {
+    height: 2em;
+}
+
+.TaskHeaderRow {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.OutsourcingTableHeaderRow {
+	border-bottom: 1px solid #bbb;
+    border-top: 1px solid black;
+}
+
+.OutsourcingDate {
+    width: 7%;
+}
+
+.OutsourcingDescription {
+    width: 30%;
+}
+
+.OutsourcingComment {
+    width: 25%;
+}
+
+.OutsourcingQuantity, .OutsourcingRate, .OutsourcingCost {
+    width: 7%;
+}
+
+.OutsourcingType {
+    width: 7%;
+}
+
+.OutsourcingEdit, .OutsourcingDelete {
+    width: 5%;
+}
+
+.OutsourcingTableRow {
+	border-bottom: 1px solid #eee;
+}
+
+.OutsourcingTableRow:last-child {
+    border-bottom: 1px solid black;
+}
+
+.WorkOrderMaintainOutsourcingTable {
+	width: 100%;
+}
+
+.WorkOrderMaintainOutsourcingTable .WorkOrderMaintainOutsourcingTableSectionHeader td {
+	font-weight: bold;
+	font-size: 1.5em;
+	border-bottom: 1px solid black;
+}
+
+.WorkOrderMaintainOutsourcingTaskCell {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.OutsourcingDate input, .OutsourcingDescription input, .OutsourcingQuantity input, .OutsourcingRate input, .OutsourcingCost input, .OutsourcingType select, .OutsourcingComment input {
+    /* ensure input boxes line up right */
+    width: 100%;
+}
+
+/* Detail Comments Tab */
+
+.WorkOrderCommentsAddCommentTable {
+    width: 40%;
+}
+
+.WorkOrderCommentsAddCommentTable tr td:first-child {
+    width: 10%;
+}
+
+.WorkOrderCommentsAddCommentTable tr td:last-child {
+    width: 90%;
+}
+
+.WorkOrderCommentsAddCommentTable tr td:last-child textarea {
+    width: 100%;
+}
+
+.WorkOrderCommentsAddCommentTable .WorkOrderAddCommentErrorRow {
+    color: red;
+}
+
+.WorkOrderCommentsTable {
+    width: 40%;
+}
+
+
+.WorkOrderCommentsTable tr:nth-child(odd) td {
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-top: 0.5em;
+    border-bottom: 1px solid black;
+}
+
+/* Detail Inspections Tab */
+
+.WorkOrderInspectionTable {
+    width: 30%;
+}
+
+.WorkOrderInspectionTable .WorkOrderInspectionHeader td {
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-top: 1em;
+    border-bottom: 1px solid black;
+}
+
+.WorkOrderInspectionTable td {
+    padding-top: 0.5em;
+}
+
+.WorkOrderInspectionTable .InspectionDateTextbox {
+    width: 25%;
+}
+
+.WorkOrderInspectionTable .WorkOrderInspectionTimeInput {
+    margin-right: 10px;
+    width: 10%;
+}
+
+.WorkOrderInspectionTable .InspectionCommentTextBox {
+    width: 100%;
+}
+
+/* Custom Data Tab */
+
+.CustomDataTable {
+    width: 40%;
+}
+
+.CustomDataTable tr td:first-child {
+    width: 30%;
+}
+
+.CustomDataTable .CustomFieldRequiredLabel {
+    color:red;
+}
+
+.CustomDataTable .datepicker {
+    width: 8em;
+}
+
+.CustomDataTable .WorkOrderCustomDataTimeInput {
+    margin-left: 10px;
+    width: 10%;
+}

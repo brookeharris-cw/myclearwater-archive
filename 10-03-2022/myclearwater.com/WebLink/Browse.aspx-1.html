@@ -1,0 +1,51 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+    <base href= "/WebLink/" />
+  
+   
+    <link rel="SHORTCUT ICON" href="favicon.ico" /><title>
+
+</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <script src="node_modules/es6-shim/es6-shim.min.js"></script>
+    <script src="node_modules/systemjs/dist/system-polyfills.js"></script>
+
+    <script src="node_modules/es6-shim/es6-shim.min.js"></script>
+    <script src="node_modules/systemjs/dist/system-polyfills.js"></script>
+    <!-- Polyfill(s) for older browsers -->
+    <script src="node_modules/core-js/client/shim.min.js"></script>
+    <script src="node_modules/zone.js/dist/zone.min.js"></script>
+    <script src="node_modules/systemjs/dist/system.src.js"></script>
+
+    <script src="javascript/resources/jquery.min.js"></script>
+    <script src="javascript/resources/jquery.plugins.js"></script>
+    <script type="text/javascript" src="javascript/resources/MediaDisplay.res.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="./node_modules/primeng/resources/primeng.min.css" /><link rel="stylesheet" type="text/css" href="./node_modules/font-awesome/css/font-awesome.min.css" /><link rel="stylesheet" href="./bootstrap.css" /><link href="/WebLink/styles.css" type="text/css" rel="stylesheet" ><style>.LoginSquare { background-image: url(images/WatermarkLogin.gif); }.LeftPanel, .DocViewerMainTable .LeftPanelContentDiv, .DocViewerMainTable .LeftPanelContentDivMobile { background-image: url(images/WatermarkSideNav.gif); }.DocumentPageToolbar8, .DocumentPageToolbar, .DocumentPageToolbar8Mobile, .DocumentPageToolbarMobile { background-image: url(images/docTBbg.gif); }</style>
+
+
+
+  
+   <script src="systemjs.config.js?v=10.1.1"></script>
+   <script src="bundles/dependencies.bundle.js?v=10.1.1"></script> 
+   <script src="bundles/app.bundle.js?v=10.1.1"></script> 
+  
+
+</head>
+<body id="browsePage" class="ltr" style="overflow: hidden;">
+
+    <browse-app><div style="padding: 30%; text-align: center;">Loading...</div></browse-app>
+    <span id="mediaDisplay" class="media-display"><div class="media-backdrop"></div><div id="media-container" class="media-container"><div id="media-header" class="media-header"><span id="media-icon" class="media-icon"><i></i></span><div id="media-name" class="media-name"></div><button id="media-share" class="media-share" title="Share"><i></i></button><div id="media-url-container" class="media-url-container"><label class="media-url-input-label" for="media-url-input">The URL can be used to link to this page</label><input id="media-url-input" type="text" class="media-url-input"></input></div><button id="media-download" class="media-download" title="Download"><i></i></button><button id="media-close" class="media-close" title="Close"><i></i></button></div><video id="video" controls=""><source id="source"></source><div>Your browser does not support the video tag.</div></video></div></span>
+    <script>
+            System.import('browse-app').catch(function (err) { console.error(err); });
+
+    </script>
+
+    <span id="CrawlerPreRender"></span>
+   
+</body>
+</html>

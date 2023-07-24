@@ -1,0 +1,466 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head id="ctl00_ctl00_head"><title>
+	Vendor Self Service
+</title><link rel="stylesheet" href="../FontAwesome/css/font-awesome.min.css"><link rel="stylesheet" href="../bootstrap/bootstrap.css"><link id="ctl00_ctl00_BaseStyleLink" rel="stylesheet" type="text/css" href="../MOLStyleSheet.css"><link href="../jquery-ui.css" type="text/css" rel="Stylesheet"><link href="../jquery-ui.theme.css" type="text/css" rel="Stylesheet"><link id="ctl00_ctl00_MaterialStyleLink" rel="stylesheet" type="text/css" href="../MOLmaterial.css"><link id="ctl00_ctl00_VendorWorkOrderStyleLink" rel="stylesheet" type="text/css" href="../VendorWorkOrders.css"><meta name="description" content="MUNIS Self Services"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+        <script src="../../recaptcha/api.js" async="" defer=""></script>
+        <link href="../../icon.css?family=Material+Icons" rel="stylesheet"><link href="../main.css" rel="stylesheet"><link href="../App_Themes/Teal/teal.css" type="text/css" rel="stylesheet"><link type="text/css" rel="Stylesheet" href="../custom/StyleSheet.css"></head>    
+    <noscript>
+        <style type="text/css">
+            #content {display:none;}
+            #leftcolumn {display:none;}
+            .mol-page-container { display: none; }
+        </style>
+        <p>
+            Your browser's ability to run Javascript has been turned off. Please turn it on in order to view this site.
+        </p>
+    </noscript>
+    <body id="top">        
+        <form name="aspnetForm" method="post" action="./default.aspx" id="aspnetForm" autocomplete="off">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM4NDcwMjk0Nw9kFgJmDw8WAh4PX19BbnRpWHNyZlRva2VuBSAzNjBhYjA4MzAyZjE0MWIzODc5OTYyZjdkNTkwMjFhNGQWAmYPZBYCAgMPFgIeDGF1dG9jb21wbGV0ZQUDb2ZmFg4CAw8WAh4EaHJlZgUkaHR0cHM6Ly9tdW5pc3NzLm15Y2xlYXJ3YXRlci5jb20vRVNTFgICAQ8PFgIeCEltYWdlVXJsBSV+L2N1c3RvbS9pbWFnZXMvY2x3X211bmlzX3NzX2xvZ28ucG5nZGQCBQ8PFgIeB1Zpc2libGVoZGQCBw8WAh8EaGQCCQ9kFgJmD2QWAgIBDw8WBB4QQ2F1c2VzVmFsaWRhdGlvbmgeBFRleHQFBkxvZyBJbmRkAgsPFgIeBWNsYXNzBRttb2wtc2lkZS1tZW51IG1vbC1tZW51LWxlZnQWAgIBD2QWAmYPDxYEHgtfIURhdGFCb3VuZGceCW1lbnVJdGVtczLVBwABAAAA/////wEAAAAAAAAADAIAAABPVHlsZXIuTXVuaXMuT25saW5lLlVJLCBWZXJzaW9uPTIwMjEuNS4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAQBAAAAlwFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1R5bGVyLk11bmlzLk9ubGluZS5VSS5Nb2xNZW51SXRlbSwgVHlsZXIuTXVuaXMuT25saW5lLlVJLCBWZXJzaW9uPTIwMjEuNS4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbF1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAjVHlsZXIuTXVuaXMuT25saW5lLlVJLk1vbE1lbnVJdGVtW10CAAAACAgJAwAAAAMAAAABAAAABwMAAAAAAQAAAAQAAAAEIVR5bGVyLk11bmlzLk9ubGluZS5VSS5Nb2xNZW51SXRlbQIAAAAJBAAAAAkFAAAACQYAAAAKBQQAAAAhVHlsZXIuTXVuaXMuT25saW5lLlVJLk1vbE1lbnVJdGVtBAAAAARfdXJsBl90aXRsZQlfc2VsZWN0ZWQJX2NoaWxkcmVuAQEABAErVHlsZXIuTXVuaXMuT25saW5lLlVJLk1vbE1lbnVJdGVtQ29sbGVjdGlvbgIAAAACAAAABgcAAAAOfi9kZWZhdWx0LmFzcHgGCAAAAARIb21lAAkJAAAAAQUAAAAEAAAABgoAAAAZL3Zzcy9WZW5kb3JzL2RlZmF1bHQuYXNweAYLAAAAE1ZlbmRvciBTZWxmIFNlcnZpY2UBCQwAAAABBgAAAAQAAAAGDQAAACovdnNzL1ZlbmRvcnMvVkJpZHMvQmlkVmVyc2lvblNlbGVjdG9yLmFzcHgGDgAAAARCaWRzAAkPAAAABQkAAAArVHlsZXIuTXVuaXMuT25saW5lLlVJLk1vbE1lbnVJdGVtQ29sbGVjdGlvbgMAAAANTGlzdGAxK19pdGVtcwxMaXN0YDErX3NpemUPTGlzdGAxK192ZXJzaW9uBAAAI1R5bGVyLk11bmlzLk9ubGluZS5VSS5Nb2xNZW51SXRlbVtdAgAAAAgIAgAAAAkQAAAAAAAAAAAAAAABDAAAAAkAAAAJEAAAAAAAAAABAAAAAQ8AAAAJAAAACRAAAAAAAAAAAAAAAAcQAAAAAAEAAAAAAAAABCFUeWxlci5NdW5pcy5PbmxpbmUuVUkuTW9sTWVudUl0ZW0CAAAAC2RkAg0PFgIfBwUjbW9sLWNvbnRlbnQtY29udGFpbmVyIG1vbC1tZW51LWxlZnQWAgIBD2QWCAIDD2QWAmYPDxYCHwYFHldlbGNvbWUgdG8gVmVuZG9yIFNlbGYgU2VydmljZWRkAgcPFgQeCWlubmVyaHRtbGQfBGhkAgkPFgIfB2UWAmYPFgIfBmVkAgsPZBYCZg9kFgYCAQ9kFgICBQ8PFgIfBgXSAzxwIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjo+PGI+V2VsY29tZSB0byB0aGUgQ2l0eSBvZiBDbGVhcndhdGVyIFZlbmRvciBTZWxmIFNlcnZpY2UgKFZTUykgPC9iPg0KDQpDaXR5IG9mIENsZWFyd2F0ZXIgdmVuZG9ycyBhcmUgcmVxdWlyZWQgdG8gcmVnaXN0ZXIgYW5kIHVwZGF0ZSB0aGVpciBpbmZvcm1hdGlvbiBvbiBWU1MuICBBIE5ldyBWZW5kb3IgUmVnaXN0cmF0aW9uIEd1aWRlIGFuZCBhbiBFeGlzdGluZyBWZW5kb3IgUmVnaXN0cmF0aW9uIEd1aWRlIGNhbiBiZSBmb3VuZCBvbiB0aGUgcmVzcGVjdGl2ZSBsaW5rcy4gIElmIHlvdSBoYXZlIHF1ZXN0aW9ucyB3aGlsZSByZWdpc3RlcmluZyBvciB1cGRhdGluZyBpbmZvcm1hdGlvbiwgcGxlYXNlIGVtYWlsIHVzIGF0IENsZWFyd2F0ZXJBUEBteWNsZWFyd2F0ZXIuY29tLg0KDQpTZWxlY3QgdGhlIExvZyBpbi9SZWdpc3RlciBsaW5rIHRvIGJlZ2luIDwvcD5kZAIDD2QWAgIBD2QWAgIPDw8WAh8GBa8BRm9yIGltbWVkaWF0ZSBhc3Npc3RhbmNlIHBsZWFzZSBjb250YWN0OiA8YnIgLz48YnIgLz4gUHJvY3VyZW1lbnQgLSBQdXJjaGFzaW5nQG15Y2xlYXJ3YXRlci5jb20gDQo3MjctNTYyLTQ2MzANCg0KQWNjb3VudHMgUGF5YWJsZSAtIENsZWFyd2F0ZXJBUEBteWNsZWFyd2F0ZXIuY29tIDcyNy01NjItNDUxNmRkAgUPZBYCAgEPZBYCZg9kFgQCDw9kFgwCAQ8PFgIfBgULU2VhcmNoIGJpZHNkZAIDDw8WAh8GBQRCaWRzZGQCBw8QZGQWAWZkAgsPEGRkFgFmZAINDw8WAh8GBQtCaWRzIFN0YXR1c2RkAg8PEGRkFgFmZAIRD2QWDgIBDw8WAh8GZWRkAgMPDxYCHwZlZGQCBQ8PFgIfBmVkZAIHDw8WAh8GZWRkAgkPEGRkFgFmZAILDw8WAh8GZWRkAg0PDxYCHwZlZGQCEQ9kFgQCAQ8PFgIeC05hdmlnYXRlVXJsZWRkAgUPDxYEHhZTZXNzaW9uUmVmcmVzaExpZmV0aW1lAh4eG0FsbG93U2Vzc2lvblRpbWVvdXRSZWRpcmVjdGdkFgZmDw8WBh8GBQRzaG93HghDc3NDbGFzcwUGaGlkZGVuHgRfIVNCAgJkZAIBDxYKHgpCZWhhdmlvcklEBRRzZXNzaW9uRXh0ZW5kQ29uZmlybR4OUG9wdXBDb250cm9sSUQFE3Nlc3Npb25UaW1lb3V0TW9kYWweC09rQ29udHJvbElEBRdzZXNzaW9uVGltZW91dEJ1dHRvblllcx4SQmFja2dyb3VuZENzc0NsYXNzBQ9tb2RhbEJhY2tncm91bmQeCk9uT2tTY3JpcHQFoAF3aW5kb3cubW9sU2Vzc2lvblRpbWVvdXRDb250cm9sbGVyLmV4dGVuZFNlc3Npb24od2luZG93Lm1vbFNlc3Npb25UaW1lb3V0Q29udHJvbGxlci5zZXNzaW9uVGltZW91dExlbmd0aCwgd2luZG93Lm1vbFNlc3Npb25UaW1lb3V0Q29udHJvbGxlci5zZXNzaW9uVGltZW91dFVybCk7ZAICDw8WBB8OBQptb2RhbFBvcHVwHw8CAhYIHgRyb2xlBQZkaWFsb2ceD2FyaWEtbGFiZWxsZWRieQUTc2Vzc2lvblRpbWVvdXRUaXRsZR4QYXJpYS1kZXNjcmliZWRieQUZc2Vzc2lvblRpbWVvdXREZXNjcmlwdGlvbh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkZK1tlJbFjYZAm7tfZmqU+Yh+HOf7">
+
+
+<script src="../../users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js" type="text/javascript"></script>
+<script src="../common/FileNotFound.aspx.html?d=-j_y3Xl3-TKjcqWncoqyT1Db6f7PSWcsQkkDWKDvRS89uE0AP_U0Mll-TfwyREI4GIEalVddDpaU4PMkif6KErNFCkLRnLpxIR1jG7LkTZZZQ0HZu_uqcStLfUhgGBw87fLknfws6hD6ucoVssKCZP1y-801&amp;t=637975411740000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+
+function ReceiveSessionExtensionCallback(arg, context) { 
+if (arg.toString().indexOf("STOP", 0) < 0) {
+	var date = new Date(); 
+	status = 'Session refreshed at ' + date.toLocaleTimeString(); 
+if (TriggerTheSessionTimer) {
+	TriggerTheSessionTimer(arg); 
+}
+}
+}
+
+function CallServer(arg, context) {
+WebForm_DoCallback('ctl00$ctl00$FooterPlaceHolder$SessionExtenderControl1',arg,ReceiveSessionExtensionCallback,"",null,false);
+}
+                function MolSessionTimeoutController(timeout, url, sessionRefreshLifetime) {
+                    this.sessionRefreshLifetime = sessionRefreshLifetime > 0 ? sessionRefreshLifetime : 30;
+
+                    if (timeout < sessionRefreshLifetime) {
+                        sessionRefreshLifetime = timeout;
+                    }
+
+                    this.sessionTimeoutLength = timeout;
+                    this.sessionTimeoutUrl = url;
+                    this.sessionSeconds = 0; 
+                   
+                    this.sessionExtensionModalTimer = null;
+                    this.sessionRedirectTimer = null;
+                    this.sessionSecondsInterval = null;
+                    
+                    this.startSessionTimer();
+                }
+
+                MolSessionTimeoutController.prototype.startSessionTimer = function() {
+                    this.createSessionTimers(this.sessionTimeoutLength, this.sessionTimeoutUrl);
+                }
+
+                MolSessionTimeoutController.prototype.createSessionTimers = function(timeout, url) {
+                    this.sessionExtensionModalTimer = setTimeout(this.showTimeoutExtensionModal.bind(this, this.sessionTimeoutLength, this.sessionTimeoutUrl), (timeout - this.sessionRefreshLifetime) * 1000);
+                    this.sessionRedirectTimer = setTimeout(this.timeoutRedirect.bind(this, this.sessionTimeoutUrl), timeout * 1000);
+                }
+
+                MolSessionTimeoutController.prototype.secondCounter = function() {
+                    if (this.sessionSeconds > 0) {
+                        this.sessionSeconds--;
+                    }
+
+                    this.updateSessionSecondsLabel(this.sessionSeconds);
+
+                    if (this.sessionSeconds === 0) {
+                        this.disableSessionTimeoutModalButtons();
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.showTimeoutExtensionModal = function(timeout, url) {                    
+                    this.sessionSeconds = this.sessionRefreshLifetime;
+
+                    var sessionTimeoutModal = $find('sessionExtendConfirm');
+                    if (sessionTimeoutModal) {
+                        sessionTimeoutModal.show();
+
+                        this.updateSessionSecondsLabel(this.sessionSeconds);
+                        this.sessionSecondsInterval = setInterval(this.secondCounter.bind(this), 1000);
+
+                        var yesButton = document.getElementById('sessionTimeoutButtonYes');
+                        if (yesButton) {
+                            yesButton.focus();
+                        }
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.updateSessionSecondsLabel = function(seconds) {
+                    var secondsElement = document.getElementById('sessionTimeoutSeconds');
+                    if (secondsElement) {
+                        secondsElement.innerHTML = seconds > 0 ? seconds : 0;
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.disableSessionTimeoutModalButtons = function() {
+                    var yesButton = document.getElementById('sessionTimeoutButtonYes');
+                    var noButton = document.getElementById('sessionTimeoutButtonNo');
+                        
+                    if (yesButton) {
+                        yesButton.disabled = true;
+                    }
+
+                    if (noButton) {
+                        noButton.disabled = true;
+                    }
+                }
+
+                MolSessionTimeoutController.prototype.timeoutRedirect = function(url) {
+                    this.updateSessionSecondsLabel(0);
+                    clearInterval(this.sessionSecondsInterval);
+                    this.disableSessionTimeoutModalButtons();
+                    window.location.href = url;
+                }
+
+                MolSessionTimeoutController.prototype.extendSession = function(timeout, url) {
+                    if (window.CallServer) {
+                        window.CallServer('1', '');
+                    }
+                    else {
+                        console.error('SessionTimeoutControl.extendSession: CallServer unavailable. Session was not extended.');
+                    }
+
+                    clearTimeout(this.sessionExtensionModalTimer);
+                    clearTimeout(this.sessionRedirectTimer);
+                    clearInterval(this.sessionSecondsInterval);
+                    this.createSessionTimers(timeout, url);
+                }
+            //]]>
+</script>
+
+<script src="../ScriptResource.axd?d=scoRMm4iM6gCJHdVurXv_Nyf2Bv4RoXsKHVrcqeYF0P0KxdvU3cw7Tuob8JECDkoLJD8GCpSedht_FaRcuZOccN3oeBbviipBJLcMCEzoNszmJuU1XcmPVqkruOqLuQSBKU4AY0L4JtcTtamsA51AVojPa01&amp;t=49337fe8" type="text/javascript"></script>
+<script src="../js/jquery-3.5.0.min.js" type="text/javascript"></script>
+<script src="../js/jquery.calculation.js" type="text/javascript"></script>
+<script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="../js/ClientCommon.js" type="text/javascript"></script>
+<script src="../common/masterpages/MasterPage.js" type="text/javascript"></script>
+<script src="../ScriptResource-1.axd?d=YaW_ScD3LS7tq1lnzFhTFB96glyn2x30mvCwY29wo_cRRqZRbYUZtZCEGR3Fsq8Y7dt6He4XRCHkOJ6aHTnlZcM3dgff3oLawHZ8zyVydw0It8_4mslgjqE3kBSNqnQBy1bxJQ2&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-2.axd?d=7m7esUeMREx1eS51smPp3EQxDRIbxl2v65EzbYs8DhaUtVMD1H3_t_SuLUHDAxo_r3T9QI9fzAybIbSyB2tKGq9BRcFh8zBMmSpVtxkRWS6N1kMj0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-3.axd?d=urDjvCTdWgCpV4bdae8XY0_P72E5DGwqJtDrhKDMC1ZSVIPa9dvFOG6eCSN4lhfWWvzHvlUL6av7VYH2gB4COg6aIMtGcKnLG9uIlmlR9adawKpN0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-4.axd?d=NBumiLzWhn7P98BJar5GhurLTdNQG-qByoafNcSMHQ7gV1ySkHF-C2Lxtm-vpQx6_bz5ZGTmi_AoZPVMl1qWvMelVTddvHoe-E6r4hpjhJCKCXcD0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-5.axd?d=AXmMxdI1OnLNM3tG_ZJHB67PzPVFMYiMUK58YV-xuXdcTCtsSqJGopowlu9tG7ccnUaVBgHjwdkJvVrVIi0uHpEQ8KBOdxoQIU5oW9u94vLvfnUw0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-6.axd?d=N-5X2bNOF6E1mPv6G6ygoB92WE2GvQKEtAYfZ61P-pVXJmWsCiwBcE8k8Ef_BqJD7ntIzenQgQxDCsObyhw8eoU9hPNs7MwX8dJ6FoUU7izicoNr0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-7.axd?d=ZYlo2P2VLW703_EqFpm6sJh52X9C9P8wikPE5KcoieCEGrvP3gJaMiGeQ1lcZDKTVBeNr0ZTf1Keo_rH_20UW_q1KdO9hHp7insqsB9dKS2yKRfvsRTljipQ_mCXWTXxlDLz9A2&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-8.axd?d=y32QpZqbF1kscmSxP3xpclDJz_l4MRVPbhAaPqkp-8wszq5nMZUM7EpT4Tt2KRu8VZWddXKOgg4EXcnnI3yeneCD9qJDbK1w72cZMa40FKZGnhCh0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-9.axd?d=Ytb9m7kz0Oab_QO-aklOAANl0YdGclZTEZoxDLDv3Ss6DfDYNXjxDppv-6o1s_Ikzm6XHSA4BxXR_-rZTs0cAkPZ37w5IXLt58Sz0pSvMbyl2mIJ0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-10.axd?d=0ST2T9dRnZtwG1s7ImW6oAeByOprMSWhlfyN2Uu6WGJ1OhnLOqO7dG6bFfqgLpp3s_VwuMAdR15keoFig4Iezdf08M50Vw4baPTEWmFdfZkuPvn_7G8uMmbUBkghLQjqPnHB5g2&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-11.axd?d=sSN3AxiQZAbBKWwsME6FODChT6KfBxOfyxHgAFim5Jgy3NRNAoGllHbMiEm1ZVWObpF37okWmN0lZcx787nr4zs31Nm4VhUYJt0zwMT_1qGXhPsR0&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-12.axd?d=Z1oAFP9Rub5PylobEJP-JmELPCpUJZ4tGF_797MRjOvjk0_N16wQ3R7hlbFIlhhsXiOKvgxnvCFD3GLC6if-FJSq1Yi3Mr01blyBPexVbf2A4o510&amp;t=17b84382" type="text/javascript"></script>
+<script src="../ScriptResource-13.axd?d=l_JHxJtk9mq3DHftnGTGFTNxC0SL-OrQYNEnT8CYIBXj_Osh6uSRKx0LefUMrgIiQe7eVcbsbOGB_O-WsHnjKk_gaPThvDWyislM0bPKf7bxELxh0&amp;t=17b84382" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DDB740DB">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAp4w1+OQHp3qFu7LJaVeOgHLMfXEhncDuINRrn9r/iMFS5CPISuWHD4JYD5BAa6sgE/f5cLxi2d5d3lm2WNT4hao0vCFHwuptzLF7t1rPPpemhOZXKuoyGpnT/4HwjjVJuSTfhTHqbbVTeAHkpfcUrWBD0sxOJzeNZW566nDphgctlhXIG6SvFhTqHt9XX9PK2HUM7lwyD+5CfEBCIAk+N+og9lUtzl+0wL2dfxP0cE1st1WXs=">
+            
+    
+            <div class="mol-page-header" role="banner">
+                <a href="../../ess/common/Upgrade.aspx.html" id="ctl00_ctl00_HomeLinkImage" class="homeLinkImage">
+                  <img id="ctl00_ctl00_ClientHeaderImage" src="../custom/images/clw_munis_ss_logo.png" alt="Banner logo with link to homepage" border="0">
+               </a>
+               <div id="headerForPrintOnly" class="printImage">
+                    
+                </div>
+                
+               <div id="topnavbanner">
+                    <div class="loginMenuContainer mol-header-menu-item">
+	<div class="contextMenuTarget" style="line-height:38px">
+		<a class="loginTarget" href="../login.aspx" aria-expanded="false" aria-label="Log In"><div class="mol-menu-item-icon">
+			<span><font size="4">LOG IN</font></span>
+		</div></a>
+	</div><ul class="loginMenu">
+		<li><a href="../default.aspx.html">Home</a></li><li><a href="/vss/AccountSettings.aspx">My Account</a></li><li><a id="ctl00_ctl00_LoginPlaceHolder_MemberBanner_LoginButton" href="javascript:__doPostBack('ctl00$ctl00$LoginPlaceHolder$MemberBanner$LoginButton','')">Log In</a></li>
+	</ul>
+</div>
+               </div>
+            </div>
+            <div class="mol-page-container mol-fade-in" id="molPageContainer">
+                <div id="molSideMenu" class="mol-side-menu mol-menu-left" role="navigation">
+                    <div class="mol-side-menu-mobile-toggle">
+                        <a href="#" id="molMenuExpander"><i class="fa fa-minus-circle"></i> Collapse Menu</a>
+                    </div>
+                    <ul id="primarynav">
+	<li><a href="../default.aspx.html">Home</a></li><li class="primarynavselected"><a href="default.aspx.html">Vendor Self Service<span class="visually-hidden">Currently selected</span></a></li><li><a href="VBids/Default.aspx.html">Bids</a></li>
+</ul>
+                </div>
+                <div id="molContentContainer" class="mol-content-container mol-menu-left" role="main">
+                    <div id="molContentMainDiv">
+                        
+                        <div>
+	<h1 class="h2background">
+		Welcome to Vendor Self Service
+	</h1>
+</div>
+                     
+                        
+                     <p id="ctl00_ctl00_ContentMessageParagraph" style="clear:both" role="alert" aria-live="assertive" aria-atomic="true" class=""></p>
+                     
+	<script type="text/javascript">
+				function WillRescind() {
+					var reply = confirm("This action will rescind your bid response from awarding consideration.  Do you wish to continue?");
+					if (reply) {
+						return true;
+					}
+					else {
+						return false;
+					}
+				}
+
+				function WillUnRescind() {
+					var reply = confirm("This action will reactivate your bid response.  Do you wish to continue?");
+					if (reply) {
+						return true;
+					}
+					else {
+						return false;
+					}
+				}
+
+
+	</script>
+	<div style="border-bottom:1px solid #2A9FD8; margin-bottom:40px">
+	<div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_GuestVendorPanel" class="col-lg-12" style="text-align:center">
+        
+        <div style="margin-top:40px; margin-bottom:40px">
+            <span><font size="4">Log in or register as a user to begin using Vendor Self Service</font></span>
+        </div>
+        <div>
+            <input type="submit" name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$Login" value="Log in / Register" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$Login&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_Login" class="vendorButtonLink nowrap">
+        </div>
+		<div style="margin-top:40px; margin-bottom:40px">
+			<span id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_HomePageMessageLabel"><p style="text-align:center:><b>Welcome to the City of Clearwater Vendor Self Service (VSS) </b>
+
+City of Clearwater vendors are required to register and update their information on VSS.  A New Vendor Registration Guide and an Existing Vendor Registration Guide can be found on the respective links.  If you have questions while registering or updating information, please email us at ClearwaterAP@myclearwater.com.
+
+Select the Log in/Register link to begin </p></span></div>
+	</div>
+    </div>
+    
+
+	
+	 <script type='text/javascript'> var showPopup; function showModalProcessingIndicator() {  showPopup = setTimeout(function() {$find('ProcessingIndicatorPopup1programmaticModalPopupBehavior').show();}, 1500);} function hideModalProcessingIndicator() {  clearTimeout(showPopup); $find('ProcessingIndicatorPopup1programmaticModalPopupBehavior').hide(); }function pageLoad()   {var manager = Sys.WebForms.PageRequestManager.getInstance();manager.remove_beginRequest(showModalProcessingIndicator); manager.remove_endRequest(hideModalProcessingIndicator);manager.add_beginRequest(showModalProcessingIndicator); manager.add_endRequest(hideModalProcessingIndicator);} </script><span id=" ctl00_ctl00_primaryplaceholder_contentplaceholdermain_processingindicatorpopup1"=""><div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_ProcessingIndicatorPopup1CP" style="display:none;vertical-align:middle;">
+	<span id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_ProcessingIndicatorPopup1CI"><tcw-progress-spinner></tcw-progress-spinner></span>
+</div></span>
+	<div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TermsPanel" class="modalPopup" style="display:none;">
+	
+		<span id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_termsalert" style="text-align:center"></span>
+		<center><input type="submit" name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$TermsOKButton" value="Yes" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$TermsOKButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TermsOKButton" class="modalPopupSubmit">&nbsp;&nbsp;<input type="submit" name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$TermsCancelButton" value="No" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$TermsCancelButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TermsCancelButton" class="modalPopupCancel"></center>
+	
+</div>
+	<input type="submit" name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$hiddenButton" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$hiddenButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_hiddenButton" style="display:none;">
+	
+    <div id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_NetSettingsVerificationPanel" class="modalPopup" style="display:none;">
+	
+		<span id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_netSettings" style="text-align:center"></span>
+		<center><input type="submit" name="ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$NetSettingsButton" value="Ok" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$PrimaryPlaceHolder$ContentPlaceHolderMain$NetSettingsButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_NetSettingsButton" class="modalPopupSubmit"></center>
+	
+</div>
+    
+
+                           
+                    </div>        
+                </div>
+                <div class="mol-page-footer" role="contentinfo">
+                    <div class="mol-page-footer-content">
+                        <span id="ctl00_ctl00_CopyrightSpan" class="copyrightSpan">
+                            &#169;2022 Tyler Technologies, Inc.
+                        </span>
+                        
+
+<span id="ctl00_ctl00_FooterPlaceHolder_SessionExtenderControl1"></span>
+<input type="submit" name="ctl00$ctl00$FooterPlaceHolder$HiddenButton" value="show" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$FooterPlaceHolder$HiddenButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_FooterPlaceHolder_HiddenButton" class="hidden"><div id="ctl00_ctl00_FooterPlaceHolder_sessionTimeoutModal" class="modalPopup" role="dialog" aria-labelledby="sessionTimeoutTitle" aria-describedby="sessionTimeoutDescription" style="display:none;">
+	<h3 id="sessionTimeoutTitle">Session Expiring</h3><p id="sessionTimeoutDescription" style="text-align: center;">Your session will expire in <span id="sessionTimeoutSeconds"></span> seconds.<br>Do you want to extend your session?</p><div style="text-align:center;">
+		<input type="submit" name="ctl00$ctl00$FooterPlaceHolder$sessionTimeoutButtonYes" value="Yes" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$FooterPlaceHolder$sessionTimeoutButtonYes&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="sessionTimeoutButtonYes" class="yes"><input type="submit" name="ctl00$ctl00$FooterPlaceHolder$sessionTimeoutButtonNo" value="No" onclick="window.molSessionTimeoutController.timeoutRedirect(window.molSessionTimeoutController.sessionTimeoutUrl);WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$FooterPlaceHolder$sessionTimeoutButtonNo&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="sessionTimeoutButtonNo" class="no no-right-margin">
+	</div>
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                function PreventDoubleClick(element) {
+                    element.onclick = function () { return false; };
+                }
+
+                $(function () {
+                    $(".collapsedheader, .expandedheader").click(function () {
+                        jQuery(this).toggleClass("expandedheader").toggleClass("collapsedheader");
+                        $('.expandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.collapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');                       
+                    });
+                });
+
+                $(function () {
+                    $(".inlinecollapsedheader").click(function () {
+                        jQuery(this).toggleClass("inlineexpandedheader").toggleClass("inlinecollapsedheader");
+                        $('.inlineexpandedheader').find('a.ExpanderClassLink').css('color', 'white');
+                        $('.inlinecollapsedheader').find('a.ExpanderClassLink').css('color', '#565f90');
+                        var self = this;
+                        $('.inlinecollapsed,.inlineexpanded').each(function () {
+                            if (jQuery.contains(this, self)) {
+                                jQuery(this).toggleClass("inlineexpanded").toggleClass("inlinecollapsed");
+                                return;
+                            }
+                        });
+                    });
+                });
+
+                $(function () {
+                    $(".datepicker").datepicker();
+                });
+
+                Sys.WebForms.PageRequestManager.getInstance().add_endRequest(EndRequestHandler);
+
+                function EndRequestHandler(sender, args) {
+
+                    $(".datepicker").datepicker();
+                }
+
+                /**
+                 * This controls hiding/showing the menu when viewed on a small screen in portrait mode.
+                 */
+                $(function () {
+                    var SHOW_CLASS = 'mol-side-menu-show';
+                    var COLLAPSE_MENU_CONTENT = '<i class="fa fa-minus-circle"></i> Collapse Menu';
+                    var EXPAND_MENU_CONTENT = '<i class="fa fa-plus-circle"></i> Expand Menu';
+
+                    // Whenever the window resizes we need to make sure that the menu is visible
+                    // This was added because the CSS used for the media query to add the correct
+                    // styles, we not working on iOS browsers. We add a class with the styles manually.
+                    $(window).resize(function () {
+                        var viewportWidth = $(window).width();
+                        var isExpanded = isMenuExpanded();
+
+                        if (viewportWidth > 768 && !isExpanded) {
+                            $('#primarynav').addClass(SHOW_CLASS);
+                        } else {
+                            $('#primarynav').removeClass(SHOW_CLASS);
+                        }
+
+                        var content = isExpanded ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                        $('#molMenuExpander').html(content);
+                    });
+
+                    // When the page loads, make sure the the menu is visible on larger screens
+                    // in case it set to collapsed for the mobile viewport.
+                    var isExpanded = isMenuExpanded();
+                    if ($(window).width() > 768 && !isExpanded) {
+                        $('#primarynav').addClass(SHOW_CLASS);
+                    }
+
+                    // When the page loads, make sure to collapse the menu if we need to.
+                    if (!isExpanded) {
+                        toggleMenu(true);
+                    }
+
+                    // Whenever the toggle button is clicked, we need to expand or collapse the menu.
+                    $('.mol-side-menu-mobile-toggle').click(function() {
+                        toggleMenu();
+                    });
+
+                    /** 
+                     * Determines the expanded/collapsed status of the menu from session storage.
+                     */
+                    function isMenuExpanded() {
+                        return sessionStorage.getItem('isMenuExpanded') === 'true' ? true : false;
+                    }
+
+                    /**
+                     * This toggles the menu between expanded and collapsed.
+                     */
+                    function toggleMenu(skipSessionStorage) {
+                        $('#primarynav').slideToggle(250, function() {
+                            var isVisible = $(this).is(':visible');
+                            var content = isVisible ? COLLAPSE_MENU_CONTENT : EXPAND_MENU_CONTENT;
+                            $('#molMenuExpander').html(content);
+
+                            if (!skipSessionStorage) {
+                                sessionStorage.setItem('isMenuExpanded', isVisible);
+                            }
+
+                            document.body.scrollTop = 0;                            
+                        });
+                    }
+                });
+
+            </script>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+
+            var TylerUniversity = {"ClientId":51558,"ClientName":"City of Clearwater, FL","IsEnabled":true,"Munis":{"Version":"2021.5.0.658","Context":"{\"EnvironmentType\":\"Production\",\"DatabaseType\":\"Client\"}"},"ScriptUrl":"https://cdn.walkme.com/users/18e136135f0249449c5db99b5433a086/walkme_18e136135f0249449c5db99b5433a086_https.js","UserName":"GUEST","UserIdentifier":"[51558].[GUEST]"};
+
+            try {
+                var context = JSON.parse(TylerUniversity.Munis.Context);
+                if (context) {
+                    TylerUniversity.Munis.Context = context;
+                } else {
+                    delete TylerUniversity.Munis.Context;    
+                }
+            } catch(e) {
+                delete TylerUniversity.Munis.Context;
+            }
+        PresenceRefresh();
+            var mouse_is_inside = false;
+            $(document).ready(function () {
+                $('.loginMenuTarget').bind('click', ShowLoginMenu);
+                $('.loginMenu').hover(function () {
+                    mouse_is_inside = true;
+                }, function () {
+                    mouse_is_inside = false;
+                });
+
+                $('html').mouseup(function () {
+                    if (!mouse_is_inside)
+                    {
+                        var mouseupTarget = event.srcElement || event.target;
+                        if($(mouseupTarget).is('select')) {
+                            return;
+                        }
+                        HideLoginMenu();
+                    }
+                });
+            });
+
+            function ShowLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'true');
+               $('.loginMenuContainer').addClass('selected');
+               $('.loginMenu').show();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', HideLoginMenu);
+            }
+
+            function HideLoginMenu() {
+               $('.loginMenuTarget').attr('aria-expanded', 'false');
+               $('.loginMenuContainer').removeClass('selected');                  
+               $('.loginMenu').hide();
+               $('.loginMenuTarget').unbind();
+               $('.loginMenuTarget').bind('click', ShowLoginMenu);
+            }window.molSessionTimeoutController = new MolSessionTimeoutController(1800, 'https://munisss.myclearwater.com/vss/timeout.aspx', 30);Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/vss/Vendors/default.aspx","id":"ProcessingIndicatorPopup1programmaticModalPopupBehavior","popupControlID":"ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_ProcessingIndicatorPopup1CP"}, null, null, $get("ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_ProcessingIndicatorPopup1CP"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/vss/Vendors/default.aspx","id":"ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TermsPopupExtender","popupControlID":"ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_TermsPanel"}, null, null, $get("ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_hiddenButton"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/vss/Vendors/default.aspx","id":"ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_NetSettingsPopupExtender","popupControlID":"ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_NetSettingsVerificationPanel"}, null, null, $get("ctl00_ctl00_PrimaryPlaceHolder_ContentPlaceHolderMain_hiddenButton"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","dynamicServicePath":"/vss/Vendors/default.aspx","id":"sessionExtendConfirm","okControlID":"sessionTimeoutButtonYes","onOkScript":"window.molSessionTimeoutController.extendSession(window.molSessionTimeoutController.sessionTimeoutLength, window.molSessionTimeoutController.sessionTimeoutUrl);","popupControlID":"ctl00_ctl00_FooterPlaceHolder_sessionTimeoutModal"}, null, null, $get("ctl00_ctl00_FooterPlaceHolder_HiddenButton"));
+});
+//]]>
+</script>
+</div></div></div></form>
+        
+    </body>
+</html>
