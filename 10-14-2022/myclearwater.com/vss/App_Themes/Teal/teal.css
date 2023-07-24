@@ -1,0 +1,78 @@
+﻿#content
+{
+   color: #3D3D3D;
+}
+
+#ui-datepicker-div .ui-state-default, 
+.ui-widget-content .ui-state-default, 
+.ui-widget-header .ui-state-default,
+caption,
+.caption,
+.landingHighlight,
+.totalCompensation,
+.additionBoxesTop,
+.additionBoxesBottom,
+a.tab,
+.themed-color,
+input.themed-color
+{
+   color: #3D768F;
+}
+   
+#sideBar ul li.primarynavselected
+{
+   background-image: url('images/l2-selected-teal.png');
+}
+
+div.barchart,
+table.calendarmonth caption,
+.themedcolor, input.themedcolor
+{
+    background-color: #3D768F;
+}
+
+.themedbackground,
+.modalPopup,
+.modalPopupWF,
+.landingHighlight,
+.employmentopportunityheader th,
+.trainingdetailheader th,
+.barchart td.chart,
+.timesheet td.themedbackground
+{
+    background-color:#B6D1DD;
+}
+
+caption
+{
+    border-bottom-color: #3D768F;
+}
+
+.expandedheader, .inlineexpandedheader
+{
+    background:#3D768F;
+}
+
+.collapsedheader .expander
+{
+    background-image: url("images/expand.png") ;
+}
+
+.inlinecollapsedheader .expander
+{
+    background-image: url(images/expand.png) ;
+}
+
+.timesheet td.selected
+{
+    background-color:#B6D1DD;
+    border-bottom-color: #B6D1DD;
+}
+
+.mol-page-header {
+    background-color: #3D768F;
+}
+
+.mol-side-menu > ul {
+    color: #3D768F;
+}
