@@ -1,0 +1,3381 @@
+<?xml version = '1.0' encoding = 'UTF-8' standalone = 'yes'?>
+<?xml-stylesheet href='capatom.xsl' type='text/xsl'?>
+
+<!--
+This atom/xml feed is an index to active advisories, watches and warnings 
+issued by the National Weather Service.  This index file is not the complete 
+Common Alerting Protocol (CAP) alert message.  To obtain the complete CAP 
+alert, please follow the links for each entry in this index.  Also note the 
+CAP message uses a style sheet to convey the information in a human readable 
+format.  Please view the source of the CAP message to see the complete data 
+set.  Not all information in the CAP message is contained in this index of 
+active alerts.
+-->
+
+<feed
+xmlns = 'http://www.w3.org/2005/Atom'
+xmlns:cap = 'urn:oasis:names:tc:emergency:cap:1.1'
+xmlns:ha = 'http://www.alerting.net/namespace/index_1.0'
+>
+<!-- http-date = Mon, 03 Oct 2022 15:26:00 GMT -->
+<id>https://alerts.weather.gov/cap/us.php?x=0</id>
+<logo>http://alerts.weather.gov/images/xml_logo.gif</logo>
+<generator>NWS CAP Server</generator>
+<updated>2022-10-03T11:26:00-04:00</updated>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Current Watches, Warnings and Advisories for the United States Issued by the National Weather Service</title>
+<link href="https://alerts.weather.gov/cap/us.php?x=0"/>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B54938.SpecialWeatherStatement.126411C2AB00AK.AFGSPSWCZ.12a712fbc4b63dfb692ab69e0d784203</id>
+<updated>2022-10-03T04:30:00-08:00</updated>
+<published>2022-10-03T04:30:00-08:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Special Weather Statement issued October 03 at 4:30AM AKDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B54938.SpecialWeatherStatement.126411C2AB00AK.AFGSPSWCZ.12a712fbc4b63dfb692ab69e0d784203"/>
+<summary>...Strong Storm Moving to the Eastern Bering Sea and Chukchi Sea Wednesday Through Friday... A strong storm will develop in the Sea of Ohkotsk Monday night and move to Chukotka Wednesday, then to Wrangel Island by Thursday morning. Strong southerly to southwesterly winds are expected to accompany</summary>
+<cap:event>Special Weather Statement</cap:event>
+<cap:effective>2022-10-03T04:30:00-08:00</cap:effective>
+<cap:expires>2022-10-03T16:00:00-08:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Observed</cap:certainty>
+<cap:areaDesc>Baldwin Peninsula and Selawik Valley; Chukchi Sea Coast; Eastern Norton Sound and Nulato Hills; Southern Seward Peninsula Coast; St Lawrence Island and Bering Strait Coast</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>002158 002180 002188</value>
+<valueName>UGC</valueName>
+<value>AKZ207 AKZ209 AKZ211 AKZ212 AKZ213</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B52CB4.HighSurfAdvisory.126411B67600AK.AFCCFWALU.5ffe177725dfeeafcbe1590b533e0b76</id>
+<updated>2022-10-03T03:57:00-08:00</updated>
+<published>2022-10-03T03:57:00-08:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 3:57AM AKDT until October 03 at 12:00PM AKDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B52CB4.HighSurfAdvisory.126411B67600AK.AFCCFWALU.5ffe177725dfeeafcbe1590b533e0b76"/>
+<summary>...HIGH SURF ADVISORY NOW IN EFFECT UNTIL NOON AKDT TODAY... * LOCATION...The Kuskokwim Delta Coast, including Kuskokwim Bay. * WAVES AND SURF...Water levels are expected to rise 2 to 5 feet above the normal highest tide line with this surf. * TIMING...The primary impact period will be at or around high tide this morning, approximately 6 AM.</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T03:57:00-08:00</cap:effective>
+<cap:expires>2022-10-03T12:00:00-08:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Kuskokwim Delta</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>002050</value>
+<valueName>UGC</valueName>
+<value>AKZ155</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.PAFC.SU.Y.0003.000000T0000Z-221003T2000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B52930.FloodAdvisory.126411C2AB00AK.AJKFLSAJK.3583c0251fd24114c9c7c522d48dfc6d</id>
+<updated>2022-10-03T03:48:00-08:00</updated>
+<published>2022-10-03T03:48:00-08:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Advisory issued October 03 at 3:48AM AKDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B52930.FloodAdvisory.126411C2AB00AK.AJKFLSAJK.3583c0251fd24114c9c7c522d48dfc6d"/>
+<summary>...FLOOD ADVISORY IN EFFECT UNTIL 10 PM AKDT THIS EVENING... * WHAT...Flooding caused by excessive rainfall is expected. * WHERE...The following area, Situk River area near Yakutat. * WHEN...Until 1000 PM AKDT Monday. * IMPACTS...Minor flooding in low-lying areas. * ADDITIONAL DETAILS...</summary>
+<cap:event>Flood Advisory</cap:event>
+<cap:effective>2022-10-03T03:48:00-08:00</cap:effective>
+<cap:expires>2022-10-03T16:00:00-08:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>City and Borough of Yakutat</cap:areaDesc>
+<cap:polygon>59.54,-139.9 59.58,-139.84 59.56,-139.78 59.59,-139.67 59.6,-139.65 59.6,-139.66 59.67,-139.55 59.52,-139.22 59.36,-139.45 59.54,-139.9</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>002282</value>
+<valueName>UGC</valueName>
+<value>AKZ317</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.PAJK.FA.Y.0022.221003T1148Z-221004T0600Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B50608.SpecialWeatherStatement.126411C2AB00AK.AFGSPSNSB.6170494ac7e629b896adabcf58e1a0c7</id>
+<updated>2022-10-03T02:58:00-08:00</updated>
+<published>2022-10-03T02:58:00-08:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Special Weather Statement issued October 03 at 2:58AM AKDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B50608.SpecialWeatherStatement.126411C2AB00AK.AFGSPSNSB.6170494ac7e629b896adabcf58e1a0c7"/>
+<summary>...Strong Storm Moving to Wrangel Island by Thursday Morning... A strong storm will develop in the Sea of Ohkotsk Monday night and move across Chukotka Wednesday, then to Wrangel Island by Thursday morning. Strong southerly to southwesterly winds are expected to accompany this storm as it moves into the Arctic with winds turning</summary>
+<cap:event>Special Weather Statement</cap:event>
+<cap:effective>2022-10-03T02:58:00-08:00</cap:effective>
+<cap:expires>2022-10-03T16:00:00-08:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Observed</cap:certainty>
+<cap:areaDesc>Northern Arctic Coast; Western Arctic Coast</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>002185</value>
+<valueName>UGC</valueName>
+<value>AKZ201 AKZ202</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B45BB8.DenseFogAdvisory.126411B627E0AK.AJKNPWAJK.7d2fc4159143ad59a4e60321eacfb9cf</id>
+<updated>2022-10-02T22:22:00-08:00</updated>
+<published>2022-10-02T22:22:00-08:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Dense Fog Advisory issued October 02 at 10:22PM AKDT until October 03 at 10:00AM AKDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AK126411B45BB8.DenseFogAdvisory.126411B627E0AK.AJKNPWAJK.7d2fc4159143ad59a4e60321eacfb9cf"/>
+<summary>...DENSE FOG ADVISORY IN EFFECT UNTIL 10 AM AKDT MONDAY... * WHAT...Visibility one quarter mile or less in dense fog. * WHERE...Petersburg Borough. * WHEN...Until 10 AM AKDT Monday. * IMPACTS...Hazardous driving conditions due to low visibility. * ADDITIONAL DETAILS...Early morning aviation activities will be</summary>
+<cap:event>Dense Fog Advisory</cap:event>
+<cap:effective>2022-10-02T22:22:00-08:00</cap:effective>
+<cap:expires>2022-10-03T10:00:00-08:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Petersburg Borough</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>002195</value>
+<valueName>UGC</valueName>
+<value>AKZ326</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.PAJK.FG.Y.0044.221003T0622Z-221003T1800Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AS126411B4C918.HighSurfAdvisory.126411B6A2ECAS.STUCFWPPG.b673bfeec0acffde87780c37d97b9b46</id>
+<updated>2022-10-02T22:02:00-11:00</updated>
+<published>2022-10-02T22:02:00-11:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 02 at 10:02PM SST by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AS126411B4C918.HighSurfAdvisory.126411B6A2ECAS.STUCFWPPG.b673bfeec0acffde87780c37d97b9b46"/>
+<summary>...A High Surf Advisory remains in effect... * WHAT...Surf of 10 to 12 feet * WHERE...Southern and eastern shores of all islands * WHEN...through Tuesday * IMPACTS...Minor. Expect some strong breaking waves, shorebreak, and strong longshore and rip currents making water recreation</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-02T22:02:00-11:00</cap:effective>
+<cap:expires>2022-10-03T10:15:00-11:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Manua; Swains Island; Tutuila and Aunuu</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>060010 060020 060040 060050</value>
+<valueName>UGC</valueName>
+<value>ASZ001 ASZ002 ASZ003</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=AZ126411B4D0E8.FloodWatch.126411C39560AZ.FGZFFAFGZ.159e5bb82a670049dfe8db5d0fbacbc3</id>
+<updated>2022-10-03T02:22:00-07:00</updated>
+<published>2022-10-03T02:22:00-07:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Watch issued October 03 at 2:22AM MST by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=AZ126411B4D0E8.FloodWatch.126411C39560AZ.FGZFFAFGZ.159e5bb82a670049dfe8db5d0fbacbc3"/>
+<summary>...FLOOD WATCH NOW IN EFFECT FROM 11 AM MST/NOON MDT THROUGH LATE TONIGHT... * WHAT...Flooding caused by excessive rainfall continues to be possible. * WHERE...For portions of northern and central Arizona. * WHEN...From 11 AM MST/Noon MDT through late tonight.</summary>
+<cap:event>Flood Watch</cap:event>
+<cap:effective>2022-10-03T02:22:00-07:00</cap:effective>
+<cap:expires>2022-10-03T23:00:00-07:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Future</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Possible</cap:certainty>
+<cap:areaDesc>Black Mesa Area; Chinle Valley; Chuska Mountains and Defiance Plateau; Coconino Plateau; Eastern Mogollon Rim; Grand Canyon Country; Kaibab Plateau; Little Colorado River Valley in Apache County; Little Colorado River Valley in Coconino County; Little Colorado River Valley in Navajo County; Marble and Glen Canyons; Northeast Plateaus and Mesas Hwy 264 Northward; Northeast Plateaus and Mesas South of Hwy 264; Northern Gila County; Oak Creek and Sycamore Canyons; Western Mogollon Rim; White Mountains; Yavapai County Mountains; Yavapai County Valleys and Basins</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>004001 004005 004007 004017 004025</value>
+<valueName>UGC</valueName>
+<value>AZZ004 AZZ005 AZZ006 AZZ007 AZZ008 AZZ009 AZZ010 AZZ011 AZZ012 AZZ013 AZZ014 AZZ015 AZZ016 AZZ017 AZZ018 AZZ037 AZZ038 AZZ039 AZZ040</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KFGZ.FA.A.0014.221003T1800Z-221004T0600Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=CT126411B4B6BC.CoastalFloodStatement.126411C2AB00CT.OKXCFWOKX.335778383061b53031fe4571d9c4fbe8</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 4:55AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=CT126411B4B6BC.CoastalFloodStatement.126411C2AB00CT.OKXCFWOKX.335778383061b53031fe4571d9c4fbe8"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM THIS AFTERNOON THROUGH THIS EVENING... ...COASTAL FLOOD STATEMENT REMAINS IN EFFECT TUESDAY EVENING... * WHAT...Up to one half foot of inundation above ground level expected in vulnerable areas near the waterfront and shoreline during the late afternoon and evening high tidal cycles Today</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Southern Fairfield</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>009001</value>
+<valueName>UGC</valueName>
+<value>CTZ009</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.S.0030.221003T2100Z-221004T0000Z/
+/O.CON.KOKX.CF.S.0031.221004T2200Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=CT126411B4B6BC.CoastalFloodStatement.126411D21450CT.OKXCFWOKX.406f43a7990f8328e310c7460157ea1b</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 4:55AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=CT126411B4B6BC.CoastalFloodStatement.126411D21450CT.OKXCFWOKX.406f43a7990f8328e310c7460157ea1b"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM THIS AFTERNOON THROUGH THIS EVENING... ...COASTAL FLOOD STATEMENT REMAINS IN EFFECT TUESDAY EVENING... * WHAT...Up to one half foot of inundation above ground level expected in vulnerable areas near the waterfront and shoreline during the late afternoon and evening high tidal cycles Today</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Southern Fairfield</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>009001</value>
+<valueName>UGC</valueName>
+<value>CTZ009</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.S.0030.221003T2100Z-221004T0000Z/
+/O.CON.KOKX.CF.S.0031.221004T2200Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DDCC.WindAdvisory.126411B6C420DE.PHINPWPHI.13ccad872fb516192cb779da8778163e</id>
+<updated>2022-10-03T05:55:00-04:00</updated>
+<published>2022-10-03T05:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 5:55AM EDT until October 03 at 6:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DDCC.WindAdvisory.126411B6C420DE.PHINPWPHI.13ccad872fb516192cb779da8778163e"/>
+<summary>...WIND ADVISORY NOW IN EFFECT UNTIL 6 PM EDT THIS EVENING... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Coastal areas of central and southern New Jersey and Delaware. * WHEN...Until 6 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects.</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T05:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T18:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Delaware Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>010005</value>
+<valueName>UGC</valueName>
+<value>DEZ004</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KPHI.WI.Y.0010.000000T0000Z-221003T2200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.CoastalFloodAdvisory.126411D21450DE.PHICFWPHI.b192f387663e24d0cdf3a6ca42fa7f72</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.CoastalFloodAdvisory.126411D21450DE.PHICFWPHI.b192f387663e24d0cdf3a6ca42fa7f72"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM THIS AFTERNOON TO 9 PM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...In Delaware, New Castle. In New Jersey, Salem and</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>New Castle</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>010003</value>
+<valueName>UGC</valueName>
+<value>DEZ001</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.221003T1700Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.CoastalFloodWarning.126411D21450DE.PHICFWPHI.ede0dbb5346cd1d81681230fb7a96516</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.CoastalFloodWarning.126411D21450DE.PHICFWPHI.ede0dbb5346cd1d81681230fb7a96516"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level in low- lying areas near shorelines and tidal waterways. * WHERE...In Delaware, Kent and Inland Sussex. In New Jersey, Cape May.</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Inland Sussex; Kent</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>010001 010005</value>
+<valueName>UGC</valueName>
+<value>DEZ002 DEZ003</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.CoastalFloodWarning.126411D21450DE.PHICFWPHI.03952571008328b27e5203de0abb4d75</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.CoastalFloodWarning.126411D21450DE.PHICFWPHI.03952571008328b27e5203de0abb4d75"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Delaware Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>010005</value>
+<valueName>UGC</valueName>
+<value>DEZ004</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.HighSurfAdvisory.126411D28980DE.PHICFWPHI.4c9cdab0fad09d45cc744aa27f508e3b</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.HighSurfAdvisory.126411D28980DE.PHICFWPHI.4c9cdab0fad09d45cc744aa27f508e3b"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Delaware Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>010005</value>
+<valueName>UGC</valueName>
+<value>DEZ004</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.RipCurrentStatement.126411D28980DE.PHICFWPHI.9b62a693d7231fc7562e5559136c3a0e</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Rip Current Statement issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=DE126411B4DAAC.RipCurrentStatement.126411D28980DE.PHICFWPHI.9b62a693d7231fc7562e5559136c3a0e"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Rip Current Statement</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Delaware Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>010005</value>
+<valueName>UGC</valueName>
+<value>DEZ004</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5BCD8.FloodWarning.126411C34740FL.MLBFLSMLB.f026a209d6e3f7320544709946aa6087</id>
+<updated>2022-10-03T11:26:00-04:00</updated>
+<published>2022-10-03T11:26:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 11:26AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5BCD8.FloodWarning.126411C34740FL.MLBFLSMLB.f026a209d6e3f7320544709946aa6087"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... St Johns River Near Cocoa 9w affecting Brevard County. .Excessive rainfall from Hurricane Ian has placed the Saint Johns River near Cocoa 9W in Minor Flood Stage and it is forecast to remain near this level through this weekend.</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T11:26:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Brevard</cap:areaDesc>
+<cap:polygon>28.54,-80.99 28.55,-80.9 28.35,-80.8 28.05,-80.72 28.54,-80.99</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012009</value>
+<valueName>UGC</valueName>
+<value>FLC009</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KMLB.FL.W.0009.000000T0000Z-000000T0000Z/
+/COCF1.1.ER.221001T2345Z.221004T1200Z.000000T0000Z.NO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5BC10.FloodWarning.126411C34740FL.MLBFLSMLB.4ca2fb89122bea088adb4fe0f70f3217</id>
+<updated>2022-10-03T11:24:00-04:00</updated>
+<published>2022-10-03T11:24:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 11:24AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5BC10.FloodWarning.126411C34740FL.MLBFLSMLB.4ca2fb89122bea088adb4fe0f70f3217"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... St Johns River Near Sanford affecting Seminole County. .Historic rainfall from Hurricane Ian will cause levels along the Saint Johns river to continue to rise as rainfall drains into the basin. The forecast point at Sanford is currently in Major Flood Stage and is expected to crest at or just below Record Flood Stage</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T11:24:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Seminole</cap:areaDesc>
+<cap:polygon>28.7,-81.23 28.9,-81.39 28.93,-81.31 28.79,-81.17 28.7,-81.23</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012117</value>
+<valueName>UGC</valueName>
+<value>FLC117</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMLB.FL.W.0008.000000T0000Z-000000T0000Z/
+/SNFF1.3.ER.220929T1415Z.221006T0600Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5BA1C.FloodWarning.126411C34740FL.MLBFLSMLB.ea2737f5f1ed991b8fb54f42e64ad406</id>
+<updated>2022-10-03T11:19:00-04:00</updated>
+<published>2022-10-03T11:19:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 11:19AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5BA1C.FloodWarning.126411C34740FL.MLBFLSMLB.ea2737f5f1ed991b8fb54f42e64ad406"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... St Johns River Near Deland affecting Volusia and Lake Counties. .Historic rainfall from Hurricane Ian will cause levels along the Saint Johns river to continue to rise as rainfall drains into the basin. The forecast point at Deland is currently in Major Flood Stage and is expected to continue to rise through midweek. It is</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T11:19:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Lake; Volusia</cap:areaDesc>
+<cap:polygon>28.9,-81.39 29.08,-81.5 29.1,-81.42 28.93,-81.31 28.9,-81.39</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012069 012127</value>
+<valueName>UGC</valueName>
+<value>FLC069 FLC127</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMLB.FL.W.0007.000000T0000Z-000000T0000Z/
+/DLAF1.3.ER.220929T1106Z.221007T0000Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5B760.FloodWarning.126411C34740FL.MLBFLSMLB.fa13960dc450fdf04401e8b364d4f544</id>
+<updated>2022-10-03T11:12:00-04:00</updated>
+<published>2022-10-03T11:12:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 11:12AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5B760.FloodWarning.126411C34740FL.MLBFLSMLB.fa13960dc450fdf04401e8b364d4f544"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... St Johns River Near Above Lake Harney affecting Seminole County. .Historic rainfall from Hurricane Ian will cause levels along the Saint Johns river to continue to rise as rainfall drains into the basin. The forecast point above Lake Harney at Geneva is currently in Record Flood Stage. The river at Lake Harney is forecast to</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T11:12:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Seminole</cap:areaDesc>
+<cap:polygon>28.7,-81.23 28.79,-81.17 28.73,-81 28.54,-80.9 28.7,-81.23</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012117</value>
+<valueName>UGC</valueName>
+<value>FLC117</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMLB.FL.W.0003.000000T0000Z-000000T0000Z/
+/GENF1.3.ER.220929T0716Z.221003T1800Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5B634.FloodWarning.126411C34740FL.MLBFLSMLB.4c66ef1e60e32a067d46212176ce556f</id>
+<updated>2022-10-03T11:09:00-04:00</updated>
+<published>2022-10-03T11:09:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 11:09AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B5B634.FloodWarning.126411C34740FL.MLBFLSMLB.4c66ef1e60e32a067d46212176ce556f"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... St Johns River Near Astor affecting Volusia and Lake Counties. .Historic rainfall from Hurricane Ian will cause levels along the Saint Johns River to remain high as rainfall drains into the basin. The forecast point at Astor crested above Record Flood Stage at 4.71 feet early Saturday morning. Levels will continue to</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T11:09:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Lake; Volusia</cap:areaDesc>
+<cap:polygon>29.08,-81.5 29.32,-81.69 29.35,-81.57 29.1,-81.42 29.08,-81.5</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012069 012127</value>
+<valueName>UGC</valueName>
+<value>FLC069 FLC127</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMLB.FL.W.0001.000000T0000Z-000000T0000Z/
+/ASTF1.3.ER.220916T1807Z.221001T0515Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.319373658d142a023516c3712179a4c9</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.319373658d142a023516c3712179a4c9"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>DeSoto</cap:areaDesc>
+<cap:polygon>27.35,-81.79 27.14,-81.89 27.04,-81.97 27.04,-82.02 27.14,-81.97 27.35,-81.86 27.35,-81.79</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012027</value>
+<valueName>UGC</valueName>
+<value>FLC027</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KTBW.FL.W.0006.000000T0000Z-000000T0000Z/
+/ARCF1.3.ER.220917T0030Z.221001T1215Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.4405ef852f9625467d4c4d02847c2b09</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.4405ef852f9625467d4c4d02847c2b09"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>DeSoto</cap:areaDesc>
+<cap:polygon>27.26,-81.94 27.08,-81.98 27.08,-82.02 27.26,-82.01 27.26,-81.94</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012027</value>
+<valueName>UGC</valueName>
+<value>FLC027</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KTBW.FL.W.0009.000000T0000Z-000000T0000Z/
+/ARHF1.3.ER.220928T1042Z.220929T1445Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.5ebebb3e448168ac9ceae37da7778281</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.5ebebb3e448168ac9ceae37da7778281"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hardee</cap:areaDesc>
+<cap:polygon>27.62,-81.76 27.35,-81.79 27.35,-81.87 27.62,-81.84 27.62,-81.76</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012049</value>
+<valueName>UGC</valueName>
+<value>FLC049</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KTBW.FL.W.0007.000000T0000Z-000000T0000Z/
+/ZFSF1.3.ER.220917T1400Z.220930T0515Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.cc351501976a0eba37296440084a10d0</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.cc351501976a0eba37296440084a10d0"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Polk</cap:areaDesc>
+<cap:polygon>27.91,-81.78 27.62,-81.76 27.62,-81.84 27.91,-81.86 27.91,-81.78</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012105</value>
+<valueName>UGC</valueName>
+<value>FLC105</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KTBW.FL.W.0004.000000T0000Z-000000T0000Z/
+/BARF1.3.ER.220915T0230Z.221002T1315Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.8cc6fa7fbb9aee2e546070bec189c0f2</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C34D1CFL.TBWFLSTBW.8cc6fa7fbb9aee2e546070bec189c0f2"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Sarasota</cap:areaDesc>
+<cap:polygon>27.26,-82.26 27.15,-82.34 27.15,-82.38 27.31,-82.26 27.26,-82.26</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012115</value>
+<valueName>UGC</valueName>
+<value>FLC115</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KTBW.FL.W.0005.000000T0000Z-000000T0000Z/
+/MKCF1.3.ER.220914T0745Z.221001T1100Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C4FEB4FL.TBWFLSTBW.8d27f8baf398b15c9ca0b992cfced147</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until October 04 at 11:25AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411C4FEB4FL.TBWFLSTBW.8d27f8baf398b15c9ca0b992cfced147"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T11:25:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hillsborough</cap:areaDesc>
+<cap:polygon>27.63,-82.31 27.64,-82.43 27.7,-82.43 27.7,-82.31 27.63,-82.31</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012057</value>
+<valueName>UGC</valueName>
+<value>FLC057</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KTBW.FL.W.0011.000000T0000Z-221004T1525Z/
+/WIMF1.1.ER.220928T1454Z.220930T0300Z.221004T0925Z.NO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411D22008FL.TBWFLSTBW.5c069450fdeefe40405512a404d3bd89</id>
+<updated>2022-10-03T10:40:00-04:00</updated>
+<published>2022-10-03T10:40:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 10:40AM EDT until October 04 at 9:30PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B59B40.FloodWarning.126411D22008FL.TBWFLSTBW.5c069450fdeefe40405512a404d3bd89"/>
+<summary>...The Flood Warning is extended for the following rivers in Florida... Alafia River At Lithia affecting Hillsborough County. Little Manatee River At Wimauma at US 301 affecting Hillsborough County. ...The Flood Warning continues for the following rivers in Florida...</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T10:40:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:30:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hillsborough</cap:areaDesc>
+<cap:polygon>27.87,-82.18 27.84,-82.28 27.89,-82.28 27.92,-82.18 27.87,-82.18</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012057</value>
+<valueName>UGC</valueName>
+<value>FLC057</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KTBW.FL.W.0012.000000T0000Z-221005T0130Z/
+/LITF1.1.ER.220929T0015Z.221001T0345Z.221004T1930Z.NO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B591E0.CoastalFloodStatement.126411B67600FL.KEYCFWKEY.57223e8fd4fa0556fa473a184da32a92</id>
+<updated>2022-10-03T10:16:00-04:00</updated>
+<published>2022-10-03T10:16:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 10:16AM EDT until October 03 at 4:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B591E0.CoastalFloodStatement.126411B67600FL.KEYCFWKEY.57223e8fd4fa0556fa473a184da32a92"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT... * WHAT...Minor saltwater flooding. * WHERE...Lower and Middle Keys. * WHEN...In effect. * IMPACTS...Minor saltwater flooding of low elevation streets and lots is likely. Some storm drains will overflow, and some</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T10:16:00-04:00</cap:effective>
+<cap:expires>2022-10-03T16:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Monroe Lower Keys; Monroe Middle Keys</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012087</value>
+<valueName>UGC</valueName>
+<value>FLZ077 FLZ078</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KKEY.CF.S.0023.000000T0000Z-221003T2000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B591E0.CoastalFloodAdvisory.126411C40A90FL.KEYCFWKEY.1ebb6901b94231343d0536e712c72003</id>
+<updated>2022-10-03T10:16:00-04:00</updated>
+<published>2022-10-03T10:16:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 10:16AM EDT until October 04 at 5:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B591E0.CoastalFloodAdvisory.126411C40A90FL.KEYCFWKEY.1ebb6901b94231343d0536e712c72003"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT... * WHAT...Moderate saltwater flooding. Water levels remain elevated and expect little relief this evening during the next low tide. * WHERE...Bayside communities of the Upper Keys. * WHEN...In effect.</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T10:16:00-04:00</cap:effective>
+<cap:expires>2022-10-04T05:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Monroe Upper Keys</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012087</value>
+<valueName>UGC</valueName>
+<value>FLZ076</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KKEY.CF.Y.0006.000000T0000Z-221004T0900Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B56FE4.FloodWarning.126411E30440FL.MFLFLSMFL.8a7ba542061d49da601bb50217ba0780</id>
+<updated>2022-10-03T09:29:00-04:00</updated>
+<published>2022-10-03T09:29:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 03 at 9:29AM EDT until October 06 at 8:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B56FE4.FloodWarning.126411E30440FL.MFLFLSMFL.8a7ba542061d49da601bb50217ba0780"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... Fisheating Creek near Palmdale affecting Glades County. For the Lake Okeechobee/Fisheating Creek...including Ortona Lock, 12 midnight avg lake lvl, Moore Haven Lock, Fisheating Creek near Lakeport at Highway 78, Clewiston Ind. Canal, Palmdale...Minor flooding is forecast.</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-03T09:29:00-04:00</cap:effective>
+<cap:expires>2022-10-06T08:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Glades</cap:areaDesc>
+<cap:polygon>26.93,-81.37 26.98,-81.35 26.95,-81.26 26.9,-81.29 26.93,-81.37</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012043</value>
+<valueName>UGC</valueName>
+<value>FLC043</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMFL.FL.W.0002.000000T0000Z-221006T1200Z/
+/PLMF1.1.ER.220929T0600Z.221003T0130Z.221006T0600Z.NO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B4CE2C.CoastalFloodStatement.126411E12F80FL.MFLCFWMFL.4948b5bb515aa4635413bb3237aaed27</id>
+<updated>2022-10-03T05:15:00-04:00</updated>
+<published>2022-10-03T05:15:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 5:15AM EDT until October 05 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B4CE2C.CoastalFloodStatement.126411E12F80FL.MFLCFWMFL.4948b5bb515aa4635413bb3237aaed27"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT THROUGH WEDNESDAY EVENING... * WHAT...Isolated minor coastal flooding. * WHERE...Coastal Palm Beach, Coastal Broward and Coastal Miami- Dade Counties. * WHEN...Through Wednesday evening.</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T05:15:00-04:00</cap:effective>
+<cap:expires>2022-10-05T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Coastal Broward County; Coastal Miami Dade County; Coastal Palm Beach County</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012011 012086 012099</value>
+<valueName>UGC</valueName>
+<value>FLZ168 FLZ172 FLZ173</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMFL.CF.S.0008.000000T0000Z-221006T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B48F48.BeachHazardsStatement.126411C3E380FL.MLBCFWMLB.bcfce4d1e4b727a46abcfaa1beabea33</id>
+<updated>2022-10-03T03:54:00-04:00</updated>
+<published>2022-10-03T03:54:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 3:54AM EDT until October 04 at 4:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B48F48.BeachHazardsStatement.126411C3E380FL.MLBCFWMLB.bcfce4d1e4b727a46abcfaa1beabea33"/>
+<summary>...BEACH HAZARDS STATEMENT IN EFFECT THROUGH LATE TONIGHT... * WHAT...A developing southward flowing longshore current, and a moderate risk of rip currents. * WHERE...Coastal Volusia and Northern Brevard Counties. * WHEN...Through late tonight. * IMPACTS...Increasing northerly winds will produce a strong</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T03:54:00-04:00</cap:effective>
+<cap:expires>2022-10-04T04:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Volusia; Mainland Northern Brevard; Northern Brevard Barrier Islands</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012009 012127</value>
+<valueName>UGC</valueName>
+<value>FLZ141 FLZ347 FLZ447</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KMLB.BH.S.0018.221003T0754Z-221004T0800Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B458FC.CoastalFloodAdvisory.126411C2AB00FL.JAXCFWJAX.e0be4d38c8ce3c564006b3e6cdb56fbe</id>
+<updated>2022-10-03T02:15:00-04:00</updated>
+<published>2022-10-03T02:15:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 2:15AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B458FC.CoastalFloodAdvisory.126411C2AB00FL.JAXCFWJAX.e0be4d38c8ce3c564006b3e6cdb56fbe"/>
+<summary>...COASTAL FLOOD ADVISORY NOW IN EFFECT UNTIL 8 PM EDT THIS EVENING... * WHAT...Minor coastal flooding. * WHERE...St Johns River basin in Inland St. Johns, Inland Flagler and Eastern Putnam Counties. * WHEN...Until 8 PM EDT this evening.</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T02:15:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Putnam; Inland Flagler; Inland St. Johns</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012035 012107 012109</value>
+<valueName>UGC</valueName>
+<value>FLZ033 FLZ038 FLZ137</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KJAX.CF.Y.0004.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B458FC.RipCurrentStatement.126411D34CD0FL.JAXCFWJAX.c4f8f773668617eec2e66a9dfaff7e47</id>
+<updated>2022-10-03T02:15:00-04:00</updated>
+<published>2022-10-03T02:15:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Rip Current Statement issued October 03 at 2:15AM EDT until October 05 at 5:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411B458FC.RipCurrentStatement.126411D34CD0FL.JAXCFWJAX.c4f8f773668617eec2e66a9dfaff7e47"/>
+<summary>...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TUESDAY NIGHT... * WHAT...Dangerous rip currents expected. * WHERE...Southeast Georgia and Northeast Florida Beaches. * WHEN...Through late Tuesday night. * IMPACTS...Rip currents can sweep even the best swimmers away from shore into deeper water.</summary>
+<cap:event>Rip Current Statement</cap:event>
+<cap:effective>2022-10-03T02:15:00-04:00</cap:effective>
+<cap:expires>2022-10-05T05:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Duval; Coastal Flagler; Coastal Nassau; Coastal St. Johns</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012031 012035 012089 012109</value>
+<valueName>UGC</valueName>
+<value>FLZ124 FLZ125 FLZ133 FLZ138</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KJAX.RP.S.0035.221003T0800Z-221005T0900Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411A7B0C0.FloodWarning.126411B600D0FL.MLBFLSMLB.a48e712405cc7993ba2ed5d43db31972</id>
+<updated>2022-10-02T19:20:00-04:00</updated>
+<published>2022-10-02T19:20:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 02 at 7:20PM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411A7B0C0.FloodWarning.126411B600D0FL.MLBFLSMLB.a48e712405cc7993ba2ed5d43db31972"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... Shingle Creek At Campbell affecting Osceola County. .Historic rainfall from Hurricane Ian has Shingle Creek at Campbell in Major Flood Stage. The river remains well above Record Flood Stage and crested on Saturday at around 64.2 feet. A very slow decline will occur through the weekend, but levels will remain in</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-02T19:20:00-04:00</cap:effective>
+<cap:expires>2022-10-03T13:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Osceola</cap:areaDesc>
+<cap:polygon>28.32,-81.46 28.32,-81.44 28.26,-81.44 28.26,-81.46 28.32,-81.46</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012097</value>
+<valueName>UGC</valueName>
+<value>FLC097</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMLB.FL.W.0006.000000T0000Z-000000T0000Z/
+/SHIF1.3.ER.220929T0557Z.221001T1300Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL126411A7AF94.FloodWarning.126411B606ACFL.MLBFLSMLB.31ba4378367a2e6d6f356a94821dd975</id>
+<updated>2022-10-02T19:17:00-04:00</updated>
+<published>2022-10-02T19:17:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued October 02 at 7:17PM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL126411A7AF94.FloodWarning.126411B606ACFL.MLBFLSMLB.31ba4378367a2e6d6f356a94821dd975"/>
+<summary>...The Flood Warning continues for the following rivers in Florida... Little Wekiva River near Altamonte Springs 2n affecting Seminole County. .Historic rainfall from Hurricane Ian has the Little Wekiva River at Altamonte Springs in Major Flood Stage. The river crested at 31.09 ft early Thursday morning and will continue to decline very slowly</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-10-02T19:17:00-04:00</cap:effective>
+<cap:expires>2022-10-03T13:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Seminole</cap:areaDesc>
+<cap:polygon>28.71,-81.4 28.71,-81.38 28.67,-81.39 28.65,-81.39 28.65,-81.41 28.67,-81.42 28.71,-81.4</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012117</value>
+<valueName>UGC</valueName>
+<value>FLC117</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMLB.FL.W.0005.000000T0000Z-000000T0000Z/
+/LWAF1.3.ER.220929T0522Z.220929T1230Z.000000T0000Z.NR/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=FL12640D5C9738.FloodWarning.126411C34D1CFL.TBWFLWTBW.ad8644f63e7c2a751deac205c0fb01a5</id>
+<updated>2022-09-30T16:14:00-04:00</updated>
+<published>2022-09-30T16:14:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Warning issued September 30 at 4:14PM EDT until further notice by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=FL12640D5C9738.FloodWarning.126411C34D1CFL.TBWFLWTBW.ad8644f63e7c2a751deac205c0fb01a5"/>
+<summary>...FLOOD WARNING NOW IN EFFECT UNTIL 2 PM EDT MONDAY... * WHAT...Significant flooding expected along the Big Slough Canal in North Port. * WHERE...A portion of west central Florida, including the following county, Sarasota. * WHEN...Until 200 PM EDT Monday.</summary>
+<cap:event>Flood Warning</cap:event>
+<cap:effective>2022-09-30T16:14:00-04:00</cap:effective>
+<cap:expires>2022-10-04T00:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Sarasota</cap:areaDesc>
+<cap:polygon>27.19,-82.18 27.18,-82.13 27.07,-82.21 27.03,-82.24 27.04,-82.26 27.12,-82.22 27.19,-82.18</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>012115</value>
+<valueName>UGC</valueName>
+<value>FLC115</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KTBW.FA.W.0003.000000T0000Z-221003T1800Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=GA126411B458FC.RipCurrentStatement.126411D34CD0GA.JAXCFWJAX.596d6a1716db2b3c2ec0601ec3c1d66e</id>
+<updated>2022-10-03T02:15:00-04:00</updated>
+<published>2022-10-03T02:15:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Rip Current Statement issued October 03 at 2:15AM EDT until October 05 at 5:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=GA126411B458FC.RipCurrentStatement.126411D34CD0GA.JAXCFWJAX.596d6a1716db2b3c2ec0601ec3c1d66e"/>
+<summary>...HIGH RIP CURRENT RISK IN EFFECT THROUGH LATE TUESDAY NIGHT... * WHAT...Dangerous rip currents expected. * WHERE...Southeast Georgia and Northeast Florida Beaches. * WHEN...Through late Tuesday night. * IMPACTS...Rip currents can sweep even the best swimmers away from shore into deeper water.</summary>
+<cap:event>Rip Current Statement</cap:event>
+<cap:effective>2022-10-03T02:15:00-04:00</cap:effective>
+<cap:expires>2022-10-05T05:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Camden; Coastal Glynn</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>013039 013127</value>
+<valueName>UGC</valueName>
+<value>GAZ154 GAZ166</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KJAX.RP.S.0035.221003T0800Z-221005T0900Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B56DF0.WindAdvisory.126411C2AB00MD.AKQNPWAKQ.eebb796e51dd384ce784316fa30b6d75</id>
+<updated>2022-10-03T09:24:00-04:00</updated>
+<published>2022-10-03T09:24:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 9:24AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B56DF0.WindAdvisory.126411C2AB00MD.AKQNPWAKQ.eebb796e51dd384ce784316fa30b6d75"/>
+<summary>...WIND ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... * WHAT...North winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Inland Worcester and Maryland Beaches Counties. * WHEN...Until 8 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects. Tree limbs could be blown down and a few power outages may</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T09:24:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Inland Worcester; Maryland Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>024047</value>
+<valueName>UGC</valueName>
+<value>MDZ024 MDZ025</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.WI.Y.0011.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.CoastalFloodWarning.126411C431A0MD.AKQCFWAKQ.1e5cb366d0699ee7738c839c85914809</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 04 at 6:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.CoastalFloodWarning.126411C431A0MD.AKQCFWAKQ.1e5cb366d0699ee7738c839c85914809"/>
+<summary>...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 6 AM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level in low- lying areas near shorelines and tidal waterways. * WHERE...Inland Worcester County. * WHEN...Until 6 AM EDT Tuesday. * IMPACTS...Widespread flooding of vulnerable areas will result</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T06:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Inland Worcester</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>024047</value>
+<valueName>UGC</valueName>
+<value>MDZ024</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.000000T0000Z-221004T1000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.CoastalFloodWarning.126411C431A0MD.AKQCFWAKQ.aaa83b1cafa1547f66e85777f2d00022</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 04 at 6:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.CoastalFloodWarning.126411C431A0MD.AKQCFWAKQ.aaa83b1cafa1547f66e85777f2d00022"/>
+<summary>...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 6 AM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, one to two feet of inundation above ground level in low-lying areas near</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T06:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Maryland Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>024047</value>
+<valueName>UGC</valueName>
+<value>MDZ025</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.000000T0000Z-221004T1000Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.BeachHazardsStatement.126411D1ED40MD.AKQCFWAKQ.83a86b79a56c0f9d7d893f564fcabdb8</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.BeachHazardsStatement.126411D1ED40MD.AKQCFWAKQ.83a86b79a56c0f9d7d893f564fcabdb8"/>
+<summary>...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 6 AM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, one to two feet of inundation above ground level in low-lying areas near</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Maryland Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>024047</value>
+<valueName>UGC</valueName>
+<value>MDZ025</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.000000T0000Z-221004T1000Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.HighSurfAdvisory.126411D1ED40MD.AKQCFWAKQ.8ce6fde2363120824a49a8447a2d9532</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=MD126411B5179C.HighSurfAdvisory.126411D1ED40MD.AKQCFWAKQ.8ce6fde2363120824a49a8447a2d9532"/>
+<summary>...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 6 AM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, one to two feet of inundation above ground level in low-lying areas near</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Maryland Beaches</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>024047</value>
+<valueName>UGC</valueName>
+<value>MDZ025</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.000000T0000Z-221004T1000Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=MT126411B4FD0C.DenseFogAdvisory.126411B5D9C0MT.TFXNPWTFX.78dfe77c97a290f9531f9ee644e7cbd8</id>
+<updated>2022-10-03T04:35:00-06:00</updated>
+<published>2022-10-03T04:35:00-06:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Dense Fog Advisory issued October 03 at 4:35AM MDT until October 03 at 10:00AM MDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=MT126411B4FD0C.DenseFogAdvisory.126411B5D9C0MT.TFXNPWTFX.78dfe77c97a290f9531f9ee644e7cbd8"/>
+<summary>...DENSE FOG ADVISORY IN EFFECT UNTIL 10 AM MDT THIS MORNING... * WHAT...Visibility less than one mile in dense fog. * WHERE...Northern Blaine County. * WHEN...Until 10 AM MDT this morning. * IMPACTS...Low visibility could make driving conditions hazardous.</summary>
+<cap:event>Dense Fog Advisory</cap:event>
+<cap:effective>2022-10-03T04:35:00-06:00</cap:effective>
+<cap:expires>2022-10-03T10:00:00-06:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Northern Blaine County</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>030005</value>
+<valueName>UGC</valueName>
+<value>MTZ306</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KTFX.FG.Y.0003.221003T1035Z-221003T1600Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.BeachHazardsStatement.126411C2AB00NC.MHXCFWMHX.6b9fbba9c891b8c71292216d116fb9c6</id>
+<updated>2022-10-03T09:55:00-04:00</updated>
+<published>2022-10-03T09:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 9:55AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.BeachHazardsStatement.126411C2AB00NC.MHXCFWMHX.6b9fbba9c891b8c71292216d116fb9c6"/>
+<summary>...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... ...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY...</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T09:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hatteras Island; Northern Outer Banks</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037055</value>
+<valueName>UGC</valueName>
+<value>NCZ203 NCZ205</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMHX.CF.W.0005.221003T1600Z-221005T2300Z/
+/O.CON.KMHX.SU.Y.0013.000000T0000Z-221005T2300Z/
+/O.CON.KMHX.BH.S.0052.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.WindAdvisory.126411C32030NC.MHXNPWMHX.a94a4369ea5ef54797f4fc68d530afc9</id>
+<updated>2022-10-03T09:55:00-04:00</updated>
+<published>2022-10-03T09:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 9:55AM EDT until October 03 at 11:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.WindAdvisory.126411C32030NC.MHXNPWMHX.a94a4369ea5ef54797f4fc68d530afc9"/>
+<summary>...WIND ADVISORY REMAINS IN EFFECT UNTIL 11 PM EDT THIS EVENING... * WHAT...North winds 20 to 30 mph with gusts up to 50 mph. * WHERE...Tyrrell, Mainland Dare and East Carteret Counties, and Northern Outer Banks, Ocracoke Island and Hatteras Island. * WHEN...Until 11 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects.</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T09:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T23:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>East Carteret; Hatteras Island; Mainland Dare; Northern Outer Banks; Ocracoke Island; Tyrrell</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037031 037055 037095 037177</value>
+<valueName>UGC</valueName>
+<value>NCZ046 NCZ047 NCZ196 NCZ203 NCZ204 NCZ205</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMHX.WI.Y.0011.000000T0000Z-221004T0300Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.CoastalFloodAdvisory.126411D56FB0NC.MHXCFWMHX.0ed208c5378ab76fcb6840c9f49beaea</id>
+<updated>2022-10-03T09:55:00-04:00</updated>
+<published>2022-10-03T09:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 9:55AM EDT until October 05 at 7:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.CoastalFloodAdvisory.126411D56FB0NC.MHXCFWMHX.0ed208c5378ab76fcb6840c9f49beaea"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY... * WHAT...1 to 3 feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...Areas along the Albemarle Sound, Alligator and Scuppernong Rivers, and adjacent tidal creeks, and areas along</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T09:55:00-04:00</cap:effective>
+<cap:expires>2022-10-05T19:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Mainland Dare; Tyrrell; Washington</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037055 037177 037187</value>
+<valueName>UGC</valueName>
+<value>NCZ045 NCZ046 NCZ047</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMHX.CF.Y.0017.221003T1600Z-221005T2300Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.CoastalFloodAdvisory.126411D56FB0NC.MHXCFWMHX.302b582ba88e9940fb8cba7cf2e0b31d</id>
+<updated>2022-10-03T09:55:00-04:00</updated>
+<published>2022-10-03T09:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 9:55AM EDT until October 05 at 7:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.CoastalFloodAdvisory.126411D56FB0NC.MHXCFWMHX.302b582ba88e9940fb8cba7cf2e0b31d"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY... * WHAT...Up to 2 to 3 feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...Areas along the southern Pamlico Sound, Bay and Lower</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T09:55:00-04:00</cap:effective>
+<cap:expires>2022-10-05T19:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>East Carteret; Ocracoke Island; Pamlico; Southern Craven; West Carteret</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037031 037049 037095 037137</value>
+<valueName>UGC</valueName>
+<value>NCZ094 NCZ194 NCZ195 NCZ196 NCZ204</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMHX.CF.Y.0017.221003T1600Z-221005T2300Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.CoastalFloodWarning.126411D56FB0NC.MHXCFWMHX.adf8dbbd8944e165ce7aacc9852aa412</id>
+<updated>2022-10-03T09:55:00-04:00</updated>
+<published>2022-10-03T09:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 9:55AM EDT until October 05 at 7:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.CoastalFloodWarning.126411D56FB0NC.MHXCFWMHX.adf8dbbd8944e165ce7aacc9852aa412"/>
+<summary>...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... ...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY...</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T09:55:00-04:00</cap:effective>
+<cap:expires>2022-10-05T19:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hatteras Island; Northern Outer Banks</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037055</value>
+<valueName>UGC</valueName>
+<value>NCZ203 NCZ205</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMHX.CF.W.0005.221003T1600Z-221005T2300Z/
+/O.CON.KMHX.SU.Y.0013.000000T0000Z-221005T2300Z/
+/O.CON.KMHX.BH.S.0052.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.HighSurfAdvisory.126411D56FB0NC.MHXCFWMHX.8f673537f3f02140784662f4e0d46022</id>
+<updated>2022-10-03T09:55:00-04:00</updated>
+<published>2022-10-03T09:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 9:55AM EDT until October 05 at 7:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B57A0C.HighSurfAdvisory.126411D56FB0NC.MHXCFWMHX.8f673537f3f02140784662f4e0d46022"/>
+<summary>...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... ...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 7 PM EDT WEDNESDAY...</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T09:55:00-04:00</cap:effective>
+<cap:expires>2022-10-05T19:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hatteras Island; Northern Outer Banks</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037055</value>
+<valueName>UGC</valueName>
+<value>NCZ203 NCZ205</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KMHX.CF.W.0005.221003T1600Z-221005T2300Z/
+/O.CON.KMHX.SU.Y.0013.000000T0000Z-221005T2300Z/
+/O.CON.KMHX.BH.S.0052.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B56DF0.WindAdvisory.126411C2AB00NC.AKQNPWAKQ.6941fbe968e682231bfb24e8f742871c</id>
+<updated>2022-10-03T09:24:00-04:00</updated>
+<published>2022-10-03T09:24:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 9:24AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B56DF0.WindAdvisory.126411C2AB00NC.AKQNPWAKQ.6941fbe968e682231bfb24e8f742871c"/>
+<summary>...WIND ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... * WHAT...North winds 25 to 35 mph with gusts up to 50 mph. * WHERE...Western Currituck and Eastern Currituck Counties. * WHEN...Until 8 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects. Tree limbs could be blown down and a few power outages may</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T09:24:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Currituck; Western Currituck</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037053</value>
+<valueName>UGC</valueName>
+<value>NCZ017 NCZ102</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.WI.Y.0011.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B5179C.BeachHazardsStatement.126411D1ED40NC.AKQCFWAKQ.d59a4d6449e2c689d8dd9b1209db835a</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B5179C.BeachHazardsStatement.126411D1ED40NC.AKQCFWAKQ.d59a4d6449e2c689d8dd9b1209db835a"/>
+<summary>...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... ...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 8 PM EDT TUESDAY... * WHAT...For the Coastal Flood Warning, two to three feet of inundation above ground level expected in low-lying areas near</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Currituck</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037053</value>
+<valueName>UGC</valueName>
+<value>NCZ102</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.221003T1200Z-221005T0000Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B5179C.CoastalFloodWarning.126411D1ED40NC.AKQCFWAKQ.5a4d01435610d0ea3460011de132bed3</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B5179C.CoastalFloodWarning.126411D1ED40NC.AKQCFWAKQ.5a4d01435610d0ea3460011de132bed3"/>
+<summary>...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... ...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 8 PM EDT TUESDAY... * WHAT...For the Coastal Flood Warning, two to three feet of inundation above ground level expected in low-lying areas near</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Currituck</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037053</value>
+<valueName>UGC</valueName>
+<value>NCZ102</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.221003T1200Z-221005T0000Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B5179C.HighSurfAdvisory.126411D1ED40NC.AKQCFWAKQ.0d47f902c11bc563c1ec74e9bb9ae7df</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B5179C.HighSurfAdvisory.126411D1ED40NC.AKQCFWAKQ.0d47f902c11bc563c1ec74e9bb9ae7df"/>
+<summary>...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... ...COASTAL FLOOD WARNING NOW IN EFFECT UNTIL 8 PM EDT TUESDAY... * WHAT...For the Coastal Flood Warning, two to three feet of inundation above ground level expected in low-lying areas near</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Currituck</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037053</value>
+<valueName>UGC</valueName>
+<value>NCZ102</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KAKQ.CF.W.0008.221003T1200Z-221005T0000Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B4A6B8.BeachHazardsStatement.126411C2AB00NC.ILMCFWILM.af3350fb309dd24735dbbff4a17d38a5</id>
+<updated>2022-10-03T04:14:00-04:00</updated>
+<published>2022-10-03T04:14:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 4:14AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NC126411B4A6B8.BeachHazardsStatement.126411C2AB00NC.ILMCFWILM.af3350fb309dd24735dbbff4a17d38a5"/>
+<summary>...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THIS EVENING... * WHAT...Strong north to south longshore current. * WHERE...In North Carolina, Coastal Pender and Coastal New Hanover Counties. In South Carolina, Coastal Georgetown County. * WHEN...Through this evening.</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T04:14:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal New Hanover; Coastal Pender</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>037129 037141</value>
+<valueName>UGC</valueName>
+<value>NCZ106 NCZ108</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KILM.BH.S.0041.221003T1000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B56F1C.FloodAdvisory.126411B654CCNJ.PHIFLSPHI.aa5d79497da58fea2021d6eead8f7b59</id>
+<updated>2022-10-03T09:27:00-04:00</updated>
+<published>2022-10-03T09:27:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flood Advisory issued October 03 at 9:27AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B56F1C.FloodAdvisory.126411B654CCNJ.PHIFLSPHI.aa5d79497da58fea2021d6eead8f7b59"/>
+<summary>...FLOOD ADVISORY IN EFFECT UNTIL 315 PM EDT THIS AFTERNOON... * WHAT...Flooding caused by excessive rainfall is expected. * WHERE...Portions of central New Jersey...and southern New Jersey... including the following counties...in central New Jersey... Monmouth. In southern New Jersey...Burlington and Ocean. * WHEN...Until 315 PM EDT.</summary>
+<cap:event>Flood Advisory</cap:event>
+<cap:effective>2022-10-03T09:27:00-04:00</cap:effective>
+<cap:expires>2022-10-03T15:15:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Burlington; Monmouth; Ocean</cap:areaDesc>
+<cap:polygon>40.34,-73.95 39.76,-74.07 39.49,-74.28 39.53,-74.32 39.54,-74.33 39.55,-74.34 39.65,-74.44 39.86,-74.48 40.34,-73.95</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034005 034025 034029</value>
+<valueName>UGC</valueName>
+<value>NJC005 NJC025 NJC029</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.KPHI.FA.Y.0126.221003T1327Z-221003T1915Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DDCC.WindAdvisory.126411B6C420NJ.PHINPWPHI.61236ca43832cf0fbdc9052e85ad8eca</id>
+<updated>2022-10-03T05:55:00-04:00</updated>
+<published>2022-10-03T05:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 5:55AM EDT until October 03 at 6:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DDCC.WindAdvisory.126411B6C420NJ.PHINPWPHI.61236ca43832cf0fbdc9052e85ad8eca"/>
+<summary>...WIND ADVISORY NOW IN EFFECT UNTIL 6 PM EDT THIS EVENING... * WHAT...Northeast winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Coastal areas of central and southern New Jersey and Delaware. * WHEN...Until 6 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects.</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T05:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T18:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Atlantic Coastal Cape May; Coastal Atlantic; Coastal Ocean</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034001 034009 034029</value>
+<valueName>UGC</valueName>
+<value>NJZ024 NJZ025 NJZ026</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KPHI.WI.Y.0010.000000T0000Z-221003T2200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.bd7a1e8064cfb9aaeba4b7f10e9a76f1</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.bd7a1e8064cfb9aaeba4b7f10e9a76f1"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level in low- lying areas near shorelines and tidal waterways. * WHERE...Middlesex and Western Monmouth. * WHEN...Until 9 PM EDT Tuesday.</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Middlesex; Western Monmouth</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034023 034025</value>
+<valueName>UGC</valueName>
+<value>NJZ012 NJZ013</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.000000T0000Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.daf76bc1c6e9ce29177eab17bc732b5c</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.daf76bc1c6e9ce29177eab17bc732b5c"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Monmouth</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034025</value>
+<valueName>UGC</valueName>
+<value>NJZ014</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.0fcb9b6e0e0d32f50a9260ce6465dd86</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.0fcb9b6e0e0d32f50a9260ce6465dd86"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM THIS AFTERNOON TO 9 PM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...In Delaware, New Castle. In New Jersey, Salem and</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Cumberland; Salem</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034011 034033</value>
+<valueName>UGC</valueName>
+<value>NJZ016 NJZ021</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.221003T1700Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.6a25066d7b7ae758e8f80ec4930bc622</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodAdvisory.126411D21450NJ.PHICFWPHI.6a25066d7b7ae758e8f80ec4930bc622"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM THIS AFTERNOON TO 9 PM EDT TUESDAY... * WHAT...Up to one foot of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...In New Jersey, Gloucester, Camden and Northwestern</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Camden; Gloucester; Northwestern Burlington</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034005 034007 034015</value>
+<valueName>UGC</valueName>
+<value>NJZ017 NJZ018 NJZ019</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.221003T1700Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.788777ff28efb267f74e6a829747c2a5</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.788777ff28efb267f74e6a829747c2a5"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level in low- lying areas near shorelines and tidal waterways. * WHERE...Ocean, Atlantic and Southeastern Burlington. * WHEN...Until 9 PM EDT Tuesday.</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Atlantic; Ocean; Southeastern Burlington</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034001 034005 034029</value>
+<valueName>UGC</valueName>
+<value>NJZ020 NJZ022 NJZ027</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.abbd1999206ec3115b679093d3de2bc1</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.abbd1999206ec3115b679093d3de2bc1"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... * WHAT...One to two feet of inundation above ground level in low- lying areas near shorelines and tidal waterways. * WHERE...In Delaware, Kent and Inland Sussex. In New Jersey, Cape May.</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Cape May</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034009</value>
+<valueName>UGC</valueName>
+<value>NJZ023</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.15cd2dff25ab363cb51f0b92025f0785</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.15cd2dff25ab363cb51f0b92025f0785"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Atlantic Coastal Cape May</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034009</value>
+<valueName>UGC</valueName>
+<value>NJZ024</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.e3f05e3312f4c506e5bbb51883818246</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.CoastalFloodWarning.126411D21450NJ.PHICFWPHI.e3f05e3312f4c506e5bbb51883818246"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Atlantic; Coastal Ocean</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034001 034029</value>
+<valueName>UGC</valueName>
+<value>NJZ025 NJZ026</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.HighSurfAdvisory.126411D28980NJ.PHICFWPHI.9988acff37e9f1153d05615dc0dfb3f6</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.HighSurfAdvisory.126411D28980NJ.PHICFWPHI.9988acff37e9f1153d05615dc0dfb3f6"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Monmouth</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034025</value>
+<valueName>UGC</valueName>
+<value>NJZ014</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.HighSurfAdvisory.126411D28980NJ.PHICFWPHI.0174f94cee56394d5f75a7679f7d22b9</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.HighSurfAdvisory.126411D28980NJ.PHICFWPHI.0174f94cee56394d5f75a7679f7d22b9"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Atlantic Coastal Cape May</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034009</value>
+<valueName>UGC</valueName>
+<value>NJZ024</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.HighSurfAdvisory.126411D28980NJ.PHICFWPHI.b82c3968148c65cddef166968efb5346</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.HighSurfAdvisory.126411D28980NJ.PHICFWPHI.b82c3968148c65cddef166968efb5346"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Atlantic; Coastal Ocean</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034001 034029</value>
+<valueName>UGC</valueName>
+<value>NJZ025 NJZ026</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.RipCurrentStatement.126411D28980NJ.PHICFWPHI.bc8aa7fc89bd1e826495298c9fc7cc9f</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Rip Current Statement issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.RipCurrentStatement.126411D28980NJ.PHICFWPHI.bc8aa7fc89bd1e826495298c9fc7cc9f"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Rip Current Statement</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Monmouth</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034025</value>
+<valueName>UGC</valueName>
+<value>NJZ014</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.RipCurrentStatement.126411D28980NJ.PHICFWPHI.eb4d578082742440cfacbfb8ca46a904</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Rip Current Statement issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.RipCurrentStatement.126411D28980NJ.PHICFWPHI.eb4d578082742440cfacbfb8ca46a904"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Rip Current Statement</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Atlantic Coastal Cape May</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034009</value>
+<valueName>UGC</valueName>
+<value>NJZ024</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.RipCurrentStatement.126411D28980NJ.PHICFWPHI.818037c41bc9b0254d771738f130797e</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Rip Current Statement issued October 03 at 5:47AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4DAAC.RipCurrentStatement.126411D28980NJ.PHICFWPHI.818037c41bc9b0254d771738f130797e"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL 9 PM EDT TUESDAY... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH RIP CURRENT RISK REMAINS IN EFFECT THROUGH TUESDAY EVENING...</summary>
+<cap:event>Rip Current Statement</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Atlantic; Coastal Ocean</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034001 034029</value>
+<valueName>UGC</valueName>
+<value>NJZ025 NJZ026</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.W.0006.000000T0000Z-221005T0100Z/
+/O.CON.KPHI.SU.Y.0002.000000T0000Z-221005T0400Z/
+/O.CON.KPHI.RP.S.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4B6BC.CoastalFloodAdvisory.126411B69D10NJ.OKXCFWOKX.d70f693b412a5fadf4be170d059a12a2</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 4:55AM EDT until October 03 at 5:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4B6BC.CoastalFloodAdvisory.126411B69D10NJ.OKXCFWOKX.d70f693b412a5fadf4be170d059a12a2"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM TO 5 PM EDT THIS AFTERNOON... ...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 2 PM TO 6 PM EDT TUESDAY... * WHAT...One to one and a half ft of inundation above ground level in vulnerable areas near the waterfront and shoreline</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T17:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Essex; Eastern Union; Hudson</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034013 034017 034039</value>
+<valueName>UGC</valueName>
+<value>NJZ006 NJZ106 NJZ108</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.Y.0017.221003T1700Z-221003T2100Z/
+/O.CON.KOKX.CF.Y.0019.221004T1800Z-221004T2200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4B6BC.CoastalFloodAdvisory.126411C60660NJ.OKXCFWOKX.75ee7da6a36ed7775b890f64ea1bccc6</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 4:55AM EDT until October 04 at 6:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NJ126411B4B6BC.CoastalFloodAdvisory.126411C60660NJ.OKXCFWOKX.75ee7da6a36ed7775b890f64ea1bccc6"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM TO 5 PM EDT THIS AFTERNOON... ...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 2 PM TO 6 PM EDT TUESDAY... * WHAT...One to one and a half ft of inundation above ground level in vulnerable areas near the waterfront and shoreline</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T18:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Eastern Essex; Eastern Union; Hudson</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>034013 034017 034039</value>
+<valueName>UGC</valueName>
+<value>NJZ006 NJZ106 NJZ108</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.Y.0017.221003T1700Z-221003T2100Z/
+/O.CON.KOKX.CF.Y.0019.221004T1800Z-221004T2200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411B69D10NY.OKXCFWOKX.4a3f8a171a362ffb1dedd34ccacf08ca</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 4:55AM EDT until October 03 at 5:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411B69D10NY.OKXCFWOKX.4a3f8a171a362ffb1dedd34ccacf08ca"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM TO 5 PM EDT THIS AFTERNOON... ...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 2 PM TO 6 PM EDT TUESDAY... * WHAT...One to one and a half ft of inundation above ground level in vulnerable areas near the waterfront and shoreline</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T17:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Kings (Brooklyn); Richmond (Staten Is.); Southern Queens</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036047 036081 036085</value>
+<valueName>UGC</valueName>
+<value>NYZ074 NYZ075 NYZ178</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.Y.0017.221003T1700Z-221003T2100Z/
+/O.CON.KOKX.CF.Y.0019.221004T1800Z-221004T2200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411C2AB00NY.OKXCFWOKX.8c045c40b10def2143a2adbf313443cd</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 4:55AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411C2AB00NY.OKXCFWOKX.8c045c40b10def2143a2adbf313443cd"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM THIS AFTERNOON THROUGH THIS EVENING... ...COASTAL FLOOD STATEMENT REMAINS IN EFFECT TUESDAY EVENING... * WHAT...Up to one half foot of inundation above ground level expected in vulnerable areas near the waterfront and shoreline during the late afternoon and evening high tidal cycles Today</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Bronx; Northern Nassau; Northern Queens; Southern Westchester</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036005 036059 036081 036119</value>
+<valueName>UGC</valueName>
+<value>NYZ071 NYZ073 NYZ176 NYZ177</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.S.0030.221003T2100Z-221004T0000Z/
+/O.CON.KOKX.CF.S.0031.221004T2200Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411C2D210NY.OKXCFWOKX.20b309f1d32ad02fbd2d861abaf87851</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 4:55AM EDT until October 03 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411C2D210NY.OKXCFWOKX.20b309f1d32ad02fbd2d861abaf87851"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM 3 PM EDT THIS AFTERNOON THROUGH THIS EVENING... ...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM TUESDAY AFTERNOON THROUGH TUESDAY EVENING... * WHAT...Up to one half foot of inundation above ground level expected in vulnerable areas near the waterfront and shoreline</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-03T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Northeast Suffolk; Northwest Suffolk; Southeast Suffolk</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036103</value>
+<valueName>UGC</valueName>
+<value>NYZ078 NYZ079 NYZ081</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.S.0030.221003T1900Z-221004T0100Z/
+/O.CON.KOKX.CF.S.0031.221004T2000Z-221005T0200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411C60660NY.OKXCFWOKX.a830693312fc887b0d8df92985dca43f</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 4:55AM EDT until October 04 at 6:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411C60660NY.OKXCFWOKX.a830693312fc887b0d8df92985dca43f"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM TO 5 PM EDT THIS AFTERNOON... ...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 2 PM TO 6 PM EDT TUESDAY... * WHAT...One to one and a half ft of inundation above ground level in vulnerable areas near the waterfront and shoreline</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T18:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Kings (Brooklyn); Richmond (Staten Is.); Southern Queens</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036047 036081 036085</value>
+<valueName>UGC</valueName>
+<value>NYZ074 NYZ075 NYZ178</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.Y.0017.221003T1700Z-221003T2100Z/
+/O.CON.KOKX.CF.Y.0019.221004T1800Z-221004T2200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411D1ED40NY.OKXCFWOKX.31c50d18a4414ef171b02097c484f00d</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 4:55AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411D1ED40NY.OKXCFWOKX.31c50d18a4414ef171b02097c484f00d"/>
+<summary>...COASTAL FLOOD ADVISORY NOW IN EFFECT FROM 1 PM THIS AFTERNOON TO 8 PM EDT TUESDAY... * WHAT...One to locally two ft of inundation above ground level in vulnerable areas near the waterfront and shoreline during the afternoon and evening high tidal cycles Today and Tuesday. Up to 1/2 ft of inundation possible during the morning high tides</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Southwest Suffolk</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036103</value>
+<valueName>UGC</valueName>
+<value>NYZ080</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CAN.KOKX.CF.Y.0017.221003T1700Z-221003T2300Z/
+/O.EXT.KOKX.CF.Y.0019.221003T1700Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411D1ED40NY.OKXCFWOKX.997d21982036c7ca9d5e38707f02f285</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 4:55AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodAdvisory.126411D1ED40NY.OKXCFWOKX.997d21982036c7ca9d5e38707f02f285"/>
+<summary>...COASTAL FLOOD ADVISORY NOW IN EFFECT FROM 1 PM THIS AFTERNOON TO 8 PM EDT TUESDAY... * WHAT...One to two ft of inundation above ground level in vulnerable areas near the waterfront and shoreline during the afternoon and evening high tidal cycles Today and Tuesday. Up to 1/2 ft of inundation possible during the morning high tides</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Southern Nassau</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036059</value>
+<valueName>UGC</valueName>
+<value>NYZ179</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CAN.KOKX.CF.Y.0018.221003T1700Z-221003T2300Z/
+/O.EXT.KOKX.CF.Y.0019.221003T1700Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411D21450NY.OKXCFWOKX.4ec8ed89beab5f461aaab0dc895bc5fd</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 4:55AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411D21450NY.OKXCFWOKX.4ec8ed89beab5f461aaab0dc895bc5fd"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM THIS AFTERNOON THROUGH THIS EVENING... ...COASTAL FLOOD STATEMENT REMAINS IN EFFECT TUESDAY EVENING... * WHAT...Up to one half foot of inundation above ground level expected in vulnerable areas near the waterfront and shoreline during the late afternoon and evening high tidal cycles Today</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Bronx; Northern Nassau; Northern Queens; Southern Westchester</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036005 036059 036081 036119</value>
+<valueName>UGC</valueName>
+<value>NYZ071 NYZ073 NYZ176 NYZ177</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.S.0030.221003T2100Z-221004T0000Z/
+/O.CON.KOKX.CF.S.0031.221004T2200Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411D23B60NY.OKXCFWOKX.b2d4004915d9eab60af742f1ec8ff3ab</id>
+<updated>2022-10-03T04:55:00-04:00</updated>
+<published>2022-10-03T04:55:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Statement issued October 03 at 4:55AM EDT until October 04 at 10:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=NY126411B4B6BC.CoastalFloodStatement.126411D23B60NY.OKXCFWOKX.b2d4004915d9eab60af742f1ec8ff3ab"/>
+<summary>...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM 3 PM EDT THIS AFTERNOON THROUGH THIS EVENING... ...COASTAL FLOOD STATEMENT REMAINS IN EFFECT FROM TUESDAY AFTERNOON THROUGH TUESDAY EVENING... * WHAT...Up to one half foot of inundation above ground level expected in vulnerable areas near the waterfront and shoreline</summary>
+<cap:event>Coastal Flood Statement</cap:event>
+<cap:effective>2022-10-03T04:55:00-04:00</cap:effective>
+<cap:expires>2022-10-04T22:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Northeast Suffolk; Northwest Suffolk; Southeast Suffolk</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>036103</value>
+<valueName>UGC</valueName>
+<value>NYZ078 NYZ079 NYZ081</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KOKX.CF.S.0030.221003T1900Z-221004T0100Z/
+/O.CON.KOKX.CF.S.0031.221004T2000Z-221005T0200Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=OR12640D4CE66C.AirQualityAlert.126411C5970COR.PQRAQAPQR.f8735c19c367713a8cba8dd01ddbed82</id>
+<updated>2022-09-29T10:31:00-07:00</updated>
+<published>2022-09-29T10:31:00-07:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Air Quality Alert issued September 29 at 10:31AM PDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=OR12640D4CE66C.AirQualityAlert.126411C5970COR.PQRAQAPQR.f8735c19c367713a8cba8dd01ddbed82"/>
+<summary>...AIR QUALITY ADVISORY REMAINS IN EFFECT UNTIL NOON PDT TUESDAY... The Lane Regional Air Protection Agency has continued an Air Quality Advisory, which is in effect until noon Tuesday. A Smoke Air Quality Advisory remains in effect for eastern Lane County. The Cedar Creek wildfire burning in the region combined with forecasted conditions will cause air quality to reach unhealthy</summary>
+<cap:event>Air Quality Alert</cap:event>
+<cap:effective>2022-09-29T10:31:00-07:00</cap:effective>
+<cap:expires>2022-10-04T12:15:00-07:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Cascade Foothills in Lane County; Cascades in Lane County</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>041039</value>
+<valueName>UGC</valueName>
+<value>ORZ012 ORZ013</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=PA126411B4DAAC.CoastalFloodAdvisory.126411D21450PA.PHICFWPHI.c8bcecefc2189ea95c2bb58c6149630b</id>
+<updated>2022-10-03T05:47:00-04:00</updated>
+<published>2022-10-03T05:47:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 5:47AM EDT until October 04 at 9:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=PA126411B4DAAC.CoastalFloodAdvisory.126411D21450PA.PHICFWPHI.c8bcecefc2189ea95c2bb58c6149630b"/>
+<summary>...COASTAL FLOOD ADVISORY REMAINS IN EFFECT FROM 1 PM THIS AFTERNOON TO 9 PM EDT TUESDAY... * WHAT...Up to one foot of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...In New Jersey, Gloucester, Camden and Northwestern</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T05:47:00-04:00</cap:effective>
+<cap:expires>2022-10-04T21:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Delaware; Lower Bucks; Philadelphia</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>042017 042045 042101</value>
+<valueName>UGC</valueName>
+<value>PAZ070 PAZ071 PAZ106</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KPHI.CF.Y.0045.221003T1700Z-221005T0100Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=PR126411B4A4C4.HeatAdvisory.126411B64EF0PR.JSJNPWSJU.9fb3180d2e08d2f17bfbf7fa87f35514</id>
+<updated>2022-10-03T05:09:00-03:00</updated>
+<published>2022-10-03T05:09:00-03:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Heat Advisory issued October 03 at 5:09AM ADT until October 03 at 4:00PM ADT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=PR126411B4A4C4.HeatAdvisory.126411B64EF0PR.JSJNPWSJU.9fb3180d2e08d2f17bfbf7fa87f35514"/>
+<summary>...HEAT ADVISORY IN EFFECT FROM 11 AM THIS MORNING TO 3 PM AST THIS AFTERNOON... * WHAT...Heat indices around 108 degrees Fahrenheit. * WHERE...The lower elevations of north-central Puerto Rico. * WHEN...From 11 AM AST to 4 PM AST. * IMPACTS...Heat exhaustion likely with prolonged exposure. Heat</summary>
+<cap:event>Heat Advisory</cap:event>
+<cap:effective>2022-10-03T05:09:00-03:00</cap:effective>
+<cap:expires>2022-10-03T16:00:00-03:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>North Central</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>072013 072017 072051 072054 072091 072143 072145</value>
+<valueName>UGC</valueName>
+<value>PRZ005</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.NEW.TJSJ.HT.Y.0027.221003T1500Z-221003T1900Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=SC126411B4A6B8.BeachHazardsStatement.126411C2AB00SC.ILMCFWILM.fbe7e5e46bd2be65ff321fc5b51b8f2e</id>
+<updated>2022-10-03T04:14:00-04:00</updated>
+<published>2022-10-03T04:14:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 4:14AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=SC126411B4A6B8.BeachHazardsStatement.126411C2AB00SC.ILMCFWILM.fbe7e5e46bd2be65ff321fc5b51b8f2e"/>
+<summary>...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH THIS EVENING... * WHAT...Strong north to south longshore current. * WHERE...In North Carolina, Coastal Pender and Coastal New Hanover Counties. In South Carolina, Coastal Georgetown County. * WHEN...Through this evening.</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T04:14:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Coastal Georgetown</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>045043</value>
+<valueName>UGC</valueName>
+<value>SCZ056</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KILM.BH.S.0041.221003T1000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A7A8F0.AirQualityAlert.126411C32030TX.HGXAQAHGX.9b9ecffea7bf7617a71e2a892c5fc76f</id>
+<updated>2022-10-02T18:00:00-05:00</updated>
+<published>2022-10-02T18:00:00-05:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Air Quality Alert issued October 02 at 6:00PM CDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A7A8F0.AirQualityAlert.126411C32030TX.HGXAQAHGX.9b9ecffea7bf7617a71e2a892c5fc76f"/>
+<summary>...Ozone Action Day... The Texas Commission on Environmental Quality (TCEQ) has issued an Ozone Action Day for the Houston, Galveston, and Brazoria area for Monday, October 3, 2022. Atmospheric conditions are expected to be favorable for producing high levels of ozone pollution in the Houston, Galveston, and</summary>
+<cap:event>Air Quality Alert</cap:event>
+<cap:effective>2022-10-02T18:00:00-05:00</cap:effective>
+<cap:expires>2022-10-03T22:00:00-05:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Bolivar Peninsula; Brazoria Islands; Coastal Brazoria; Coastal Galveston; Coastal Harris; Galveston Island; Inland Brazoria; Inland Galveston; Inland Harris</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>048039 048167 048201</value>
+<valueName>UGC</valueName>
+<value>TXZ213 TXZ237 TXZ238 TXZ313 TXZ337 TXZ338 TXZ437 TXZ438 TXZ439</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A796F8.AirQualityAlert.126411C2AB00TX.EWXAQAEWX.560a505be4b9a353696a3907d9b9ca01</id>
+<updated>2022-10-02T17:54:00-05:00</updated>
+<published>2022-10-02T17:54:00-05:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Air Quality Alert issued October 02 at 5:54PM CDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A796F8.AirQualityAlert.126411C2AB00TX.EWXAQAEWX.560a505be4b9a353696a3907d9b9ca01"/>
+<summary>...OZONE ACTION DAY... The Texas Commission on Environmental Quality (TCEQ) has issued an Ozone Action Day for the San Antonio area for Monday, October 3, 2022. Atmospheric conditions are expected to be favorable for producing high levels of ozone air pollution in the San Antonio area on Monday.</summary>
+<cap:event>Air Quality Alert</cap:event>
+<cap:effective>2022-10-02T17:54:00-05:00</cap:effective>
+<cap:expires>2022-10-03T19:00:00-05:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Atascosa; Bandera; Bexar; Comal; Guadalupe; Kendall; Medina; Wilson</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>048013 048019 048029 048091 048187 048259 048325 048493</value>
+<valueName>UGC</valueName>
+<value>TXZ187 TXZ189 TXZ204 TXZ205 TXZ206 TXZ207 TXZ220 TXZ221</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A79694.AirQualityAlert.126411C2AB00TX.EWXAQAEWX.c0d41b83c0284ee9e1f04bad8a0ce307</id>
+<updated>2022-10-02T17:53:00-05:00</updated>
+<published>2022-10-02T17:53:00-05:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Air Quality Alert issued October 02 at 5:53PM CDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A79694.AirQualityAlert.126411C2AB00TX.EWXAQAEWX.c0d41b83c0284ee9e1f04bad8a0ce307"/>
+<summary>...OZONE ACTION DAY... The Texas Commission on Environmental Quality (TCEQ) has issued an Ozone Action Day for the Austin area for Monday, October 3, 2022. Atmospheric conditions are expected to be favorable for producing high levels of ozone air pollution in the Austin area on Monday. You can help prevent ozone pollution by sharing a ride, walking</summary>
+<cap:event>Air Quality Alert</cap:event>
+<cap:effective>2022-10-02T17:53:00-05:00</cap:effective>
+<cap:expires>2022-10-03T19:00:00-05:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Bastrop; Caldwell; Hays; Travis; Williamson</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>048021 048055 048209 048453 048491</value>
+<valueName>UGC</valueName>
+<value>TXZ173 TXZ191 TXZ192 TXZ193 TXZ208</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A794A0.AirQualityAlert.126411C2F920TX.FWDAQAFWD.02a0462c63199c98ae9f4c5143476d27</id>
+<updated>2022-10-02T17:48:00-05:00</updated>
+<published>2022-10-02T17:48:00-05:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Air Quality Alert issued October 02 at 5:48PM CDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=TX126411A794A0.AirQualityAlert.126411C2F920TX.FWDAQAFWD.02a0462c63199c98ae9f4c5143476d27"/>
+<summary>...OZONE ACTION DAY... The Texas Commission on Environmental Quality (TCEQ) has issued an Ozone Action Day for the Dallas-Fort Worth area for Monday, October 3, 2022. Atmospheric conditions are expected to be favorable for producing high levels of ozone air pollution in the Dallas-Fort Worth area</summary>
+<cap:event>Air Quality Alert</cap:event>
+<cap:effective>2022-10-02T17:48:00-05:00</cap:effective>
+<cap:expires>2022-10-03T21:00:00-05:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Unknown</cap:urgency>
+<cap:severity>Unknown</cap:severity>
+<cap:certainty>Unknown</cap:certainty>
+<cap:areaDesc>Collin; Dallas; Denton; Ellis; Henderson; Hood; Hunt; Johnson; Kaufman; Parker; Rockwall; Tarrant; Wise</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>048085 048113 048121 048139 048213 048221 048231 048251 048257 048367 048397 048439 048497</value>
+<valueName>UGC</valueName>
+<value>TXZ102 TXZ103 TXZ104 TXZ105 TXZ117 TXZ118 TXZ119 TXZ120 TXZ121 TXZ131 TXZ133 TXZ134 TXZ135</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value></value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=UT126411B58D94.FlashFloodWarning.126411B5E578UT.SLCFFWSLC.088bfa0fa81777ad91da7614813da3bf</id>
+<updated>2022-10-03T08:05:00-06:00</updated>
+<published>2022-10-03T08:05:00-06:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Flash Flood Warning issued October 03 at 8:05AM MDT until October 03 at 10:30AM MDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=UT126411B58D94.FlashFloodWarning.126411B5E578UT.SLCFFWSLC.088bfa0fa81777ad91da7614813da3bf"/>
+<summary>The National Weather Service in Salt Lake City has extended the * Flash Flood Warning for... West Central Kane County in southern Utah... East Central Washington County in southwestern Utah... * Until 1030 AM MDT. * At 805 AM MDT, gauge reports indicated flash flooding from</summary>
+<cap:event>Flash Flood Warning</cap:event>
+<cap:effective>2022-10-03T08:05:00-06:00</cap:effective>
+<cap:expires>2022-10-03T10:30:00-06:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Immediate</cap:urgency>
+<cap:severity>Severe</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Kane; Washington</cap:areaDesc>
+<cap:polygon>37.41,-113.04 37.41,-112.78 37.17,-112.87 37.17,-112.9 37.15,-113.01 37.16,-113.12 37.29,-113.01 37.41,-113.04</cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>049025 049053</value>
+<valueName>UGC</valueName>
+<value>UTC025 UTC053</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.EXT.KSLC.FF.W.0125.000000T0000Z-221003T1630Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B56DF0.WindAdvisory.126411C2AB00VA.AKQNPWAKQ.6c2bf2872f4d1cd47e926ccc96f0e902</id>
+<updated>2022-10-03T09:24:00-04:00</updated>
+<published>2022-10-03T09:24:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 9:24AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B56DF0.WindAdvisory.126411C2AB00VA.AKQNPWAKQ.6c2bf2872f4d1cd47e926ccc96f0e902"/>
+<summary>...WIND ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... * WHAT...North winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Norfolk/Portsmouth, York and Hampton/Poquoson Counties, and Virginia Beach. * WHEN...Until 8 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects.</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T09:24:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Hampton, Poquoson; Norfolk, Portsmouth; Virginia Beach; York</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051199 051650 051710 051735 051740 051810</value>
+<valueName>UGC</valueName>
+<value>VAZ095 VAZ098 VAZ523 VAZ525</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.WI.Y.0011.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B56DF0.WindAdvisory.126411C2AB00VA.AKQNPWAKQ.a4eee862c2d95d3d8f7760a771fde1f1</id>
+<updated>2022-10-03T09:24:00-04:00</updated>
+<published>2022-10-03T09:24:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Wind Advisory issued October 03 at 9:24AM EDT until October 03 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B56DF0.WindAdvisory.126411C2AB00VA.AKQNPWAKQ.a4eee862c2d95d3d8f7760a771fde1f1"/>
+<summary>...WIND ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT THIS EVENING... * WHAT...North winds 20 to 30 mph with gusts up to 45 mph. * WHERE...Accomack and Northampton Counties. * WHEN...Until 8 PM EDT this evening. * IMPACTS...Gusty winds could blow around unsecured objects. Tree limbs could be blown down and a few power outages may</summary>
+<cap:event>Wind Advisory</cap:event>
+<cap:effective>2022-10-03T09:24:00-04:00</cap:effective>
+<cap:expires>2022-10-03T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Accomack; Northampton</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051001 051131</value>
+<valueName>UGC</valueName>
+<value>VAZ099 VAZ100</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.WI.Y.0011.000000T0000Z-221004T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.BeachHazardsStatement.126411D1ED40VA.AKQCFWAKQ.666a5427703cbb1ce2e7cb6ea4e10060</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.BeachHazardsStatement.126411D1ED40VA.AKQCFWAKQ.666a5427703cbb1ce2e7cb6ea4e10060"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, two to three feet of</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Virginia Beach</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051810</value>
+<valueName>UGC</valueName>
+<value>VAZ098</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.BeachHazardsStatement.126411D1ED40VA.AKQCFWAKQ.e424b844e114605659f0fe0087cf0b5a</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Beach Hazards Statement issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.BeachHazardsStatement.126411D1ED40VA.AKQCFWAKQ.e424b844e114605659f0fe0087cf0b5a"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, two to three feet of</summary>
+<cap:event>Beach Hazards Statement</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Accomack; Northampton</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051001 051131</value>
+<valueName>UGC</valueName>
+<value>VAZ099 VAZ100</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodAdvisory.126411D1ED40VA.AKQCFWAKQ.a94d8ac43cf2d6c120433b29e7a90ad1</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Advisory issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodAdvisory.126411D1ED40VA.AKQCFWAKQ.a94d8ac43cf2d6c120433b29e7a90ad1"/>
+<summary>...COASTAL FLOOD ADVISORY IN EFFECT UNTIL 8 PM EDT TUESDAY... ...COASTAL FLOOD WARNING IS CANCELLED... * WHAT...Up to one foot of inundation above ground level in low-lying areas near shorelines and tidal waterways. * WHERE...Lancaster and Middlesex Counties. * WHEN...Until 8 PM EDT Tuesday.</summary>
+<cap:event>Coastal Flood Advisory</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Lancaster; Middlesex</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051103 051119</value>
+<valueName>UGC</valueName>
+<value>VAZ078 VAZ085</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CAN.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.NEW.KAKQ.CF.Y.0019.221003T1103Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.HighSurfAdvisory.126411D1ED40VA.AKQCFWAKQ.4471464efc0384109678068f3bdf3ccb</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.HighSurfAdvisory.126411D1ED40VA.AKQCFWAKQ.4471464efc0384109678068f3bdf3ccb"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, two to three feet of</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Virginia Beach</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051810</value>
+<valueName>UGC</valueName>
+<value>VAZ098</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.HighSurfAdvisory.126411D1ED40VA.AKQCFWAKQ.f506af3500ce1d2ae33a8a71798aaf16</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>High Surf Advisory issued October 03 at 7:03AM EDT until October 04 at 8:00PM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.HighSurfAdvisory.126411D1ED40VA.AKQCFWAKQ.f506af3500ce1d2ae33a8a71798aaf16"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, two to three feet of</summary>
+<cap:event>High Surf Advisory</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-04T20:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Minor</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Accomack; Northampton</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051001 051131</value>
+<valueName>UGC</valueName>
+<value>VAZ099 VAZ100</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.79fca23eb377973e7e138b56730432fa</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.79fca23eb377973e7e138b56730432fa"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... * WHAT...One to two feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...Lancaster, Gloucester, Middlesex and Mathews Counties.</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Gloucester; Mathews</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051073 051115</value>
+<valueName>UGC</valueName>
+<value>VAZ084 VAZ086</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.800432c7ccd92b7a3112a74f13b64d2a</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.800432c7ccd92b7a3112a74f13b64d2a"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... * WHAT...Two to three feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...Surry, James City, Isle of Wight, and York counties,</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Isle of Wight; James City; Newport News; Suffolk; Surry; York</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051093 051095 051181 051199 051700 051800 051830</value>
+<valueName>UGC</valueName>
+<value>VAZ089 VAZ090 VAZ093 VAZ096 VAZ523 VAZ524</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.3720b0ed1b0f0fc0178efd26c26c523c</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.3720b0ed1b0f0fc0178efd26c26c523c"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... * WHAT...Two to three feet of inundation above ground level expected in low-lying areas near shorelines and tidal waterways. * WHERE...Norfolk/Portsmouth and Hampton/Poquoson Counties, and</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Chesapeake; Hampton, Poquoson; Norfolk, Portsmouth</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051550 051650 051710 051735 051740</value>
+<valueName>UGC</valueName>
+<value>VAZ095 VAZ097 VAZ525</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.5e9a459242b4f539924bccf51372ce4d</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.5e9a459242b4f539924bccf51372ce4d"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, two to three feet of</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Virginia Beach</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051810</value>
+<valueName>UGC</valueName>
+<value>VAZ098</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+<entry>
+<id>https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.8cacf73a5d12c723db51df928b694eaa</id>
+<updated>2022-10-03T07:03:00-04:00</updated>
+<published>2022-10-03T07:03:00-04:00</published>
+<author>
+<name>w-nws.webmaster@noaa.gov</name>
+</author>
+<title>Coastal Flood Warning issued October 03 at 7:03AM EDT until October 05 at 12:00AM EDT by NWS</title>
+<link href="https://alerts.weather.gov/cap/wwacapget.php?x=VA126411B5179C.CoastalFloodWarning.126411D28980VA.AKQCFWAKQ.8cacf73a5d12c723db51df928b694eaa"/>
+<summary>...COASTAL FLOOD WARNING REMAINS IN EFFECT UNTIL MIDNIGHT EDT TUESDAY NIGHT... ...HIGH SURF ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT TUESDAY... ...BEACH HAZARDS STATEMENT REMAINS IN EFFECT THROUGH TUESDAY EVENING... * WHAT...For the Coastal Flood Warning, two to three feet of</summary>
+<cap:event>Coastal Flood Warning</cap:event>
+<cap:effective>2022-10-03T07:03:00-04:00</cap:effective>
+<cap:expires>2022-10-05T00:00:00-04:00</cap:expires>
+<cap:status>Actual</cap:status>
+<cap:msgType>Alert</cap:msgType>
+<cap:category>Met</cap:category>
+<cap:urgency>Expected</cap:urgency>
+<cap:severity>Moderate</cap:severity>
+<cap:certainty>Likely</cap:certainty>
+<cap:areaDesc>Accomack; Northampton</cap:areaDesc>
+<cap:polygon></cap:polygon>
+<cap:geocode>
+<valueName>FIPS6</valueName>
+<value>051001 051131</value>
+<valueName>UGC</valueName>
+<value>VAZ099 VAZ100</value>
+</cap:geocode>
+<cap:parameter>
+<valueName>VTEC</valueName>
+<value>/O.CON.KAKQ.CF.W.0008.000000T0000Z-221005T0400Z/
+/O.CON.KAKQ.SU.Y.0010.000000T0000Z-221005T0000Z/
+/O.CON.KAKQ.BH.S.0008.000000T0000Z-221005T0000Z/</value>
+</cap:parameter>
+</entry>
+</feed>
