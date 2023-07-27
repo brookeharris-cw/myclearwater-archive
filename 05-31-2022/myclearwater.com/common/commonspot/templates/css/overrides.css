@@ -1,0 +1,149 @@
+/**
+For overrides required beyond the delivered design CSS
+**/
+.commonspotRTE {
+	background-color: #FFFFFF;
+}
+
+/* added these to prettify the datasheets, might not work on lesser versions of IE */
+.CS_DataSheet_Table tr:nth-of-type(2n+1) {
+	background-color:#f4f1e2;
+	line-height:1.7;
+}
+.CS_DataSheet_HeaderItem_Column, .CS_DataSheet_HeaderItem_First_Column {
+	background-color:#fff;
+	font-weight:bold;
+}
+
+.carousel-list li .curriculumUnit {
+	color: #5e7630;
+}
+
+.content-viewer .tabbed-nav { 
+	min-height: 5px;
+}
+
+.results h2 {
+	padding-right: 0;
+}
+
+/* these are the same as for h3 tags */
+.CS_Textblock_Caption {
+	color: #5e7630;
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.cs_control {clear: both;}
+
+.two-third-col {
+	width: 445px;
+}
+
+.stars-cap {
+	min-height: 15px;
+}
+
+input[type=radio] {
+	width: auto !important;
+}
+
+.alert {
+    color: #9F240C;
+	font-weight: bold;
+}
+
+/* Registatrion form */
+#registrationform .error {
+	border: 1px solid #B21C00;
+}
+#registrationform .errorBox {
+	display: none;
+}
+#registrationform .errorBox p {
+	color: #B21C00;
+	font-weight: bold;
+    margin-bottom: 25px;
+}
+
+#display-map-view {
+	clear: both;
+}
+
+/* Landing Promo List */
+.landing-promo-list {
+	border-top: 1px solid #d8d8d8;
+	overflow: hidden;
+	padding: 20px 0 18px 0;
+	list-style-type: none;
+} 
+
+.landing-promo-list h2 {
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 24px;
+	margin: 0 40px 5px 0;
+}
+.landing-promo-list h3 {
+	color: #7f7565;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 18px;
+	margin-bottom: 10px;
+}
+.landing-promo-list p {
+	font-size: 16px;
+	line-height: 22px;
+	margin-right: 40px;
+}
+.landing-promo-list .two-third-col h2,
+.landing-promo-list .two-third-col p {
+	margin-right: 0;
+}
+.landing-promo-list .one-third-col h4 {
+	color: #7f7565;
+	font-size: 10px;
+	line-height: 15px;
+	margin-bottom: 4px;
+	text-transform: uppercase;
+}
+.landing-promo-list .one-third-col img {
+	margin-bottom: 8px;
+}
+.landing-promo-list .one-third-col h3 {
+	color: #7f7565;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 15px;
+	margin-bottom: 1px;
+	text-transform: uppercase;
+}
+.landing-promo-list .one-third-col h2 {
+	color: #5e7630;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 20px;
+	margin-bottom: 5px;
+}
+.landing-promo-list .one-third-col a {
+	font-size: 12px;
+	line-height: 18px;
+}
+.landing-promo-list-first-child {
+	border-top: none;
+	padding-top: 0;
+}
+.CS_Form_Button {
+	height: auto !important;
+	width: auto !important;
+	padding: 2 !important;
+	margin: 0 !important;
+	line-height: inherit !important;
+}
+.bap .large .sub {
+	max-width: inherit;
+}
+.carousel-list ul li {
+	list-style-type: none; 	
+}
+}
