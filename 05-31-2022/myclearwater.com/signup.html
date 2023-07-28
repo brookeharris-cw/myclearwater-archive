@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="ie9" lang="en"> <![endif]-->
+<!--[if lt IE 9]><html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+    <meta httpEquiv='Content-type' content='text/html; charset=utf-8'/>
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
+    <title>Zipongo</title>
+    <meta charset="utf-8" />
+    <meta name="description" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="referrer" content="origin-when-cross-origin" />
+    <!-- following meta tag replaced by custom smart banner -->
+    <!-- <meta name="apple-itunes-app" content="app-id=447484068" /> -->
+    <link rel="icon" type="image/x-icon" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="32x32" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_noBg_32x32.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_noBg_72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_noBg_144x144.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_noBg_32x32.png">
+    <link rel="icon" type="image/png" sizes="72x72" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_noBg_72x72.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_noBg_16x16.png">
+    <link rel="manifest" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/images/favicon/favicon_whiteBg_144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/main.css" type="text/css"/>
+
+    <link rel="stylesheet" type="text/css" href="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/slick-carousel/1.4.0/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/slick-carousel/1.4.0/slick-theme.min.css"/>
+
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-NQ2WHZ5');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Stripe -->
+    <script src="https://js.stripe.com/v3/"></script>
+
+    <!-- Timezone cookie -->
+    <script type="text/javascript">
+      (function(){
+        var allCookies = document.cookie;
+        var cookieArray = allCookies.split(';');
+        var cookie = cookieArray.find(function(c) { return c.trim().indexOf('TZO=') === 0 });
+        var oldTzo = cookie ? cookie.split('=')[1] : '';
+        var now = new Date();
+        var tzo = '' + now.getTimezoneOffset();
+        if (oldTzo !== tzo) {
+          if (oldTzo) {
+            now.setMilliseconds(now.getMilliseconds() - 1);
+            document.cookie = cookie + ';expires=' + now.toUTCString() + ';';
+          }
+          var newCookie = 'TZO=' + tzo + ';path=/;domain=' + document.domain + ';secure';
+          document.cookie = newCookie;
+        }
+      }());
+    </script>
+
+    <!-- Google API-->
+    <script type="text/javascript">
+      function gapiLoaded() {
+        gapi.load('auth2', function() {
+          window.GapiAuthLoaded = true;
+
+          if (!isIE()) {
+            window.dispatchEvent(new Event("gapi-auth-loaded"));
+          } else {
+            var gapiLoadedEvent = document.createEvent("CustomEvent");
+            gapiLoadedEvent.initCustomEvent('gapi-auth-loaded', false, false, {});
+            window.dispatchEvent(gapiLoadedEvent);
+          }
+        });
+      }
+    </script>
+    <script src="https://apis.google.com/js/platform.js?onload=gapiLoaded" async defer></script>
+
+    <script type="text/javascript">
+      function isIE() {
+        var myNav = navigator.userAgent.toLowerCase();
+
+        // IE11 hides that it's an internet explorer browser but we need to
+        // know for the gapiLoaded function (above).
+        var tridentRegex = /trident/;
+        if (tridentRegex.test(myNav)) {
+          return 11;
+        }
+
+        return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+      }
+
+      if (isIE() && isIE() <= 8) {
+        window.location.href = 'https://zipongo.com/ie8-splash';
+      }
+    </script>
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+      <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQ2WHZ5" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+      </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="off-canvas-wrap" data-offcanvas="">
+      <div class="inner-wrap">
+        <div id="site-wrapper">
+        </div>
+      </div>
+    </div>
+    <div id="modal-wrapper"></div>
+
+    <script>
+      window.acsUrl = '' === 'null' ? null: '';
+      window.samlRequest = '' === 'null'? null: '';
+      window.relayState = '' === 'null' ? null: '';
+      window.appOrgSub = 'null' === 'null' ? null : 'null';
+      window.appUserId = 0;
+      window.appUserInfo = null;
+      window.appUserLocale = 'en-US';
+      window.appUserScope = 'anonymous';
+      window.appUserHome = 'https://zipongo.com/home';
+      window.appAccessToken = '';
+      window.appRefreshToken = '';
+      window.appErrorMessage = 'false' === 'false' ? false : 'false';
+    </script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/snap.svg/0.3.0/snap.svg-min.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/jquery/jquery-3.4.1.min.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/foundation/5.5.0-j3/js/foundation.min.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/foundation/5.5.0-j3/js/foundation/foundation.topbar.min.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/ajax-libs/foundation/5.5.0-j3/js/foundation/foundation.dropdown.min.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/cb/vendor.07f9a888d69211b48ca1.bundle.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/icons.bundle.js"></script>
+    <script src="https://d1hm90tax3m3th.cloudfront.net/db80d7a8/main.js"></script>
+
+  </body>
+</html>
