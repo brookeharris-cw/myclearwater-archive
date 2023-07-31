@@ -1,4 +1,0 @@
-body.front_end_body>*, .sitewrapper>*
-{font-size: 100% !important;line-height: 18px !important;}
-
-.sitewrapper select, .sitewrapper input, .sitewrapper textarea, .sitewrapper table{font-size: inherit !important;line-height: inherit !important;}
