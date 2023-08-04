@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internet Crime Complaint Center(IC3) | Home Page</title>
+    <link href="/Content/css?v=uQr9KGXY_vFMFUJtBQLxEUgRaaijzny-3DN_2oS8W-g1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+
+    <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+    <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOJ" id="_fed_an_ua_tag"></script>
+
+    <script>
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+    </script>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        @media (max-width: 990px) {
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                padding-top: 165px;
+            }
+
+            #IC3Banner {
+                padding-top: 130px;
+            }
+        }
+
+        .sidenav {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: #022745;
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 100px;
+        }
+
+            .sidenav a {
+                padding: 8px 8px 8px 32px;
+                text-decoration: none;
+                font-size: 25px;
+                color: white;
+                display: block;
+                transition: 0.3s;
+            }
+
+                .sidenav a:hover {
+                    /*color: #f1f1f1;*/
+                    color: white;
+                }
+
+            .sidenav .closebtn {
+                position: absolute;
+                top: 40px;
+                right: 25px;
+                font-size: 36px;
+                margin-left: 50px;
+            }
+
+        .navbar-nav .nav-item:not(:last-child) {
+            border-right: 2px solid #494949;
+        }
+
+        .img-container {
+            position: relative;
+            display: inline-block;
+        }
+
+            .img-container .overlay {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                opacity: 1;
+                transition: opacity 500ms ease-in-out;
+            }
+
+        /*.img-container:hover .overlay {
+                opacity: 1;
+            }
+
+        .overlay span {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            color: #fff;
+        }*/
+
+
+        .picContainer {
+            position: relative;
+        }
+
+        .pic2 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+        }
+
+        .top-buffer {
+            margin-top: 20px;
+        }
+    </style>
+
+</head>
+<body class="bg-light">
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="/">Home</a>
+        <a href="/Home/ComplaintChoice">File a Complaint</a>
+        <a href="/Home/BEC">BEC</a>
+        <a href="/Home/Ransomware">Ransomware</a>
+        <a href="/Home/EF">Elder Fraud</a>
+        <a href="/Home/ConsumerAlerts">Public Service Announcements</a>
+        <a href="/Home/AnnualReports">Annual Reports</a>
+        <a href="/Home/LinkingResources">Linking Resources</a>
+        <a rel="ext" target="_blank" href="/Home/Egress?url=https://www.fbi.gov/scams-and-safety">Scams</a>
+        <a href="/Home/IndustryAlerts">Industry Alerts</a>
+        <a href="/Home/PressKit">Press Kit</a>
+        <a href="/Home/FAQ">FAQs</a>
+        <a href="/Home/Disclaimer">Disclaimer</a>
+        <a href="/Home/Privacy">Privacy Notice</a>
+        <a href="/Home/About">About IC3</a>
+    </div>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" style="background-color:black !important">
+        <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav mr-1">
+                <li class="nav-item active font-weight-bold" style="border:solid 1px white;">
+                    <a class="nav-link" href="#"><span style="cursor:pointer" onclick="openNav()">MORE &#9776;</span></a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" href="/Home/ComplaintChoice">FILE A COMPLAINT</a>
+                </li>
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" href="/Home/ConsumerAlertsChoice">CONSUMER ALERTS</a>
+                </li>
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" href="/Home/IndustryAlerts">INDUSTRY ALERTS</a>
+                </li>
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" href="/Home/BEC">BEC</a>
+                </li>
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" href="/Home/Ransomware">RANSOMWARE</a>
+                </li>
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" href="/Home/EF">ELDER FRAUD</a>
+                </li>
+                <li class="nav-item active font-weight-bold">
+                    <a class="nav-link" rel="ext" target="_blank" href="/Home/Egress?url=https://www.fbi.gov/scams-and-safety">SCAMS</a>
+                </li>
+            </ul>
+            <form class="form-inline" method="post" action="/Home/SearchIC3">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search" name="term">
+                <button class="btn btn-success" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+    <div class="navbar navbar-default navbar-static-top pr-0 pl-0" id="IC3Banner">
+        <div class="col m-0 p-0 ">
+            <div class="card" style="border:none !important;">
+                <img class="card-img" src="/Content/bannerbg_2560x200.jpg" alt="Cyber Graphic" height="130" style="border-bottom-left-radius:0;border-bottom-right-radius:0;min-width:800px;">
+                <div class="card-img-overlay d-flex p-0">
+                    <a class="mx-auto d-block" href="/" title="IC3 Home Page">
+                        <img src="/Content/banner_1295x200.png" alt="FBI and IC3 Seals" height="120" class="mx-auto d-block">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main role="main" class="container">
+        
+
+
+<style>
+    .img-wrapper {
+        position: relative;
+    }
+
+    .img-responsive {
+        width: 100%;
+        height: auto;
+    }
+
+    .img-overlay2 {
+        position: absolute;
+        top: 60px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+    }
+    .img-overlay2 h2{
+       font-size:2.5rem;
+       font-weight:700;
+    }
+
+    .img-overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+    }
+
+        .img-overlay:before {
+            content: ' ';
+            display: block;
+            /* adjust 'height' to position overlay content vertically */
+            height: 50%;
+        }
+    #ComplaintChoiceDiv {
+        margin-top: -160px;
+        padding-top: 0px;
+        padding-left: 140px;
+        font-size: 0.8rem;
+    }
+        #ComplaintChoiceDiv h2 {
+            font-family: 'Times New Roman';
+            font-size: 1rem;
+        }
+        #ComplaintChoiceDiv .btn-lg {
+            font-size: 0.8rem;
+        }
+        #ComplaintChoiceDiv p {
+            margin-bottom: 0;
+        }
+    @media (min-width: 860px) {
+
+        #ComplaintChoiceDiv {
+            margin-top: -240px;
+            padding-top: 0px;
+            padding-left: 300px;
+            font-size: 1.0rem;
+        }
+            #ComplaintChoiceDiv h2 {
+                font-family: 'Times New Roman';
+                font-size: 2.2rem;
+            }
+            #ComplaintChoiceDiv .btn-lg {
+                font-size: 1.2rem;
+            }
+            #ComplaintChoiceDiv p {
+                margin-bottom: 0.5rem;
+            }
+    }
+
+
+</style>
+    <div class="jumbotron bg-light text-center">
+        
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">                
+
+                <div class="carousel-item img-fluid active">
+                    <div class="img-wrapper">
+                        <img src="/Content/Images/LockNoText.jpg" class="img-fluid" alt="Lock with cyber text background" />
+                        <div class="img-overlay text-light" id="ComplaintChoiceDiv">
+                            <h2>Filing a Complaint</h2>
+                            <h2>with the IC3</h2>
+
+                            <p style="margin-bottom:0;">The IC3 accepts online Internet crime complaints from either</p>
+                            <p>the actual victim or from a third party to the complainant.</p>
+                            <p><a href="/Home/ComplaintChoice" class="btn btn-danger btn-lg">File a Complaint</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item img-fluid">
+                    <a href="/Home/Ransomware" title="Ransomware - What It Is & What To Do About It" target="_blank">
+                        <img src="/Content/Images/ransomware_carousel.jpg" alt="Ransomware - What It Is & What To Do About It" class="img-fluid" />
+                    </a>
+                </div>                                
+                <div class="carousel-item img-fluid">
+                    <a href="/Media/PDF/Y2020/PSA201008.pdf" title="FBI Cyber Strategy" target="_blank">
+                        <img src="/Content/Images/Custom/201008.png" alt="FBI Cyber Strategy Background" class="img-fluid" />
+                    </a>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span aria-hidden="true" style="color:black;font-size:38pt;font-weight:900;font-family:'Agency FB'"><</span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span aria-hidden="true" style="color: black;font-size: 38pt; font-weight: 900; font-family: 'Agency FB'">></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h4 class="border-bottom">News Releases</h4>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                Jul 21, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220721">Scammers Target and Exploit Owners of Cryptocurrencies in Liquidity Mining Scam</a>
+                (<a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220721-es">versi&oacute;n en espa&ntilde;ol</a>)<br>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                Jun 30, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220630">Attorney Trust Account Scam Promises High-Dollar Commissions on Medical Equipment Purchases<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                Jun 28, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220628">Deepfakes and Stolen PII Utilized to Apply for Remote Work Positions<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                May 31, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220531">The FBI Warns of Scammers Soliciting Donations Related to the Crisis in Ukraine<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                May 04, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220504">Business Email Compromise: The $43 Billion Scam<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                Apr 14, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220414">Cybercriminals Trick Victims into Transferring Funds to "Reverse" Instant Payments<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                Mar 16, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220316">Technical and Customer Support Fraud<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 font-weight-bold">
+                Mar 08, 2022
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a class="click-here" target="_blank" rel="pop bookmark" rev="index" href="/Media/Y2022/PSA220308">Unearned payments reported via IRS Form 1099<br></a>
+            </div>
+        </div>
+
+        <div class="row">
+            <a class="nav-link" href="/Home/ConsumerAlertsChoice">More News</a>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <h4 class="border-bottom">Frequently Asked Questions</h4>
+        <div>
+            <dl>
+                <dt>Q: Who should file a complaint with the Internet Crime Complaint Center (IC3)?</dt>
+                <dd>
+                    <p>
+                        You may file a complaint with the IC3 if you believe you have been the victim of an Internet crime
+                        or if you want to file on behalf of another person you believe has been such a victim.
+                    </p>
+                </dd>
+                <dt>Q: What details will I be asked to include in my complaint?</dt>
+                <dd>
+                    <p>
+                        The IC3's ability to process your complaint will be based upon the accuracy and completeness of the information provided.
+                        The following is the type of information we ask for in the complaint form:
+                    </p>
+                    <ul>
+                        <li>
+                            Victim's name, address, telephone, and email
+                            <ul>
+                                <li>
+                                    This will be your information if you are the victim, or another person if you are filing on behalf of a third party
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Financial transaction information (e.g., account information, transaction date and amount, who received the money)</li>
+                        <li>
+                            Subject's name, address, telephone, email, website, and IP address
+                            <ul>
+                                <li>
+                                    The subject is the person/entity allegedly committing the Internet crime
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>Specific details on how you were victimized</li>
+                        <li>Email header(s)</li>
+                        <li>Any other relevant information you believe is necessary to support your complaint</li>
+                    </ul>
+                </dd>
+            </dl>
+        </div>
+        <div>
+            <dl>
+                <dt>Q: Who do I contact if I am a member of the media wishing to speak with a member of your press office?</dt>
+                <dd>
+                    <p>
+                        Contact your local FBI office.
+                    </p>
+                </dd>
+            </dl>
+        </div>
+        <div>
+            <a href="/Home/FAQ">More FAQs</a>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <h4 class="border-bottom">Annual Report</h4>
+        <div class="row mb-4">
+            <div class="col-md-12">
+                <a type="application/pdf" href="/Media/PDF/AnnualReport/2021_IC3Report.pdf" title="2021 Internet Crime Complaint Center Annual Report" rel="pop">
+                    <img src="/Content/Images/Custom/2021IC3Report.jpg" alt="2021 Internet Crime Complaint Center Annual Report Cover" style="height:300px; width:231px;" class="img-thumbnail" />
+                </a>
+            </div>
+            <div class="col-md-12">
+                <a type="application/pdf" href="/Media/PDF/AnnualReport/2021_IC3ElderFraudReport.pdf" title="2021 Internet Crime Complaint Center Elder Fraud Report" rel="pop">
+                    <img src="/Content/Images/Custom/2021IC3ElderFraudReport.png" alt="2021 Internet Crime Complaint Center Elder Fraud Report Cover" style="height: 300px; width: 231px;" class="img-thumbnail" />
+                </a>
+            </div>
+        </div>
+
+        <div class="row">
+        </div>
+        <br />
+        <div class="row">
+            <div class="col">
+                <a href="/Home/AnnualReports">More Annual Reports</a>
+            </div>
+        </div>
+    </div>
+</div>
+    </main>
+
+    <footer class="page-footer font-small pt-4">
+        <div class="container-fluid text-center text-md-left">
+
+            <div class="row">
+                <div class="col">
+                    <div class="card text-center bg-light" style="border:none !important; height:60px;">
+                        <hr style="margin-top:30px;" />
+                        <div class="card-img-overlay d-flex p-0">
+                            <img src="/Content/fbi-seal-blk-wh.jpg" height="60" class="mx-auto d-block" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 py-5">
+                    <ul class="list-unstyled list-inline text-center py-2">
+                        <li class="list-inline-item">
+                            <a class="nav-link" href="/Home/FAQ">FAQs</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a class="nav-link" href="/Home/Disclaimer">Disclaimer</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a class="nav-link" href="/Home/Privacy">Privacy Notice</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a class="nav-link" href="/Home/About">About IC3</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/bundles/jquery?v=9ktsOtIo0upvJP7-7FiXuOoOJe58RLFJ__wIRPL2vGo1"></script>
+
+    <script src="/bundles/bootstrap?v=APNaV4UVBnOtVvyWFX-SYNvrcsepKaH8yU1vdoDjhk41"></script>
+
+    
+</body>
+</html>
