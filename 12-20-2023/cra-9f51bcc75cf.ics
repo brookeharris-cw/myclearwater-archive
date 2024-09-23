@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CRA - ECPv6.2.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://downtownclearwater.com
+X-WR-CALDESC:Events for CRA
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20230312T070000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20231105T060000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231220T100000
+DTEND;TZID=America/New_York:20231220T103000
+DTSTAMP:20231220T134104
+CREATED:20231115T202155Z
+LAST-MODIFIED:20231115T202155Z
+UID:8328-1703066400-1703068200@downtownclearwater.com
+SUMMARY:Outdoor Library Storytime @Coachman Park
+DESCRIPTION:Bring you blanket and join us for holiday themed stories and music as well as possibly messy outdoor fun. We will meet in the Coachman Park on the grassy lawn within the Sound. Designed for children five and under but all are welcome. Outdoor storytime is weather permitting.
+URL:https://downtownclearwater.com/event/outdoor-library-storytime-coachman-park/
+LOCATION:Coachman Park\, 301 Drew St\, Clearwater\, FL\, 33755\, United States
+ATTACH;FMTTYPE=image/png:https://downtownclearwater.com/wp-content/uploads/2023/11/storytime.png
+GEO:27.9674312;-82.8036506
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Coachman Park 301 Drew St Clearwater FL 33755 United States;X-APPLE-RADIUS=500;X-TITLE=301 Drew St:geo:-82.8036506,27.9674312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231220T180000
+DTEND;TZID=America/New_York:20231220T190000
+DTSTAMP:20231220T134104
+CREATED:20231101T191504Z
+LAST-MODIFIED:20231101T191504Z
+UID:7926-1703095200-1703098800@downtownclearwater.com
+SUMMARY:Free Cardio Fit
+DESCRIPTION:Participate in a free fitness class hosted by the YMCA Suncoast at Coachman Park. Classes will cycle between BodyCombat\, High Intensity Interval Training (HIIT)\, Tabata and Zumba. \nLocation is on the waterfront Bay Walk Promenade\, the pedestrian area along the waterfront. \nParking can be found throughout Downtown.
+URL:https://downtownclearwater.com/event/free-cardio-fit/2023-12-20/
+LOCATION:Coachman Park\, 301 Drew St\, Clearwater\, FL\, 33755\, United States
+CATEGORIES:Coachman Park,Things To Do
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/fitness-classes_bay-walk-promenade.jpg
+ORGANIZER;CN="YMCA Suncoast":MAILTO:concerns@suncoastymca.org
+GEO:27.9674312;-82.8036506
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Coachman Park 301 Drew St Clearwater FL 33755 United States;X-APPLE-RADIUS=500;X-TITLE=301 Drew St:geo:-82.8036506,27.9674312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231221T193000
+DTEND;TZID=America/New_York:20231221T220000
+DTSTAMP:20231220T134104
+CREATED:20231108T215132Z
+LAST-MODIFIED:20231113T154455Z
+UID:8233-1703187000-1703196000@downtownclearwater.com
+SUMMARY:JIM BRICKMAN A JOYFUL CHRISTMAS
+DESCRIPTION:GRAMMY® nominated solo pianist Jim Brickman returns to the Bilheimer Capitol Theatre for Jim Brickman A Joyful Christmas the live holiday concert event! Jim Brickman’s captivating Christmas concert experience dazzles audiences with his signature piano style and soothing vocals. A heartwarming evening of music and laughter fill the air with the sounds of Yuletide carols\, classics and all of Brickman’s biggest hits. He’s written three best-selling books\, starred in five TV concert specials\, and is in the 22nd season of hosting the popular syndicated radio show: The Jim Brickman Show. He strikes the perfect chord of musical intimacy\, compelling storytelling and audience interaction. Come celebrate the spirit of the season with faith\, love and togetherness\, and be part of the fun with Jim Brickman’s A Joyful Christmas!
+URL:https://downtownclearwater.com/event/jim-brickman-a-joyful-christmas/
+LOCATION:Bilheimer Capitol Theatre\, 405 Cleveland St\, Clearwater\, 33755\, United States
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/dig8-94b87b7ea9.jpg
+GEO:27.9652743;-82.8010194
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Bilheimer Capitol Theatre 405 Cleveland St Clearwater 33755 United States;X-APPLE-RADIUS=500;X-TITLE=405 Cleveland St:geo:-82.8010194,27.9652743
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231223T080000
+DTEND;TZID=America/New_York:20231223T090000
+DTSTAMP:20231220T134104
+CREATED:20231101T192531Z
+LAST-MODIFIED:20231101T192531Z
+UID:7986-1703318400-1703322000@downtownclearwater.com
+SUMMARY:Free Morning Yoga
+DESCRIPTION:Participate in a free fitness class hosted by the YMCA Suncoast at Coachman Park. Yoga involves physical and mental well-being through mastery of the body\, is achieved through exercise\, holding postures\, proper breathing and meditation. \nLocation is on The Green\, the large grassy field in Coachman Park. \nParking can be found throughout Downtown.
+URL:https://downtownclearwater.com/event/free-morning-yoga/2023-12-23/
+LOCATION:Coachman Park\, 301 Drew St\, Clearwater\, FL\, 33755\, United States
+CATEGORIES:Coachman Park,Things To Do
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/coachman-park-fitness-classes.jpg
+ORGANIZER;CN="YMCA Suncoast":MAILTO:concerns@suncoastymca.org
+GEO:27.9674312;-82.8036506
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Coachman Park 301 Drew St Clearwater FL 33755 United States;X-APPLE-RADIUS=500;X-TITLE=301 Drew St:geo:-82.8036506,27.9674312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231225T180000
+DTEND;TZID=America/New_York:20231225T190000
+DTSTAMP:20231220T134104
+CREATED:20231101T191750Z
+LAST-MODIFIED:20231101T191750Z
+UID:7876-1703527200-1703530800@downtownclearwater.com
+SUMMARY:Free Sunset Yoga
+DESCRIPTION:Participate in a free fitness class hosted by the YMCA Suncoast at Coachman Park. Yoga involves physical and mental well-being through mastery of the body\, is achieved through exercise\, holding postures\, proper breathing and meditation. \nLocation is on The Green\, the large grassy field in Coachman Park. \nParking can be found throughout Downtown.
+URL:https://downtownclearwater.com/event/free-sunset-yoga/2023-12-25/
+LOCATION:Coachman Park\, 301 Drew St\, Clearwater\, FL\, 33755\, United States
+CATEGORIES:Coachman Park,Things To Do
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/fitness-in-the-park-1.jpg
+ORGANIZER;CN="YMCA Suncoast":MAILTO:concerns@suncoastymca.org
+GEO:27.9674312;-82.8036506
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Coachman Park 301 Drew St Clearwater FL 33755 United States;X-APPLE-RADIUS=500;X-TITLE=301 Drew St:geo:-82.8036506,27.9674312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231227T180000
+DTEND;TZID=America/New_York:20231227T190000
+DTSTAMP:20231220T134104
+CREATED:20231101T191504Z
+LAST-MODIFIED:20231101T191504Z
+UID:7927-1703700000-1703703600@downtownclearwater.com
+SUMMARY:Free Cardio Fit
+DESCRIPTION:Participate in a free fitness class hosted by the YMCA Suncoast at Coachman Park. Classes will cycle between BodyCombat\, High Intensity Interval Training (HIIT)\, Tabata and Zumba. \nLocation is on the waterfront Bay Walk Promenade\, the pedestrian area along the waterfront. \nParking can be found throughout Downtown.
+URL:https://downtownclearwater.com/event/free-cardio-fit/2023-12-27/
+LOCATION:Coachman Park\, 301 Drew St\, Clearwater\, FL\, 33755\, United States
+CATEGORIES:Coachman Park,Things To Do
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/fitness-classes_bay-walk-promenade.jpg
+ORGANIZER;CN="YMCA Suncoast":MAILTO:concerns@suncoastymca.org
+GEO:27.9674312;-82.8036506
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Coachman Park 301 Drew St Clearwater FL 33755 United States;X-APPLE-RADIUS=500;X-TITLE=301 Drew St:geo:-82.8036506,27.9674312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231230T080000
+DTEND;TZID=America/New_York:20231230T090000
+DTSTAMP:20231220T134104
+CREATED:20231101T192531Z
+LAST-MODIFIED:20231101T192531Z
+UID:7987-1703923200-1703926800@downtownclearwater.com
+SUMMARY:Free Morning Yoga
+DESCRIPTION:Participate in a free fitness class hosted by the YMCA Suncoast at Coachman Park. Yoga involves physical and mental well-being through mastery of the body\, is achieved through exercise\, holding postures\, proper breathing and meditation. \nLocation is on The Green\, the large grassy field in Coachman Park. \nParking can be found throughout Downtown.
+URL:https://downtownclearwater.com/event/free-morning-yoga/2023-12-30/
+LOCATION:Coachman Park\, 301 Drew St\, Clearwater\, FL\, 33755\, United States
+CATEGORIES:Coachman Park,Things To Do
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/coachman-park-fitness-classes.jpg
+ORGANIZER;CN="YMCA Suncoast":MAILTO:concerns@suncoastymca.org
+GEO:27.9674312;-82.8036506
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Coachman Park 301 Drew St Clearwater FL 33755 United States;X-APPLE-RADIUS=500;X-TITLE=301 Drew St:geo:-82.8036506,27.9674312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20231230T200000
+DTEND;TZID=America/New_York:20231230T220000
+DTSTAMP:20231220T134104
+CREATED:20231109T164534Z
+LAST-MODIFIED:20231113T154656Z
+UID:8245-1703966400-1703973600@downtownclearwater.com
+SUMMARY:Classic Albums Live: PINK FLOYD: DARK SIDE OF THE MOON
+DESCRIPTION:Experience Classic Albums Live as they perform Pink Floyd’s Dark Side of the Moon note for note\, cut for cut\, live on stage at the Bilheimer Capitol Theatre! Using the world’s greatest musicians\, Classic Albums Live takes chart-topping albums and performs them live without all the gimmickry and cheesy impersonations. Released in 1973\, the Dark Side of the Moon is among the most critically acclaimed records in history\, often mentioned as one of the greatest albums of all time. A blockbuster release\, the album was promoted with two singles\, Money and Us and Them. The album charted Billboard’s Top 100 albums chart and charted for more than 950 weeks. No album has ever spent that much time on the chart.
+URL:https://downtownclearwater.com/event/classic-albums-live-pink-floyd-dark-side-of-the-moon/
+LOCATION:Bilheimer Capitol Theatre\, 405 Cleveland St\, Clearwater\, 33755\, United States
+ATTACH;FMTTYPE=image/jpeg:https://downtownclearwater.com/wp-content/uploads/2023/11/dig9-ba79493f9b.jpg
+GEO:27.9652743;-82.8010194
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Bilheimer Capitol Theatre 405 Cleveland St Clearwater 33755 United States;X-APPLE-RADIUS=500;X-TITLE=405 Cleveland St:geo:-82.8010194,27.9652743
+END:VEVENT
+END:VCALENDAR
